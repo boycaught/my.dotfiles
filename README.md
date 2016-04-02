@@ -1,9 +1,5 @@
-# my.dotfiles
-Sensible developer defaults on OSX—inspired by others
-
-# .LAG's dotfiles.
-
-[mathias's readme](https://github.com/mathiasbynens/dotfiles/) is awesome. go read it.
+# .LAG's dotfiles (my.dotfiles)
+Sensible developer defaults on OSX—inspired by others, like this guy: [mathias's readme](https://github.com/mathiasbynens/dotfiles/) is awesome. go read it.
 
 This repo is mostly for me but you're welcome to make suggestions. Mathias's is the project to fork.  I'm mostly catching up to him, @cowboy, and @gf3.
 
