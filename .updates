@@ -1,0 +1,29 @@
+# SET OWNERSHIP PERMISSIONS FOR BREW CELLAR
+echo "Now fixing ownership rights for Homebrew packages..."
+echo -ne '#####                     (33%)\r'
+sleep 1
+echo -ne '#############             (66%)\r'
+sleep 1
+echo -ne '#######################   (100%)\r'
+echo -ne '\n'
+sudo chown -R ${USER} /usr/local
+
+# BREW UPDATES
+echo "Now updating Homebrew packages..."
+echo -ne '#####                     (33%)\r'
+sleep 1
+echo -ne '#############             (66%)\r'
+sleep 1
+echo -ne '#######################   (100%)\r'
+echo -ne '\n'
+source ~/.brew
+
+# METEOR UPDATES
+echo "Updating Meteor package catalogs..."
+echo -ne '#####                     (33%)\r'
+sleep 1
+echo -ne '#############             (66%)\r'
+sleep 1
+echo -ne '#######################   (100%)\r'
+echo -ne '\n'
+meteor update
