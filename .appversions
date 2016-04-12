@@ -4,6 +4,7 @@ export v_ANSIBLE="2.0.1.0"
 export v_AWSCLI="1.10.18"
 export v_BASH="4.3.42"
 export v_BOOST="1.60.0"
+export v_COMPOSER="1.0.0"
 export v_DOCKER="1.10.3"
 export v_DOXYGEN="1.8.11"
 export v_ELASTICSEARCH="2.3.1"
@@ -41,5 +42,5 @@ export v_YOUTUBE_DL="2016.04.06"
 export v_BOGUS="24.7.365"
 #export v_RUBY=1.9.3-p484"
 
-#Last update: 4/10/2016
+#Last update: 4/12/2016
 #EOF
