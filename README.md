@@ -90,3 +90,5 @@ git clone https://github.com/boycaught/my.dotfiles.git dotfiles \
 ```
 
 To update later on, just run the sync again.
+
+NOTE: this process should be run, manually, on a daily basis... or as possible.
