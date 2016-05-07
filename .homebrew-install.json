@@ -84,6 +84,7 @@ installs: [
 	{ "package": "tree" },  
 	{ "package": "unixodbc" },  
 	{ "package": "wget" },  
+	{ "package": "wp-cli" }, 
 	{ "package": "wxmac" },  
 	{ "package": "xz" },  
 	{ "package": "youtube-dl" }
