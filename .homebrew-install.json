@@ -19,6 +19,7 @@ installs: [
 	{ "package": "ec2-api-tools" },  
 	{ "package": "elasticsearch" },  
 	{ "package": "elixir" },  
+	{ "package": "elm" }, 
 	{ "package": "enchant" },  
 	{ "package": "erlang" },  
 	{ "package": "findutils" },  
