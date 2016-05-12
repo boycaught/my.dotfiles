@@ -27,12 +27,13 @@ export v_LASTPASSCLI="0.9.0"
 export v_LIBTOOL="2.4.6"
 export v_MONGODB="3.2.6"
 export v_MONO="4.2.3.4"
-export v_MYSQL="10.1.13"
+export v_MYSQL="10.1.14"
+export v_MARIADB="10.1.14"
 export v_NEO4J="3.0.0"
 export v_NGINX="1.10.0"
 export v_NMAP="7.11"
 export v_NODE="6.1.0"
-export v_OPENSSL="1.0.2h"
+export v_OPENSSL="1.0.2h_1"
 export v_PHPMYADMIN="4.6.0"
 export v_PRIVOXY="3.0.24"
 export v_PYENV="20160509"
@@ -42,10 +43,10 @@ export v_RUBY="1.9.2-p320"
 export v_TOMCAT="8.0.33"
 export v_WGET="1.17.1"
 export v_WPCLI="0.23.0"
-export v_YOUTUBE_DL="2016.04.24"
+export v_YOUTUBE_DL="2016.05.10"
 
 export v_BOGUS="24.7.365"
 #export v_RUBY=1.9.3-p484"
 
-#Last update: 5/10/2016
+#Last update: 5/11/2016
 #EOF
