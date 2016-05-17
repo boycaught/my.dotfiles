@@ -23,7 +23,7 @@ alias killappnap='defaults write NSGlobalDomain NSAppSleepDisabled -bool YES'
 if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-init -)"; fi
 
 ## Sublime Text 2
-alias subl='"/Users/$USER/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl"'
+alias subl='"/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl"'
 
 ## Visual Studio Code
 code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
