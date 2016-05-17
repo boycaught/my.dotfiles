@@ -23,6 +23,8 @@ installs: [
 	{ "package": "elm" }, 
 	{ "package": "enchant" },  
 	{ "package": "erlang" },  
+	{ "package": "faac" },  
+	{ "package": "ffmpeg" },  
 	{ "package": "findutils" },  
 	{ "package": "freetype" },  
 	{ "package": "gettext" },  
@@ -42,8 +44,10 @@ installs: [
 	{ "package": "jpeg" },  
 	{ "package": "jruby" },  
 	{ "package": "jython" },  
+	{ "package": "lame" },  
 	{ "package": "lastpass-cli" },  
 	{ "package": "libassuan" },  
+	{ "package": "libav" },  
 	{ "package": "libffi" },  
 	{ "package": "libgpg-error" },  
 	{ "package": "libidn" },  
@@ -90,5 +94,7 @@ installs: [
 	{ "package": "wp-cli" }, 
 	{ "package": "wxmac" },  
 	{ "package": "xz" },  
+	{ "package": "xvid" },  
+	{ "package": "x264" },  
 	{ "package": "youtube-dl" }
 ]
