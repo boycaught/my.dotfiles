@@ -119,5 +119,5 @@ alias pumpitup="osascript -e 'set volume 10'"
 alias hax="growlnotify -a 'Activity Monitor' 'System error' -m 'WTF R U DOIN'"
 
 # LAG STUFF
-alias subl="source '/Applications/Sublime Text2.app/Contents/MacOS/Sublime Test 2'"
+alias subl="source '/Applications/Sublime Text 2.app/Contents/MacOS/Sublime Text 2'"
 alias subpacks="cd '/Users/larry_green/Library/Application Support/Sublime Text 2/Packages'"
