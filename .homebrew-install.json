@@ -31,6 +31,7 @@ installs: [
 	{ "package": "git" },  
 	{ "package": "glib" },  
 	{ "package": "gmp" },  
+	{ "package": "gnupg" }, 
 	{ "package": "go" },  
 	{ "package": "gradle" },  
 	{ "package": "grails" },  
