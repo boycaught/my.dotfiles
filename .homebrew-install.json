@@ -98,5 +98,10 @@ installs: [
 	{ "package": "xz" },  
 	{ "package": "xvid" },  
 	{ "package": "x264" },  
-	{ "package": "youtube-dl" }
+	{ "package": "youtube-dl" },
+	{ "caskroom": [
+		{ "cask": "virtualbox" },
+		{ "cask": "vagrant" },
+		{ "cask": "vagrant-manager" }
+	] }
 ]
