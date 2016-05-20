@@ -83,6 +83,7 @@ installs: [
 	{ "package": "protobuf" },  
 	{ "package": "pyenv" },  
 	{ "package": "pyenv-virtualenv" },  
+	{ "package": "python" }, 
 	{ "package": "readline" },  
 	{ "package": "redis" },  
 	{ "package": "rename" },  
