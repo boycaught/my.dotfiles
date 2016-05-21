@@ -76,6 +76,7 @@ installs: [
 	{ "package": "pcre" },  
 	{ "package": "php70" },  
 	{ "package": "php70-mcrypt" },  
+	{ "package": "php70-stats" },  
 	{ "package": "phpmyadmin" },  
 	{ "package": "pinentry" },  
 	{ "package": "pkg-config" },  
