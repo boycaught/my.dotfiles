@@ -88,6 +88,7 @@ installs: [
 	{ "package": "readline" },  
 	{ "package": "redis" },  
 	{ "package": "rename" },  
+	{ "package": "rethinkdb" },  
 	{ "package": "rust" }, 
 	{ "package": "s3cmd" },  
 	{ "package": "scons" },  
