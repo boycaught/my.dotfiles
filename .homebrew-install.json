@@ -80,6 +80,7 @@ installs: [
 	{ "package": "php70" },  
 	{ "package": "php70-mcrypt" },  
 	{ "package": "php70-stats" },  
+	{ "package": "php70-timecop" },  
 	{ "package": "phpmyadmin" },  
 	{ "package": "pinentry" },  
 	{ "package": "pkg-config" },  
