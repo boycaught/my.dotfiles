@@ -16,7 +16,7 @@ export v_ERLANG="18.3"
 export v_GIT="2.8.3"
 export v_GNUPG="1.4.20"
 export v_GO="1.6.2"
-export v_GRAILS="3.1.7"
+export v_GRAILS="3.1.8"
 export v_GRADLE="2.13"
 export v_GREP="2.25"
 export v_GROOVY="2.4.6"
@@ -53,10 +53,10 @@ export v_TOMCAT="8.0.33"
 export v_VIRTUALENV="20160315"
 export v_WGET="1.17.1"
 export v_WPCLI="0.23.1"
-export v_YOUTUBE_DL="2016.05.30.2"
+export v_YOUTUBE_DL="2016.06.03"
 
 export v_BOGUS="24.7.365"
 #export v_RUBY=1.9.3-p484"
 
-#Last update: 6/1/2016
+#Last update: 6/4/2016
 #EOF
