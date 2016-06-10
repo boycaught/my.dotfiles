@@ -29,7 +29,7 @@ export v_JRUBY="9.1.2.0"
 export v_JYTHON="2.7.0"
 export v_LASTPASSCLI="0.9.0"
 export v_LIBTOOL="2.4.6"
-export v_MONGODB="3.2.6"
+export v_MONGODB="3.2.7"
 export v_MONO="4.2.3.4"
 export v_MYSQL="10.1.14"
 export v_MARIADB="10.1.14"
@@ -51,12 +51,12 @@ export v_RUST="1.8.0"
 export v_SQLITE="3.13.0"
 export v_TOMCAT="8.0.33"
 export v_VIRTUALENV="20160315"
-export v_WGET="1.17.1"
+export v_WGET="1.18"
 export v_WPCLI="0.23.1"
 export v_YOUTUBE_DL="2016.06.03"
 
 export v_BOGUS="24.7.365"
 #export v_RUBY=1.9.3-p484"
 
-#Last update: 6/8/2016
+#Last update: 6/10/2016
 #EOF
