@@ -109,6 +109,7 @@ installs: [
 	{ "package": "x264" },  
 	{ "package": "youtube-dl" },
 	{ "caskroom": [
+		{ "cask": "nylas-n1" }, 
 		{ "cask": "virtualbox" },
 		{ "cask": "vagrant" },
 		{ "cask": "vagrant-manager" }
