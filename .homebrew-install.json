@@ -13,6 +13,7 @@ installs: [
 	{ "package": "boost" },  
 	{ "package": "boot2docker" },  
 	{ "package": "dialog" },  
+	{ "package": "dvm" }, 
 	{ "package": "cmake" }, 
 	{ "package": "composer" },  
 	{ "package": "coreutils" },  
