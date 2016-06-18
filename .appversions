@@ -2,7 +2,7 @@
 
 export v_ANSIBLE="2.1.0.0"
 export v_ANT="1.9.7"
-export v_AWSCLI="1.10.38"
+export v_AWSCLI="1.10.38_1"
 export v_BASH="4.3.42"
 export v_BOOST="1.60.0_2"
 export v_CERTBOT="0.8.1"
@@ -37,14 +37,14 @@ export v_NEO4J="3.0.3"
 export v_NINJA="1.7.1"
 export v_NGINX="1.10.1"
 export v_NMAP="7.11"
-export v_NODE="6.2.1"
+export v_NODE="6.2.2"
 export v_OPENSSL="1.0.2h_1"
 export v_PHPMYADMIN="4.6.2"
 export v_PRIVOXY="3.0.24"
 export v_PYENV="20160509"
 export v_PYPY="5.0.1"
 export v_PYTHON="2.7.11"
-export v_REDIS="3.2.0"
+export v_REDIS="3.2.1"
 export v_RETHINKDB="2.3.4"
 export v_RUBY="1.9.2-p320"
 export v_RUST="1.8.0"
@@ -53,10 +53,10 @@ export v_TOMCAT="8.5.3"
 export v_VIRTUALENV="20160315"
 export v_WGET="1.18"
 export v_WPCLI="0.23.1"
-export v_YOUTUBE_DL="2016.06.03"
+export v_YOUTUBE_DL="2016.06.16"
 
 export v_BOGUS="24.7.365"
 #export v_RUBY=1.9.3-p484"
 
-#Last update: 6/16/2016
+#Last update: 6/17/2016
 #EOF
