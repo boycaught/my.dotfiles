@@ -35,6 +35,7 @@ installs: [
 	{ "package": "gettext" },  
 	{ "package": "git" },  
 	{ "package": "glib" },  
+	{ "package": "glide" },  
 	{ "package": "gmp" },  
 	{ "package": "gnupg" }, 
 	{ "package": "go" },  
