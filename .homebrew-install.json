@@ -51,6 +51,8 @@ installs: [
 	{ "package": "jpeg" },  
 	{ "package": "jruby" },  
 	{ "package": "jython" },  
+	{ "package": "kubernetes-cli" },  
+	{ "package": "kubernetes-helm" },  
 	{ "package": "lame" },  
 	{ "package": "lastpass-cli" },  
 	{ "package": "libassuan" },  
