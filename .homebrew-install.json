@@ -25,6 +25,7 @@ installs: [
 	{ "package": "elasticsearch" },  
 	{ "package": "elixir" },  
 	{ "package": "elm" }, 
+	{ "package": "emscripten" }, 
 	{ "package": "enchant" },  
 	{ "package": "erlang" },  
 	{ "package": "faac" },  
@@ -117,6 +118,7 @@ installs: [
 	{ "package": "xvid" },  
 	{ "package": "x264" },  
 	{ "package": "youtube-dl" },
+	{ "package": "yuicompressor" }, 
 	{ "caskroom": [
 		{ "cask": "nylas-n1" }, 
 		{ "cask": "virtualbox" },
