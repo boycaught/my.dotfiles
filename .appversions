@@ -2,8 +2,8 @@
 
 export v_ANSIBLE="2.1.0.0"
 export v_ANT="1.9.7"
-export v_AWSCLI="1.10.38_1"
-export v_BASH="4.3.42"
+export v_AWSCLI="1.10.40"
+export v_BASH="4.3.46"
 export v_BOOST="1.60.0_2"
 export v_CERTBOT="0.8.1"
 export v_COMPOSER="1.1.2"
@@ -54,10 +54,10 @@ export v_TOMCAT="8.5.3"
 export v_VIRTUALENV="20160315"
 export v_WGET="1.18"
 export v_WPCLI="0.23.1"
-export v_YOUTUBE_DL="2016.06.20"
+export v_YOUTUBE_DL="2016.06.23.1"
 
 export v_BOGUS="24.7.365"
 #export v_RUBY=1.9.3-p484"
 
-#Last update: 6/21/2016
+#Last update: 6/23/2016
 #EOF
