@@ -120,8 +120,9 @@ installs: [
 	{ "package": "youtube-dl" },
 	{ "package": "yuicompressor" }, 
 	{ "caskroom": [
-		{ "cask": "dockertoolbox" }, 
+		{ "cask": "docker" }, 
 		{ "cask": "docker-compose" }, 
+		{ "cask": "dockertoolbox" }, 
 		{ "cask": "nylas-n1" }, 
 		{ "cask": "virtualbox" },
 		{ "cask": "vagrant" },
