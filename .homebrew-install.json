@@ -123,6 +123,7 @@ installs: [
 		{ "cask": "docker" }, 
 		{ "cask": "docker-compose" }, 
 		{ "cask": "dockertoolbox" }, 
+		{ "cask": "kitematic" }, 
 		{ "cask": "nylas-n1" }, 
 		{ "cask": "virtualbox" },
 		{ "cask": "vagrant" },
