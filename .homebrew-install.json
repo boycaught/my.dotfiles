@@ -124,12 +124,14 @@ installs: [
 		{ "cask": "docker-compose" }, 
 		{ "cask": "dockertoolbox" }, 
 		{ "cask": "gimp" }, 
+		{ "cask": "inkscape" }, 
 		{ "cask": "kitematic" }, 
 		{ "cask": "mongotron" }, 
 		{ "cask": "nylas-n1" }, 
 		{ "cask": "sqlectron" }, 
 		{ "cask": "virtualbox" },
 		{ "cask": "vagrant" },
-		{ "cask": "vagrant-manager" }
+		{ "cask": "vagrant-manager" }, 
+		{ "cask": "xquartz" }
 	] }
 ]
