@@ -19,6 +19,7 @@ installs: [
 	{ "package": "coreutils" },  
 	{ "package": "certbot" },  
 	{ "package": "docker" },  
+	{ "package": "dockutil" }, 
 	{ "package": "doxygen" },  
 	{ "package": "ec2-ami-tools" },  
 	{ "package": "ec2-api-tools" },  
