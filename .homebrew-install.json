@@ -126,6 +126,7 @@ installs: [
 		{ "cask": "dockertoolbox" }, 
 		{ "cask": "gimp" }, 
 		{ "cask": "inkscape" }, 
+		{ "cask": "iterm2" }, 
 		{ "cask": "kitematic" }, 
 		{ "cask": "mongotron" }, 
 		{ "cask": "nylas-n1" }, 
