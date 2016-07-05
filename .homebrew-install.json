@@ -122,9 +122,11 @@ installs: [
 	{ "package": "youtube-dl" },
 	{ "package": "yuicompressor" }, 
 	{ "caskroom": [
+		{ "cask": "atom" }, 
 		{ "cask": "docker" }, 
 		{ "cask": "docker-compose" }, 
 		{ "cask": "dockertoolbox" }, 
+		{ "cask": "electron" }, 
 		{ "cask": "gimp" }, 
 		{ "cask": "inkscape" }, 
 		{ "cask": "iterm2" }, 
@@ -135,6 +137,7 @@ installs: [
 		{ "cask": "virtualbox" },
 		{ "cask": "vagrant" },
 		{ "cask": "vagrant-manager" }, 
+		{ "cask": "visual-studio-code" }, 
 		{ "cask": "xquartz" }
 	] }
 ]
