@@ -28,5 +28,31 @@ brew install git
 brew install rename
 brew install tree
 
+# Cask applications
+# Favorites
+brew cask install atom
+brew cask install docker
+brew cask install docker-compose
+brew cask install dockertoolbox
+brew cask install electron
+brew cask install gimp
+brew cask install inkscape
+brew cask install iterm2
+brew cask install kitematic
+brew cask install mongotron
+brew cask install nylas-n1
+brew cask install sqlectron
+brew cask install virtualbox
+brew cask install vagrant
+brew cask install vagrant-manager
+brew cask install visual-studio-code
+brew cask install xquartz
+brew cask install textexpander
+
+# Optional
+#brew cask install dropbox
+#brew cask install sublime-text
+#brew cask install alfred
+
 # Remove outdated versions from the cellar
 brew cleanup
