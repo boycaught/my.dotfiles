@@ -130,6 +130,7 @@ installs: [
 		{ "cask": "docker-compose" }, 
 		{ "cask": "dockertoolbox" }, 
 		{ "cask": "electron" }, 
+		{ "cask": "freemind" }, 
 		{ "cask": "gimp" }, 
 		{ "cask": "inkscape" }, 
 		{ "cask": "iterm2" }, 
