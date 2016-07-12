@@ -125,6 +125,7 @@ installs: [
 	{ "package": "youtube-dl" },
 	{ "package": "yuicompressor" }, 
 	{ "caskroom": [
+		{ "cask": "adium" }, 
 		{ "cask": "atom" }, 
 		{ "cask": "docker" }, 
 		{ "cask": "docker-compose" }, 
