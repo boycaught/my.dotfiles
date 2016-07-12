@@ -30,6 +30,7 @@ brew install tree
 
 # Cask applications
 # Favorites
+brew cask install adium
 brew cask install atom
 brew cask install docker
 brew cask install docker-compose
