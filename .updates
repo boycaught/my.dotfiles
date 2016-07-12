@@ -2,10 +2,16 @@
 echo "Now fixing ownership rights for Homebrew packages..."
 sudo chown -R ${USER} /usr/local
 echo -ne '#####                     (33%)\r'
+sleep 1 
+echo -ne 'Now fixing ownership rights for Homebrew packages...\r'
 sleep 1
 echo -ne '#############             (66%)\r'
+sleep 1 
+echo -ne 'Now fixing ownership rights for Homebrew packages...\r'
 sleep 1
 echo -ne '#######################   (100%)\r'
+sleep 1 
+echo -ne 'Now fixing ownership rights for Homebrew packages...\r'
 echo -ne '\n'
 
 # BREW UPDATES
@@ -13,9 +19,15 @@ echo "Now updating Homebrew packages..."
 source ~/.brew
 echo -ne '#####                     (33%)\r'
 sleep 1
+echo -ne 'Now updating Homebrew packages...\r'
+sleep 1
 echo -ne '#############             (66%)\r'
 sleep 1
+echo -ne 'Now updating Homebrew packages...\r'
+sleep 1
 echo -ne '#######################   (100%)\r'
+echo -ne 'Now updating Homebrew packages...\r'
+sleep 1
 echo -ne '\n'
 
 # METEOR UPDATES
@@ -27,3 +39,25 @@ echo -ne '#############             (66%)\r'
 sleep 1
 echo -ne '#######################   (100%)\r'
 echo -ne '\n'
+
+# GITHUB SYNCS
+echo "Syncing GITHUB repo..."
+git -C ~/dotfiles/ pull
+echo -ne '#####                     (33%)\r'
+sleep 1
+echo -ne '#############             (66%)\r'
+sleep 1
+echo -ne '#######################   (100%)\r'
+echo -ne '\n'
+
+echo "Syncing private GITHUB repo..."
+sudo git -C /etc/profile.d/ pull
+echo -ne '#####                     (33%)\r'
+sleep 1
+echo -ne '#############             (66%)\r'
+sleep 1
+echo -ne '#######################   (100%)\r'
+echo -ne '\n'
+
+
+
