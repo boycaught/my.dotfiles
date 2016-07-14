@@ -13,6 +13,7 @@ echo -ne '\n'
 
 # BREW UPDATES
 echo -ne 'Update Homebrew packages...                                                          (0%)\r'
+-source ~/.brew
 sleep 1
 echo -ne 'Now updating Homebrew packages... #####                                             (33%)\r'
 sleep 1
