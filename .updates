@@ -17,6 +17,8 @@ echo -ne 'Update Homebrew packages...                                           
 sleep 1
 source ~/.brew
 sleep 1
+echo -ne '\n'
+sleep 1
 echo -ne 'Now updating Homebrew packages... #####                                             (33%)\r'
 sleep 1
 echo -ne 'Now updating Homebrew packages... #############                                     (66%)\r'
@@ -28,6 +30,8 @@ echo -ne '\n'
 echo -ne 'Update Meteor package catalogs...                                                    (0%)\r'
 sleep 1
 meteor update
+sleep 1
+echo -ne '\n'
 sleep 1
 echo -ne 'Now updating Meteor package catalogs... #####                                       (33%)\r'
 sleep 1
@@ -41,6 +45,8 @@ echo -ne 'Sync PUBLIC GITHUB repo...                                            
 sleep 1
 git -C ~/dotfiles/ pull
 sleep 1
+echo -ne '\n'
+sleep 1
 echo -ne 'Now syncing PUBLIC GITHUB repo... #####                                             (33%)\r'
 sleep 1
 echo -ne 'Now syncing PUBLIC GITHUB repo... #############                                     (66%)\r'
@@ -51,6 +57,8 @@ echo -ne '\n'
 
 echo -ne 'Sync PRIVATE GITHUB repo...                                                          (0%)\r'
 sudo git -C /etc/profile.d/ pull
+sleep 1
+echo -ne '\n'
 sleep 1
 echo -ne 'Now syncing PRIVATE GITHUB repo... #####                                            (33%)\r'
 sleep 1
