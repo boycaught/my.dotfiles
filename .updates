@@ -1,35 +1,38 @@
 # SET OWNERSHIP PERMISSIONS FOR BREW CELLAR
-echo -ne 'Fix ownership rights for Homebrew packages...                                        (0%)\n'
+echo -ne 'Now fixing ownership rights for Homebrew packages...                                     \n'
 sudo chown -R ${USER} /usr/local
 echo -ne 'Now fixing ownership rights for Homebrew packages... #####                          (33%)\r'
 sleep 1 
 echo -ne 'Now fixing ownership rights for Homebrew packages... #############                  (66%)\r'
 sleep 1 
 echo -ne 'Now fixing ownership rights for Homebrew packages... #######################       (100%)\r'
-echo -ne '\n'
+echo -ne '\n\n'
+sleep 2
 
 # BREW UPDATES
-echo -ne 'Update Homebrew packages...                                                          (0%)\n'
+echo -ne 'Now updating Homebrew packages...                                                        \n'
 source ~/.brew
 echo -ne 'Now updating Homebrew packages... #####                                             (33%)\r'
 sleep 1
 echo -ne 'Now updating Homebrew packages... #############                                     (66%)\r'
 sleep 1
 echo -ne 'Now updating Homebrew packages... #######################                          (100%)\r'
-echo -ne '\n'
+echo -ne '\n\n'
+sleep 2
 
 # METEOR UPDATES
-echo -ne 'Update Meteor package catalogs...                                                    (0%)\n'
+echo -ne 'Now updating Meteor package catalogs...                                                  \n'
 meteor update
 echo -ne 'Now updating Meteor package catalogs... #####                                       (33%)\r'
 sleep 1
 echo -ne 'Now updating Meteor package catalogs... #############                               (66%)\r'
 sleep 1
 echo -ne 'Now updating Meteor package catalogs... #######################                    (100%)\r'
-echo -ne '\n'
+echo -ne '\n\n'
+sleep 2
 
 # GITHUB SYNCS
-echo -ne 'Sync PUBLIC GITHUB repo...                                                           (0%)\n'
+echo -ne 'Now syncing PUBLIC GITHUB repo...                                                        \n'
 git -C ~/dotfiles/ pull
 echo -ne 'Now syncing PUBLIC GITHUB repo... #####                                             (33%)\r'
 sleep 1
@@ -37,9 +40,10 @@ echo -ne 'Now syncing PUBLIC GITHUB repo... #############                       
 sleep 1
 echo -ne 'Now syncing PUBLIC GITHUB repo... #######################                          (100%)\r'
 sleep 1
-echo -ne '\n'
+echo -ne '\n\n'
+sleep 2
 
-echo -ne 'Sync PRIVATE GITHUB repo...                                                          (0%)\n'
+echo -ne 'Now syncing PRIVATE GITHUB repo...                                                       \n'
 sudo git -C /etc/profile.d/ pull
 echo -ne 'Now syncing PRIVATE GITHUB repo... #####                                            (33%)\r'
 sleep 1
