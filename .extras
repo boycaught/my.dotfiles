@@ -9,12 +9,12 @@ GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
 git config --global user.email "$GIT_AUTHOR_EMAIL"
 
 ## DOCKER
-unset DOCKER_CERT_PATH
-unset DOCKER_TLS_VERIFY
+#unset DOCKER_CERT_PATH
+#unset DOCKER_TLS_VERIFY
 
-export DOCKER_HOST=tcp://192.168.59.103:2376
-export DOCKER_CERT_PATH=/Users/$USER/.boot2docker/certs/boot2docker-vm
-export DOCKER_TLS_VERIFY=1
+#export DOCKER_HOST=tcp://192.168.59.103:2376
+#export DOCKER_CERT_PATH=/Users/$USER/.boot2docker/certs/boot2docker-vm
+#export DOCKER_TLS_VERIFY=1
 
 ## Disable AppNap on Mac OS X Yosemite (10.10.1)+
 alias killappnap='defaults write NSGlobalDomain NSAppSleepDisabled -bool YES'
