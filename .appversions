@@ -2,7 +2,7 @@
 
 export v_ANSIBLE="2.1.0.0"
 export v_ANT="1.9.7"
-export v_AWSCLI="1.10.46"
+export v_AWSCLI="1.10.47"
 export v_BASH="4.3.46"
 export v_BOOST="1.60.0_2"
 export v_CERTBOT="0.8.1"
@@ -43,7 +43,7 @@ export v_NODE="6.3.0"
 export v_OPENSSL="1.0.2h_1"
 export v_PHPMYADMIN="4.6.2"
 export v_PRIVOXY="3.0.24"
-export v_PYENV="20160629"
+export v_PYENV="20160716"
 export v_PYPY="5.0.1"
 export v_PYTHON="2.7.12"
 export v_REDIS="3.2.1"
@@ -60,5 +60,5 @@ export v_YOUTUBE_DL="2016.07.16"
 export v_BOGUS="24.7.365"
 #export v_RUBY=1.9.3-p484"
 
-#Last update: 7/15/2016
+#Last update: 7/16/2016
 #EOF
