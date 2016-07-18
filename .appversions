@@ -16,13 +16,13 @@ export v_EMSCRIPTEN="1.36.5"
 export v_ERLANG="19.0.2"
 export v_GIT="2.9.2"
 export v_GNUPG="1.4.20"
-export v_GO="1.6.2"
+export v_GO="1.6.3"
 export v_GRAILS="3.1.9"
 export v_GRADLE="2.14"
 export v_GREP="2.25"
 export v_GROOVY="2.4.7"
 export v_HTTPING="2.4_1"
-export v_JENKINS="2.13"
+export v_JENKINS="2.14"
 export v_JDK="1.8.0_92"
 export v_JRE="1.8.0_92"
 export v_JETTY="9.3.9.v20160517"
@@ -60,5 +60,5 @@ export v_YOUTUBE_DL="2016.07.17"
 export v_BOGUS="24.7.365"
 #export v_RUBY=1.9.3-p484"
 
-#Last update: 7/17/2016
+#Last update: 7/18/2016
 #EOF
