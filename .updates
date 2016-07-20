@@ -1,14 +1,21 @@
+# ---------------------------------------------------------------------------------------------- 
 # REQUEST PASSWORD UPFRONT
 sudo -v
 
+# ---------------------------------------------------------------------------------------------- 
 # SET OWNERSHIP PERMISSIONS FOR BREW CELLAR
+sudo chown -R ${USER} /usr/local
+echo -ne 'Now fixing ownership rights for Homebrew packages...                                      \n'
+
+# ---------------------------------------------------------------------------------------------- 
+# BREW UPDATES
 # set counter to 0 
 counter=0
 (
 # set infinite while loop
 while :
 do
-sudo chown -R ${USER} /usr/local
+source ~/.brew
 # increase counter by 10
 (( counter+=10 ))
 [ $counter -eq 100 ] && break
@@ -16,49 +23,66 @@ sudo chown -R ${USER} /usr/local
 sleep 1
 done
 ) |
-dialog --title "Now fixing ownership rights for Homebrew packages..." --gauge "Please wait" 7 70 0
+dialog --title "Updating Homebrew packages..." --gauge 7 70 0
 echo -ne '\n\n'
 sleep 2
 
-# BREW UPDATES
-echo -ne 'Now updating Homebrew packages...                                                        \n'
-source ~/.brew
-echo -ne 'Updating Homebrew packages... #####                                             (33%)\r'
-sleep 1
-echo -ne 'Updating Homebrew packages... #############                                     (66%)\r'
-sleep 1
-echo -ne 'Updating Homebrew packages... #######################                          (100%)\r'
-echo -ne '\n\n'
-sleep 2
-
+# ---------------------------------------------------------------------------------------------- 
 # METEOR UPDATES
-echo -ne 'Now updating Meteor package catalogs...                                                  \n'
+# set counter to 0 
+counter=0
+(
+# set infinite while loop
+while :
+do
 meteor update
-echo -ne 'Updating Meteor package catalogs... #####                                       (33%)\r'
+# increase counter by 10
+(( counter+=10 ))
+[ $counter -eq 100 ] && break
+# delay it a specified amount of time i.e 1 sec
 sleep 1
-echo -ne 'Updating Meteor package catalogs... #############                               (66%)\r'
-sleep 1
-echo -ne 'Updating Meteor package catalogs... #######################                    (100%)\r'
+done
+) |
+dialog --title "Updating Meteor package catalogs..." --gauge 7 70 0
 echo -ne '\n\n'
 sleep 2
 
+# ---------------------------------------------------------------------------------------------- 
 # GITHUB SYNCS
-echo -ne 'Now syncing PUBLIC GITHUB repo...                                                        \n'
+# set counter to 0 
+counter=0
+(
+# set infinite while loop
+while :
+do
 git -C ~/dotfiles/ pull
-echo -ne 'Syncing PUBLIC GITHUB repo... #####                                             (33%)\r'
+# increase counter by 10
+(( counter+=10 ))
+[ $counter -eq 100 ] && break
+# delay it a specified amount of time i.e 1 sec
 sleep 1
-echo -ne 'Syncing PUBLIC GITHUB repo... #############                                     (66%)\r'
-sleep 1
-echo -ne 'Syncing PUBLIC GITHUB repo... #######################                          (100%)\r'
-sleep 1
+done
+) |
+dialog --title "" --gauge 7 70 0
 echo -ne '\n\n'
 sleep 2
 
-echo -ne 'Now syncing PRIVATE GITHUB repo...                                                       \n'
+# ---------------------------------------------------------------------------------------------- 
+# set counter to 0 
+counter=0
+(
+# set infinite while loop
+while :
+do
 sudo git -C /etc/profile.d/ pull
-echo -ne 'Syncing PRIVATE GITHUB repo... #####                                            (33%)\r'
+# increase counter by 10
+(( counter+=10 ))
+[ $counter -eq 100 ] && break
+# delay it a specified amount of time i.e 1 sec
 sleep 1
-echo -ne 'Syncing PRIVATE GITHUB repo... #############                                    (66%)\r'
-sleep 1
-echo -ne 'Syncing PRIVATE GITHUB repo... #######################                         (100%)\r'
-echo -ne '\n'
+done
+) |
+dialog --title "" --gauge 7 70 0
+echo -ne '\n\n'
+sleep 2
+
