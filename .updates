@@ -1,13 +1,19 @@
 # SET OWNERSHIP PERMISSIONS FOR BREW CELLAR
-echo -ne 'Now fixing ownership rights for Homebrew packages...                                     \n'
+# set counter to 0 
+counter=0
+(
+# set infinite while loop
+while :
+do
 sudo chown -R ${USER} /usr/local
-echo -ne 'Fixing ownership rights for Homebrew packages... #####                          (33%)\r'
-sleep 1 
-echo -ne 'Fixing ownership rights for Homebrew packages... #############                  (66%)\r'
-sleep 1 
-echo -ne 'Fixing ownership rights for Homebrew packages... #######################       (100%)\r'
-echo -ne '\n\n'
-sleep 2
+# increase counter by 10
+(( counter+=10 ))
+[ $counter -eq 100 ] && break
+# delay it a specified amount of time i.e 1 sec
+sleep 1
+done
+) |
+dialog --title "Now fixing ownership rights for Homebrew packages..." --gauge "Please wait" 7 70 0
 
 # BREW UPDATES
 echo -ne 'Now updating Homebrew packages...                                                        \n'
