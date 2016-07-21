@@ -121,3 +121,5 @@ alias hax="growlnotify -a 'Activity Monitor' 'System error' -m 'WTF R U DOIN'"
 # LAG STUFF
 alias subl="source '/Applications/Sublime Text 2.app/Contents/MacOS/Sublime Text 2'"
 alias subpacks="cd '/Library/Application Support/Sublime Text 2/Packages'"
+alias popdots="git -C ~/dotfiles/ pull"
+alias popprofs="sudo git -C /etc/profile.d/ pull"
