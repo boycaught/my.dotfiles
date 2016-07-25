@@ -143,7 +143,6 @@ installs: [
 		{ "cask": "vagrant" },
 		{ "cask": "vagrant-manager" }, 
 		{ "cask": "visual-studio-code" }, 
-		{ "cask": "xquartz" }, 
-		{ "cask": "textexpander" }
+		{ "cask": "xquartz" }
 	] }
 ]
