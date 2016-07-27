@@ -30,30 +30,30 @@ brew install tree
 
 # Cask applications
 # Favorites
-brew cask install adium
-brew cask install atom
-brew cask install codekit
-brew cask install docker
-brew cask install docker-compose
-brew cask install dockertoolbox
-brew cask install electron
-brew cask install gimp
-brew cask install inkscape
-brew cask install iterm2
-brew cask install kitematic
-brew cask install mongotron
-brew cask install nylas-n1
-brew cask install sqlectron
-brew cask install virtualbox
-brew cask install vagrant
-brew cask install vagrant-manager
-brew cask install visual-studio-code
-brew cask install xquartz
+brew cask install adium --force
+brew cask install atom --force
+brew cask install codekit --force
+brew cask install docker --force
+brew cask install docker-compose --force
+brew cask install dockertoolbox --force
+brew cask install electron --force
+brew cask install gimp --force
+brew cask install inkscape --force
+brew cask install iterm2 --force
+brew cask install kitematic --force
+brew cask install mongotron --force
+brew cask install nylas-n1 --force
+brew cask install sqlectron --force
+brew cask install virtualbox --force
+brew cask install vagrant --force
+brew cask install vagrant-manager --force
+brew cask install visual-studio-code --force
+brew cask install xquartz --force
 
-# Optional
-#brew cask install dropbox
-#brew cask install sublime-text
-#brew cask install alfred
+# Optional for new installs
+#brew cask install dropbox --force
+#brew cask install sublime-text --force
+#brew cask install alfred --force
 
 # Remove outdated versions from the cellar
 brew cleanup
