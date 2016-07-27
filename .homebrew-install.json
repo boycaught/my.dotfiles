@@ -127,6 +127,7 @@ installs: [
 	{ "caskroom": [
 		{ "cask": "adium" }, 
 		{ "cask": "atom" }, 
+		{ "cask": "codekit" },
 		{ "cask": "docker" }, 
 		{ "cask": "docker-compose" }, 
 		{ "cask": "dockertoolbox" }, 
