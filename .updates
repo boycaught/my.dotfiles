@@ -1,6 +1,5 @@
 # REQUEST PASSWORD UPFRONT
 #sudo -v
-larry_green = NOPASSWD: /usr/sbin/chown, /usr/local/bin/git
 
 # SET OWNERSHIP PERMISSIONS FOR BREW CELLAR
 chown -R ${USER} /usr/local
