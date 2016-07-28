@@ -47,11 +47,13 @@ if [ ${dateholder:0:3} == 'Fri' ] ; then
 		iterm2 
 		kitematic 
 		mongotron 
+		nodeclipse 
 		nylas-n1 
 		sqlectron 
 		virtualbox 
 		vagrant 
 		vagrant-manager 
+		webstorm 
 		visual-studio-code 
 		xquartz 
 	)
@@ -74,11 +76,13 @@ else
 		iterm2 
 		kitematic 
 		mongotron 
+		nodeclipse 
 		nylas-n1 
 		sqlectron 
 		virtualbox 
 		vagrant 
 		vagrant-manager 
+		webstorm 
 		visual-studio-code 
 		xquartz 
 	)
