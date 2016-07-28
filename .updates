@@ -1,8 +1,9 @@
 # REQUEST PASSWORD UPFRONT
-sudo -v
+#sudo -v
+larry_green = NOPASSWD: /usr/sbin/chown, /usr/local/bin/git
 
 # SET OWNERSHIP PERMISSIONS FOR BREW CELLAR
-sudo chown -R ${USER} /usr/local
+chown -R ${USER} /usr/local
 sleep 1
 echo -ne 'Fix ownership rights for Homebrew packages...                                        (0%)\r'
 sleep 1
@@ -39,6 +40,7 @@ echo -ne '\n'
 sleep 2
 
 # GITHUB SYNCS
+# Public
 echo -ne 'Sync PUBLIC GITHUB repo...                                                           (0%)\r'
 git -C ~/dotfiles/ pull
 sleep 1
@@ -49,8 +51,10 @@ sleep 1
 echo -ne 'Now syncing PUBLIC GITHUB repo... #######################                          (100%)\r'
 echo -ne '\n'
 sleep 1
+
+# Private
 echo -ne 'Sync PRIVATE GITHUB repo...                                                          (0%)\r'
-sudo git -C /etc/profile.d/ pull
+git -C /etc/profile.d/ pull
 sleep 1
 echo -ne 'Now syncing PRIVATE GITHUB repo... #####                                            (33%)\r'
 sleep 1
