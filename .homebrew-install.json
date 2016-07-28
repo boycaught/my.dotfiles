@@ -140,12 +140,14 @@ installs: [
 		{ "cask": "iterm2" }, 
 		{ "cask": "kitematic" }, 
 		{ "cask": "mongotron" }, 
+		{ "cask": "nodeclipse" }, 
 		{ "cask": "nylas-n1" }, 
 		{ "cask": "sqlectron" }, 
 		{ "cask": "virtualbox" },
 		{ "cask": "vagrant" },
 		{ "cask": "vagrant-manager" }, 
-		{ "cask": "visual-studio-code" }, 
+		{ "cask": "visual-studio-code" },
+		{ "cask": "webstorm" }, 
 		{ "cask": "xquartz" }
 	] }
 ]
