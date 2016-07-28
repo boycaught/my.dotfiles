@@ -44,7 +44,6 @@ if [ ${dateholder:0:3} == 'Fri' ] ; then
 		electron 
 		gimp 
 		inkscape 
-		iterm2 
 		kitematic 
 		mongotron 
 		nodeclipse 
@@ -73,7 +72,6 @@ else
 		electron 
 		gimp 
 		inkscape 
-		iterm2 
 		kitematic 
 		mongotron 
 		nodeclipse 
@@ -93,6 +91,7 @@ else
 fi
 
 # Optional for new installs
+#brew cask install iterm2
 #brew cask install dropbox
 #brew cask install sublime-text
 #brew cask install alfred
