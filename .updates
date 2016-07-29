@@ -1,3 +1,6 @@
+# EXTEND PASSWORD
+sudo -v
+
 # SET OWNERSHIP PERMISSIONS FOR BREW CELLAR
 sudo chown -R ${USER} /usr/local
 sleep 1
@@ -22,6 +25,7 @@ sleep 1
 echo -ne 'Now updating Homebrew packages... #######################                          (100%)\r'
 echo -ne '\n'
 sleep 2
+sudo -v
 
 # METEOR UPDATES
 echo -ne 'Update Meteor package catalogs...                                                    (0%)\r'
@@ -34,6 +38,7 @@ sleep 1
 echo -ne 'Now updating Meteor package catalogs... #######################                    (100%)\r'
 echo -ne '\n'
 sleep 2
+sudo -v
 
 # GITHUB SYNCS
 # Public
