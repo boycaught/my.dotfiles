@@ -1,6 +1,3 @@
-# EXTEND PASSWORD STATUS
-sudo -v
-
 # SET OWNERSHIP PERMISSIONS FOR BREW CELLAR
 sudo chown -R ${USER} /usr/local
 sleep 1
