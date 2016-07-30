@@ -41,7 +41,7 @@ if [ ${dateholder:0:3} == 'Fri' ] ; then
 		cyberduck 
 		docker 
 		docker-compose 
-		dockertoolbox 
+		docker-toolbox 
 		electron 
 		gimp 
 		handbrake 
@@ -72,7 +72,7 @@ else
 		cyberduck 
 		docker 
 		docker-compose 
-		dockertoolbox 
+		docker-toolbox 
 		electron 
 		gimp 
 		handbrake 
