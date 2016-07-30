@@ -57,7 +57,6 @@ if [ ${dateholder:0:3} == 'Fri' ] ; then
 		webstorm 
 		visual-studio-code 
 		vlc 
-		xquartz 
 	)
 	for i in "${packages[@]}"
 	do
@@ -88,7 +87,6 @@ else
 		webstorm 
 		visual-studio-code 
 		vlc 
-		xquartz 
 	)
 	for i in "${packages[@]}"
 	do
@@ -97,10 +95,14 @@ else
 fi
 
 # Optional for new installs
-#brew cask install iterm2
-#brew cask install dropbox
-#brew cask install sublime-text
 #brew cask install alfred
+#brew cask install appzapper
+#brew cask install dropbox
+#brew cask install caffeine
+#brew cask install iterm2
+#brew cask install profilemanager
+#brew cask install sublime-text
+#brew cask install xquartz 
 
 # Remove outdated versions from the cellar
 brew cleanup
