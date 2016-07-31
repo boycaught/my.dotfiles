@@ -7,7 +7,7 @@ export v_BASH="4.3.46"
 export v_BOOST="1.60.0_2"
 export v_CERTBOT="0.8.1"
 export v_COMPOSER="1.2.0"
-export v_DOCKER="1.11.1"
+export v_DOCKER="1.12.0"
 export v_DOCKUTIL="2.0.4" 
 export v_DOXYGEN="1.8.11"
 export v_ELASTICSEARCH="2.3.4"
@@ -61,5 +61,5 @@ export v_YOUTUBE_DL="2016.07.30"
 export v_BOGUS="24.7.365"
 #export v_RUBY=1.9.3-p484"
 
-#Last update: 7/30/2016
+#Last update: 7/31/2016
 #EOF
