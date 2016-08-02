@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export v_ANSIBLE="2.1.0.0"
+export v_ANSIBLE="2.1.1.0"
 export v_ANT="1.9.7"
 export v_AWSCLI="1.10.51"
 export v_BASH="4.3.46"
