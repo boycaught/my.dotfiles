@@ -51,6 +51,7 @@ echo -ne 'Now syncing PUBLIC GITHUB repo... #############                       
 sleep 1
 echo -ne 'Now syncing PUBLIC GITHUB repo... #######################                          (100%)\r'
 echo -ne '\n'
+sudo -v
 sleep 1
 
 # Private
@@ -63,3 +64,7 @@ echo -ne 'Now syncing PRIVATE GITHUB repo... #############                      
 sleep 1
 echo -ne 'Now syncing PRIVATE GITHUB repo... #######################                         (100%)\r'
 echo -ne '\n'
+sudo -v
+
+# call customizer
+customize
