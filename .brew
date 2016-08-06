@@ -32,15 +32,14 @@ brew install tree
 # Favorites
 # Only do --force updates on Fridays
 dateholder=$(date)
-if [ ${dateholder:0:3} == 'Fri' ] ; then
-	echo "Friday: it is now time to force Cask updates."
+if [ ${dateholder:0:3} == 'Fri' ] || [ ${dateholder:0:3} == 'Sat' ] ; then
+	echo "Weekend: it is now time to force Cask updates."
 	packages=( 
 		adium 
 		atom 
 		codekit 
 		cyberduck 
 		docker 
-		docker-compose 
 		docker-toolbox 
 		electron 
 		gimp 
@@ -70,7 +69,6 @@ else
 		codekit 
 		cyberduck 
 		docker 
-		docker-compose 
 		docker-toolbox 
 		electron 
 		gimp 
