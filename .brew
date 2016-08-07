@@ -30,62 +30,39 @@ brew install tree
 
 # Cask applications
 # Favorites
-# Only do --force updates on Fridays
+# Only do --force updates on Weekends (Saturday or Sunday)
 dateholder=$(date)
-if [ ${dateholder:0:3} == 'Fri' ] || [ ${dateholder:0:3} == 'Sat' ] ; then
+packages=( 
+	adium 
+	atom 
+	codekit 
+	cyberduck 
+	docker 
+	docker-toolbox 
+	electron 
+	gimp 
+	handbrake 
+	inkscape 
+	kitematic 
+	mongotron 
+	nodeclipse 
+	nylas-n1 
+	sqlectron 
+	virtualbox 
+	vagrant 
+	vagrant-manager 
+	webstorm 
+	visual-studio-code 
+	vlc 
+)
+if [ ${dateholder:0:3} == 'Sat' ] || [ ${dateholder:0:3} == 'Sun' ] ; then
 	echo "Weekend: it is now time to force Cask updates."
-	packages=( 
-		adium 
-		atom 
-		codekit 
-		cyberduck 
-		docker 
-		docker-toolbox 
-		electron 
-		gimp 
-		handbrake 
-		inkscape 
-		kitematic 
-		mongotron 
-		nodeclipse 
-		nylas-n1 
-		sqlectron 
-		virtualbox 
-		vagrant 
-		vagrant-manager 
-		webstorm 
-		visual-studio-code 
-		vlc 
-	)
 	for i in "${packages[@]}"
 	do
 		brew cask install $i --force
 	done
 else
-	echo "${dateholder:0:3}: Casks will checked for updates on Friday."
-	packages=( 
-		adium 
-		atom 
-		codekit 
-		cyberduck 
-		docker 
-		docker-toolbox 
-		electron 
-		gimp 
-		handbrake 
-		inkscape 
-		kitematic 
-		mongotron 
-		nodeclipse 
-		nylas-n1 
-		sqlectron 
-		virtualbox 
-		vagrant 
-		vagrant-manager 
-		webstorm 
-		visual-studio-code 
-		vlc 
-	)
+	echo "${dateholder:0:3}: Casks will checked for updates on Saturday or Sunday."
 	for i in "${packages[@]}"
 	do
 		brew cask install $i
