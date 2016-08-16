@@ -41,7 +41,7 @@ export v_NEO4J="3.0.4"
 export v_NINJA="1.7.1"
 export v_NGINX="1.10.1"
 export v_NMAP="7.11"
-export v_NODE="6.3.1"
+export v_NODE="6.4.0"
 export v_OPENSSL="1.0.2h_1"
 export v_PHPMYADMIN="4.6.3"
 export v_PRIVOXY="3.0.24"
@@ -62,5 +62,5 @@ export v_YOUTUBE_DL="2016.08.13"
 export v_BOGUS="24.7.365"
 #export v_RUBY=1.9.3-p484"
 
-#Last update: 8/15/2016
+#Last update: 8/16/2016
 #EOF
