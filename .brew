@@ -46,7 +46,6 @@ packages=(
 	kitematic 
 	mongotron 
 	nodeclipse 
-	nylas-n1 
 	sqlectron 
 	virtualbox 
 	vagrant 
