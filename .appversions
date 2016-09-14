@@ -2,11 +2,11 @@
 
 export v_ANSIBLE="2.1.1.0"
 export v_ANT="1.9.7"
-export v_AWSCLI="1.10.63"
+export v_AWSCLI="1.10.64"
 export v_BASH="4.3.46"
 export v_BOOST="1.61.0_1"
 export v_CERTBOT="0.8.1"
-export v_COMPOSER="1.2.0"
+export v_COMPOSER="1.2.1"
 export v_DOCKER="1.12.1"
 export v_DOCKUTIL="2.0.4" 
 export v_DOXYGEN="1.8.12"
@@ -63,5 +63,5 @@ export v_YOUTUBE_DL="2016.09.11.1"
 export v_BOGUS="24.7.365"
 #export v_RUBY=1.9.3-p484"
 
-#Last update: 9/13/2016
+#Last update: 9/14/2016
 #EOF
