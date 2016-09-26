@@ -42,7 +42,7 @@ export v_NINJA="1.7.1"
 export v_NGINX="1.10.1"
 export v_NMAP="7.11"
 export v_NODE="6.6.0"
-export v_OPENSSL="1.0.2h_1"
+export v_OPENSSL="1.0.2j"
 export v_PHPMYADMIN="4.6.4"
 export v_PRIVOXY="3.0.26"
 export v_PYENV="1.0.2"
@@ -61,7 +61,6 @@ export v_WPCLI="0.24.1"
 export v_YOUTUBE_DL="2016.09.24"
 
 export v_BOGUS="24.7.365"
-#export v_RUBY=1.9.3-p484"
 
-#Last update: 9/25/2016
+#Last update: 9/26/2016
 #EOF
