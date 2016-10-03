@@ -94,6 +94,7 @@ installs: [
 	{ "package": "ninja" }, 
 	{ "package": "node" },  
 	{ "package": "openssl" },  
+	{ "package": "packer" },  
 	{ "package": "passenger" }, 
 	{ "package": "pcre" },  
 	{ "package": "php70" },  
