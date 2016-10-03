@@ -2,7 +2,7 @@
 
 export v_ANSIBLE="2.1.2.0"
 export v_ANT="1.9.7"
-export v_AWSCLI="1.11.0"
+export v_AWSCLI="1.11.0_1"
 export v_BASH="4.4_1"
 export v_BOOST="1.61.0_1"
 export v_CERTBOT="0.8.1"
