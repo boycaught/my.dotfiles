@@ -27,3 +27,7 @@ alias subl='"/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl"'
 
 ## Visual Studio Code
 code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
+
+## River of News Prototyping
+alias newstream='node ~/Sites/www/app/newstream/river5.js'
+
