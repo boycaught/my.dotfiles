@@ -31,3 +31,5 @@ code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
 ## River of News Prototyping
 alias newstream='node ~/Sites/www/app/newstream/river5.js'
 
+## LiQuiBase
+export LIQUIBASE_HOME=/usr/local/Cellar/liquibase/3.5.1/libexec
