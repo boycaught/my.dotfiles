@@ -6,7 +6,7 @@ export v_AWSCLI="1.11.2"
 export v_BASH="4.4_1"
 export v_BOOST="1.62.0"
 export v_CERTBOT="0.9.1"
-export v_COMPOSER="1.2.1"
+export v_COMPOSER="1.2.1_1"
 export v_DOCKER="1.12.1"
 export v_DOCKUTIL="2.0.5" 
 export v_DOXYGEN="1.8.12"
@@ -62,5 +62,5 @@ export v_YOUTUBE_DL="2016.10.02"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 10/7/2016
+#Last update: 10/9/2016
 #EOF
