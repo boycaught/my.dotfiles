@@ -148,6 +148,7 @@ installs: [
 		{ "cask": "kitematic" }, 
 		{ "cask": "mongotron" }, 
 		{ "cask": "nodeclipse" }, 
+		{ "cask": "ramme" }, 
 		{ "cask": "sqlectron" }, 
 		{ "cask": "virtualbox" },
 		{ "cask": "vagrant" },
