@@ -59,9 +59,9 @@ export v_TOMCAT="8.5.5"
 export v_VIRTUALENV="1.0.0"
 export v_WGET="1.18"
 export v_WPCLI="0.24.1"
-export v_YOUTUBE_DL="2016.10.12"
+export v_YOUTUBE_DL="2016.10.16"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 10/15/2016
+#Last update: 10/16/2016
 #EOF
