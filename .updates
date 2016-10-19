@@ -64,5 +64,11 @@ echo -ne '\n'
 sleep 1
 
 # call customizer
-echo -ne 'Updates completed!                                                                       \r'
 customize
+echo -ne 'Now syncing PRIVATE GITHUB repo... #####                                            (33%)\r'
+sleep 1
+echo -ne 'Now syncing PRIVATE GITHUB repo... #############                                    (66%)\r'
+sleep 1
+echo -ne 'Now syncing PRIVATE GITHUB repo... #######################                         (100%)\r'
+echo -ne 'Updates completed!                                                                       \r'
+
