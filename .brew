@@ -77,6 +77,10 @@ fi
 #brew cask install profilemanager
 #brew cask install sublime-text
 #brew cask install xquartz 
+#brew cask install contexts 
+#brew path-finder 
+#brew telegram 
+#brew freefilesync
 
 # Remove outdated versions from the cellar
 brew cleanup
