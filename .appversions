@@ -29,7 +29,7 @@ export v_JRE="1.8.0_102"
 export v_JETTY="9.3.12.v20161014"
 export v_JRUBY="9.1.5.0"
 export v_JYTHON="2.7.0"
-export v_KUBERNETES="1.4.3"
+export v_KUBERNETES="1.4.4"
 export v_LASTPASSCLI="1.0.0"
 export v_LIBTOOL="2.4.6"
 export v_LIQUIBASE="3.5.3"
@@ -40,7 +40,7 @@ export v_MYSQL="10.1.16"
 export v_MARIADB="10.1.18"
 export v_NEO4J="3.0.6"
 export v_NINJA="1.7.1"
-export v_NGINX="1.10.1"
+export v_NGINX="1.10.2"
 export v_NMAP="7.11"
 export v_NODE="6.9.1"
 export v_OPENSSL="1.0.2j"
@@ -63,5 +63,5 @@ export v_YOUTUBE_DL="2016.10.21.1"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 10/21/2016
+#Last update: 10/23/2016
 #EOF
