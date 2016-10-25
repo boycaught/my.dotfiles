@@ -18,18 +18,26 @@ git config --global user.email "$GIT_AUTHOR_EMAIL"
 
 ## Disable AppNap on Mac OS X Yosemite (10.10.1)+
 alias killappnap='defaults write NSGlobalDomain NSAppSleepDisabled -bool YES'
+export KILLAPPNAP
 
 ## Auto-start PyEnv-VirtualEnv
 if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-init -)"; fi
 
 ## Sublime Text 2
 alias subl='"/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl"'
+export SUBL
 
 ## Visual Studio Code
 code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
 
 ## River of News Prototyping
 alias newstream='node ~/Sites/www/app/newstream/river5.js'
+export NEWSTREAM
 
 ## LiQuiBase
 export LIQUIBASE_HOME=/usr/local/Cellar/liquibase/3.5.1/libexec
+
+## (Re)-Install Meteor
+## Note: MeteorJS gets corrupted occasionally, this installs fresh copy
+alias meteorfresh='curl https://install.meteor.com/ | sh'
+export METEORFRESH
