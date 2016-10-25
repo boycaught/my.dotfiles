@@ -50,7 +50,6 @@ packages=(
 	virtualbox 
 	vagrant 
 	vagrant-manager 
-	webstorm 
 	visual-studio-code 
 	vlc 
 )
@@ -62,10 +61,6 @@ if [ ${dateholder:0:3} == 'Sat' ] || [ ${dateholder:0:3} == 'Sun' ] ; then
 	done
 else
 	echo "${dateholder:0:3}: Casks will checked for updates on Saturday or Sunday."
-	for i in "${packages[@]}"
-	do
-		brew cask install $i
-	done
 fi
 
 # Optional for new installs
@@ -78,9 +73,10 @@ fi
 #brew cask install sublime-text
 #brew cask install xquartz 
 #brew cask install contexts 
-#brew path-finder 
-#brew telegram 
-#brew freefilesync
+#brew cask install path-finder 
+#brew cask install telegram 
+#brew cask install freefilesync
+#brew cask install webstorm
 
 # Remove outdated versions from the cellar
 brew cleanup
