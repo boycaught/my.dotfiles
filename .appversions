@@ -2,7 +2,7 @@
 
 export v_ANSIBLE="2.1.2.0"
 export v_ANT="1.9.7"
-export v_AWSCLI="1.11.10"
+export v_AWSCLI="1.11.11"
 export v_BASH="4.4_1"
 export v_BOOST="1.62.0"
 export v_CERTBOT="0.9.3"
@@ -29,7 +29,7 @@ export v_JRE="1.8.0_102"
 export v_JETTY="9.3.12.v20161014"
 export v_JRUBY="9.1.5.0"
 export v_JYTHON="2.7.0"
-export v_KUBERNETES="1.4.4"
+export v_KUBERNETES="1.4.5"
 export v_LASTPASSCLI="1.0.0"
 export v_LIBTOOL="2.4.6"
 export v_LIQUIBASE="3.5.3"
@@ -59,9 +59,9 @@ export v_TOMCAT="8.5.5"
 export v_VIRTUALENV="1.0.0"
 export v_WGET="1.18"
 export v_WPCLI="0.25.0"
-export v_YOUTUBE_DL="2016.10.31"
+export v_YOUTUBE_DL="2016.11.02"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 11/1/2016
+#Last update: 11/2/2016
 #EOF
