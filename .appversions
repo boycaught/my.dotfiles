@@ -2,7 +2,7 @@
 
 export v_ANSIBLE="2.2.0.0_1"
 export v_ANT="1.9.7"
-export v_AWSCLI="1.11.16"
+export v_AWSCLI="1.11.17"
 export v_BASH="4.4.5"
 export v_BOOST="1.62.0"
 export v_CERTBOT="0.9.3_1"
@@ -10,7 +10,7 @@ export v_COMPOSER="1.2.2"
 export v_DOCKER="1.12.3"
 export v_DOCKUTIL="2.0.5" 
 export v_DOXYGEN="1.8.12"
-export v_ELASTICSEARCH="5.0.0."
+export v_ELASTICSEARCH="5.0.1"
 export v_ELIXIR="1.3.4"
 export v_ELM="0.17.1"
 export v_EMSCRIPTEN="1.36.14"
@@ -23,7 +23,7 @@ export v_GRADLE="3.2"
 export v_GREP="2.25"
 export v_GROOVY="2.4.7"
 export v_HTTPING="2.5"
-export v_JENKINS="2.31"
+export v_JENKINS="2.32"
 export v_JDK="1.8.0_102"
 export v_JRE="1.8.0_102"
 export v_JETTY="9.3.14.v20161028"
@@ -63,5 +63,5 @@ export v_YOUTUBE_DL="2016.11.14.1"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 11/16/2016
+#Last update: 11/17/2016
 #EOF
