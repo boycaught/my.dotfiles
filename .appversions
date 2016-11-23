@@ -2,7 +2,7 @@
 
 export v_ANSIBLE="2.2.0.0_1"
 export v_ANT="1.9.7"
-export v_AWSCLI="1.11.17"
+export v_AWSCLI="1.11.19"
 export v_BASH="4.4.5"
 export v_BOOST="1.62.0"
 export v_CERTBOT="0.9.3_1"
@@ -34,7 +34,7 @@ export v_LASTPASSCLI="1.0.0"
 export v_LIBTOOL="2.4.6"
 export v_LIQUIBASE="3.5.3"
 export v_LLVM="3.9.0"
-export v_MONGODB="3.2.10"
+export v_MONGODB="3.2.11"
 export v_MONO="4.6.1.5"
 export v_MYSQL="10.1.16"
 export v_MARIADB="10.1.19"
@@ -63,5 +63,5 @@ export v_YOUTUBE_DL="2016.11.14.1"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 11/17/2016
+#Last update: 11/22/2016
 #EOF
