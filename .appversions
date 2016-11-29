@@ -23,7 +23,7 @@ export v_GRADLE="3.2.1"
 export v_GREP="2.25"
 export v_GROOVY="2.4.7"
 export v_HTTPING="2.5"
-export v_JENKINS="2.33"
+export v_JENKINS="2.34"
 export v_JDK="1.8.0_102"
 export v_JRE="1.8.0_102"
 export v_JETTY="9.3.14.v20161028"
@@ -63,5 +63,5 @@ export v_YOUTUBE_DL="2016.11.27"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 11/27/2016a
+#Last update: 11/28/2016
 #EOF
