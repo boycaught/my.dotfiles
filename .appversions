@@ -2,11 +2,11 @@
 
 export v_ANSIBLE="2.2.0.0_1"
 export v_ANT="1.9.7"
-export v_AWSCLI="1.11.24"
+export v_AWSCLI="1.11.26"
 export v_BASH="4.4.5"
 export v_BOOST="1.62.0"
 export v_CERTBOT="0.9.3_1"
-export v_COMPOSER="1.2.2"
+export v_COMPOSER="1.2.4"
 export v_DOCKER="1.12.3"
 export v_DOCKUTIL="2.0.5" 
 export v_DOXYGEN="1.8.12"
@@ -42,9 +42,9 @@ export v_NEO4J="3.0.7"
 export v_NINJA="1.7.2"
 export v_NGINX="1.10.2_1"
 export v_NMAP="7.11"
-export v_NODE="7.2.0"
+export v_NODE="7.2.1"
 export v_OPENSSL="1.0.2j"
-export v_PHPMYADMIN="4.6.4"
+export v_PHPMYADMIN="4.6.5.2"
 export v_PRIVOXY="3.0.26"
 export v_PYENV="1.0.4"
 export v_PYPY="5.0.1"
@@ -63,5 +63,5 @@ export v_YOUTUBE_DL="2016.12.01"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 12/5/2016
+#Last update: 12/8/2016
 #EOF
