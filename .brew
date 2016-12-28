@@ -27,6 +27,7 @@ brew install ack
 brew install git
 brew install rename
 brew install tree
+brew install dockutil
 
 # Cask applications
 # Favorites
@@ -67,7 +68,6 @@ fi
 #brew cask install alfred
 #brew cask install appzapper
 #brew cask install dropbox
-#brew cask install dockutil
 #brew cask install caffeine
 #brew cask install iterm2
 #brew cask install profilemanager
