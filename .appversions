@@ -2,7 +2,7 @@
 
 export v_ANSIBLE="2.2.0.0_2"
 export v_ANT="1.9.7"
-export v_AWSCLI="1.11.34"
+export v_AWSCLI="1.11.35"
 export v_BASH="4.4.5"
 export v_BOOST="1.63.0"
 export v_CERTBOT="0.9.3_1"
@@ -63,5 +63,5 @@ export v_YOUTUBE_DL="2016.12.22"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 12/29/2016
+#Last update: 12/30/2016
 #EOF
