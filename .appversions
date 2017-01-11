@@ -3,6 +3,7 @@
 export v_ANSIBLE="2.2.0.0_2"
 export v_ANT="1.10.0"
 export v_AWSCLI="1.11.36"
+export v_AWSSHELL="0.0.1"
 export v_BASH="4.4.5"
 export v_BOOST="1.63.0"
 export v_CERTBOT="0.9.3_1"
