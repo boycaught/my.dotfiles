@@ -28,7 +28,7 @@ export v_JENKINS="2.40"
 export v_JDK="1.8.0_102"
 export v_JRE="1.8.0_102"
 export v_JETTY="9.4.0.v20161208"
-export v_JRUBY="9.1.6.0"
+export v_JRUBY="9.1.7.0"
 export v_JYTHON="2.7.0"
 export v_KUBERNETES="1.5.2"
 export v_LASTPASSCLI="1.1.1"
@@ -64,5 +64,5 @@ export v_YOUTUBE_DL="2017.01.10"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 1/12/2017
+#Last update: 1/13/2017
 #EOF
