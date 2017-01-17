@@ -24,7 +24,7 @@ export v_GRADLE="3.2.1"
 export v_GREP="2.25"
 export v_GROOVY="2.4.7"
 export v_HTTPING="2.5"
-export v_JENKINS="2.40"
+export v_JENKINS="2.41"
 export v_JDK="1.8.0_102"
 export v_JRE="1.8.0_102"
 export v_JETTY="9.4.0.v20161208"
@@ -60,9 +60,9 @@ export v_TOMCAT="8.5.9"
 export v_VIRTUALENV="1.0.0"
 export v_WGET="1.18"
 export v_WPCLI="1.0.0"
-export v_YOUTUBE_DL="2017.01.14"
+export v_YOUTUBE_DL="2017.01.16"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 1/14/2017
+#Last update: 1/16/2017
 #EOF
