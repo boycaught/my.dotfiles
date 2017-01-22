@@ -1,8 +1,8 @@
 #!/bin/sh
 
-export v_ANSIBLE="2.2.0.0_2"
+export v_ANSIBLE="2.2.1.0"
 export v_ANT="1.10.0"
-export v_AWSCLI="1.11.38"
+export v_AWSCLI="1.11.41"
 export v_AWSSHELL="0.0.1"
 export v_BASH="4.4.5"
 export v_BOOST="1.63.0"
@@ -48,10 +48,10 @@ export v_NODE="7.4.0"
 export v_OPENSSL="1.0.2j"
 export v_PHPMYADMIN="4.6.5.2"
 export v_PRIVOXY="3.0.26"
-export v_PYENV="1.0.6"
+export v_PYENV="1.0.7"
 export v_PYPY="5.0.1"
 export v_PYTHON="2.7.13"
-export v_RABBITMQ="3.6.4"
+export v_RABBITMQ="3.6.6"
 export v_REDIS="3.2.5"
 export v_RETHINKDB="2.3.5"
 export v_RUBY="1.9.2-p320"
@@ -65,5 +65,5 @@ export v_YOUTUBE_DL="2017.01.18"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 1/18/2017
+#Last update: 1/21/2017
 #EOF
