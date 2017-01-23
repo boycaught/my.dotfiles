@@ -25,7 +25,7 @@ export v_GRADLE="3.2.1"
 export v_GREP="2.25"
 export v_GROOVY="2.4.7"
 export v_HTTPING="2.5"
-export v_JENKINS="2.41"
+export v_JENKINS="2.42"
 export v_JDK="1.8.0_102"
 export v_JRE="1.8.0_102"
 export v_JETTY="9.4.0.v20161208"
@@ -39,7 +39,7 @@ export v_LLVM="3.9.1"
 export v_MONGODB="3.4.1"
 export v_MONO="4.6.2.16"
 export v_MYSQL="10.1.16"
-export v_MARIADB="10.1.20"
+export v_MARIADB="10.1.21"
 export v_NEO4J="3.1.0"
 export v_NINJA="1.7.2"
 export v_NGINX="1.10.2_1"
@@ -65,5 +65,5 @@ export v_YOUTUBE_DL="2017.01.18"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 1/21/2017
+#Last update: 1/23/2017
 #EOF
