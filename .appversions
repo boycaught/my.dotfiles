@@ -2,7 +2,7 @@
 
 export v_ANSIBLE="2.2.1.0"
 export v_ANT="1.10.1"
-export v_AWSCLI="1.11.44"
+export v_AWSCLI="1.11.45"
 export v_AWSSHELL="0.0.1"
 export v_BASH="4.4.12"
 export v_BOOST="1.63.0"
@@ -71,5 +71,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 2/7/2017
+#Last update: 2/8/2017
 #EOF
