@@ -2,7 +2,7 @@
 
 export v_ANSIBLE="2.2.1.0_1"
 export v_ANT="1.10.1"
-export v_AWSCLI="1.11.48"
+export v_AWSCLI="1.11.50"
 export v_AWSSHELL="0.0.1"
 export v_BASH="4.4.12"
 export v_BOOST="1.63.0"
@@ -13,14 +13,15 @@ export v_DOCKER="1.13.1"
 export v_DOCKERCOMPOSE="1.11.1"
 export v_DOCKUTIL="2.0.5" 
 export v_DOXYGEN="1.8.13_1"
+export v_DVM="0.7.0"
 export v_ELASTICSEARCH="5.2.1"
-export v_ELIXIR="1.4.1"
+export v_ELIXIR="1.4.2"
 export v_ELM="0.17.1"
 export v_EMSCRIPTEN="1.37.1"
 export v_ERLANG="19.2"
 export v_GIT="2.11.1"
 export v_GNUPG="1.4.20"
-export v_GO="1.7.5"
+export v_GO="1.8"
 export v_GRAILS="3.2.6"
 export v_GRADLE="3.2.1"
 export v_GREP="3.0"
@@ -71,5 +72,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 2/16/2017
+#Last update: 2/18/2017
 #EOF
