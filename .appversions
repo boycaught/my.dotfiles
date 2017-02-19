@@ -2,7 +2,7 @@
 
 export v_ANSIBLE="2.2.1.0_1"
 export v_ANT="1.10.1"
-export v_AWSCLI="1.11.50"
+export v_AWSCLI="1.11.51"
 export v_AWSSHELL="0.0.1"
 export v_BASH="4.4.12"
 export v_BOOST="1.63.0"
@@ -33,7 +33,7 @@ export v_JRE="1.8.0_102"
 export v_JETTY="9.4.0.v20170120"
 export v_JRUBY="9.1.7.0"
 export v_JYTHON="2.7.0"
-export v_KUBERNETES="1.5.2"
+export v_KUBERNETES="1.5.3"
 export v_LASTPASSCLI="1.1.2"
 export v_LIBTOOL="2.4.6"
 export v_LIQUIBASE="3.5.3"
@@ -61,16 +61,16 @@ export v_RETHINKDB="2.3.5"
 export v_RUBY="1.9.2-p320"
 export v_RUST="1.15.1"
 export v_SQLITE="3.17.0"
-export v_TERRAFORM="0.8.6"
+export v_TERRAFORM="0.8.7"
 export v_TOMCAT="8.5.11"
 export v_VIRTUALENV="1.0.0"
 export v_WGET="1.19.1"
 export v_WPCLI="1.1.0"
 export v_X264="r2748"
-export v_YOUTUBE_DL="2017.02.16"
+export v_YOUTUBE_DL="2017.02.17"
 export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 2/18/2017
+#Last update: 2/19/2017
 #EOF
