@@ -2,7 +2,7 @@
 
 export v_ANSIBLE="2.2.1.0_1"
 export v_ANT="1.10.1"
-export v_AWSCLI="1.11.52"
+export v_AWSCLI="1.11.54"
 export v_AWSSHELL="0.0.1"
 export v_BASH="4.4.12"
 export v_BOOST="1.63.0"
@@ -67,7 +67,7 @@ export v_VIRTUALENV="1.0.0"
 export v_WGET="1.19.1"
 export v_WPCLI="1.1.0"
 export v_X264="r2748"
-export v_YOUTUBE_DL="2017.02.22"
+export v_YOUTUBE_DL="2017.02.24.1"
 export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
