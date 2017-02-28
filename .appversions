@@ -2,7 +2,7 @@
 
 export v_ANSIBLE="2.2.1.0_1"
 export v_ANT="1.10.1"
-export v_AWSCLI="1.11.55"
+export v_AWSCLI="1.11.56"
 export v_AWSSHELL="0.0.1"
 export v_BASH="4.4.12"
 export v_BOOST="1.63.0"
@@ -18,7 +18,7 @@ export v_ELASTICSEARCH="5.2.1"
 export v_ELIXIR="1.4.2"
 export v_ELM="0.17.1"
 export v_EMSCRIPTEN="1.37.1"
-export v_ERLANG="19.2"
+export v_ERLANG="19.2.3"
 export v_GIT="2.12.0"
 export v_GNUPG="1.4.20"
 export v_GO="1.8"
@@ -67,10 +67,10 @@ export v_VIRTUALENV="1.0.0"
 export v_WGET="1.19.1"
 export v_WPCLI="1.1.0"
 export v_X264="r2748"
-export v_YOUTUBE_DL="2017.02.24.1"
+export v_YOUTUBE_DL="2017.02.27"
 export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 2/27/2017
+#Last update: 2/28/2017
 #EOF
