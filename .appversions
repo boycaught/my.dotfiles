@@ -49,6 +49,7 @@ export v_NGINX="1.10.3"
 export v_NMAP="7.11"
 export v_NODE="7.7.1"
 export v_OPENSSL="@1.1 1.1.0e"
+export v_PACKER="0.12.3"
 export v_PASSENGER="5.1.2"
 export v_PHPMYADMIN="4.6.6"
 export v_PRIVOXY="3.0.26"
@@ -72,5 +73,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 3/2/2017
+#Last update: 3/3/2017
 #EOF
