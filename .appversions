@@ -2,7 +2,7 @@
 
 export v_ANSIBLE="2.2.1.0_1"
 export v_ANT="1.10.1"
-export v_AWSCLI="1.11.57"
+export v_AWSCLI="1.11.58"
 export v_AWSSHELL="0.0.1"
 export v_BASH="4.4.12"
 export v_BOOST="1.63.0"
@@ -33,7 +33,7 @@ export v_JRE="1.8.0_102"
 export v_JETTY="9.4.0.v20170120"
 export v_JRUBY="9.1.7.0"
 export v_JYTHON="2.7.0"
-export v_KUBERNETES="1.5.3"
+export v_KUBERNETES="1.5.4"
 export v_KUBERNETES_HELM="2.2.2"
 export v_LASTPASSCLI="1.1.2"
 export v_LIBAV="12"
@@ -76,5 +76,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 3/7/2017
+#Last update: 3/8/2017
 #EOF
