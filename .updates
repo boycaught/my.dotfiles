@@ -1,18 +1,15 @@
-# EXTEND PASSWORD
-sudo -v
-
 # SET OWNERSHIP PERMISSIONS FOR BREW CELLAR
-sudo chown -R ${USER} /usr/local
-sleep 1
-echo -ne 'Fix ownership rights for Homebrew packages...                                        (0%)\r'
-sleep 1
-echo -ne 'Now fixing ownership rights for Homebrew packages... #####                          (33%)\r'
-sleep 1 
-echo -ne 'Now fixing ownership rights for Homebrew packages... #############                  (66%)\r'
-sleep 1 
-echo -ne 'Now fixing ownership rights for Homebrew packages... #######################       (100%)\r'
-echo -ne '\n'
-sleep 2
+#sudo chown -R ${USER} /usr/local
+#sleep 1
+#echo -ne 'Fix ownership rights for Homebrew packages...                                        (0%)\r'
+#sleep 1
+#echo -ne 'Now fixing ownership rights for Homebrew packages... #####                          (33%)\r'
+#sleep 1 
+#echo -ne 'Now fixing ownership rights for Homebrew packages... #############                  (66%)\r'
+#sleep 1 
+#echo -ne 'Now fixing ownership rights for Homebrew packages... #######################       (100%)\r'
+#echo -ne '\n'
+#sleep 2
 
 # BREW UPDATES
 echo -ne 'Update Homebrew packages...                                                          (0%)\r'
@@ -52,16 +49,16 @@ echo -ne '\n'
 sleep 1
 
 # Private
-echo -ne 'Sync PRIVATE GITHUB repo...                                                          (0%)\r'
-sudo git -C /etc/profile.d/ pull
-sleep 1
-echo -ne 'Now syncing PRIVATE GITHUB repo... #####                                            (33%)\r'
-sleep 1
-echo -ne 'Now syncing PRIVATE GITHUB repo... #############                                    (66%)\r'
-sleep 1
-echo -ne 'Now syncing PRIVATE GITHUB repo... #######################                         (100%)\r'
-echo -ne '\n'
-sleep 1
+#echo -ne 'Sync PRIVATE GITHUB repo...                                                          (0%)\r'
+#sudo git -C /etc/profile.d/ pull
+#sleep 1
+#echo -ne 'Now syncing PRIVATE GITHUB repo... #####                                            (33%)\r'
+#sleep 1
+#echo -ne 'Now syncing PRIVATE GITHUB repo... #############                                    (66%)\r'
+#sleep 1
+#echo -ne 'Now syncing PRIVATE GITHUB repo... #######################                         (100%)\r'
+#echo -ne '\n'
+#sleep 1
 
 # call customizer
 customize
