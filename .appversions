@@ -51,6 +51,7 @@ export v_LIBAV="12"
 export v_LIBFFI="3.2.1"
 export v_LIBGPG_ERROR="1.27"
 export v_LIBPNG="1.6.29"
+export v_LIBRESSL="2.5.3"
 export v_LIBTOOL="2.4.6"
 export v_LIQUIBASE="3.5.3"
 export v_LLVM="4.0.0"
@@ -86,16 +87,16 @@ export v_RETHINKDB="2.3.5"
 export v_RUBY="1.9.2-p320"
 export v_RUST="1.16.0"
 export v_SQLITE="3.18.0"
-export v_TERRAFORM="0.9.2"
+export v_TERRAFORM="0.9.3"
 export v_TOMCAT="8.5.13"
 export v_VIRTUALENV="1.0.0"
 export v_WGET="1.19.1"
 export v_WPCLI="1.1.0"
 export v_X264="r2748"
-export v_YOUTUBE_DL="2017.04.11"
+export v_YOUTUBE_DL="2017.04.15"
 export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 4/11/2016
+#Last update: 4/14/2016
 #EOF
