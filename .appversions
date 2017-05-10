@@ -99,10 +99,10 @@ export v_VIRTUALENV="1.0.0"
 export v_WGET="1.19.1"
 export v_WPCLI="1.1.0"
 export v_X264="r2748"
-export v_YOUTUBE_DL="2017.05.01"
+export v_YOUTUBE_DL="2017.05.09"
 export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 5/4/2016
+#Last update: 5/9/2016
 #EOF
