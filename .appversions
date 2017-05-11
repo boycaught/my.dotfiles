@@ -40,13 +40,13 @@ export v_GREP="3.0"
 export v_GROOVY="2.4.10"
 export v_HTTPING="2.5"
 export v_IMAGEMAGICK="7.0.5-5"
-export v_JENKINS="2.58"
+export v_JENKINS="2.60"
 export v_JDK="1.8.0_102"
 export v_JRE="1.8.0_102"
 export v_JETTY="9.4.4.v20170414"
 export v_JRUBY="9.1.8.0"
 export v_JYTHON="2.7.0"
-export v_KUBERNETES="1.6.2"
+export v_KUBERNETES="1.6.3"
 export v_KUBERNETES_HELM="2.3.1"
 export v_LASTPASSCLI="1.1.2"
 export v_LIBAV="12"
@@ -104,5 +104,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 5/10/2016
+#Last update: 5/11/2016
 #EOF
