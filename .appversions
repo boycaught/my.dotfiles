@@ -3,7 +3,7 @@
 export v_ACK="2.18"
 export v_ANSIBLE="2.3.0.0_2"
 export v_ANT="1.10.1"
-export v_AWSCLI="1.11.86"
+export v_AWSCLI="1.11.90"
 export v_AWSSHELL="0.0.1"
 export v_AUGEAS="1.8.0"
 export v_BASH="4.4.12"
