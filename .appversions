@@ -83,7 +83,7 @@ export v_PACKER="1.0.0"
 export v_PASSENGER="5.1.4"
 export v_PKG_CONFIG="0.29.2"
 export v_PRCE="8.40"
-export v_PHPMYADMIN="4.6.6"
+export v_PHPMYADMIN="4.7.1"
 export v_PRIVOXY="3.0.26"
 export v_PROTBUF="3.3.0"
 export v_PYENV="1.0.10"
@@ -108,5 +108,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-#Last update: 5/25/2016
+#Last update: 5/26/2017
 #EOF
