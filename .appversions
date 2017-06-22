@@ -3,7 +3,7 @@
 export v_ACK="2.18"
 export v_ANSIBLE="2.3.1.0"
 export v_ANT="1.10.1"
-export v_AWSCLI="1.11.109"
+export v_AWSCLI="1.11.110"
 export v_AWSSHELL="0.0.1"
 export v_AUGEAS="1.8.0"
 export v_AUTOMAKE="1.15.1"
@@ -89,7 +89,7 @@ export v_NODE="8.1.2"
 export v_NPTH="1.5"
 export v_OPENSSL="@1.1 1.1.0f"
 export v_p11_KIT="0.23.7"
-export v_PACKER="1.0.1"
+export v_PACKER="1.0.2"
 export v_PASSENGER="5.1.4"
 export v_PKG_CONFIG="0.29.2"
 export v_PRCE="8.40"
@@ -117,5 +117,5 @@ export v_YOUTUBE_DL="2017.06.18"
 export v_ZLIB="1.2.11"
 export v_BOGUS="24.7.365"
 
-#Last update: 6/21/2017
+#Last update: 6/22/2017
 #EOF
