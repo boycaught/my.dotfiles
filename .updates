@@ -60,6 +60,11 @@ sleep 1
 #echo -ne '\n'
 #sleep 1
 
+# update ClamAV antivirus definitions
+echo -ne 'Update ClamAV antivirus definitions...  \r'
+freshclam -v
+sleep 5
+
 # call customizer
 customize
 echo -ne 'Now syncing PRIVATE GITHUB repo... #####                                            (33%)\r'
