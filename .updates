@@ -48,6 +48,11 @@ echo -ne 'Now syncing PUBLIC GITHUB repo... #######################             
 echo -ne '\n'
 sleep 1
 
+# update ClamAV antivirus definitions
+echo -ne 'Update ClamAV antivirus definitions...  \r'
+freshclam -v
+sleep 5
+
 # Private
 #echo -ne 'Sync PRIVATE GITHUB repo...                                                          (0%)\r'
 #sudo git -C /etc/profile.d/ pull
@@ -59,11 +64,6 @@ sleep 1
 #echo -ne 'Now syncing PRIVATE GITHUB repo... #######################                         (100%)\r'
 #echo -ne '\n'
 #sleep 1
-
-# update ClamAV antivirus definitions
-echo -ne 'Update ClamAV antivirus definitions...  \r'
-freshclam -v
-sleep 5
 
 # call customizer
 customize
