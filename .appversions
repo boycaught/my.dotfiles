@@ -1,7 +1,7 @@
 #!/bin/sh
 
 export v_ACK="2.18"
-export v_ANSIBLE="2.3.2.0_1"
+export v_ANSIBLE="2.4.0.0"
 export v_ANT="1.10.1"
 export v_APR="1.6.2_1"
 export v_APR_UTIL="1.6.0"
@@ -45,7 +45,7 @@ export v_GNUTLS="3.5.11"
 export v_GPG_AGENT="2.0.30_3"
 export v_GNUTLS="3.5.15"
 export v_GO="1.9"
-export v_GRAILS="3.3.0"
+export v_GRAILS="3.3.1"
 export v_GRADLE="4.2"
 export v_GREP="3.1"
 export v_GROOVY="2.4.12"
@@ -136,5 +136,5 @@ export v_YOUTUBE_DL="2017.09.15"
 export v_ZLIB="1.2.11"
 export v_BOGUS="24.7.365"
 
-#Last update: 9/21/2017
+#Last update: 9/22/2017
 #EOF
