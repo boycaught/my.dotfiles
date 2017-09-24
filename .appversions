@@ -32,7 +32,7 @@ export v_ELIXIR="1.5.1"
 export v_ELM="0.17.1"
 export v_EMSCRIPTEN="1.37.18"
 export v_ERLANG="20.0.5"
-export v_FAAC="1.29"
+export v_FAAC="1.29.7.5"
 export v_FFMPEG="3.3.4"
 export v_FONTCONFIG="2.12.6"
 export v_FREETYPE="2.8.1"
@@ -131,10 +131,10 @@ export v_WPCLI="1.3.0"
 export v_WXMAC="3.0.3.1_1"
 export v_X264="r2795"
 export v_YASM="1.3.0_1"
-export v_YOUTUBE_DL="2017.09.15"
+export v_YOUTUBE_DL="2017.09.24"
 
 export v_ZLIB="1.2.11"
 export v_BOGUS="24.7.365"
 
-#Last update: 9/22/2017
+#Last update: 9/23/2017
 #EOF
