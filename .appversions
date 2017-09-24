@@ -51,7 +51,7 @@ export v_GREP="3.1"
 export v_GROOVY="2.4.12"
 export v_HTTPING="2.5"
 export v_ICU4C="59.1"
-export v_IMAGEMAGICK="7.0.7-3"
+export v_IMAGEMAGICK="7.0.7-4"
 export v_JANSSON="2.10"
 export v_JEMALLOC="5.0.1"
 export v_JENKINS="2.79"
@@ -136,5 +136,5 @@ export v_YOUTUBE_DL="2017.09.24"
 export v_ZLIB="1.2.11"
 export v_BOGUS="24.7.365"
 
-#Last update: 9/23/2017
+#Last update: 9/23/2017a
 #EOF
