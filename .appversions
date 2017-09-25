@@ -111,7 +111,7 @@ export v_PRIVOXY="3.0.26"
 export v_PROTBUF="3.4.1"
 export v_PYENV="1.1.4"
 export v_PYPY="5.0.1"
-export v_PYTHON="2.7.13_1"
+export v_PYTHON="2.7.14"
 export v_R="3.4.1_2"
 export v_RABBITMQ="3.6.12"
 export v_READLINE="7.0.3_1"
@@ -120,6 +120,7 @@ export v_RETHINKDB="2.3.5"
 export v_RUBY="1.9.2-p320"
 export v_RUST="1.20.0"
 export v_S3CMD="2.0.0"
+export v_SIP="4.19.3_2"
 export v_SCONS="3.0.0"
 export v_SQLITE="3.20.1"
 export v_SWAGGER_CODEGEN="2.2.3"
@@ -136,5 +137,5 @@ export v_YOUTUBE_DL="2017.09.24"
 export v_ZLIB="1.2.11"
 export v_BOGUS="24.7.365"
 
-#Last update: 9/23/2017a
+#Last update: 9/25/2017
 #EOF
