@@ -59,7 +59,7 @@ export v_IPYTHON="@5 5.5.0_1"
 export v_IMAGEMAGICK="7.0.7-13"
 export v_JANSSON="2.10"
 export v_JEMALLOC="5.0.10"
-export v_JENKINS="2.92"
+export v_JENKINS="2.93"
 export v_JETTY="9.4.7.v20170914"
 export v_JDK="1.8.0_102"
 export v_JRE="1.8.0_102"
@@ -156,5 +156,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 12/3/2017
+# Last update: 12/4/2017
 # EOF
