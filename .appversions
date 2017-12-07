@@ -14,7 +14,7 @@ export v_BASH="4.4.12"
 export v_BOOST="1.65.1"
 export v_CAIRO="1.14.10"
 export v_C_ARES="1.13.0"
-export v_CERTBOT="0.19.0"
+export v_CERTBOT="0.20.0"
 export v_CMAKE="3.10.0"
 export v_COMPOSER="1.5.5"
 export v_CONSUL="1.0.1"
@@ -117,11 +117,12 @@ export v_PANDOC="2.0.4"
 export v_PASSENGER="5.1.12"
 export v_PKG_CONFIG="0.29.2"
 export v_PRCE="8.41"
+export v_PHP7="7.0.26_18"
 export v_PHPMYADMIN="4.7.6"
 export v_PINENTRY="1.1.0"
 export v_PIXMAN="0.34.0_1"
 export v_PRIVOXY="3.0.26"
-export v_PROTBUF="3.5.0"
+export v_PROTBUF="3.5.0.1"
 export v_PYENV="1.1.5"
 export v_PYENV_VIRTUALENV="1.1.1"
 export v_PYPY="5.0.1"
@@ -157,5 +158,6 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 12/6/2017
+# Last update: 12/7/2017
+# Pearl Harbor
 # EOF
