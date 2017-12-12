@@ -43,6 +43,7 @@ packages=(
 	cyberduck 
 	docker 
 	electron 
+	freefilesync 
 	gimp 
 	handbrake 
 	inkscape 
