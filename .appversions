@@ -56,7 +56,7 @@ export v_HTTPD="2.4.29"
 export v_HTTPING="2.5"
 export v_ICU4C="60.1"
 export v_IPYTHON="@5 5.5.0_1"
-export v_IMAGEMAGICK="7.0.7-13"
+export v_IMAGEMAGICK="7.0.7-14"
 export v_JANSSON="2.10"
 export v_JEMALLOC="5.0.10"
 export v_JENKINS="2.93"
@@ -129,7 +129,7 @@ export v_PYPY="5.0.1"
 export v_PYQT="5.9.2"
 export v_PYTHON="2.7.14"
 export v_PYTHON3="3.6.3"
-export v_QT="5.9.3"
+export v_QT="5.10.0"
 export v_R="3.4.3"
 export v_RABBITMQ="3.6.14"
 export v_READLINE="7.0.3_1"
@@ -158,5 +158,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 12/11/2017
+# Last update: 12/11/2017a
 # EOF
