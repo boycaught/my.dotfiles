@@ -31,6 +31,7 @@ export v_ELASTICSEARCH="6.0.1"
 export v_ELIXIR="1.5.2"
 export v_ELM="0.17.1"
 export v_EMSCRIPTEN="1.37.24"
+export v_ENCHANT="2.1.2"
 export v_ERLANG="20.1.7"
 export v_FAAC="1.29.9.2"
 export v_FFMPEG="3.4.1"
@@ -59,7 +60,7 @@ export v_IPYTHON="@5 5.5.0_1"
 export v_IMAGEMAGICK="7.0.7-14"
 export v_JANSSON="2.10"
 export v_JEMALLOC="5.0.10"
-export v_JENKINS="2.93"
+export v_JENKINS="2.94"
 export v_JETTY="9.4.7.v20170914"
 export v_JDK="1.8.0_102"
 export v_JRE="1.8.0_102"
@@ -158,5 +159,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 12/11/2017a
+# Last update: 12/12/2017
 # EOF
