@@ -58,7 +58,7 @@ export v_HTTPD="2.4.29_1"
 export v_HTTPING="2.5"
 export v_ICU4C="60.2"
 export v_IPYTHON="@5 5.5.0_1"
-export v_IMAGEMAGICK="7.0.7-17"
+export v_IMAGEMAGICK="7.0.7-18"
 export v_JANSSON="2.10"
 export v_JEMALLOC="5.0.10"
 export v_JENKINS="2.98"
@@ -160,5 +160,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 12/28/2017b
+# Last update: 12/29/2017b
 # EOF
