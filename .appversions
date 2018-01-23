@@ -58,7 +58,7 @@ export v_HTTPD="2.4.29_1"
 export v_HTTPING="2.5"
 export v_ICU4C="60.2"
 export v_IPYTHON="@5 5.5.0_2"
-export v_IMAGEMAGICK="7.0.7-19"
+export v_IMAGEMAGICK="7.0.7-22"
 export v_JANSSON="2.10"
 export v_JEMALLOC="5.0.10"
 export v_JENKINS="2.103"
@@ -163,5 +163,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 1/22/2018 - HoneyFish
+# Last update: 1/22/2018 - SilverSurfer
 # EOF
