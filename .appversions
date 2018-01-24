@@ -129,7 +129,7 @@ export v_PROTBUF="3.5.1"
 export v_PYENV="1.2.1"
 export v_PYENV_VIRTUALENV="1.1.1"
 export v_PYPY="5.0.1"
-export v_PYQT="5.9.2_2"
+export v_PYQT="5.10"
 export v_PYTHON="2.7.14_2"
 export v_PYTHON3="3.6.4_2"
 export v_QT="5.10.0_1"
@@ -143,7 +143,7 @@ export v_RUBY="1.9.2-p320"
 export v_RUST="1.23.0"
 export v_S3CMD="2.0.1"
 export v_SASSC="3.4.7"
-export v_SIP="4.19.6_3"
+export v_SIP="4.19.7"
 export v_SCONS="3.0.1"
 export v_SQLITE="3.21.0"
 export v_SWAGGER_CODEGEN="2.3.1"
@@ -163,5 +163,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 1/22/2018 - SilverSurfer
+# Last update: 1/24/2018 - SilverSurfer
 # EOF
