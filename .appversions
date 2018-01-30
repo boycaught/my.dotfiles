@@ -74,6 +74,7 @@ export v_JYTHON="2.7.1"
 export v_KUBERNETES="1.6.5"
 export v_KUBERNETES_CLI="1.9.2"
 export v_KUBERNETES_HELM="2.7.2"
+export v_LAME="3.100"
 export v_LASTPASSCLI="1.2.2"
 export v_LIBASSUAN="2.5.1"
 export v_LIBAV="12.2"
@@ -166,5 +167,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 1/28/2018 - SilverSurfer
+# Last update: 1/29/2018 - SilverSurfer
 # EOF
