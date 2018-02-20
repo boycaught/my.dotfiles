@@ -59,10 +59,10 @@ export v_HTTPD="2.4.29_1"
 export v_HTTPING="2.5"
 export v_ICU4C="60.2"
 export v_IPYTHON="@5 5.5.0_2"
-export v_IMAGEMAGICK="7.0.7-22"
+export v_IMAGEMAGICK="7.0.7-23"
 export v_JANSSON="2.10"
 export v_JEMALLOC="5.0.10"
-export v_JENKINS="2.107"
+export v_JENKINS="2.108"
 export v_JETTY="9.4.8.v20171121"
 export v_JDK="1.8.0_102"
 export v_JRE="1.8.0_102"
@@ -167,5 +167,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 2/18/2018 - SilverSurfer
+# Last update: 2/19/2018 - SilverSurfer
 # EOF
