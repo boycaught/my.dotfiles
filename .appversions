@@ -66,7 +66,7 @@ export v_JENKINS="2.108"
 export v_JETTY="9.4.8.v20171121"
 export v_JDK="1.8.0_102"
 export v_JRE="1.8.0_102"
-export v_JRUBY="9.1.15.0"
+export v_JRUBY="9.1.16.0"
 export v_JPEG="9b"
 export v_JSDOC3="3.5.5"
 export v_JSONC="0.12.1"
@@ -124,7 +124,7 @@ export v_PASSENGER="5.2.0"
 export v_PKG_CONFIG="0.29.2"
 export v_PRCE="8.41"
 export v_PHP7="7.0.27_19"
-export v_PHPMYADMIN="4.7.7"
+export v_PHPMYADMIN="4.7.8"
 export v_PINENTRY="1.1.0_1"
 export v_PIXMAN="0.34.0_1"
 export v_PNGQUANT="2.11.7"
@@ -167,5 +167,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 2/21/2018 - SilverSurfer
+# Last update: 2/22/2018 - HoneyFishMINI
 # EOF
