@@ -122,11 +122,11 @@ export v_OPENSSL="1.0.2n"
 export v_OPENSSL="@1.1 1.1.0g_1"
 export v_p11_KIT="0.23.10"
 export v_PACKER="1.2.1"
-export v_PANDOC="2.1.1"
+export v_PANDOC="2.1.2"
 export v_PASSENGER="5.2.1"
 export v_PKG_CONFIG="0.29.2"
 export v_PRCE="8.41"
-export v_PHP7="7.2.2_15"
+export v_PHP7="7.2.3"
 export v_PHPMYADMIN="4.7.8"
 export v_PINENTRY="1.1.0_1"
 export v_PIXMAN="0.34.0_1"
@@ -170,5 +170,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 3/3/2018 - SilverSurfer - Safari
+# Last update: 3/3/2018 - HoneyfishMINI - Safari
 # EOF
