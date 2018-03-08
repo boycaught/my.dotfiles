@@ -12,6 +12,7 @@ export v_AUGEAS="1.10.1"
 export v_AUTOMAKE="1.16"
 export v_BASH="4.4.19"
 export v_BOOST="1.66.0"
+export v_BROTLI="1.0.3"
 export v_CAIRO="1.14.12"
 export v_C_ARES="1.14.0"
 export v_CERTBOT="0.21.1_1"
@@ -170,5 +171,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 3/7/2018a - SilverSurfer - Safari
+# Last update: 3/7/2018b - SilverSurfer - Safari
 # EOF
