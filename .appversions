@@ -100,7 +100,7 @@ export v_LIBZIP="1.3.0"
 export v_LIQUIBASE="3.5.5"
 export v_LLVM="5.0.0"
 export v_MARIADB="10.2.13"
-export v_MAVEN="3.5.2"
+export v_MAVEN="3.5.3"
 export v_MERCURIAL="4.5.2"
 export v_MOBILE_SHELL="1.3.2_1"
 export v_MONGODB="3.6.3"
@@ -172,5 +172,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 3/9/2018 - HoneyFishMINI - Safari
+# Last update: 3/9/2018 - SilverSurfer - Safari
 # EOF
