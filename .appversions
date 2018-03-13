@@ -61,7 +61,7 @@ export v_HTTPD="2.4.29_2"
 export v_HTTPING="2.5"
 export v_ICU4C="60.2"
 export v_IPYTHON="@5 5.5.0_4"
-export v_IMAGEMAGICK="7.0.7-25"
+export v_IMAGEMAGICK="7.0.7-26"
 export v_JANSSON="2.10"
 export v_JEMALLOC="5.0.10"
 export v_JENKINS="2.110"
@@ -172,5 +172,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 3/11/2018 - SilverSurfer - Safari
+# Last update: 3/12/2018 - SilverSurfer - Safari
 # EOF
