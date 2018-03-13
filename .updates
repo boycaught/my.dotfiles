@@ -11,9 +11,6 @@
 #echo -ne '\n'
 #sleep 2
 
-# LOG UPDATES
-tee –a getupdate.log
-
 # CLAMAV UPDATES
 # update ClamAV antivirus definitions
 echo -ne 'Update ClamAV antivirus definitions...  \r'
