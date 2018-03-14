@@ -35,7 +35,7 @@ export v_ELM="0.17.1"
 export v_EMSCRIPTEN="1.37.36"
 export v_ENCHANT="2.2.3"
 export v_ERLANG_19="@19 19.3.6.4"
-export v_ERLANG="20.2.4"
+export v_ERLANG="20.3"
 export v_FAAC="1.29.9.2"
 export v_FDK_AAC="0.1.6"
 export v_FFMPEG="3.4.2"
@@ -46,7 +46,7 @@ export v_GAWK="4.2.1"
 export v_GCC="7.3.0"
 export v_GDBM="1.14.1_1"
 export v_GIT="2.16.2"
-export v_GLIB="2.54.3"
+export v_GLIB="2.56.0"
 export v_GLIDE="0.13.1"
 export v_GMP="6.1.2_1"
 export v_GNUPG="2.2.5"
@@ -175,5 +175,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 3/13/2018 - SilverSurfer - Safari
+# Last update: 3/14/2018 - HoneyFishMINI - Safari
 # EOF
