@@ -1,35 +1,35 @@
 #!/bin/bash
 
 # Make sure we’re using the latest Homebrew
-brew update
+brew update --color=auto
 
 # Upgrade any already-installed formulae
-brew upgrade
+brew upgrade --color=auto
 
 # Install GNU core utilities (those that come with OS X are outdated)
-brew install coreutils
+brew install coreutils --color=auto
 echo "Don’t forget to add $(brew --prefix coreutils)/libexec/gnubin to \$PATH."
 
 # Install GNU `find`, `locate`, `updatedb`, and `xargs`, g-prefixed
-brew install findutils
+brew install findutils --color=auto
 
 # Install Bash 4
-brew install bash
+brew install bash --color=auto
 
 # Install wget with IRI support
-brew install wget --enable-iri
+brew install wget --enable-iri --color=auto
 
 # Install more recent versions of some OS X tools
 # brew tap homebrew/dupes
 # brew install homebrew/dupes/grep
-brew tap homebrew/php
+brew tap homebrew/php --color=auto
 
 # Install everything else
-brew install ack
-brew install git
-brew install rename
-brew install tree
-brew install dockutil
+brew install ack --color=auto
+brew install git --color=auto
+brew install rename --color=auto
+brew install tree --color=auto
+brew install dockutil --color=auto
 
 # Cask applications
 # Favorites
@@ -54,13 +54,13 @@ packages=(
 	vlc 
 )
 if [ ${dateholder:0:3} == 'Sat' ] || [ ${dateholder:0:3} == 'Sun' ] ; then
-	echo "Weekend: it is now time to force Cask updates."
+	echo "Weekend: it is now time to force Cask updates." --color=auto
 	for i in "${packages[@]}"
 	do
 		brew cask install $i --force
 	done
 else
-	echo "${dateholder:0:3}: Casks will checked for updates on Saturday or Sunday."
+	echo "${dateholder:0:3}: Casks will checked for updates on Saturday or Sunday." --color=auto
 fi
 
 # Optional for new installs
