@@ -8,18 +8,18 @@
 #echo -ne 'Now fixing ownership rights for Homebrew packages... #############                  (66%)\r'
 #sleep 1 
 #echo -ne 'Now fixing ownership rights for Homebrew packages... #######################       (100%)\r'
-#echo -ne '\n'
+#echo -ne '\n\r'
 #sleep 2
 
 # CLAMAV UPDATES
 # update ClamAV antivirus definitions
 echo -ne 'Update ClamAV antivirus definitions...  \r'
 sleep 1
-echo -ne '\n'
+echo -ne '\n\r'
 freshclam -v
 sleep 5
-echo -ne '\n'
-sleep 20
+echo -ne '\n\r'
+sleep 12
 
 # BREW UPDATES
 echo -ne 'Update Homebrew packages...                                                          (0%)\r'
@@ -30,7 +30,7 @@ sleep 1
 echo -ne 'Now updating Homebrew packages... #############                                     (66%)\r'
 sleep 1
 echo -ne 'Now updating Homebrew packages... #######################                          (100%)\r'
-echo -ne '\n'
+echo -ne '\n\r'
 # sleep 1
 
 # METEOR UPDATES
@@ -42,7 +42,7 @@ echo -ne '\n'
 # echo -ne 'Now updating Meteor package catalogs... #############                               (66%)\r'
 # sleep 1
 # echo -ne 'Now updating Meteor package catalogs... #######################                    (100%)\r'
-# echo -ne '\n'
+# echo -ne '\n\r'
 sleep 2
 
 # GITHUB SYNCS
@@ -55,7 +55,7 @@ sleep 1
 echo -ne 'Now syncing PUBLIC GITHUB repo... #############                                     (66%)\r'
 sleep 1
 echo -ne 'Now syncing PUBLIC GITHUB repo... #######################                          (100%)\r'
-echo -ne '\n'
+echo -ne '\n\r'
 sleep 1
 
 # Private
@@ -67,7 +67,7 @@ sleep 1
 #echo -ne 'Now syncing PRIVATE GITHUB repo... #############                                    (66%)\r'
 #sleep 1
 #echo -ne 'Now syncing PRIVATE GITHUB repo... #######################                         (100%)\r'
-#echo -ne '\n'
+#echo -ne '\n\r'
 #sleep 1
 
 # call customizer
@@ -78,4 +78,4 @@ echo -ne 'Now syncing PRIVATE GITHUB repo... #############                      
 sleep 1
 echo -ne 'Now syncing PRIVATE GITHUB repo... #######################                         (100%)\r'
 echo -ne 'Updates completed!                                                                       \r'
-
+#echo -ne '\n\r'
