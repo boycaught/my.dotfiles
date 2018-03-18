@@ -63,23 +63,23 @@ else
 	echo "${dateholder:0:3}: Casks will checked for updates on Saturday or Sunday."
 fi
 
-# Optional for new installs
-#brew cask install alfred
-#brew cask install appzapper
-#brew cask install docker-toolbox
-#brew cask install dropbox
-#brew cask install caffeine
-#brew cask install iterm2
-#brew cask install profilemanager
-#brew cask install sublime-text
-#brew cask install xquartz 
-#brew cask install contexts 
-#brew cask install path-finder 
-#brew cask install telegram 
-#brew cask install webstorm
-#brew cask install virtualbox
-#brew cask install vagrant
-#brew cask install nodeclipse
+# Optional for new (cask) installs
+	#alfred
+	#appzapper
+	#docker-toolbox
+	#dropbox
+	#caffeine
+	#iterm2
+	#profilemanager
+	#sublime-text
+	#xquartz 
+	#contexts 
+	#path-finder 
+	#telegram 
+	#webstorm
+	#virtualbox
+	#vagrant
+	#nodeclipse
 
 # Remove outdated versions from the cellar
 brew cleanup
