@@ -48,7 +48,7 @@ export v_GDBM="1.14.1_1"
 export v_GIT="2.16.2"
 export v_GLIB="2.56.0"
 export v_GLIDE="0.13.1"
-export v_GMP="6.1.2_1"
+export v_GMP="6.1.2_2"
 export v_GNUPG="2.2.5"
 export v_GNUTLS="3.5.18"
 export v_GPG_AGENT="2.0.31"
@@ -178,5 +178,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 3/19/2018 - HoneyFishMINI - Safari
+# Last update: 3/19/2018 - SilverSurfer - Safari
 # EOF
