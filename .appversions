@@ -17,7 +17,7 @@ export v_BOOST="1.66.0"
 export v_BROTLI="1.0.3"
 export v_CAIRO="1.14.12"
 export v_C_ARES="1.14.0"
-export v_CERTBOT="0.22.0"
+export v_CERTBOT="0.22.2"
 export v_CLAMAV="0.99.4"
 export v_CMAKE="3.10.3"
 export v_COMPOSER="1.6.3"
@@ -180,5 +180,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 3/19/2018b - SilverSurfer - Safari
+# Last update: 3/20/2018 - SilverSurfer - Safari
 # EOF
