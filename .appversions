@@ -8,7 +8,7 @@ export v_APR="1.6.3"
 export v_APR_UTIL="1.6.1_1"
 export v_ASK_CLI="1.1.2"
 export v_ASPELL="0.60.6.1_1"
-export v_AWS_CLI="1.14.50_2"
+export v_AWS_CLI="1.14.60"
 export v_AWSSHELL="0.2.0_1"
 export v_AUGEAS="1.10.1"
 export v_AUTOMAKE="1.16.1"
@@ -180,5 +180,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 3/21/2018 - SilverSurfer - Safari
+# Last update: 3/21/2018b - SilverSurfer - Safari
 # EOF
