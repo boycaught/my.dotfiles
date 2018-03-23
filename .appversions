@@ -1,7 +1,7 @@
 #!/bin/sh
 
 export v_ACK="2.22"
-export v_ANSIBLE="2.4.3.0_4"
+export v_ANSIBLE="2.5.0"
 export v_ANT="1.10.2"
 export v_APIBUILDER="0.1.21"
 export v_APR="1.6.3"
@@ -104,6 +104,7 @@ export v_LIBXML2="2.9.7"
 export v_LIBZIP="1.5.0"
 export v_LIQUIBASE="3.5.5"
 export v_LLVM="6.0.0"
+export v_LUA="5.3.4_3"
 export v_MARIADB="10.2.13"
 export v_MAVEN="3.5.3"
 export v_MERCURIAL="4.5.2"
@@ -120,7 +121,7 @@ export v_NEO4J="3.3.0"
 export v_NETTLE="3.2.15"
 export v_NINJA="1.8.2"
 export v_NGHTTP2="1.31.0"
-export v_NGINX="1.13.9"
+export v_NGINX="1.13.10"
 export v_NMAP="7.11"
 export v_NODE="9.9.0"
 export v_NPM="5.6.0"
@@ -182,5 +183,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 3/22/2018 - SilverSurfer - Safari
+# Last update: 3/23/2018 - SilverSurfer - Safari
 # EOF
