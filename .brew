@@ -48,6 +48,7 @@ packages=(
 	inkscape 
 	kitematic 
 	mongotron 
+	sketchup
 	sqlectron 
 	vagrant-manager 
 	visual-studio-code 
