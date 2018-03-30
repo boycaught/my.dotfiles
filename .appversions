@@ -3,7 +3,7 @@
 export v_ACK="2.22"
 export v_ANSIBLE="2.5.0"
 export v_ANT="1.10.3"
-export v_APIBUILDER="0.1.22"
+export v_APIBUILDER_CLI="0.1.22"
 export v_APR="1.6.3"
 export v_APR_UTIL="1.6.1_1"
 export v_ASK_CLI="1.1.2"
@@ -60,7 +60,7 @@ export v_GRAILS="3.3.3"
 export v_GRADLE="4.6"
 export v_GREP="3.1"
 export v_GROOVY="2.4.14"
-export v_HTOP="2.0.2_2"
+export v_HTOP="2.1.0_1"
 export v_HTTPD="2.4.33"
 export v_HTTPING="2.5"
 export v_ICU4C="61.1"
@@ -183,5 +183,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 3/29/2018b - SilverSurfer - Safari
+# Last update: 3/29/2018c - HoneyFishMINI - Safari
 # EOF
