@@ -55,7 +55,7 @@ export v_GNUPG="2.2.5"
 export v_GNUTLS="3.5.18"
 export v_GPG_AGENT="2.0.31"
 export v_GNUTLS="3.5.18"
-export v_GO="1.10"
+export v_GO="1.10.1"
 export v_GRAILS="3.3.3"
 export v_GRADLE="4.6"
 export v_GREP="3.1"
@@ -157,7 +157,7 @@ export v_REDIS="4.0.9"
 export v_RETHINKDB="2.3.5"
 export v_RINGOJS="1.2.0"
 export v_RUBY="1.9.2-p320"
-export v_RUST="1.24.1_1"
+export v_RUST="1.25.0"
 export v_S3CMD="2.0.1"
 export v_SASSC="3.5.0"
 export v_SIP="4.19.8_1"
@@ -183,5 +183,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 3/29/2018 - SilverSurfer - Safari
+# Last update: 3/29/2018b - SilverSurfer - Safari
 # EOF
