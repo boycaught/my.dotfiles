@@ -48,7 +48,6 @@ packages=(
 	inkscape 
 	kitematic 
 	mongotron 
-	sketchup
 	sqlectron 
 	vagrant-manager 
 	visual-studio-code 
@@ -77,6 +76,7 @@ fi
 	#contexts 
 	#path-finder 
 	#telegram 
+	#sketchup
 	#webstorm
 	#virtualbox
 	#vagrant
