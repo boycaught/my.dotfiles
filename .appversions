@@ -125,7 +125,7 @@ export v_NEO4J="3.3.4"
 export v_NETTLE="3.2.15"
 export v_NINJA="1.8.2"
 export v_NGHTTP2="1.31.0"
-export v_NGINX="1.13.10"
+export v_NGINX="1.13.11"
 export v_NMAP="7.11"
 export v_NODE="9.11.1"
 export v_NPM="5.6.0"
@@ -172,7 +172,7 @@ export v_SUITE_SPARSE="5.2.0"
 export v_SWAGGER_CODEGEN="2.3.1"
 export v_TERRAFORM="0.11.6"
 export v_TIDY_HTML5="5.6.0"
-export v_TOMCAT="9.0.6"
+export v_TOMCAT="9.0.7"
 export v_UNIXODBC="2.3.6"
 export v_WEBPACK="4.5.0"
 export v_WGET="1.19.4_1"
@@ -188,5 +188,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 4/8/2018 - SilverSurfer - Safari
+# Last update: 4/9/2018 - SilverSurfer - Safari
 # EOF
