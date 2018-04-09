@@ -13,10 +13,13 @@ alias customize='source /etc/profile.d/lag_custom.sh'
 alias getupdates='source ~/.updates | tee getupdates.log'
 alias freshbrew='source ~/.freshbrew'
 
+<<<<<<< HEAD
 ## SSH to Alternative DEV boxes
 alias gethoneyfish='ssh larry_green@76.222.90.233'
 alias getlinode='ssh root@50.116.5.192'
 
+=======
+>>>>>>> 51a399824016ad747685b0babadef3c045eebcc7
 ## FF X => FIND FILE NAMED X
 alias ff="find . -name \!:1 -print"     
 
