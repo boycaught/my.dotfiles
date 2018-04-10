@@ -54,6 +54,8 @@ PYTHONPATH="$PYTHON_HOME/bin"
 
 PATH="$HOME/.local/bin:\
 ~/.meteor:\
+~/.pyenv/shims:\
+~/.pyenv/bin:\
 /usr/local/bin:\
 /usr/bin:\
 /usr/local/sbin:\
