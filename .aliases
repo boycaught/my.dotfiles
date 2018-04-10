@@ -43,8 +43,8 @@ alias newstream='node ~/Sites/www/app/newstream/river5.js'
 alias meteorfresh='curl https://install.meteor.com/ | sh'
 
 ## Sublime Text 2
-#alias subl='"/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl"'
-alias subl="source '/Applications/Sublime Text 2.app/Contents/MacOS/Sublime Text 2'"
+alias subl='"/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl"'
+#alias subl="source '/Applications/Sublime Text 2.app/Contents/MacOS/Sublime Text 2'"
 alias subpacks="cd '/Library/Application Support/Sublime Text 2/Packages'"
 
 alias popdots="git -C ~/dotfiles/ pull"
