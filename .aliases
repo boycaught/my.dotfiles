@@ -1,3 +1,52 @@
+###############################################
+#                .LAG STUFF                   #
+###############################################
+
+## MY UTILITY ALIASES
+alias cx='clear'
+alias lx='ls -alg ${colorflag}'
+alias px='ps uxa | more'
+alias dx='du -k | more'
+alias py='python manage.py'
+alias jy='jython manage.py'
+alias customize='source /etc/profile.d/lag_custom.sh'
+alias getupdates='source ~/.updates | tee getupdates.log'
+alias freshbrew='source ~/.freshbrew'
+
+## FF X => FIND FILE NAMED X
+alias ff="find . -name \!:1 -print"     
+
+## LINE 5 FILE => SHOW LINE 5 OF FILE
+alias line="sed -n '\''\!:1 p'\'' \!:2" 
+
+## HISTOGRAM WORDS
+alias wordcount='(cat \!* | tr -s '\''  .,;:?\!()[]"'\'' '\''\012'\'' | cat -n | tail -1 | awk '\''print $1'\'')' 
+
+## VEEWEE (Vagrant Box builder)
+alias veewee="bundle exec veewee"
+
+## Disable AppNap on Mac OS X Yosemite (10.10.1)+
+alias killappnap='defaults write NSGlobalDomain NSAppSleepDisabled -bool YES'
+
+## River of News Prototyping
+alias newstream='node ~/Sites/www/app/newstream/river5.js'
+
+## Meteor
+## Note: MeteorJS gets corrupted occasionally, this installs fresh copy
+alias meteorfresh='curl https://install.meteor.com/ | sh'
+
+## Sublime Text 2
+#alias subl='"/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl"'
+alias subl="source '/Applications/Sublime Text 2.app/Contents/MacOS/Sublime Text 2'"
+alias subpacks="cd '/Library/Application Support/Sublime Text 2/Packages'"
+
+alias popdots="git -C ~/dotfiles/ pull"
+alias popprofs="sudo -v|sudo git -C /etc/profile.d/ pull"
+
+###############################################
+#                  ORIGINAL                   #
+###############################################
+
 # Easier navigation: .., ..., ~ and -
 alias ..="cd .."
 alias cd..="cd .."
@@ -8,10 +57,9 @@ alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
 
 # programs
-alias slt='open -a "Sublime Text 2"'
+# alias slt='open -a "Sublime Text 2"'
 # also/or do this:
 # ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
-
 
 # be nice
 alias please=sudo
@@ -20,7 +68,6 @@ alias hosts='sudo $EDITOR /etc/hosts'   # yes I occasionally 127.0.0.1 twitter.c
 # handy things
 alias bunyip='node ~/code/bunyip/cli.js'
 alias spotify="osascript ~/code/SpotifyControl/SpotifyControl.scpt"
-
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
@@ -34,7 +81,6 @@ alias l="ls -l ${colorflag}"
 
 # List all files colorized in long format, including dot files
 alias la="ls -la ${colorflag}"
-
 
 # List only directories
 alias lsd='ls -l | grep "^d"'
@@ -104,7 +150,6 @@ alias emptytrash="sudo rm -rfv /Volumes/*/.Trashes; rm -rfv ~/.Trash"
 alias hidedesktop="defaults write com.apple.finder CreateDesktop -bool false && killall Finder"
 alias showdesktop="defaults write com.apple.finder CreateDesktop -bool true && killall Finder"
 
-
 # PlistBuddy alias, because sometimes `defaults` just doesn’t cut it
 alias plistbuddy="/usr/libexec/PlistBuddy"
 
@@ -117,9 +162,3 @@ done
 alias stfu="osascript -e 'set volume output muted true'"
 alias pumpitup="osascript -e 'set volume 10'"
 alias hax="growlnotify -a 'Activity Monitor' 'System error' -m 'WTF R U DOIN'"
-
-# LAG STUFF
-alias subl="source '/Applications/Sublime Text 2.app/Contents/MacOS/Sublime Text 2'"
-alias subpacks="cd '/Library/Application Support/Sublime Text 2/Packages'"
-alias popdots="git -C ~/dotfiles/ pull"
-alias popprofs="sudo -v|sudo git -C /etc/profile.d/ pull"
