@@ -30,6 +30,7 @@ JETTY_HOME="$BREW_HOME/Cellar/jetty/$v_JETTY/libexec"
 JENKINS_HOME="$HOME/Dropbox/code/app/jenkins"
 JRUBY_HOME="$BREW_HOME/Cellar/jruby/$v_JRUBY"
 JYTHON_HOME="$BREW_HOME/Cellar/jython/$v_JYTHON/libexec"
+LIQUIBASE_HOME=$BREW_HOME/Cellar/liquibase/3.5.1/libexec
 M2_HOME="$MY_HOME/maven"
 MAVEN_OPTS="-Xms256m -Xmx512m"
 MYSQL_PATH="$BREW_HOME/Cellar/mariadb/$v_MARIADB"
@@ -57,6 +58,8 @@ PATH="$HOME/.local/bin:\
 /usr/bin:\
 /usr/local/sbin:\
 /usr/sbin:\
+/usr/local/opt/llvm@5/bin:\
+/usr/local/opt/llvm/bin:\
 /opt/subversion/bin:\
 /usr/local/opt/coreutils/libexec/gnubin:\
 $ADOBE_AIR_SDK/bin:\
@@ -106,6 +109,7 @@ export JETTY_HOME
 export JRUBY_HOME
 export JYTHON_HOME
 export JYTHONPATH
+export LIQUIBASE_HOME
 export M2_HOME
 export MAVEN_OPTS
 export MONGODB_HOME
