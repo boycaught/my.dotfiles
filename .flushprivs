@@ -2,3 +2,4 @@
 
 cd /usr/local
 sudo chown -R $(whoami) bin etc include lib opt sbin share var Frameworks
+sudo -v
