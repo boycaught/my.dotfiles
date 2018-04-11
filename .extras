@@ -1,4 +1,4 @@
-
+## GITHUB access
 export GIT_AUTHOR_NAME="boycaught"
 export GIT_COMMITTER_NAME="$GIT_AUTHOR_NAME"
 git config --global user.name "$GIT_AUTHOR_NAME"
