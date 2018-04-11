@@ -1,5 +1,3 @@
-## extra setting that are local to system, not committed to repo
-
 ## GITHUB access
 export GIT_AUTHOR_NAME="boycaught"
 export GIT_COMMITTER_NAME="$GIT_AUTHOR_NAME"
@@ -7,26 +5,27 @@ git config --global user.name "$GIT_AUTHOR_NAME"
 export GIT_AUTHOR_EMAIL="github.bot@lagtime.com"
 export GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
 git config --global user.email "$GIT_AUTHOR_EMAIL"
-export HOMEBREW_GITHUB_API_TOKEN="c866002281c6c13a523110e9d01d978c3e907ef4"
-
-## Disable AppNap on Mac OS X Yosemite (10.10.1)+
-alias killappnap='defaults write NSGlobalDomain NSAppSleepDisabled -bool YES'
-
-## Auto-start PyEnv-VirtualEnv
-##if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-init -)"; fi
-
-## Sublime Text 2
-alias subl='"/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl"'
 
 ## Visual Studio Code
 code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
 
-## River of News Prototyping
-alias newstream='node ~/Sites/www/app/newstream/river5.js'
+## Python BS
+## Auto-start PyEnv-VirtualEnv
+if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi
+if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-init -)"; fi
 
-## LiQuiBase
-export LIQUIBASE_HOME=/usr/local/Cellar/liquibase/3.5.1/libexec
+## VMWare OVFTool
+alias ovftool='/Applications/VMWare/ovftool'
 
-## (Re)-Install Meteor
-## Note: MeteorJS gets corrupted occasionally, this installs fresh copy
-alias meteorfresh='curl https://install.meteor.com/ | sh'
+## SSH to Alternative DEV boxes
+alias gethoneyfish='ssh larry_green@honeyfishmini.local'
+alias getlinode='ssh root@50.116.5.192'
+
+## Flags
+export PKG_CONFIG_PATH="/usr/local/opt/zlib/lib/pkgconfig"
+export LDFLAGS="-L/usr/local/opt/zlib/lib -L$(brew --prefix openssl)/lib"
+export CPPFLAGS="-I/usr/local/opt/zlib/include"
+export CFLAGS="-I$(brew --prefix openssl)/include -I$(xcrun --show-sdk-path)/usr/include -O2"
+
+
+# EOF
