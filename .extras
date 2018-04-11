@@ -18,8 +18,10 @@ if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-init -
 alias ovftool='/Applications/VMWare/ovftool'
 
 ## SSH to Alternative DEV boxes
-alias gethoneyfish='ssh larry_green@honeyfishmini.local'
-alias getlinode='ssh root@50.116.5.192'
+export VM_HONEYFISH="larry_green@honeyfishmini"
+export VM_LINODE="root@50.116.5.192"
+alias gethoneyfish='ssh ${VM_HONEFISH}'
+alias getlinode='ssh ${VM_LINODE}'
 
 ## Flags
 export PKG_CONFIG_PATH="/usr/local/opt/zlib/lib/pkgconfig"
