@@ -10,8 +10,8 @@ alias dx='du -k | more'
 alias py='python manage.py'
 alias jy='jython manage.py'
 alias customize='source /etc/profile.d/lag_custom.sh'
-alias flushprivs='source ~/.flushprivs | tee ~/flushprivs.log ${colorflag}'
-alias getupdates='source ~/.updates | tee ~/getupdates.log ${colorflag}'
+alias flushprivs='source ~/.flushprivs | tee ~/flushprivs.log'
+alias getupdates='source ~/.updates | tee ~/getupdates.log'
 alias freshbrew='source ~/.freshbrew'
 
 ## FF X => FIND FILE NAMED X
@@ -95,7 +95,7 @@ else
 fi
 
 # `cat` with beautiful colors. requires Pygments installed.
-# 							   sudo easy_install Pygments
+# sudo easy_install Pygments
 alias c='pygmentize -O style=monokai -f console256 -g'
 
 # GIT STUFF
