@@ -170,7 +170,7 @@ export v_S3CMD="2.0.1"
 export v_SASSC="3.5.0"
 export v_SIP="4.19.8_1"
 export v_SCONS="3.0.1"
-export v_SPHINX_DOC="1.7.2"
+export v_SPHINX_DOC="1.7.3"
 export v_SQLITE="3.23.1"
 export v_SUITE_SPARSE="5.2.0"
 export v_SWAGGER_CODEGEN="2.3.1"
@@ -193,5 +193,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 4/21/2018 - SilverSurfer - Safari
+# Last update: 4/22/2018 - SilverSurfer - Safari
 # EOF
