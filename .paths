@@ -122,5 +122,5 @@ export PYTHONPATH
 export RUBY_HOME
 export WEBMIN_HOME
 export BOGUS
-export CC="gcc-7.3"
+export CC="gcc-8.1.0"
 export PATH
