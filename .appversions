@@ -22,7 +22,7 @@ export v_C_ARES="1.14.0"
 export v_CERTBOT="0.24.0"
 export v_CLAMAV="0.100.0_1"
 export v_CMAKE="3.11.1"
-export v_COMPOSER="1.6.4"
+export v_COMPOSER="1.6.5"
 export v_CONSUL="1.0.7"
 export v_COREUTILS="8.29"
 export v_CRYSTAL_LANG="0.24.2_1"
@@ -179,11 +179,11 @@ export v_SUITE_SPARSE="5.2.0"
 export v_SWAGGER_CODEGEN="2.3.1"
 export v_TERRAFORM="0.11.7"
 export v_TIDY_HTML5="5.6.0"
-export v_TOMCAT="9.0.7"
+export v_TOMCAT="9.0.8"
 export v_UNIXODBC="2.3.6"
 export v_VECLIBFORT="0.4.2_6"
 export v_WEBP="1.0.0"
-export v_WEBPACK="4.6.0"
+export v_WEBPACK="4.7.0"
 export v_WGET="1.19.4_1"
 export v_WP_CLI="1.5.1"
 export v_WXMAC="3.0.4"
@@ -198,5 +198,6 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 5/3/2018 - SilverSurfer - Safari
+# Last update: 5/4/2018 - SilverSurfer - Safari
+# MayTheFourth Commit LOL
 # EOF
