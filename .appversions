@@ -76,7 +76,7 @@ export v_IPYTHON="@5 5.6.0"
 export v_IMAGEMAGICK="7.0.7-30"
 export v_JANSSON="2.11"
 export v_JEMALLOC="5.0.10"
-export v_JENKINS="2.119"
+export v_JENKINS="2.120"
 export v_JETTY="9.4.9.v20180320"
 export v_JDK="1.8.0_102"
 export v_JRE="1.8.0_102"
@@ -185,7 +185,7 @@ export v_UNIXODBC="2.3.6"
 export v_VECLIBFORT="0.4.2_6"
 export v_WEBP="1.0.0"
 export v_WEBPACK="4.7.0"
-export v_WGET="1.19.4_1"
+export v_WGET="1.19.5"
 export v_WP_CLI="1.5.1"
 export v_WXMAC="3.0.4"
 export v_X264="r2854"
@@ -199,5 +199,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 5/6/2018 - SilverSurfer - Safari
+# Last update: 5/7/2018 - SilverSurfer - Safari
 # EOF
