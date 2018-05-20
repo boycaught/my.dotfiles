@@ -4,7 +4,7 @@ export v_ACK="2.22"
 export v_AMBER="0.7.2"
 export v_ANSIBLE="2.5.3"
 export v_ANT="1.10.3"
-export v_APIBUILDER_CLI="0.1.29"
+export v_APIBUILDER_CLI="0.1.30"
 export v_APR="1.6.3"
 export v_APR_UTIL="1.6.1_1"
 export v_ASK_CLI="1.1.2"
@@ -202,5 +202,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 5/18/2018 - SilverSurfer - Safari
+# Last update: 5/20/2018 - HoneyFishMINI - Safari
 # EOF
