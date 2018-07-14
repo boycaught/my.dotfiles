@@ -3,7 +3,7 @@
 export v_ACK="2.24"
 export v_AMBER="0.7.2"
 export v_ANSIBLE="2.6.1"
-export v_ANT="1.10.4"
+export v_ANT="1.10.5"
 export v_APIBUILDER_CLI="0.1.31"
 export v_APR="1.6.3"
 export v_APR_UTIL="1.6.1_1"
@@ -20,7 +20,7 @@ export v_BROTLI="1.0.5"
 export v_BDW_GC="7.6.6"
 export v_CAIRO="1.14.12"
 export v_C_ARES="1.14.0"
-export v_CERTBOT="0.25.1_1"
+export v_CERTBOT="0.26.0"
 export v_CLAMAV="0.100.1"
 export v_CLANG_FORMAT="2018-04-24"
 export v_CMAKE="3.11.4"
@@ -43,7 +43,7 @@ export v_EMSCRIPTEN="1.38.8"
 export v_ENCHANT="2.2.3"
 export v_ERLANG_19="@19 19.3.6.9"
 export v_ERLANG_20="@20 20.3.8.1"
-export v_ERLANG="21.0.2"
+export v_ERLANG="21.0.3"
 export v_FAAC="1.29.9.2"
 export v_FDK_AAC="0.1.6"
 export v_FFMPEG="4.0.1"
@@ -211,5 +211,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 7/12/2018 - HoneyFishMINI - Safari
+# Last update: 7/13/2018 - SilverSurfer - Safari
 # EOF
