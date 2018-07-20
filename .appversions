@@ -150,7 +150,7 @@ export v_OPENSSL="1.0.2o_2"
 export v_OPENSSL="@1.1 1.1.0h"
 export v_p11_KIT="0.23.12"
 export v_PACKER="1.2.5"
-export v_PANDOC="2.2.2"
+export v_PANDOC="2.2.2.1"
 export v_PASSENGER="5.3.3"
 export v_PHP7="7.2.8"
 export v_PHPMYADMIN="4.8.2"
@@ -211,5 +211,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 7/19/2018 - SilverSurfer - Safari
+# Last update: 7/20/2018 - SilverSurfer - Safari
 # EOF
