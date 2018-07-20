@@ -140,7 +140,7 @@ export v_NINJA="1.8.2"
 export v_NGHTTP2="1.32.0"
 export v_NGINX="1.15.1"
 export v_NMAP="7.11"
-export v_NODE="10.6.0"
+export v_NODE="10.7.0"
 export v_NPM="5.6.0"
 export v_NPTH="1.6"
 export v_OCAML="4.07.0"
@@ -152,7 +152,7 @@ export v_p11_KIT="0.23.12"
 export v_PACKER="1.2.5"
 export v_PANDOC="2.2.2"
 export v_PASSENGER="5.3.3"
-export v_PHP7="7.2.7"
+export v_PHP7="7.2.8"
 export v_PHPMYADMIN="4.8.2"
 export v_PINENTRY="1.1.0_1"
 export v_PIXMAN="0.34.0_1"
@@ -211,5 +211,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 7/18/2018 - SilverSurfer - Safari
+# Last update: 7/19/2018 - SilverSurfer - Safari
 # EOF
