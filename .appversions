@@ -37,7 +37,7 @@ export v_DOCKUTIL="2.0.5"
 export v_DOXYGEN="1.8.14"
 export v_DVM="1.0.1"
 export v_ELASTICSEARCH="6.2.4"
-export v_ELIXIR="1.6.6"
+export v_ELIXIR="1.7.1"
 export v_ELM="0.17.1"
 export v_EMSCRIPTEN="1.38.10"
 export v_ENCHANT="2.2.3"
@@ -212,5 +212,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: 7/25/2018 - SilverSurfer - Safari
+# Last update: FRI 7/27/2018 - HoneyFishMINI - Safari
 # EOF
