@@ -81,7 +81,7 @@ export v_IPYTHON="6.4.0_1"
 export v_IMAGEMAGICK="7.0.8-8"
 export v_JANSSON="2.11"
 export v_JEMALLOC="5.1.0"
-export v_JENKINS="2.134"
+export v_JENKINS="2.135"
 export v_JETTY="9.4.10.v20180605"
 export v_JDK="1.8.0_102"
 export v_JRE="1.8.0_102"
@@ -212,5 +212,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: FRI 7/29/2018 - SilverSurfer - Safari
+# Last update: Mon 7/30/2018 - SilverSurfer - Safari
 # EOF
