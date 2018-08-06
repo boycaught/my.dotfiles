@@ -1,6 +1,5 @@
-# .LAG's dotfiles.
-
-[mathias's readme](https://github.com/mathiasbynens/dotfiles/) is awesome. go read it.
+# .LAG's dotfiles (my.dotfiles)
+Sensible developer defaults on OSX—inspired by others, like this guy: [mathias's readme](https://github.com/mathiasbynens/dotfiles/) is awesome. go read it.
 
 This repo is mostly for me but you're welcome to make suggestions. Mathias's is the project to fork.  I'm mostly catching up to him, @cowboy, and @gf3.
 
@@ -84,7 +83,12 @@ I recommend getting a [`.jshintrc`](https://github.com/jshint/node-jshint/blob/m
 ## Installation
 
 ```bash
-git clone https://github.com/boycaught/dotfiles.git && cd dotfiles && ./sync.sh
+git clone https://github.com/boycaught/my.dotfiles.git dotfiles \
+&& cd dotfiles \
+&& chmod a+x *.sh \
+&& ./sync.sh
 ```
 
 To update later on, just run the sync again.
+
+NOTE: the 'APPVERSIONS' process should be run, manually, on a daily basis... or as possible.
