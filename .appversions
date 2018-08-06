@@ -199,7 +199,7 @@ export v_UNBOUND="1.7.2"
 export v_UNIXODBC="2.3.6"
 export v_VECLIBFORT="0.4.2_6"
 export v_WEBP="1.0.0"
-export v_WEBPACK="4.16.4"
+export v_WEBPACK="4.16.5"
 export v_WGET="1.19.5"
 export v_WP_CLI="1.5.1"
 export v_WXMAC="3.0.4_1"
@@ -214,5 +214,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Tue 8/6/2018 - HoneyFishMINI - Safari
+# Last update: Tue 8/6/2018 - SilerSurfer - Safari
 # EOF
