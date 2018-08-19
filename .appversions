@@ -158,7 +158,7 @@ export v_PACKER="1.2.5"
 export v_PANDOC="2.2.3.2"
 export v_PANGO="1.42.3"
 export v_PASSENGER="5.3.4"
-export v_PHP7="7.2.9"
+export v_PHP7="7.2.9_1"
 export v_PHPMYADMIN="4.8.2"
 export v_PINENTRY="1.1.0_1"
 export v_PIXMAN="0.34.0_1"
@@ -217,5 +217,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Thu 8/16/2018 - HoneyFishMINI - Safari
+# Last update: Sun 8/19/2018 - HoneyFishMINI - Safari
 # EOF
