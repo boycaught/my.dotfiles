@@ -85,7 +85,7 @@ export v_HTTPD="2.4.33"
 export v_HTTPING="2.5"
 export v_ICU4C="62.1"
 export v_IPYTHON="6.5.0"
-export v_IMAGEMAGICK="7.0.8-11_1"
+export v_IMAGEMAGICK="7.0.8-11_2"
 export v_ISL="0.20"
 export v_JANSSON="2.11"
 export v_JEMALLOC="5.1.0"
@@ -225,5 +225,5 @@ export v_ZLIB="1.2.11"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Sun 9/17/2018 - HoneyFishMINI - Safari
+# Last update: Sun 9/17/2018 - SilverSurfer - Safari
 # EOF
