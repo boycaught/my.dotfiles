@@ -37,6 +37,7 @@ brew install dockutil
 dateholder=$(date)
 packages=( 
 	adium 
+	anki 
 	atom 
 	brave 
 	codekit 
