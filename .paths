@@ -62,6 +62,7 @@ PATH="$HOME/.local/bin:\
 /usr/sbin:\
 /usr/local/opt/llvm@5/bin:\
 /usr/local/opt/llvm/bin:\
+/usr/local/opt/libxml2/bin:\
 /opt/subversion/bin:\
 /usr/local/opt/coreutils/libexec/gnubin:\
 $ADOBE_AIR_SDK/bin:\
