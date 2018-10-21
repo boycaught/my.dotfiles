@@ -78,7 +78,7 @@ export v_GRAPHICSMAGICK="1.3.30"
 export v_GRAPHITE2="1.3.12"
 export v_GREP="3.1"
 export v_GROOVY="2.5.2"
-export v_HARFBUZZ="1.9.0"
+export v_HARFBUZZ="2.0.2"
 export v_HDF5="1.10.2_1"
 export v_HTOP="2.2.0"
 export v_HTTPD="2.4.35"
@@ -227,5 +227,5 @@ export v_ZSTD="1.3.6"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Tue 10/18/2018 - HoneyFishMINI - Safari
+# Last update: Sun 10/21/2018 - HoneyFishMINI - Safari
 # EOF
