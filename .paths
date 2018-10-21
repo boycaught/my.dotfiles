@@ -40,6 +40,8 @@ PYTHON_HOME="/System/Library/Frameworks/Python.framework/Versions/Current"
 RUBY_HOME="$HOME/.rvm/rubies/ruby-$v_RUBY/bin/ruby"
 WEBMIN_HOME="$MY_HOME/webmin"
 VISUALVM="$MY_HOME/visualvm"
+LDFLAGS="-L/usr/local/opt/zlib/lib"
+CPPFLAGS="-I/usr/local/opt/zlib/include"
 BOGUS="A whole lot of who?"
 
 CLASSPATH="$JYTHON_HOME/jython.jar:\
@@ -123,5 +125,7 @@ export PYTHONPATH
 export RUBY_HOME
 export WEBMIN_HOME
 export BOGUS
-export CC="gcc-8.1.0"
+export CC="gcc-10.0.0"
+export LDFLAGS
+export CPPFLAG
 export PATH
