@@ -21,7 +21,7 @@ export v_BDW_GC="7.6.8"
 export v_CAIRO="1.16.0"
 export v_C_ARES="1.14.0"
 export v_CERTBOT="0.27.1"
-export v_CLAMAV="0.100.1"
+export v_CLAMAV="0.100.2"
 export v_CLANG_FORMAT="2018-08-24"
 export v_CMAKE="3.12.3"
 export v_COMPOSER="1.7.2"
@@ -228,5 +228,5 @@ export v_ZSTD="1.3.7"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Mon 10/22/2018a - SilverSurfer - Safari
+# Last update: Mon 10/22/2018b - SilverSurfer - Safari
 # EOF
