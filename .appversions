@@ -152,7 +152,7 @@ export v_NINJA="1.8.2"
 export v_NGHTTP2="1.34.0"
 export v_NGINX="1.15.5"
 export v_NMAP="7.11"
-export v_NODE="11.0.0"
+export v_NODE="11.1.0"
 export v_NPM="5.6.0"
 export v_NPTH="1.6"
 export v_NSQ="1.1.0"
@@ -165,7 +165,7 @@ export v_OPENSSL="1.1.1"
 export v_OPUS="1.3"
 export v_p11_KIT="0.23.13"
 export v_PACKER="1.3.2"
-export v_PANDOC="2.3.1"
+export v_PANDOC="2.4"
 export v_PANGO="1.42.4"
 export v_PASSENGER="5.3.5"
 export v_PDFTOEDN="0.36.1"
@@ -232,5 +232,5 @@ export v_ZSTD="1.3.7"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Sat 11/3/2018b - SilverSurfer - Safari
+# Last update: Sun 11/4/2018 - SilverSurfer - Safari
 # EOF
