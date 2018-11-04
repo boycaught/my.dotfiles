@@ -71,7 +71,7 @@ export v_GNUPLOT="5.2.5"
 export v_GNUTLS="3.5.18"
 export v_GPG_AGENT="2.0.31"
 export v_GNUTLS="3.5.19"
-export v_GO="1.11.1"
+export v_GO="1.11.2"
 export v_GOBJECT_INTROSPECTION="1.58.0"
 export v_GRAILS="3.3.8"
 export v_GRADLE="4.10.2"
@@ -133,7 +133,7 @@ export v_LLVM="7.0.0"
 export v_LUA="5.3.5_1"
 export v_MARIADB="10.3.10"
 export v_MAVEN="3.5.4"
-export v_MERCURIAL="4.7.2"
+export v_MERCURIAL="4.8"
 export v_MINIO="20181018002858"
 export v_MITMPROXY="4.0.4"
 export v_MOBILE_SHELL="1.3.2_1"
@@ -232,5 +232,5 @@ export v_ZSTD="1.3.7"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Sat 11/3/2018 - HoneyFishMINI - Safari
+# Last update: Sat 11/3/2018b - SilverSurfer - Safari
 # EOF
