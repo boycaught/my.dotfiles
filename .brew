@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Make sure we’re using the latest Homebrew
-brew update
+# Deprecated: this is now handled in Brew 2.0+
+# brew update
 
 # Upgrade any already-installed formulae
 brew upgrade
