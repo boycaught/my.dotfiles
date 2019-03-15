@@ -211,7 +211,7 @@ export v_REDIS="5.0.3"
 export v_RENAME="1.600_1"
 export v_RETHINKDB="2.3.5"
 export v_RINGOJS="1.2.0"
-export v_RUBY="2.6.1"
+export v_RUBY="2.6.2"
 export v_RUST="1.32.0"
 export v_S3CMD="2.0.2_1"
 export v_SASSC="3.5.0"
@@ -252,5 +252,5 @@ export v_ZSTD="1.3.8"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Wed 3/13/2019 - SilverSurfer - Safari
+# Last update: Thu 3/14/2019 - SilverSurfer - Safari
 # EOF
