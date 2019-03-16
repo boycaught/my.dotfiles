@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Upgrade any already-installed formulae
+echo "Check for brew formula updates."
 brew upgrade
 
 # Install GNU core utilities (those that come with OS X are outdated)
@@ -24,6 +25,7 @@ brew install tree
 brew install dockutil
 
 # Upgrade any cask applications
+echo "Check for brew cask updates."
 brew cask upgrade
 
 # Remove outdated versions from the cellar
