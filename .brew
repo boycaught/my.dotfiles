@@ -36,31 +36,37 @@ brew install dockutil
 # Favorites
 # Only do --force updates on Weekends (Saturday or Sunday)
 dateholder=$(date)
-packages=( 
-	adium 
-	anki 
-	atom 
-	brave 
-	codekit 
-	cyberduck 
-	docker 
-	electron  
-	gimp 
-	handbrake 
-	inkscape 
-	kitematic 
-	mongotron 
-	sqlectron 
-	vagrant-manager 
-	visual-studio-code 
-	vlc 
-)
+#packages=( 
+#	adium 
+#	anki 
+#	atom 
+#	brave 
+#	codekit 
+#	cyberduck 
+#	docker 
+#	electron  
+#	gimp 
+#	handbrake 
+#	inkscape 
+#	kitematic 
+#	mongotron 
+#	sqlectron 
+#	vagrant-manager 
+#	visual-studio-code 
+#	vlc 
+#)
+#if [ ${dateholder:0:3} == 'Sat' ] || [ ${dateholder:0:3} == 'Sun' ] ; then
+#	echo "Weekend: it is now time to force Cask updates."
+#	for i in "${packages[@]}"
+#	do
+#		brew cask install $i
+#	done
+#else
+#	echo "${dateholder:0:3}: Casks will checked for updates on Saturday or Sunday."
+#fi
 if [ ${dateholder:0:3} == 'Sat' ] || [ ${dateholder:0:3} == 'Sun' ] ; then
 	echo "Weekend: it is now time to force Cask updates."
-	for i in "${packages[@]}"
-	do
-		brew cask install $i
-	done
+	brew cask upgrade
 else
 	echo "${dateholder:0:3}: Casks will checked for updates on Saturday or Sunday."
 fi
