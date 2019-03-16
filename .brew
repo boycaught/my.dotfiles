@@ -23,16 +23,8 @@ brew install rename
 brew install tree
 brew install dockutil
 
-# Cask applications
-# Favorites
-# Only do --force updates on Weekends (Saturday or Sunday)
-dateholder=$(date)
-if [ ${dateholder:0:3} == 'Sat' ] || [ ${dateholder:0:3} == 'Sun' ] ; then
-	echo "Weekend: it is now time to force Cask updates."
-	brew cask upgrade
-else
-	echo "${dateholder:0:3}: Casks will checked for updates on Saturday or Sunday."
-fi
+# Upgrade any cask applications
+brew cask upgrade
 
 # Remove outdated versions from the cellar
 brew cleanup
