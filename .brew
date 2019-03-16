@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Make sure we’re using the latest Homebrew
-# Deprecated: this is now handled in Brew 2.0+
-# brew update
-
 # Upgrade any already-installed formulae
 brew upgrade
 
@@ -20,11 +16,6 @@ brew install bash
 # Install wget
 brew install wget
 
-# Install more recent versions of some OS X tools
-# brew tap homebrew/dupes
-# brew install homebrew/dupes/grep
-# brew tap homebrew/php - deprecated on 31 March 2018 - moved functionality to homebrew-core
-
 # Install everything else
 brew install ack
 brew install git
@@ -36,59 +27,12 @@ brew install dockutil
 # Favorites
 # Only do --force updates on Weekends (Saturday or Sunday)
 dateholder=$(date)
-#packages=( 
-#	adium 
-#	anki 
-#	atom 
-#	brave 
-#	codekit 
-#	cyberduck 
-#	docker 
-#	electron  
-#	gimp 
-#	handbrake 
-#	inkscape 
-#	kitematic 
-#	mongotron 
-#	sqlectron 
-#	vagrant-manager 
-#	visual-studio-code 
-#	vlc 
-#)
-#if [ ${dateholder:0:3} == 'Sat' ] || [ ${dateholder:0:3} == 'Sun' ] ; then
-#	echo "Weekend: it is now time to force Cask updates."
-#	for i in "${packages[@]}"
-#	do
-#		brew cask install $i
-#	done
-#else
-#	echo "${dateholder:0:3}: Casks will checked for updates on Saturday or Sunday."
-#fi
 if [ ${dateholder:0:3} == 'Sat' ] || [ ${dateholder:0:3} == 'Sun' ] ; then
 	echo "Weekend: it is now time to force Cask updates."
 	brew cask upgrade
 else
 	echo "${dateholder:0:3}: Casks will checked for updates on Saturday or Sunday."
 fi
-
-# Optional for new (cask) installs
-	#alfred
-	#appzapper
-	#docker-toolbox
-	#dropbox
-	#caffeine
-	#iterm2
-	#profilemanager
-	#sublime-text
-	#xquartz 
-	#contexts 
-	#path-finder 
-	#telegram 
-	#sketchup
-	#webstorm
-	#virtualbox
-	#vagrant
-	#nodeclipse
 
 # Remove outdated versions from the cellar
 brew cleanup
