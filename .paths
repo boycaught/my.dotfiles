@@ -53,8 +53,13 @@ $CF_HOME/lib/customlib/sqlitejdbc-v037-nested.jar:\
 $CLASSPATH"
 JYTHONPATH="$JYTHON_HOME:$JYTHON_HOME/bin:$JYTHON_HOME/Lib"
 PYTHONPATH="$PYTHON_HOME/bin"
+PERL5LIB="~/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"
+PERL_LOCAL_LIB_ROOT="~/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}"
+PERL_MB_OPT="--install_base \"~/perl5\""
+PERL_MM_OPT="INSTALL_BASE=~/perl5"; 
 
 PATH="$HOME/.local/bin:\
+~/perl5/bin:\
 ~/.meteor:\
 ~/.pyenv/shims:\
 ~/.pyenv/bin:\
@@ -124,6 +129,10 @@ export PYTHON_HOME
 export PYTHONPATH
 export RUBY_HOME
 export WEBMIN_HOME
+export PERL5LIB
+export PERL_LOCAL_LIB_ROOT
+export PERL_MB_OPT
+export PERL_MM_OPT
 export BOGUS
 export CC="gcc-10.0.0"
 export LDFLAGS
