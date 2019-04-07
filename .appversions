@@ -5,7 +5,7 @@ export v_AMBER="0.7.2"
 export v_ANSIBLE="2.7.9"
 export v_ANT="1.10.5"
 export v_APIBUILDER_CLI="0.1.32"
-export v_APR="1.6.5"
+export v_APR="1.7.0"
 export v_APR_UTIL="1.6.1_1"
 export v_ARPACK="3.7.0"
 export v_ASCIIDOC="8.6.10_2"
@@ -250,7 +250,7 @@ export v_XZ="5.2.4"
 export v_XVID="1.3.5"
 export v_YARA="3.9.0"
 export v_YASM="1.3.0_2"
-export v_YOUTUBE_DL="2019.04.01"
+export v_YOUTUBE_DL="2019.04.07"
 export v_YUBICO_PIV_TOOL="1.6.2"
 export v_ZEROMQ="4.3.1_1"
 export v_ZLIB="1.2.11"
@@ -258,5 +258,5 @@ export v_ZSTD="1.3.8"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Sat 4/6/2019 - HoneyFishMINI - Safari
+# Last update: Sun 4/7/2019 - HoneyFishMINI - Safari
 # EOF
