@@ -3,7 +3,8 @@
 ###############################################
 
 ## MY UTILITY ALIASES
-alias cx='clear'
+alias cx='clear' #custom
+alias cl='clear' #standard
 alias lx='ls -alg ${colorflag}'
 alias px='ps uxa | more'
 alias dx='du -k | more'
