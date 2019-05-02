@@ -195,13 +195,13 @@ export v_PASSENGER="6.0.2_2"
 export v_PCRE="8.43"
 export v_PRCE2="10.33"
 export v_PDFTOEDN="0.36.8"
-export v_PHP7="7.3.4_1"
+export v_PHP7="7.3.5"
 export v_PHPMYADMIN="4.8.5"
 export v_PINENTRY="1.1.0_1"
 export v_PIXMAN="0.38.4"
 export v_PKG_CONFIG="0.29.2"
 export v_PNGQUANT="2.12.2"
-export v_POPPLER="0.76.0"
+export v_POPPLER="0.76.1"
 export v_POSTGRESQL="11.2_1"
 export v_PRCE="8.42"
 export v_PRIVOXY="3.0.28"
@@ -265,5 +265,5 @@ export v_ZSTD="1.4.0"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Wed 5/1/2019 - SilverSurfer - Safari
+# Last update: Thu 5/2/2019 - HoneyFishMINI - Safari
 # EOF
