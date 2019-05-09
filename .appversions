@@ -3,7 +3,7 @@
 export v_ACK="2.28"
 export v_AMBER="0.7.2"
 export v_ANSIBLE="2.7.10"
-export v_ANT="1.10.5"
+export v_ANT="1.10.6"
 export v_APIBUILDER_CLI="0.1.32"
 export v_APR="1.7.0"
 export v_APR_UTIL="1.6.1_1"
@@ -99,7 +99,7 @@ export v_ISL="0.21"
 export v_JANSSON="2.11"
 export v_JASPER="2.0.16"
 export v_JEMALLOC="5.2.0"
-export v_JENKINS="2.175"
+export v_JENKINS="2.176"
 export v_JETTY="9.4.16.v20190411"
 export v_JDK="1.8.0_102"
 export v_JRE="1.8.0_102"
@@ -268,5 +268,5 @@ export v_ZSTD="1.4.0"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Wed 5/8/2019 - b - HoneyFishMINI - Safari
+# Last update: Thu 5/9/2019 - SilverSurfer - Safari
 # EOF
