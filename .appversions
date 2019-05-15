@@ -153,7 +153,7 @@ export v_LLVM6="6.0.1_1"
 export v_LOREM="0.8.0"
 export v_LUA="5.3.5_1"
 export v_LZ4="1.9.1"
-export v_MARIADB="10.3.14"
+export v_MARIADB="10.3.15"
 export v_MAVEN="3.6.1"
 export v_MERCURIAL="4.9.1"
 export v_MINIO="20190423235036"
@@ -268,5 +268,5 @@ export v_ZSTD="1.4.0"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Tue 5/14/2019 - HoneyFishMINI - Safari
+# Last update: Wed 5/15/2019 - HoneyFishMINI - Safari
 # EOF
