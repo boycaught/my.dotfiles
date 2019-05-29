@@ -99,7 +99,7 @@ export v_ISL="0.21"
 export v_JANSSON="2.11"
 export v_JASPER="2.0.16"
 export v_JEMALLOC="5.2.0"
-export v_JENKINS="2.178"
+export v_JENKINS="2.179"
 export v_JETTY="9.4.16.v20190411"
 export v_JDK="1.8.0_102"
 export v_JRE="1.8.0_102"
@@ -188,7 +188,7 @@ export v_OPENJPEG="2.3.1"
 export v_OPENLDAP="2.4.47"
 export v_OPEN_MPI="4.0.1_1"
 export v_OPENSSL="1.0.2r"
-export v_OPENSSL1="1.1.1.1b"
+export v_OPENSSL1="1.1.1c"
 export v_OPUS="1.3.1"
 export v_p11_KIT="0.23.15"
 export v_PACKER="1.4.0"
@@ -268,5 +268,5 @@ export v_ZSTD="1.4.0"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Tue 5/28/2019 - HoneyFishMINI - Safari
+# Last update: Wed 5/29/2019 - HoneyFishMINI - Safari
 # EOF
