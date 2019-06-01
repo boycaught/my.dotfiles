@@ -134,7 +134,7 @@ export v_LIBPNG="1.6.37"
 export v_LIBPQ="11.3"
 export v_LIBRESSL="2.9.2"
 export v_LIBSASS="3.5.5"
-export v_LIBSODIUM="1.0.17"
+export v_LIBSODIUM="1.0.18"
 export v_LIBSSH2="1.8.2"
 export v_LIBSTFL="0.24_8"
 export v_LIBTASN1="4.13"
@@ -198,7 +198,7 @@ export v_PASSENGER="6.0.2_3"
 export v_PCRE="8.43"
 export v_PRCE2="10.33"
 export v_PDFTOEDN="0.36.8"
-export v_PHP7="7.3.5"
+export v_PHP7="7.3.6"
 export v_PHPMYADMIN="4.8.5"
 export v_PINENTRY="1.1.0_1"
 export v_PIXMAN="0.38.4"
@@ -268,5 +268,5 @@ export v_ZSTD="1.4.0"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Fri 5/31/2019 - HoneyFishMINI - Safari
+# Last update: Sat 6/1/2019 - HoneyFishMINI - Safari
 # EOF
