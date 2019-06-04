@@ -9,7 +9,7 @@ export v_APR="1.7.0"
 export v_APR_UTIL="1.6.1_1"
 export v_ARPACK="3.7.0_2"
 export v_ASCIIDOC="8.6.10_2"
-export v_ASK_CLI="1.6.2"
+export v_ASK_CLI="1.7.2"
 export v_ASPELL="0.60.6.1_1"
 export v_ATK="2.32.0"
 export v_AWSCLI="1.16.130"
@@ -46,7 +46,7 @@ export v_ELIXIR="1.8.2"
 export v_ELM="0.19.0"
 export v_EMSCRIPTEN="1.38.31"
 export v_ENCHANT="2.2.3"
-export v_ERLANG="21.3.8"
+export v_ERLANG="22.0.2"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.21"
 export v_FAAC="1.29.9.2"
@@ -268,5 +268,5 @@ export v_ZSTD="1.4.0"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Mon 6/3/2019 - HoneyFishMINI - Safari
+# Last update: Tue 6/4/2019 - HoneyFishMINI - Safari
 # EOF
