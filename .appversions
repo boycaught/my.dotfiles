@@ -78,7 +78,7 @@ export v_GNUTLS="3.6.7.1"
 export v_GPG_AGENT="2.0.31"
 export v_GNUTLS="3.6.8"
 export v_GO="1.12.6"
-export v_GOBJECT_INTROSPECTION="1.60.1"
+export v_GOBJECT_INTROSPECTION="1.60.2"
 export v_GOX="1.0.1"
 export v_GRAILS="3.3.10"
 export v_GRADLE="5.4.1"
@@ -269,5 +269,5 @@ export v_ZSTD="1.4.0"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Sun 6/16/2019 - SilverSurfer - Safari
+# Last update: Mon 6/17/2019 - HoneyFishMINI - Safari
 # EOF
