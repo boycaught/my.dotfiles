@@ -48,7 +48,7 @@ export v_EMSCRIPTEN="1.38.31"
 export v_ENCHANT="2.2.3_1"
 export v_ERLANG="22.0.3"
 export v_ERLANG_19="@19 19.3.6.13"
-export v_ERLANG_20="@20 20.3.8.21"
+export v_ERLANG_20="@20 20.3.8.22"
 export v_FAAC="1.29.9.2"
 export v_FDK_AAC="2.0.0"
 export v_FFMPEG="4.1.3_1"
@@ -238,7 +238,7 @@ export v_SDL2="2.0.9_1"
 export v_SIP="4.19.8_11"
 export v_SCONS="3.0.5"
 export v_SOURCE_HIGHLIGHT="3.1.8_12"
-export v_SPHINX_DOC="2.1.1"
+export v_SPHINX_DOC="2.1.2"
 export v_SQLITE="3.28.0"
 export v_SQUASHFS="4.3_2"
 export v_SUITE_SPARSE="5.3.0_1"
@@ -271,5 +271,5 @@ export v_ZSTD="1.4.0"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Tue 6/18/2019 - HoneyFishMINI - Safari
+# Last update: Wed 6/19/2019 - HoneyFishMINI - Safari
 # EOF
