@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export v_ACK="2.28"
+export v_ACK="3.0.0"
 export v_AMBER="0.7.2"
 export v_ANSIBLE="2.8.1_1"
 export v_ANT="1.10.6"
@@ -101,7 +101,7 @@ export v_ISL="0.21"
 export v_JANSSON="2.11"
 export v_JASPER="2.0.16"
 export v_JEMALLOC="5.2.0"
-export v_JENKINS="2.181"
+export v_JENKINS="2.182"
 export v_JETTY="9.4.16.v20190411"
 export v_JDK="1.8.0_102"
 export v_JRE="1.8.0_102"
@@ -271,5 +271,5 @@ export v_ZSTD="1.4.0"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Sun 6/23/2019 - HoneyFishMINI - Safari
+# Last update: Mon 6/24/2019 - HoneyFishMINI - Safari
 # EOF
