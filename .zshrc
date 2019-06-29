@@ -1,14 +1,8 @@
 #!/bin/zsh
-## updated to v_2019.06.28
-
-# get version settings
-source ~/dotfiles/.appversions
-
-# get paths
-source ~/dotfiles/.paths
+## updated to v_2019.06.29
 
 # Customizations
-for file in ~/dotfiles/.{aliases,extras,exports,functions,macros}; do
+for file in ~/dotfiles/.{appversions,paths,aliases,extras,exports,functions,macros}; do
 	[ -r "$file" ] && source "$file"
 done
 unset file
@@ -29,5 +23,5 @@ export EDITOR="nano"
 # v_XXX files are application [v]ersion files, added to the ~/dotfiles/.appversions file
 
 #EOF
-#LastUpdated: 6/28/2019
-#v2019.06.28
+#LastUpdated: 6/29/2019
+#v2019.06.29
