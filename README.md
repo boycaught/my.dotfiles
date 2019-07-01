@@ -61,13 +61,15 @@ I recommend getting a [`.jshintrc`](https://github.com/jshint/node-jshint/blob/m
 * `.bashrc`
 * `.exports`
 * `.functions`
+* `.macros`
+* `.zshrc`
 * `.extra` - not included, explained above
 
 #### manual run
 * `install-deps.sh` - random apps i need installed
 * `.osx` - run on a fresh osx machine
 * `.brew` - homebrew intialization
-* `.updates` - homebrew and meteor.js initialization
+* `.updates` - homebrew initialization (formerly included meteor.js)
 
 #### git, brah
 * `.git`
