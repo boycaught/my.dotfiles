@@ -63,7 +63,7 @@ I recommend getting a [`.jshintrc`](https://github.com/jshint/node-jshint/blob/m
 * `.functions`
 * `.macros`
 * `.zshrc`
-* `.extra` - not included, explained above
+* `.extras` - not included, explained above
 
 #### manual run
 * `install-deps.sh` - random apps i need installed
