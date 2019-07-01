@@ -49,7 +49,7 @@ export v_ENCHANT="2.2.4"
 export v_ERLANG="22.0.4"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.22"
-export v_EXPLOITDB="2019-06-27"
+export v_EXPLOITDB="2019-06-29"
 export v_FAAC="1.29.9.2"
 export v_FDK_AAC="2.0.0"
 export v_FFMPEG="4.1.3_1"
@@ -123,7 +123,7 @@ export v_LIBATOMIC_OPS="7.6.10"
 export v_LIBAV="12.3_2"
 export v_LIBBLURAY="1.1.1"
 export v_LIBCERF="1.13"
-export v_LIBEV="4.25"
+export v_LIBEV="4.27"
 export v_LIBFFI="3.2.1"
 export v_LIBGCRYPT="1.8.4"
 export v_LIBGPG_ERROR="1.35"
@@ -272,5 +272,5 @@ export v_ZSTD="1.4.0"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Sat 6/29/2019 - SilverSurfer - Safari
+# Last update: Sun 6/30/2019 - HoneyFishMINI - Safari
 # EOF
