@@ -7,7 +7,7 @@ export v_ANT="1.10.6"
 export v_APIBUILDER_CLI="0.1.32"
 export v_APR="1.7.0"
 export v_APR_UTIL="1.6.1_1"
-export v_ARGON2="2019702"
+export v_ARGON2="20190702_1"
 export v_ARPACK="3.7.0_2"
 export v_ASCIIDOC="8.6.10_2"
 export v_ASK_CLI="1.7.4"
@@ -273,5 +273,5 @@ export v_ZSTD="1.4.0"
 
 export v_BOGUS="24.7.365"
 
-# Last update: Tue 7/2/2019 - HoneyFishMINI - Safari
+# Last update: Wed 7/3/2019 - HoneyFishMINI - Safari
 # EOF
