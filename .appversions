@@ -265,12 +265,12 @@ export v_XVID="1.3.5"
 export v_XZ="5.2.4"
 export v_YARA="3.10.0"
 export v_YASM="1.3.0_2"
-export v_YOUTUBE_DL="2019.07.14"
+export v_YOUTUBE_DL="2019.07.16"
 export v_YUBICO_PIV_TOOL="1.7.0"
 export v_ZEROMQ="4.3.2"
 export v_ZLIB="1.2.11"
 export v_ZSTD="1.4.0"
 export v_BOGUS="24.7.365"
 
-# Last update: Mon 7/15/2019 - SilverSurfer - Safari
+# Last update: Tue 7/16/2019 - HoneyFishMINI - Safari
 # EOF
