@@ -257,7 +257,7 @@ export v_UNBOUND="1.9.2"
 export v_UNIXODBC="2.3.7"
 export v_VECLIBFORT="0.4.2_6"
 export v_WEBP="1.0.3"
-export v_WEBPACK="4.36.1"
+export v_WEBPACK="4.37.0"
 export v_WGET="1.20.3_1"
 export v_WP_CLI="2.2.0"
 export v_WXMAC="3.0.4_2"
@@ -274,5 +274,5 @@ export v_ZLIB="1.2.11"
 export v_ZSTD="1.4.1"
 export v_BOGUS="24.7.365" 
 
-# Last update: Mon 7/22/2019 - SilverSurfer - Safari 
+# Last update: Tue 7/23/2019 - SilverSurfer - Safari 
 # EOF
