@@ -14,6 +14,7 @@ alias customize='source ~/dotfiles/.zshrc'
 alias flushprivs='source ~/.flushprivs | tee ~/flushprivs.log'
 alias getupdates='source ~/.updates | tee ~/getupdates.log'
 alias freshbrew='source ~/.freshbrew'
+alias jetpack='java -jar $JETTY_HOME/start.jar jetty.base=$JETTY_BASE &'
 
 ## FF X => FIND FILE NAMED X
 alias ff="find . -name \!:1 -print"     
