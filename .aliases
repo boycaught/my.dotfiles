@@ -12,7 +12,7 @@ alias py='python manage.py'
 alias jy='jython manage.py'
 alias customize='source ~/dotfiles/.zshrc'
 alias flushprivs='source ~/.flushprivs | tee ~/flushprivs.log'
-alias getupdates='source ~/.updates | tee ~/getupdates.log'
+alias getupdates='source ~/.updates | tee ~/dotfiles/getupdates.log'
 alias freshbrew='source ~/.freshbrew'
 alias jettypack='java -jar $JETTY_HOME/start.jar jetty.base=$JETTY_BASE &'
 
