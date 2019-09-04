@@ -178,7 +178,7 @@ export v_MYSQL="10.1.16"
 export v_MYSQL_SANDBOX="3.2.17"
 export v_NANO="4.4"
 export v_NCURSES="6.1"
-export v_NEO4J="3.5.8"
+export v_NEO4J="3.5.9"
 export v_NETPBM="10.73.27"
 export v_NETTLE="3.4.1"
 export v_NGHTTP2="1.39.2"
@@ -280,5 +280,5 @@ export v_ZLIB="1.2.11"
 export v_ZSTD="1.4.1"
 export v_BOGUS="24.7.365" 
 
-# Last update: Tue 9/3/2019 - HoneyFishMINI - Safari 
+# Last update: Tue 9/3/2019 - SilverSurfer - Safari 
 # EOF
