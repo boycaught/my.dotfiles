@@ -288,5 +288,9 @@ export v_ZLIB="1.2.11"
 export v_ZSTD="1.4.1"
 export v_BOGUS="24.7.365" 
 
-# Last update: Fri 10/18/2019a - HoneyFishMINI - Safari 
+### Casks 
+export v_AUDIO_HIJACK="3.6.1"
+export v_THEBRAIN="10.8"
+
+# Last update: Sat 10/19/2019 - HoneyFishMINI - Safari 
 # EOF
