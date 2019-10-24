@@ -292,7 +292,8 @@ export v_BOGUS="24.7.365"
 ### Casks 
 export v_ALTAIR_GRAPHQL_CLIENT="2.3.5"
 export v_AUDIO_HIJACK="3.6.1"
+export v_ELECTRON="7.0.0"
 export v_THEBRAIN="10.8"
 
-# Last update: Thur 10/24/2019 - HoneyFishMINI - Safari 
+# Last update: Thur 10/24/2019 - SilverSurfer - Safari 
 # EOF
