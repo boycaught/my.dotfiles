@@ -51,7 +51,7 @@ export v_ENCHANT="2.2.7"
 export v_ERLANG="22.1.4"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.22_1"
-export v_EXPLOITDB="2019-10-25"
+export v_EXPLOITDB="2019-10-26"
 export v_FAAC="1.29.9.2"
 export v_FDK_AAC="2.0.1"
 export v_FFMPEG="4.2.1_1"
@@ -293,7 +293,8 @@ export v_BOGUS="24.7.365"
 export v_ALTAIR_GRAPHQL_CLIENT="2.3.5"
 export v_AUDIO_HIJACK="3.6.2"
 export v_ELECTRON="7.0.0"
+export v_MINIKUBE="1.5.0"
 export v_THEBRAIN="10.8"
 
-# Last update: Fri 10/25/2019 - SilverSurfer - Safari 
+# Last update: Sat 10/26/2019 - HoneyFishMBP - Safari 
 # EOF
