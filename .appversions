@@ -292,8 +292,10 @@ export v_BOGUS="24.7.365"
 ### Casks 
 export v_ALTAIR_GRAPHQL_CLIENT="2.3.6"
 export v_AUDIO_HIJACK="3.6.2"
+export v_DOCKER_TOOLBOX="19.03.1"
 export v_ELECTRON="7.0.0"
+export v_FISSION="2.5.0"
 export v_THEBRAIN="10.8"
 
-# Last update: Mon 10/28/2019 - SilverSurferMBP - Safari 
+# Last update: Tue 10/29/2019 - SilverSurferMBP - Safari 
 # EOF
