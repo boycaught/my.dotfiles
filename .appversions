@@ -171,7 +171,7 @@ export v_LUA="5.3.5_1"
 export v_LZ4="1.9.1"
 export v_MARIADB="10.4.6_1"
 export v_MAVEN="3.6.2"
-export v_MERCURIAL="5.1.1_2"
+export v_MERCURIAL="5.1.2"
 export v_MESON="0.52.0"
 export v_MINIKUBE="1.5.2"
 export v_MINIO="20191002211938"
@@ -301,5 +301,5 @@ export v_GIMP="2.10.14"
 export v_INKSCAPE="1.0beta1"
 export v_THEBRAIN="10.8"
 
-# Last update: Sat 11/2/2019 - SilverSurferMBP - Safari 
+# Last update: Sun 11/3/2019 - SilverSurferMBP - Safari 
 # EOF
