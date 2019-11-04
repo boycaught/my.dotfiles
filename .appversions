@@ -223,6 +223,7 @@ export v_PKG_CONFIG="0.29.2"
 export v_PNGQUANT="2.12.5"
 export v_POPPLER="0.81.0"
 export v_POSTGRESQL="11.5_1"
+export v_POSTGREST="6.0.2"
 export v_PRCE2="10.33"
 export v_PRCE="8.42"
 export v_PRIVOXY="3.0.28"
@@ -301,5 +302,5 @@ export v_GIMP="2.10.14"
 export v_INKSCAPE="1.0beta1"
 export v_THEBRAIN="10.8"
 
-# Last update: Sun 11/3/2019 - SilverSurferMBP - Safari 
+# Last update: Mon 11/4/2019 - SilverSurferMBP - Safari 
 # EOF
