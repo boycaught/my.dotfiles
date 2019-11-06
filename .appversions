@@ -301,6 +301,7 @@ export v_FISSION="2.5.0"
 export v_GIMP="2.10.14"
 export v_INKSCAPE="1.0beta1"
 export v_THEBRAIN="10.8"
+export v_VIENNA="3.5.4"
 
 # Last update: Tue 11/5/2019 - HoneyFishMINI - Safari 
 # EOF
