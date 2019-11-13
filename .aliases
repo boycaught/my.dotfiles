@@ -16,6 +16,7 @@ alias getupdates='source ~/.updates | tee ~/dotfiles/getupdates.log'
 alias freshbrew='source ~/.freshbrew'
 alias jettypack='java -jar $JETTY_HOME/start.jar jetty.base=$JETTY_BASE &'
 alias pgpack='pg_ctl -D /usr/local/var/postgres start &'
+alias jekyllpack='bundle exec jekyll serve &'
 
 ## FF X => FIND FILE NAMED X
 alias ff="find . -name \!:1 -print"     
