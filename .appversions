@@ -297,6 +297,7 @@ export v_BOGUS="24.7.365"
 ### Casks 
 export v_ALTAIR_GRAPHQL_CLIENT="2.3.8"
 export v_AUDIO_HIJACK="3.6.2"
+export v_DB_BROWSER_FOR_SQLITE="3.11.2"
 export v_DOCKER_TOOLBOX="19.03.1"
 export v_ELECTRON="7.1.1"
 export v_FISSION="2.5.0"
@@ -306,5 +307,5 @@ export v_KEEPASSXC="2.5.1"
 export v_THEBRAIN="10.0.63.0"
 export v_VIENNA="3.5.4"
 
-# Last update: Wed 11/20/2019 - SilverSurferMBP - Safari 
+# Last update: Sat 11/23/2019 - HoneyFishMINI - Safari 
 # EOF
