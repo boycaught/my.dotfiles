@@ -46,7 +46,7 @@ export v_DVM="1.0.2"
 export v_ELASTICSEARCH="6.8.5"
 export v_ELECTRON="6.0.6"
 export v_ELIXIR="1.9.4"
-export v_ELM="0.19.0"
+export v_ELM="0.19.1"
 export v_EMSCRIPTEN="1.38.44"
 export v_ENCHANT="2.2.7"
 export v_ERLANG="22.1.8"
@@ -311,5 +311,5 @@ export v_KEEPASSXC="2.5.1"
 export v_THEBRAIN="10.0.64.0"
 export v_VIENNA="3.5.4"
 
-# Last update: Sat 11/30/2019 - HoneyFishMINI - Safari 
+# Last update: Sun 12/1/2019 - HoneyFishMINI - Safari 
 # EOF
