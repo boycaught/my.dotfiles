@@ -27,7 +27,7 @@ export v_CAIRO="1.16.0_2"
 export v_CERTBOT="1.0.0"
 export v_CLAMAV="0.102.1"
 export v_CLANG_FORMAT="2018-01-18"
-export v_CMAKE="3.15.5"
+export v_CMAKE="3.16.1"
 export v_COMPOSER="1.9.1"
 export v_CONSUL="1.6.1"
 export v_COREUTILS="8.31"
@@ -312,5 +312,5 @@ export v_THEBRAIN="10.0.64.0"
 export v_VIENNA="3.5.4"
 export v_VIRTUALBOX="6.1.0,135406"
 
-# Last update: Sun 12/15/2019 - SilverSurferMBP - Safari 
+# Last update: Mon 12/16/2019 - HoneyFishMINI - FireFoxDeveloper 
 # EOF
