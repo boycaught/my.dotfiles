@@ -10,7 +10,7 @@ export v_APR_UTIL="1.6.1_3"
 export v_ARGON2="20190702_1"
 export v_ARPACK="3.7.0_2"
 export v_ASCIIDOC="8.6.10_2"
-export v_ASK_CLI="1.7.17"
+export v_ASK_CLI="1.7.18"
 export v_ASPELL="0.60.7"
 export v_ATK="2.34.1"
 export v_AUGEAS="1.12.0"
@@ -312,5 +312,5 @@ export v_THEBRAIN="10.0.64.0"
 export v_VIENNA="3.5.4"
 export v_VIRTUALBOX="6.1.0,135406"
 
-# Last update: Sat 12/14/2019 - HoneyFishMINI - Safari 
+# Last update: Sun 12/15/2019 - SilverSurferMBP - Safari 
 # EOF
