@@ -301,7 +301,7 @@ export v_ZSTD="1.4.4"
 export v_BOGUS="24.7.365" 
 
 ### Casks 
-export v_ALTAIR_GRAPHQL_CLIENT="2.4.0"
+export v_ALTAIR_GRAPHQL_CLIENT="2.4.2"
 export v_AUDIO_HIJACK="3.6.2"
 export v_DB_BROWSER_FOR_SQLITE="3.11.2"
 export v_DOCKER_TOOLBOX="19.03.1"
