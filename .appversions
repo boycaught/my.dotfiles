@@ -312,8 +312,8 @@ export v_GRAMPS="5.1.1,1"
 export v_INKSCAPE="1.0beta1"
 export v_KEEPASSXC="2.5.1"
 export v_THEBRAIN="10.0.64.0"
-export v_VIENNA="3.5.4"
+export v_VIENNA="3.5.5"
 export v_VIRTUALBOX="6.1.0,135406"
 
-# Last update: Tue 12/24/2019 - SilverSurferMPB - FireFoxNightly
+# Last update: Wed 12/25/2019 - SilverSurferMPB - FireFoxNightly
 # EOF
