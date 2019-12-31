@@ -62,6 +62,7 @@ PERL_MM_OPT="INSTALL_BASE=~/perl5";
 PATH="$HOME/.local/bin:\
 ~/perl5/bin:\
 ~/.meteor:\
+~/.cargo/bin:\
 ~/.pyenv/shims:\
 ~/.pyenv/bin:\
 /usr/local/bin:\
