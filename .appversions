@@ -115,7 +115,7 @@ export v_JANSSON="2.11"
 export v_JASPER="2.0.16"
 export v_JDK="1.8.0_102"
 export v_JEMALLOC="5.2.1"
-export v_JENKINS="2.213"
+export v_JENKINS="2.214"
 export v_JETTY="9.4.24.v20191120"
 export v_JETTY_RUNNER="9.4.15.v20190215"
 export v_JPEG="9c"
@@ -176,7 +176,8 @@ export v_LLVM="9.0.0_1"
 export v_LOREM="0.8.0"
 export v_LUA="5.3.5_1"
 export v_LZ4="1.9.1"
-export v_MARIADB="10.4.10"
+export v_MAKEDEPEND="1.0.6"
+export v_MARIADB="10.4.11"
 export v_MAVEN="3.6.2"
 export v_MERCURIAL="5.2.2"
 export v_MESON="0.53.0"
@@ -304,6 +305,7 @@ export v_ZSTD="1.4.4"
 export v_BOGUS="24.7.365" 
 
 ### Casks 
+export v_ANKI="2.1.17"
 export v_ALTAIR_GRAPHQL_CLIENT="2.4.3"
 export v_AUDIO_HIJACK="3.6.2"
 export v_DB_BROWSER_FOR_SQLITE="3.11.2"
@@ -318,5 +320,5 @@ export v_THEBRAIN="10.0.64.0"
 export v_VIENNA="3.5.5"
 export v_VIRTUALBOX="6.1.0,135406"
 
-# Last update: Sat 1/11/2020 - HoneyFishMINI - FireFoxDeveloper
+# Last update: Mon 1/13/2020 - HoneyFishMINI - FireFoxDeveloper
 # EOF
