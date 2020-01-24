@@ -277,7 +277,7 @@ export v_SUNDIALS="5.0.0"
 export v_SWAGGER_CODEGEN="3.0.16"
 export v_STRONGSWAN="5.8.2"
 export v_SWIG="4.0.0"
-export v_TERRAFORM="0.12.19"
+export v_TERRAFORM="0.12.20"
 export v_TESSERACT="4.1.1"
 export v_TESTDISK="7.1"
 export v_TEXINFO="6.7"
@@ -321,5 +321,5 @@ export v_THEBRAIN="10.0.64.0"
 export v_VIENNA="3.5.5"
 export v_VIRTUALBOX="6.1.2,135662"
 
-# Last update: Wed 1/22/2020 - SilverSurferMBP - FireFoxNightly
+# Last update: Thu 1/23/2020 - SilverSurferMBP - FireFoxNightly
 # EOF
