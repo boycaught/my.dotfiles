@@ -311,7 +311,7 @@ export v_ALTAIR_GRAPHQL_CLIENT="2.4.3"
 export v_AUDIO_HIJACK="3.6.2"
 export v_DB_BROWSER_FOR_SQLITE="3.11.2"
 export v_DOCKER_TOOLBOX="19.03.1"
-export v_ELECTRON="7.1.11"
+export v_ELECTRON="8.0.0"
 export v_FISSION="2.5.0"
 export v_GIMP="2.10.14"
 export v_GRAMPS="5.1.2,1"
@@ -323,5 +323,5 @@ export v_VAGRANT="2.2.7"
 export v_VIENNA="3.5.5"
 export v_VIRTUALBOX="6.1.2,135662"
 
-# Last update: Fri 2/7/2020 - SilverSurferMBP - FireFoxNightly
+# Last update: Sat 2/8/2020 - SilverSurferMBP - FireFoxNightly
 # EOF
