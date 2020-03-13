@@ -310,7 +310,7 @@ export v_ZSTD="1.4.4"
 export v_BOGUS="24.7.365" 
 
 ### Casks 
-export v_ANKI="2.1.20"
+export v_ANKI="2.1.21"
 export v_ALTAIR_GRAPHQL_CLIENT="2.4.4"
 export v_AUDIO_HIJACK="3.6.4"
 export v_COCKTAIL="13.2"
@@ -328,5 +328,5 @@ export v_VAGRANT="2.2.7"
 export v_VIENNA="3.5.5"
 export v_VIRTUALBOX="6.1.4,136177"
 
-# Last update: Wed 3/11/2020 - SilverSurferMBP - FireFoxNightly
+# Last update: Thu 3/12/2020 - SilverSurferMBP - FireFoxNightly
 # EOF
