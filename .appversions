@@ -107,7 +107,7 @@ export v_HELM="3.1.2"
 export v_HTOP="2.2.0_1"
 export v_HTTPD="2.4.41_1"
 export v_HTTPING="2.5_2"
-export v_HUGO="0.67.0"
+export v_HUGO="0.67.1"
 export v_HYPERKIT="0.20200224"
 export v_ICU4C="63.1"
 export v_ILMBASE="2.4.1"
@@ -329,5 +329,5 @@ export v_VAGRANT="2.2.7"
 export v_VIENNA="3.5.5"
 export v_VIRTUALBOX="6.1.4,136177"
 
-# Last update: Sat 3/14/2020 - HoneyFishMINI - FireFoxDeveloper
+# Last update: Mon 3/16/2020 - SilverSurferMBP - FireFoxNightly
 # EOF
