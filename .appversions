@@ -79,13 +79,13 @@ export v_GETTEXT="0.20.1"
 export v_GHC="8.8.3"
 export v_GHOSTSCRIPT="9.52"
 export v_GIFLIB="5.2.1"
-export v_GIT="2.25.2"
+export v_GIT="2.26.0"
 export v_GLIB="2.64.1"
 export v_GLIDE="0.13.3"
 export v_GMP="6.2.0"
 export v_GNU_GETOPT="2.35.1"
 export v_GNU_SED="4.8"
-export v_GNUPG="2.2.19"
+export v_GNUPG="2.2.20"
 export v_GNUPLOT="5.2.8"
 export v_GNUTLS="3.6.12"
 export v_GO="1.14"
@@ -331,6 +331,6 @@ export v_VAGRANT="2.2.7"
 export v_VIENNA="3.5.5"
 export v_VIRTUALBOX="6.1.4,136177"
 
+# Last update: Mon 3/23/2020 - HoneyFishMINI - FireFoxDeveloper
 # Last update: Sat 3/21/2020 - SilverSurferMBP - FireFoxNightly
-# Last update: Sun 3/22/2020 - HoneyFishMINI - FireFoxDeveloper
 # EOF
