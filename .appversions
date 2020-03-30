@@ -56,7 +56,7 @@ export v_ENCHANT="2.2.8"
 export v_ERLANG="22.3"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
-export v_EXPLOITDB="2020-03-28"
+export v_EXPLOITDB="2020-03-29"
 export v_FAAC="1.29.9.2"
 export v_FDK_AAC="2.0.1"
 export v_FFMPEG="4.2.2_2"
@@ -186,7 +186,7 @@ export v_MAKEDEPEND="1.0.6"
 export v_MARIADB="10.4.11"
 export v_MAVEN="3.6.3_1"
 export v_MERCURIAL="5.3.1"
-export v_MESON="0.53.2"
+export v_MESON="0.54.0"
 export v_MINIKUBE="1.8.2"
 export v_MINIO="20200325070304"
 export v_MITMPROXY="5.0.1_2"
@@ -331,7 +331,7 @@ export v_VAGRANT="2.2.7"
 export v_VIENNA="3.5.5"
 export v_VIRTUALBOX="6.1.4,136177"
 
-# Last update: Sun 3/29/2020 - HoneyFishMINI - FireFoxDeveloper
+# Last update: Mon 3/30/2020 - HoneyFishMINI - FireFoxDeveloper
 # Last update: Sun 3/29/2020 - SilverSurferMBP - FireFoxNightly
-# Status: synced
+# Status: unsynced
 # EOF
