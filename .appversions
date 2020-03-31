@@ -330,8 +330,9 @@ export v_THEBRAIN="10.0.64.0"
 export v_VAGRANT="2.2.7"
 export v_VIENNA="3.5.5"
 export v_VIRTUALBOX="6.1.4,136177"
+export v_ZETTLR="1.6.0"
 
-# Last update: Mon 3/30/2020 - HoneyFishMINI - FireFoxDeveloper
+# Last update: Tue 3/31/2020 - HoneyFishMINI - FireFoxDeveloper
 # Last update: Tue 3/31/2020 - SilverSurferMBP - FireFoxNightly
-# Status: unsynced
+# Status: synced
 # EOF
