@@ -7,6 +7,7 @@ MY_APPS="/Applications"
 
 ## JAVA PATHS
 JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk$v_JRE.jdk/Contents/Home"
+JVM_HOME="/Library/Java/JavaVirtualMachines/jdk$v_JRE.jdk/Contents/Home"
 JDK_HOME="/Library/Java/JavaVirtualMachines/jdk$v_JDK.jdk/Contents/Home"
 JAVA_OPTS="-Xms512m -Xmx2048m -Djava.awt.headless=true"
 
@@ -116,6 +117,7 @@ export HEROKU_HOME
 export JAVA_HOME
 export JAVA_OPTS
 export JDK_HOME
+export JVM_HOME
 export JENKINS_HOME
 export JETTY_HOME
 export JETTY_BASE
