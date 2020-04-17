@@ -335,11 +335,11 @@ export v_QUITERSS="0.19.3"
 export v_THEBRAIN="10.0.64.0"
 export v_VAGRANT="2.2.7"
 export v_VIENNA="3.5.5"
-export v_VIRTUALBOX="6.1.4,136177"
+export v_VIRTUALBOX="6.1.6,137129"
 export v_ZETTLR="1.6.0"
 export v_ZETTELKASTEN="3.3.1"
 
 # Last update: Thu 4/16/2020 - HoneyFishMINI - FireFoxDeveloper
-# Last update: Thu 4/16/2020 - SilverSurferMBP - FireFoxNightly
-# SynchStatus: TRUE
+# Last update: Fri 4/17/2020 - SilverSurferMBP - FireFoxNightly
+# SynchStatus: FALSE
 # EOF
