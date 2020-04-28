@@ -117,7 +117,7 @@ export v_HWLOC="2.2.0"
 export v_HYPERKIT="0.20200224"
 export v_ICU4C="66.1"
 export v_ILMBASE="2.4.1"
-export v_IMAGEMAGICK="7.0.10-8"
+export v_IMAGEMAGICK="7.0.10-9"
 export v_IMAP_UW="2007f_1"
 export v_IPYTHON="7.13.0_1"
 export v_ISL="0.22.1"
@@ -125,7 +125,7 @@ export v_JANSSON="2.11"
 export v_JASPER="2.0.16"
 export v_JDK="1.8.0_102"
 export v_JEMALLOC="5.2.1"
-export v_JENKINS="2.233"
+export v_JENKINS="2.234"
 export v_JETTY="9.4.28.v20200408"
 export v_JETTY_RUNNER="9.4.28.v20200408"
 export v_JPEG="9d"
@@ -341,7 +341,7 @@ export v_VIRTUALBOX="6.1.6,137129"
 export v_ZETTLR="1.6.0"
 export v_ZETTELKASTEN="3.3.1"
 
-# Last update: Thu 4/23/2020 - HoneyFishMINI - FireFoxDeveloper
-# Last update: Sun 4/26/2020 - SilverSurferMBP - FireFoxNightly
+# Last update: Mon 4/27/2020 - HoneyFishMINI - FireFoxDeveloper
+# Last update: Mon 4/27/2020 - SilverSurferMBP - FireFoxNightly
 # SynchStatus: FALSE
 # EOF
