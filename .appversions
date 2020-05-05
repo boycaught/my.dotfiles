@@ -191,7 +191,7 @@ export v_LZ4="1.9.1"
 export v_MAKEDEPEND="1.0.6"
 export v_MARIADB="10.4.12"
 export v_MAVEN="3.6.3_1"
-export v_MERCURIAL="5.3.2"
+export v_MERCURIAL="5.4"
 export v_MESON="0.54.1_2"
 export v_MINIKUBE="1.9.2"
 export v_MINIO="20200428235656"
@@ -334,6 +334,7 @@ export v_GIMP="2.10.14"
 export v_GRAMPS="5.1.2,1"
 export v_INKSCAPE="1.0.0"
 export v_KEEPASSXC="2.5.4"
+export v_LIBREOFFICE="6.4.3"
 export v_QUITERSS="0.19.4"
 export v_THEBRAIN="10.0.64.0"
 export v_VAGRANT="2.2.7"
@@ -343,6 +344,6 @@ export v_ZETTLR="1.6.0"
 export v_ZETTELKASTEN="3.3.1"
 
 # Last update: Mon 5/4/2020 - HoneyFishMINI - FireFoxDeveloper
-# Last update: Sun 5/3/2020 - SilverSurferMBP - FireFoxNightly
-# SynchStatus: FALSE
+# Last update: Mon 5/4/2020 - SilverSurferMBP - FireFoxNightly
+# SynchStatus: TRUE
 # EOF
