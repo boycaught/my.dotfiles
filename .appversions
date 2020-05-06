@@ -324,7 +324,7 @@ export v_BOGUS="24.7.365"
 export v_ANKI="2.1.25"
 export v_ALTAIR_GRAPHQL_CLIENT="2.4.7"
 export v_AUDIO_HIJACK="3.7.1"
-export v_COCKTAIL="13.2"
+export v_COCKTAIL="13.2.2"
 export v_DB_BROWSER_FOR_SQLITE="3.11.2"
 export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="3.1.201,905598d0-17a3-4b42-bf13-c5a69d7aac87:853aff73920dcb013c09a74f05da7f6a "
@@ -343,7 +343,7 @@ export v_VIRTUALBOX="6.1.6,137129"
 export v_ZETTLR="1.6.0"
 export v_ZETTELKASTEN="3.3.1"
 
-# Last update: WED 5/6/2020 - HoneyFishMINI - FireFoxDeveloper
-# Last update: Tue 5/5/2020 - SilverSurferMBP - FireFoxNightly
-# SynchStatus: FALSE
+# Last update: Wed 5/6/2020 - HoneyFishMINI - FireFoxDeveloper
+# Last update: Wed 5/6/2020 - SilverSurferMBP - FireFoxNightly
+# SynchStatus: TRUE
 # EOF
