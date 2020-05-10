@@ -10,7 +10,7 @@ export v_APR_UTIL="1.6.1_3"
 export v_ARGON2="20190702_1"
 export v_ARPACK="3.7.0_4"
 export v_ASCIIDOC="8.6.10_2"
-export v_ASK_CLI="2.3.0"
+export v_ASK_CLI="2.6.0"
 export v_ASPELL="0.60.7"
 export v_ATK="2.36.0"
 export v_AUGEAS="1.12.0"
@@ -58,7 +58,7 @@ export v_EPSTOOL="3.09"
 export v_ERLANG="22.3.4"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
-export v_EXPLOITDB="2020-05-05"
+export v_EXPLOITDB="2020-05-09"
 export v_FAAC="1.29.9.2"
 export v_FDK_AAC="2.0.1"
 export v_FFMPEG="4.2.2_3"
@@ -321,7 +321,7 @@ export v_ZSTD="1.4.4"
 export v_BOGUS="24.7.365" 
 
 ### Casks 
-export v_ANKI="2.1.25"
+export v_ANKI="2.1.26"
 export v_ALTAIR_GRAPHQL_CLIENT="2.4.7"
 export v_AUDIO_HIJACK="3.7.1"
 export v_COCKTAIL="13.2.2"
@@ -337,13 +337,13 @@ export v_KEEPASSXC="2.5.4"
 export v_LIBREOFFICE="6.4.3"
 export v_QUITERSS="0.19.4"
 export v_THEBRAIN="10.0.64.0"
-export v_VAGRANT="2.2.8"
+export v_VAGRANT="2.2.9"
 export v_VIENNA="3.5.5"
 export v_VIRTUALBOX="6.1.6,137129"
 export v_ZETTLR="1.6.0"
 export v_ZETTELKASTEN="3.3.1"
 
-# Last update: Thu 5/7/2020 - HoneyFishMINI - FireFoxDeveloper
+# Last update: Sat 5/9/2020 - HoneyFishMINI - FireFoxDeveloper
 # Last update: Sat 5/9/2020 - SilverSurferMBP - FireFoxNightly
 # SynchStatus: FALSE
 # EOF
