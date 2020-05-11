@@ -1,5 +1,5 @@
 #!/bin/zsh
-## updated to v_2019.06.29
+## updated to v_2020.05.11
 
 # Customizations
 for file in ~/dotfiles/.{appversions,paths,aliases,extras,exports,functions,macros}; do
@@ -16,6 +16,12 @@ export LANG="en_US"
 
 # Prefer 'nano' shell editor
 export EDITOR="nano"
+
+# Link Rubies to Homebrew's OpenSSL 1.1
+export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@1.1)"
+
+# Load rbenv automatically
+eval "$(rbenv init -)"
 
 # some additional edits based on the Messiah box.
 # Add tab completion for SSH hostnames based on ~/.ssh/config, ignoring wildcards
