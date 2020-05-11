@@ -135,7 +135,7 @@ export v_JRUBY="9.2.11.1"
 export v_JSDOC3="3.6.4"
 export v_JSON_C="0.13.1"
 export v_JUPYTER="1.0.0_5"
-export v_JUPYTERLAB="2.1.1"
+export v_JUPYTERLAB="2.1.2"
 export v_JYTHON="2.7.2"
 export v_KRB5="1.18.1"
 export v_KUBERNETES="1.10.1"
@@ -343,7 +343,7 @@ export v_VIRTUALBOX="6.1.6,137129"
 export v_ZETTLR="1.6.0"
 export v_ZETTELKASTEN="3.3.1"
 
-# Last update: Sun 5/1o/2020 - HoneyFishMINI - FireFoxDeveloper
-# Last update: Sat 5/9/2020 - SilverSurferMBP - FireFoxNightly
-# SynchStatus: FALSE
+# Last update: Sun 5/10/2020 - HoneyFishMINI - FireFoxDeveloper
+# Last update: Sat 5/10/2020 - SilverSurferMBP - FireFoxNightly
+# SynchStatus: TRUE
 # EOF
