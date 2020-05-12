@@ -21,10 +21,9 @@ alias gethoneyfish='ssh ${VM_HONEFISH}'
 alias getlinode='ssh ${VM_LINODE}'
 
 ## Flags
-export PKG_CONFIG_PATH="/usr/local/opt/zlib/lib/pkgconfig"
-export LDFLAGS="-L/usr/local/opt/zlib/lib -L$(brew --prefix openssl)/lib"
-export CPPFLAGS="-I/usr/local/opt/zlib/include"
+export PKG_CONFIG_PATH="/usr/local/opt/zlib/lib/pkgconfig/usr/local/opt/libffi/lib/pkgconfig"
+export LDFLAGS="-L/usr/local/opt/zlib/lib -L$(brew --prefix openssl)/lib:-L/usr/local/opt/libffi/lib"
+export CPPFLAGS="-I/usr/local/opt/zlib/include:-I/usr/local/opt/libffi/include"
 export CFLAGS="-I$(brew --prefix openssl)/include -I$(xcrun --show-sdk-path)/usr/include -O2"
-
 
 # EOF
