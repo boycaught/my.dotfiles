@@ -43,8 +43,8 @@ PYTHON_HOME="/System/Library/Frameworks/Python.framework/Versions/Current"
 RUBY_HOME="$HOME/.rvm/rubies/ruby-$v_RUBY/bin/ruby"
 WEBMIN_HOME="$MY_HOME/webmin"
 VISUALVM="$MY_HOME/visualvm"
-LDFLAGS="-L/usr/local/opt/zlib/lib"
-CPPFLAGS="-I/usr/local/opt/zlib/include"
+LDFLAGS="-L/usr/local/opt/zlib/lib:-L/usr/local/opt/libffi/lib"
+CPPFLAGS="-I/usr/local/opt/zlib/include:-I/usr/local/opt/libffi/include"
 BOGUS="A whole lot of who?"
 
 CLASSPATH="$JYTHON_HOME/jython.jar:\
@@ -59,7 +59,8 @@ PYTHONPATH="$PYTHON_HOME/bin"
 PERL5LIB="~/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"
 PERL_LOCAL_LIB_ROOT="~/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}"
 PERL_MB_OPT="--install_base \"~/perl5\""
-PERL_MM_OPT="INSTALL_BASE=~/perl5"; 
+PERL_MM_OPT="INSTALL_BASE=~/perl5"
+PKG_CONFIG_PATH="/usr/local/opt/libffi/lib/pkgconfig"
 
 PATH="$HOME/.local/bin:\
 ~/perl5/bin:\
@@ -144,4 +145,5 @@ export BOGUS
 export CC="/usr/bin/gcc"
 export LDFLAGS
 export CPPFLAG
+export PKG_CONFIG_PATH
 export PATH
