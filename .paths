@@ -40,7 +40,8 @@ MYSQL_PATH="$BREW_HOME/Cellar/mariadb/$v_MARIADB"
 MONGODB_HOME="$BREW_HOME/Cellar/mongodb/$v_MONGODB"
 NGINX_HOME="$BREW_HOME/Cellar/nginx/$v_NGINX"
 PYTHON_HOME="/System/Library/Frameworks/Python.framework/Versions/Current"
-RUBY_HOME="$HOME/.rvm/rubies/ruby-$v_RUBY/bin/ruby"
+RUBY_HOME="$HOME/.rbenv/versions/$v_RBENV_GLOBAL"
+RUBY_GEM="$HOME/.gem/ruby/$v_RBENV_GEM_BASE.0"
 WEBMIN_HOME="$MY_HOME/webmin"
 VISUALVM="$MY_HOME/visualvm"
 LDFLAGS="-L/usr/local/opt/zlib/lib"
@@ -96,6 +97,7 @@ $MYSQL_PATH/bin:\
 $MY_HOME/bin:\
 $NGINX_HOME/sbin:\
 $RUBY_HOME/bin:\
+$RUBY_GEM/bin:\
 $WEBMIN_HOME:\
 $PATH"
 
@@ -135,6 +137,7 @@ export NGINX_HOME
 export PYTHON_HOME
 export PYTHONPATH
 export RUBY_HOME
+export RUBY_GEM
 export WEBMIN_HOME
 export PERL5LIB
 export PERL_LOCAL_LIB_ROOT
