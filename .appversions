@@ -331,7 +331,7 @@ export v_AUDIO_HIJACK="3.7.1"
 export v_COCKTAIL="13.2.2"
 export v_DB_BROWSER_FOR_SQLITE="3.11.2"
 export v_DOCKER_TOOLBOX="19.03.1"
-export v_DOTNET_SDK="3.1.201,905598d0-17a3-4b42-bf13-c5a69d7aac87:853aff73920dcb013c09a74f05da7f6a "
+export v_DOTNET_SDK="3.1.202,1016a722-2794-4381-88b8-29bf382901be:ea17a73205f9a7d33c2a4e38544935ba"
 export v_ELECTRON="8.2.4"
 export v_FISSION="2.5.0"
 export v_GIMP="2.10.14"
@@ -340,7 +340,7 @@ export v_INKSCAPE="1.0.0"
 export v_KEEPASSXC="2.5.4"
 export v_LIBREOFFICE="6.4.3"
 export v_QUITERSS="0.19.4"
-export v_THEBRAIN="10.0.64.0"
+export v_THEBRAIN="11.0.80.0"
 export v_VAGRANT="2.2.9"
 export v_VIENNA="3.5.5"
 export v_VIRTUALBOX="6.1.6,137129"
@@ -348,6 +348,6 @@ export v_ZETTLR="1.6.0"
 export v_ZETTELKASTEN="3.3.1"
 
 # Last update: Thu 5/14/2020 - HoneyFishMINI - FireFoxDeveloper
-# Last update: Fri 5/15/2020 - SilverSurferMBP - FireFoxNightly
+# Last update: Sat 5/16/2020 - SilverSurferMBP - FireFoxNightly
 # SynchStatus: FALSE
 # EOF
