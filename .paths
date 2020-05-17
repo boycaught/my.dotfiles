@@ -54,6 +54,7 @@ $CF_HOME/lib/customlib/hsqldb.jar:\
 $CF_HOME/lib/customlib/jtds-1.2.5.jar:\
 $CF_HOME/lib/customlib/mongo-2.7.0.jar:\
 $CF_HOME/lib/customlib/sqlitejdbc-v037-nested.jar:\
+$JETTY_BASE/webapps/ROOT/WEB-INF/lib/lucee.jar:\
 $CLASSPATH"
 JYTHONPATH="$JYTHON_HOME:$JYTHON_HOME/bin:$JYTHON_HOME/Lib"
 PYTHONPATH="$PYTHON_HOME/bin"
