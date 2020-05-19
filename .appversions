@@ -348,7 +348,7 @@ export v_VIRTUALBOX="6.1.8,137981"
 export v_ZETTLR="1.6.0"
 export v_ZETTELKASTEN="3.3.1"
 
-# Last update: Thu 5/14/2020 - HoneyFishMINI - FireFoxDeveloper
+# Last update: Mon 5/18/2020 - HoneyFishMINI - FireFoxDeveloper
 # Last update: Mon 5/18/2020 - SilverSurferMBP - FireFoxNightly
-# SynchStatus: FALSE
+# SynchStatus: TRUE
 # EOF
