@@ -69,7 +69,7 @@ export v_FLAC="1.3.3"
 export v_FLTK="1.3.5"
 export v_FONTCONFIG="2.13.1"
 export v_FREECIV="2.6.2_1"
-export v_FREETDS="1.1.36"
+export v_FREETDS="1.1.39"
 export v_FREETYPE="2.10.1"
 export v_FREI0R="1.7.0"
 export v_FRIBIDI="1.0.9"
@@ -349,6 +349,6 @@ export v_ZETTLR="1.6.0"
 export v_ZETTELKASTEN="3.3.1"
 
 # Last update: Mon 5/18/2020 - HoneyFishMINI - FireFoxDeveloper
-# Last update: Mon 5/18/2020 - SilverSurferMBP - FireFoxNightly
-# SynchStatus: TRUE
+# Last update: Tue 5/19/2020 - SilverSurferMBP - FireFoxNightly
+# SynchStatus: FALSE
 # EOF
