@@ -115,7 +115,7 @@ export v_HELM="3.2.1"
 export v_HTOP="2.2.0_1"
 export v_HTTPD="2.4.43"
 export v_HTTPING="2.5_2"
-export v_HUGO="0.71.0"
+export v_HUGO="0.71.1"
 export v_HWLOC="2.2.0"
 export v_HYPERKIT="0.20200224"
 export v_ICU4C="66.1"
@@ -351,7 +351,7 @@ export v_VIRTUALBOX="6.1.8,137981"
 export v_ZETTLR="1.6.0"
 export v_ZETTELKASTEN="3.3.1"
 
-# Last update: Fri 5/22/2020 - HoneyFishMINI - FireFoxDeveloper
+# Last update: Mon 5/25/2020 - HoneyFishMINI - FireFoxDeveloper
 # Last update: Sat 5/23/2020 - SilverSurferMBP - FireFoxNightly
 # SynchStatus: FALSE
 # EOF
