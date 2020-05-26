@@ -330,7 +330,7 @@ export v_BOGUS="24.7.365"
 
 ### Casks 
 export v_ANKI="2.1.26"
-export v_ALTAIR_GRAPHQL_CLIENT="2.4.7"
+export v_ALTAIR_GRAPHQL_CLIENT="2.4.8"
 export v_AUDIO_HIJACK="3.7.1"
 export v_COCKTAIL="13.2.2"
 export v_DB_BROWSER_FOR_SQLITE="3.11.2"
