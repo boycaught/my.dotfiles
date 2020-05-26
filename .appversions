@@ -139,7 +139,7 @@ export v_JSON_C="0.13.1"
 export v_JUPYTER="1.0.0_5"
 export v_JUPYTERLAB="2.1.2"
 export v_JYTHON="2.7.2"
-export v_KRB5="1.18.1"
+export v_KRB5="1.18.2"
 export v_KUBERNETES="1.10.1"
 export v_KUBERNETES_CLI="1.18.3"
 export v_KUBERNETES_HELM="2.16.0"
@@ -251,7 +251,7 @@ export v_POPPLER="0.88.0"
 export v_POSTGRESQL="12.3_2"
 export v_POSTGRESQL10="10.13_1"
 export v_POSTGRESQL11="11.8_1"
-export v_POSTGREST="7.0.0"
+export v_POSTGREST="7.0.1"
 export v_PRCE2="10.35"
 export v_PRCE="8.44"
 export v_PRIVOXY="3.0.28"
@@ -295,7 +295,7 @@ export v_SPDYLAY="1.4.0_3"
 export v_SQLITE="3.31.1"
 export v_SQUASHFS="4.4"
 export v_SUITE_SPARSE="5.7.2"
-export v_SUNDIALS="5.3.0"
+export v_SUNDIALS="5.3.0_1"
 export v_SWAGGER_CODEGEN="3.0.20"
 export v_STRONGSWAN="5.8.4"
 export v_SWIG="4.0.0"
@@ -352,6 +352,6 @@ export v_ZETTLR="1.6.0"
 export v_ZETTELKASTEN="3.3.1"
 
 # Last update: Mon 5/25/2020 - HoneyFishMINI - FireFoxDeveloper
-# Last update: Sat 5/23/2020 - SilverSurferMBP - FireFoxNightly
-# SynchStatus: FALSE
+# Last update: Mon 5/25/2020 - SilverSurferMBP - FireFoxNightly
+# SynchStatus: TRUE
 # EOF
