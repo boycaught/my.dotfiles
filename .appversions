@@ -128,7 +128,7 @@ export v_JANSSON="2.13.1"
 export v_JASPER="2.0.16"
 export v_JDK="1.8.0_102"
 export v_JEMALLOC="5.2.1"
-export v_JENKINS="2.237"
+export v_JENKINS="2.238"
 export v_JETTY="9.4.29.v20200521"
 export v_JETTY_RUNNER="9.4.29.v20200521"
 export v_JPEG="9d"
@@ -352,6 +352,6 @@ export v_ZETTLR="1.6.0"
 export v_ZETTELKASTEN="3.3.1"
 
 # Last update: Mon 5/25/2020 - HoneyFishMINI - FireFoxDeveloper
-# Last update: Mon 5/25/2020 - SilverSurferMBP - FireFoxNightly
-# SynchStatus: TRUE
+# Last update: Tue 5/26/2020 - SilverSurferMBP - FireFoxNightly
+# SynchStatus: FALSE
 # EOF
