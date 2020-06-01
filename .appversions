@@ -3,7 +3,7 @@
 export v_ACK="3.3.1"
 export v_AMBER="0.7.2"
 export v_ANSIBLE="2.9.9"
-export v_ANT="1.10.8"
+export v_ANT="1.10.8_1"
 export v_APIBUILDER_CLI="0.1.35"
 export v_APR="1.7.0"
 export v_APR_UTIL="1.6.1_3"
@@ -351,7 +351,7 @@ export v_VIRTUALBOX="6.1.8,137981"
 export v_ZETTLR="1.6.0"
 export v_ZETTELKASTEN="3.3.1"
 
-# Last update: Fri 5/29/2020 - HoneyFishMINI - FireFoxDeveloper
+# Last update: Sun 5/31/2020 - HoneyFishMINI - FireFoxDeveloper
 # Last update: Sun 5/31/2020 - SilverSurferMBP - FireFoxNightly
 # SynchStatus: FALSE
 # EOF
