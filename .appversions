@@ -61,7 +61,7 @@ export v_EPSTOOL="3.09"
 export v_ERLANG="23.0.2"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
-export v_EXPLOITDB="2020-06-04"
+export v_EXPLOITDB="2020-06-06"
 export v_FAAC="1.29.9.2"
 export v_FDK_AAC="2.0.1"
 export v_FFMPEG="4.2.3_1"
@@ -186,7 +186,7 @@ export v_LIBXML2="2.9.10_1"
 export v_LIBYAML="0.2.4"
 export v_LIBZIP="1.6.1"
 export v_LIQUIBASE="3.9.0"
-export v_LITTLE_CMS2="2.10"
+export v_LITTLE_CMS2="2.10_1"
 export v_LLVM5="5.0.2_1"
 export v_LLVM6="6.0.1_3"
 export v_LLVM8="8.0.1_3"
@@ -338,7 +338,7 @@ export v_COCKTAIL="13.2.2"
 export v_DB_BROWSER_FOR_SQLITE="3.11.2"
 export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="3.1.300,f34b8ee5-1123-4a84-86a1-73fb8fb4eae8:812ae0ed01a226ebc000d2df27f5a049"
-export v_ELECTRON="9.0.0"
+export v_ELECTRON="9.0.3"
 export v_FISSION="2.5.0"
 export v_GIMP="2.10.14"
 export v_GRAMPS="5.1.2,1"
@@ -353,7 +353,7 @@ export v_VIRTUALBOX="6.1.8,137981"
 export v_ZETTLR="1.6.0"
 export v_ZETTELKASTEN="3.3.1"
 
-# Last update: Fri 6/5/2020 - HoneyFishMINI - FireFoxDeveloper
-# Last update: Mon 6/5/2020 - SilverSurferMBP - FireFoxNightly
+# Last update: Sun 6/7/2020 - HoneyFishMINI - FireFoxDeveloper
+# Last update: Sun 6/7/2020 - SilverSurferMBP - FireFoxNightly
 # SynchStatus: TRUE
 # EOF
