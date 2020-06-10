@@ -339,6 +339,7 @@ export v_DB_BROWSER_FOR_SQLITE="3.11.2"
 export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="3.1.300,f34b8ee5-1123-4a84-86a1-73fb8fb4eae8:812ae0ed01a226ebc000d2df27f5a049"
 export v_ELECTRON="9.0.3"
+export v_FIRECAMP="1.2.8"
 export v_FISSION="2.5.0"
 export v_GIMP="2.10.14"
 export v_GRAMPS="5.1.2,1"
@@ -355,5 +356,5 @@ export v_ZETTELKASTEN="3.3.1"
 
 # Last update: Mon 6/8/2020 - HoneyFishMINI - FireFoxDeveloper
 # Last update: Tue 6/9/2020 - SilverSurferMBP - FireFoxNightly
-# SynchStatus: TRUE
+# SynchStatus: FALSE
 # EOF
