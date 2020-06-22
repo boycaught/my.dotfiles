@@ -111,7 +111,7 @@ export v_GROOVY="3.0.4"
 export v_GSETTINGS_DESKTOP_SCHEMAS="3.36.1_1"
 export v_GTK_PLUS="3.24.18_1"
 export v_GTS="0.7.6_2"
-export v_HARFBUZZ="2.6.6_1"
+export v_HARFBUZZ="2.6.7"
 export v_HDF5="1.12.0"
 export v_HELM="3.2.4_1"
 export v_HTOP="2.2.0_1"
@@ -357,6 +357,6 @@ export v_ZETTLR="1.6.0"
 export v_ZETTELKASTEN="3.3.1"
 
 # Last update: Fri 6/19/2020 - HoneyFishMINI - FireFoxDeveloper
-# Last update: Fri 6/19/2020 - SilverSurferMBP - FireFoxNightly
-# SynchStatus: TRUE
+# Last update: Sun 6/21/2020 - SilverSurferMBP - FireFoxNightly
+# SynchStatus: FALSE
 # EOF
