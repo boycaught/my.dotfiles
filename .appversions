@@ -62,7 +62,7 @@ export v_EPSTOOL="3.09"
 export v_ERLANG="23.0.2_1"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
-export v_EXPLOITDB="2020-07-01"
+export v_EXPLOITDB="2020-07-07"
 export v_FAAC="1.29.9.2"
 export v_FDK_AAC="2.0.1"
 export v_FFMPEG="4.3_2"
@@ -351,6 +351,7 @@ export v_GRAMPS="5.1.2,1"
 export v_INKSCAPE="1.0.0"
 export v_KEEPASSXC="2.6.0"
 export v_LIBREOFFICE="6.4.5"
+export v_PLAYONMAC="4.4"
 export v_QUITERSS="0.19.4"
 export v_THEBRAIN="11.0.96.0"
 export v_VAGRANT="2.2.9"
@@ -359,7 +360,7 @@ export v_VIRTUALBOX="6.1.8,137981"
 export v_ZETTLR="1.7.1"
 export v_ZETTELKASTEN="3.3.1"
 
-# Last update: Wed 7/1/2020 - HoneyFishMINI - FireFoxDeveloper
+# Last update: Tue 7/7/2020 - HoneyFishMINI - FireFoxDeveloper
 # Last update: Tue 7/7/2020 - SilverSurferMBP - FireFoxNightly
 # SynchStatus: TRUE
 # EOF
