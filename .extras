@@ -15,12 +15,11 @@ if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi
 if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-init -)"; fi
 
 ## SSH to Alternative DEV boxes
-export VM_HONEYFISH="larry_green@honeyfishmini"
-export VM_LINODE="root@50.116.5.192"
-export VM_RACKNERD="root@108.166.202.119"
 alias gethoneyfish='ssh ${VM_HONEFISH}'
 alias getlinode='ssh ${VM_LINODE}'
 alias getracknerd='ssh ${VM_RACKNERD}'
+alias getetherserver1='ssh ${VM_ETHERSERVER1}'
+alias getetherserver2='ssh ${VM_ETHERSERVER2}'
 
 ## Flags
 export PKG_CONFIG_PATH="/usr/local/opt/zlib/lib/pkgconfig:/usr/local/opt/libffi/lib/pkgconfig"
