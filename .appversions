@@ -345,7 +345,7 @@ export v_AUDIO_HIJACK="3.7.1"
 export v_COCKTAIL="13.2.3"
 export v_DB_BROWSER_FOR_SQLITE="3.12.0"
 export v_DOCKER_TOOLBOX="19.03.1"
-export v_DOTNET_SDK="3.1.301,aad9adc7-90bb-4294-a378-00f4cc5fb695:89cfc771a783b1441c34ac925aee7141"
+export v_DOTNET_SDK="3.1.302,fff497aa-e6f6-4556-b67b-d139e772156f:4efa99b6bf0cb59104920dfd5f65f8a8"
 export v_ELECTRON="9.1.0"
 export v_FIRECAMP="1.4.0"
 export v_FISSION="2.5.0"
@@ -364,6 +364,6 @@ export v_ZETTLR="1.7.1"
 export v_ZETTELKASTEN="3.3.1"
 
 # Last update: Tue 7/8/2020 - HoneyFishMINI - FireFoxDeveloper
-# Last update: Tue 7/7/2020 - SilverSurferMBP - FireFoxNightly
+# Last update: Tue 7/18/2020 - SilverSurferMBP - FireFoxNightly
 # SynchStatus: FALSE
 # EOF
