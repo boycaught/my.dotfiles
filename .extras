@@ -20,6 +20,10 @@ alias getlinode='ssh ${VM_LINODE}'
 alias getracknerd='ssh ${VM_RACKNERD}'
 alias getetherserver1='ssh ${VM_ETHERSERVER1}'
 alias getetherserver2='ssh ${VM_ETHERSERVER2}'
+alias getmassivetuna='ssh ${VM_MASSIVETUNA}'
+alias getunannounced='ssh ${VM_UNANNOUNCED}'
+alias getreadracer='ssh ${VM_READRACER}'
+##alias gettodayscassette='ssh ${VM_TODAYSCASSETE}'
 
 ## Flags
 export PKG_CONFIG_PATH="/usr/local/opt/zlib/lib/pkgconfig:/usr/local/opt/libffi/lib/pkgconfig"
