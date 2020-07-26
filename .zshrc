@@ -1,8 +1,8 @@
 #!/bin/zsh
-## updated to v_2020.05.11
+## updated to v_2020.07.26
 
 # Customizations
-for file in ~/dotfiles/.{appversions,paths,aliases,extras,exports,functions,macros,shellintegrarion}; do
+for file in ~/dotfiles/.{appversions,paths,aliases,extras,exports,functions,macros,shell_integration}; do
 	[ -r "$file" ] && source "$file"
 done
 unset file
@@ -29,5 +29,5 @@ eval "$(rbenv init -)"
 # v_XXX files are application [v]ersion files, added to the ~/dotfiles/.appversions file
 
 #EOF
-#LastUpdated: 6/29/2019
-#v2019.06.29
+#LastUpdated: 7/26/2020
+#v2020.07.26
