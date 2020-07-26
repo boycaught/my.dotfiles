@@ -2,7 +2,7 @@
 ## updated to v_2020.05.11
 
 # Customizations
-for file in ~/dotfiles/.{appversions,paths,aliases,extras,exports,functions,macros}; do
+for file in ~/dotfiles/.{appversions,paths,aliases,extras,exports,functions,macros,shellintegrarion}; do
 	[ -r "$file" ] && source "$file"
 done
 unset file
