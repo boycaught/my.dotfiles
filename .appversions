@@ -264,7 +264,7 @@ export v_POSTGREST="7.0.1"
 export v_PRCE2="10.35"
 export v_PRCE="8.44"
 export v_PRIVOXY="3.0.28"
-export v_PROTBUF="3.12.3_1"
+export v_PROTBUF="3.12.4"
 export v_PSTOEDIT="3.75"
 export v_PYENV="1.2.20"
 export v_PYENV_VIRTUALENV="1.1.5"
@@ -364,7 +364,7 @@ export v_VIRTUALBOX="6.1.8,137981"
 export v_ZETTLR="1.7.1"
 export v_ZETTELKASTEN="3.3.1"
 
-# Last update: Sun 7/26/2020 - HoneyFishMINI - FireFoxDeveloper
+# Last update: Wed 7/29/2020 - HoneyFishMINI - FireFoxDeveloper
 # Last update: Sun 7/26/2020 - SilverSurferMBP - FireFoxNightly
 # SynchStatus: True
 # EOF
