@@ -341,7 +341,7 @@ export v_ZSTD="1.4.4"
 export v_BOGUS="24.7.365" 
 
 ### Casks 
-export v_ANKI="2.1.28"
+export v_ANKI="2.1.29"
 export v_ALTAIR_GRAPHQL_CLIENT="2.4.11"
 export v_AUDIO_HIJACK="3.7.1"
 export v_DB_BROWSER_FOR_SQLITE="3.12.0"
