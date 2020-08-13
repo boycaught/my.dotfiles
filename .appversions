@@ -64,7 +64,7 @@ export v_EPSTOOL="3.09"
 export v_ERLANG="23.0.3"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
-export v_EXPLOITDB="2020-08-07"
+export v_EXPLOITDB="2020-08-12"
 export v_FAAC="1.29.9.2"
 export v_FDK_AAC="2.0.1"
 export v_FFMPEG="4.3.1"
@@ -111,7 +111,7 @@ export v_GREP="3.3"
 export v_GROONGA="10.0.3"
 export v_GROOVY="3.0.5"
 export v_GSETTINGS_DESKTOP_SCHEMAS="3.36.1_1"
-export v_GTK_PLUS3="3.24.21"
+export v_GTK\+\3="3.24.22"
 export v_GTS="0.7.6_2"
 export v_HARFBUZZ="2.7.0"
 export v_HDF5="1.12.0"
@@ -123,7 +123,7 @@ export v_HUGO="0.74.3"
 export v_HWLOC="2.2.0"
 export v_HYPERKIT="0.20200224"
 export v_ICU4C="67.1"
-export v_ILMBASE="2.5.2"
+export v_ILMBASE="2.5.3"
 export v_IMAGEMAGICK="7.0.10-27"
 export v_IMAP_UW="2007f_1"
 export v_IPYTHON="7.16.1"
@@ -367,7 +367,7 @@ export v_VIRTUALBOX="6.1.8,137981"
 export v_ZETTLR="1.7.4"
 export v_ZETTELKASTEN="3.3.1"
 
-# Last update: Sun 8/9/2020 - HoneyFishMINI - FireFoxDeveloper
+# Last update: Wed 8/12/2020 - HoneyFishMINI - FireFoxDeveloper
 # Last update: Wed 8/12/2020 - SilverSurferMBP - FireFoxNightly
-# SynchStatus: false
+# SynchStatus: true
 # EOF
