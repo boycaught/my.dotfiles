@@ -124,7 +124,7 @@ export v_HWLOC="2.2.0"
 export v_HYPERKIT="0.20200224"
 export v_ICU4C="67.1"
 export v_ILMBASE="2.5.3"
-export v_IMAGEMAGICK="7.0.10-27"
+export v_IMAGEMAGICK="7.0.10-28"
 export v_IMAP_UW="2007f_1"
 export v_IPYTHON="7.16.1"
 export v_ISL="0.22.1"
@@ -312,7 +312,7 @@ export v_SWAGGER_CODEGEN="3.0.20"
 export v_STRONGSWAN="5.8.4"
 export v_SWIG="4.0.2"
 export v_TBB="2020_U2"
-export v_TERRAFORM="0.13.0"
+export v_TERRAFORM="0.13.0_1"
 export v_TESSERACT="4.1.1"
 export v_TESTDISK="7.1"
 export v_TEXINFO="6.7"
@@ -368,6 +368,6 @@ export v_ZETTLR="1.7.4"
 export v_ZETTELKASTEN="3.3.1"
 
 # Last update: Wed 8/12/2020 - HoneyFishMINI - FireFoxDeveloper
-# Last update: Wed 8/12/2020 - SilverSurferMBP - FireFoxNightly
-# SynchStatus: true
+# Last update: Sun 8/16/2020 - SilverSurferMBP - FireFoxNightly
+# SynchStatus: false
 # EOF
