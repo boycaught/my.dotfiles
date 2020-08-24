@@ -13,16 +13,16 @@ brew install automake
 brew install awscli 
 brew install bash 
 brew install boost 
-brew install dialog 
-brew install dvm 
+brew install certbot 
 brew install cmake 
 brew install composer 
 brew install consul 
 brew install coreutils 
-brew install certbot 
+brew install dialog 
+brew install dnsmasq
 brew install dockutil 
 brew install doxygen 
-brew install dnsmasq
+brew install dvm 
 brew install dvm 
 brew install elasticsearch 
 brew install elixir 
@@ -79,13 +79,13 @@ brew install llvm
 brew install makedepend 
 brew install mariadb 
 brew install mcrypt 
-brew install mercurial 
 brew install md5deep 
+brew install mercurial 
 brew install mhash 
 brew install mobile-shell 
 brew install mongodb 
-brew install mysql-sandbox 
 brew install mono 
+brew install mysql-sandbox 
 brew install neo4j 
 brew install nginx 
 brew install ninja 
@@ -112,8 +112,8 @@ brew install rethinkdb
 brew install ringojs 
 brew install rust 
 brew install s3cmd 
-brew install scons 
 brew install sassc 
+brew install scons 
 brew install sqlite 
 brew install terraform 
 brew install tidy-html5 
@@ -123,54 +123,53 @@ brew install unixodbc
 brew install wget 
 brew install wp-cli 
 brew install wxmac 
-brew install xz 
-brew install xvid 
 brew install x264 
+brew install xvid 
+brew install xz 
 brew install youtube-dl 
 brew install yuicompressor 
 
 ########## casks
+brew cask install altair-graphql-client
+brew cask install atom 
 brew cask install audio-hijack
 brew cask install audioscrobbler
-brew cask install altair-graphql-client
-brew cask install db-browser-for-sqlite
-brew cask install firecamp
-brew cask install dotnet-sdk
-brew cask install gramps
-brew cask install keepassxc
-brew cask install libreoffice
-brew cask install thebrain
-brew cask install vienna
-brew cask install quiterss
-brew cask install zettlr
-brew cask install zettelkasten
-brew cask install atom 
 brew cask install codekit 
 brew cask install cyberduck 
+brew cask install db-browser-for-sqlite
 brew cask install docker 
+brew cask install dotnet-sdk
+brew cask install dropbox
 brew cask install electron 
+brew cask install firecamp
+brew cask install fission
+brew cask install flycut
 brew cask install freemind 
 brew cask install gimp 
-brew cask install fission
+brew cask install gramps
 brew cask install handbrake 
-brew cask install inkscape 
-brew cask install iterm2 
-brew cask install flycut
-brew cask install keybase 
-brew cask install mongotron 
-brew cask install sqlectron 
-brew cask install transmit
-brew cask install virtualbox 
-brew cask install vagrant 
-brew cask install vagrant-manager 
-brew cask install visual-studio-code 
-brew cask install vlc 
-brew cask install xquartz
-brew cask install dropbox
 brew cask install homebrew/cask-versions/brave-browser-dev   
 brew cask install homebrew/cask-versions/firefox-developer-edition            
 brew cask install homebrew/cask-versions/google-chrome-dev
 brew cask install homebrew/cask-versions/safari-technology-preview
-
+brew cask install inkscape 
+brew cask install iterm2 
+brew cask install keepassxc
+brew cask install keybase 
+brew cask install libreoffice
+brew cask install mongotron 
+brew cask install quiterss
+brew cask install sqlectron 
+brew cask install thebrain
+brew cask install transmit
+brew cask install vagrant 
+brew cask install vagrant-manager 
+brew cask install vienna
+brew cask install virtualbox 
+brew cask install visual-studio-code 
+brew cask install vlc 
+brew cask install xquartz
+brew cask install zettelkasten
+brew cask install zettlr
 
 # v.2020.08.24
