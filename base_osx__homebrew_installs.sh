@@ -145,7 +145,6 @@ brew cask install quiterss
 brew cask install zettlr
 brew cask install zettelkasten
 brew cask install atom 
-brew cask install brave 
 brew cask install codekit 
 brew cask install cyberduck 
 brew cask install docker 
@@ -167,5 +166,10 @@ brew cask install vagrant-manager
 brew cask install visual-studio-code 
 brew cask install vlc 
 brew cask install xquartz
+brew cask install homebrew/cask-versions/brave-browser-dev   
+brew cask install homebrew/cask-versions/firefox-developer-edition            
+brew cask install homebrew/cask-versions/google-chrome-dev
+brew cask install homebrew/cask-versions/safari-technology-preview
+
 
 # v.2020.08.24
