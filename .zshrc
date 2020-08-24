@@ -20,14 +20,17 @@ export EDITOR="nano"
 # Link Rubies to Homebrew's OpenSSL 1.1
 export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@1.1)"
 
-# Load rbenv automatically
+# Load rbenv
 eval "$(rbenv init -)"
 
-# some additional edits based on the Messiah box.
-# Add tab completion for SSH hostnames based on ~/.ssh/config, ignoring wildcards
-#[ -e "$HOME/.ssh/config" ] && complete -o "default" -o "nospace" -W "$(grep "^Host" ~/.ssh/config | grep -v "[?*]" | cut -d " " -f2)" scp sftp ssh
-# v_XXX files are application [v]ersion files, added to the ~/dotfiles/.appversions file
+# Load pyenv
+if command -v pyenv 1>/dev/null 2>&1; then
+  eval "$(pyenv init -)"
+fi
+
+# shell integration for iterm2
+test -e /Users/larry_green/.iterm2_shell_integration.zsh && source /Users/larry_green/.iterm2_shell_integration.zsh || true
 
 #EOF
-#LastUpdated: 7/26/2020
-#v2020.07.26
+#LastUpdated: 08/24/2020
+#v2020.08.24
