@@ -166,6 +166,7 @@ brew cask install vagrant-manager
 brew cask install visual-studio-code 
 brew cask install vlc 
 brew cask install xquartz
+brew cask install dropbox
 brew cask install homebrew/cask-versions/brave-browser-dev   
 brew cask install homebrew/cask-versions/firefox-developer-edition            
 brew cask install homebrew/cask-versions/google-chrome-dev
