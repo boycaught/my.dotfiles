@@ -14,6 +14,7 @@ brew install awscli
 brew install bash 
 brew install boost 
 brew install certbot 
+brew install clamav 
 brew install cmake 
 brew install composer 
 brew install consul 
@@ -55,6 +56,7 @@ brew install jetty
 brew install jpeg 
 brew install jruby 
 brew install jsdoc3 
+brew install jupyter 
 brew install jython 
 brew install kubernetes-cli 
 brew install kubernetes-helm 
@@ -105,6 +107,7 @@ brew install pyenv
 brew install pyenv-virtualenv 
 brew install python 
 brew install rabbitmq 
+brew install r 
 brew install readline 
 brew install redis 
 brew install rename 
@@ -172,4 +175,4 @@ brew cask install xquartz
 brew cask install zettelkasten
 brew cask install zettlr
 
-# v.2020.08.24
+# v.2020.08.25
