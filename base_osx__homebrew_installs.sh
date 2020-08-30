@@ -19,6 +19,7 @@ boost
 certbot 
 clamav 
 cmake 
+commandbox 
 composer 
 consul 
 coreutils 
