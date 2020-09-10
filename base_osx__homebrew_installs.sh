@@ -47,6 +47,8 @@ glide
 gmp 
 gnupg 
 go 
+gpg 
+gpg2 
 gradle 
 grails 
 grep 
@@ -164,16 +166,20 @@ fission
 flycut
 freemind 
 gimp 
+gnucash 
+gpg-suite 
 gramps
 handbrake 
 homebrew/cask-versions/brave-browser-dev   
 homebrew/cask-versions/firefox-developer-edition            
 homebrew/cask-versions/google-chrome-dev
 homebrew/cask-versions/safari-technology-preview
+microsoft-edge-dev 
 inkscape 
 iterm2 
 keepassxc
 keybase 
+lastpass
 libreoffice
 mongotron 
 quiterss
@@ -182,6 +188,7 @@ thebrain
 transmit
 vagrant 
 vagrant-manager 
+veracrypt 
 vienna
 virtualbox 
 visual-studio-code 
