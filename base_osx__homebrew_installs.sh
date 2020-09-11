@@ -170,6 +170,7 @@ gnucash
 gpg-suite 
 gramps
 handbrake 
+homebrew/cask/joplin 
 homebrew/cask-versions/brave-browser-dev   
 homebrew/cask-versions/firefox-developer-edition            
 homebrew/cask-versions/google-chrome-dev
