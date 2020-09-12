@@ -116,6 +116,7 @@ pyenv-virtualenv
 python 
 rabbitmq 
 r 
+rbenv 
 readline 
 redis 
 rename 
