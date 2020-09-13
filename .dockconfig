@@ -4,7 +4,6 @@
 dockutil --remove all
 
 # repopulate dock
-dockutil --add '' --type spacer
 dockutil --add /System/Applications/System%20Preferences.app/ --label 'Prefs' --allhomes
 dockutil --add /System/Applications/App%20Store.app/ --label 'AppStore' --allhomes
 dockutil --add /System/Applications/Music.app/ --label 'Music' --allhomes
@@ -40,5 +39,3 @@ dockutil --add /System/Volumes/Data/Applications/GIMP-2.10.app/ --label 'GIMP' -
 dockutil --add '' --type spacer
 dockutil --add 'file:///Users/larry_green/Sites/' --view grid --display folder
 dockutil --add 'file:///Users/larry_green/Downloads/' --view grid --display folder
-
-
