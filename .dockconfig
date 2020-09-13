@@ -4,7 +4,7 @@
 dockutil --remove all
 
 # repopulate dock
-dockutil --add /Applications%20Preferences.app/ --label 'Prefs' --allhomes
+dockutil --add /Applications/System%20Preferences.app/ --label 'Prefs' --allhomes
 dockutil --add /Applications/App%20Store.app/ --label 'AppStore' --allhomes
 dockutil --add /Applications/Music.app/ --label 'Music' --allhomes
 dockutil --add /Applications/Spotify.app/ --label 'Spotify' --allhomes
