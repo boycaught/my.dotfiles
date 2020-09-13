@@ -152,6 +152,7 @@ echo "..... BINARIES installed. ...................\n"
 
 # put casks into array
 cask_urls=(
+alfred3 
 altair-graphql-client
 atom 
 audio-hijack
