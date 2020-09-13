@@ -54,6 +54,7 @@ grails
 grep 
 groovy 
 htop-osx 
+httpd 
 httping 
 icu4c 
 imagemagick 
