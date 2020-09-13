@@ -183,6 +183,8 @@ keepassxc
 keybase 
 lastpass
 libreoffice
+little-snitch
+micro-snitch
 mongotron 
 quiterss
 sqlectron 
