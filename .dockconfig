@@ -4,40 +4,41 @@
 dockutil --remove all
 
 # repopulate dock
-dockutil --add /Applications/System%20Preferences.app/ --label 'Prefs' --allhomes
-dockutil --add /Applications/App%20Store.app/ --label 'AppStore' --allhomes
-dockutil --add /Applications/Music.app/ --label 'Music' --allhomes
-dockutil --add /Applications/Spotify.app/ --label 'Spotify' --allhomes
 dockutil --add '' --type spacer
-dockutil --add /Applications/Mail.app/ --label 'Mail' --allhomes
-dockutil --add /Applications/Calendar.app/ --label 'Calendar' --allhomes
-dockutil --add /Applications/Todoist.app/ --label 'ToDoist' --allhomes
-dockutil --add /Applications/Contacts.app/ --label 'Contacts' --allhomes
-dockutil --add /Applications/Messages.app/ --label 'Messages' --allhomes
+dockutil --add /System/Applications/System%20Preferences.app/ --label 'Prefs' --allhomes
+dockutil --add /System/Applications/App%20Store.app/ --label 'AppStore' --allhomes
+dockutil --add /System/Applications/Music.app/ --label 'Music' --allhomes
+dockutil --add /System/Volumes/Data/Applications/Spotify.app/ --label 'Spotify' --allhomes
 dockutil --add '' --type spacer
-dockutil --add /Applications/Safari.app/ --label 'Safari' --allhomes
-dockutil --add /Applications/Firefox%20Developer%20Edition.app/ --label 'FireFox' --allhomes
-dockutil --add /Applications/Google%20Chrome.app/ --label 'Chrome' --allhomes
-dockutil --add /Applications/Microsoft%20Edge%20Dev.app/ --label 'Edge' --allhomes
-dockutil --add /Applications/LastPass.app/ --label 'LastPass' --allhomes
+dockutil --add /System/Applications/Mail.app/ --label 'Mail' --allhomes
+dockutil --add /System/Applications/Calendar.app/ --label 'Calendar' --allhomes
+dockutil --add /System/Volumes/Data/Applications/Todoist.app/ --label 'ToDoist' --allhomes
+dockutil --add /System/Applications/Contacts.app/ --label 'Contacts' --allhomes
+dockutil --add /System/Applications/Messages.app/ --label 'Messages' --allhomes
 dockutil --add '' --type spacer
-dockutil --add /Applications/Sublime%20Text%202.app/ --label 'Sublime2' --allhomes
-dockutil --add /Applications/iTerm.app/ --label 'iTerm' --allhomes
-dockutil --add /Applications/LibreOffice.app/ --label 'LibreOffice' --allhomes
+dockutil --add /System/Volumes/Data/Applications/Safari.app/ --label 'Safari' --allhomes
+dockutil --add /System/Volumes/Data/Applications/Firefox%20Developer%20Edition.app/ --label 'FireFox' --allhomes
+dockutil --add /System/Volumes/Data/Applications/Google%20Chrome.app/ --label 'Chrome' --allhomes
+dockutil --add /System/Volumes/Data/Applications/Microsoft%20Edge%20Dev.app/ --label 'Edge' --allhomes
+dockutil --add /System/Volumes/Data/Applications/LastPass.app/ --label 'LastPass' --allhomes
 dockutil --add '' --type spacer
-dockutil --add /Applications/Keynote.app/ --label 'Keynote' --allhomes
-dockutil --add /Applications/Numbers.app/ --label 'Numbers' --allhomes
-dockutil --add /Applications/Pages.app/ --label 'Pages' --allhomes
+dockutil --add /System/Volumes/Data/Applications/Sublime%20Text%202.app/ --label 'Sublime2' --allhomes
+dockutil --add /System/Volumes/Data/Applications/iTerm.app/ --label 'iTerm' --allhomes
+dockutil --add /System/Volumes/Data/Applications/LibreOffice.app/ --label 'LibreOffice' --allhomes
 dockutil --add '' --type spacer
-dockutil --add /Applications/Photos.app/ --label 'Photos' --allhomes
-dockutil --add /Applications/QuickTime%20Player.app/ --label 'Quicktime' --allhomes
-dockutil --add /Applications/VLC.app/ --label 'VLC' --allhomes
-dockutil --add /Applications/Safari.app/ --label 'Zoom' --allhomes
-dockutil --add /Applications/OBS.app/ --label 'OBS' --allhomes
-dockutil --add /Applications/GIMP-2.10.app/ --label 'GIMP' --allhomes
+dockutil --add /System/Volumes/Data/Applications/Keynote.app/ --label 'Keynote' --allhomes
+dockutil --add /System/Volumes/Data/Applications/Numbers.app/ --label 'Numbers' --allhomes
+dockutil --add /System/Volumes/Data/Applications/Pages.app/ --label 'Pages' --allhomes
+dockutil --add /System/Volumes/Data/Applications/Dropbox.app/ --label 'Dropbox' --allhomes
 dockutil --add '' --type spacer
-dockutil --add /Applications/Dropbox.app/ --label 'Dropbox' --allhomes
-dockutil --add 'file:///Users/larry_green/Sites/' --view grid --display folder --allhomes
-dockutil --add 'file:///Users/larry_green/Downloads/' --view grid --display folder --allhomes
+dockutil --add /System/Applications/Photos.app/ --label 'Photos' --allhomes
+dockutil --add /System/Applications/QuickTime%20Player.app/ --label 'Quicktime' --allhomes
+dockutil --add /System/Volumes/Data/Applications/VLC.app/ --label 'VLC' --allhomes
+dockutil --add /System/Volumes/Data/Applications/zoom.us.app/ --label 'Zoom' --allhomes
+dockutil --add /System/Volumes/Data/Applications/OBS.app/ --label 'OBS' --allhomes
+dockutil --add /System/Volumes/Data/Applications/GIMP-2.10.app/ --label 'GIMP' --allhomes
 dockutil --add '' --type spacer
+dockutil --add 'file:///Users/larry_green/Sites/' --view grid --display folder
+dockutil --add 'file:///Users/larry_green/Downloads/' --view grid --display folder
+
 
