@@ -137,7 +137,7 @@ export v_JETTY="9.4.31.v20200723"
 export v_JETTY_RUNNER="9.4.31.v20200723"
 export v_JOPLIN="1.0.164"
 export v_JPEG="9d"
-export v_JRE="1.8.0_102"
+export v_JRE="14.0.2"
 export v_JRUBY="9.2.13.0"
 export v_JSDOC3="3.6.5"
 export v_JSON_C="0.15"
@@ -372,6 +372,6 @@ export v_ZETTLR="1.7.4"
 export v_ZETTELKASTEN="3.3.1"
 
 # Last update: Mon 9/14/2020 - HoneyFishMINI - FireFoxDeveloper
-# Last update: Fri 9/11/2020 - SilverSurferMBP - FireFoxNightly
+# Last update: Tue 9/15/2020 - SilverSurferMBP - FireFoxNightly
 # SynchStatus: false
 # EOF
