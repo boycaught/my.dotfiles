@@ -224,7 +224,7 @@ export v_NETPBM="10.86.13"
 export v_NETTLE="3.6"
 export v_NGHTTP2="1.40.0"
 export v_NGINX="1.19.2"
-export v_NINJA="1.10.1_1"
+export v_NINJA="1.10.1_2"
 export v_NMAP="7.11"
 export v_NODE="14.12.0"
 export v_NORM="1.5.8"
@@ -375,6 +375,6 @@ export v_ZETTLR="1.7.4"
 export v_ZETTELKASTEN="3.3.1"
 
 # Last update: Thu 9/24/2020 - HoneyFishMINI - FireFoxDeveloper
-# Last update: Sat 9/26/2020 - SilverSurferMBP - FireFoxNightly
+# Last update: Sun 9/27/2020 - SilverSurferMBP - FireFoxNightly
 # SynchStatus: false
 # EOF
