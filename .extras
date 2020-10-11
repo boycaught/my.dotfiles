@@ -5,9 +5,6 @@ export GIT_AUTHOR_EMAIL="github.bot@lagtime.com"
 export GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
 git config --global user.name "$GIT_AUTHOR_NAME"
 git config --global user.email "$GIT_AUTHOR_EMAIL"
-git config pull.rebase false  # merge (the default strategy)
-git config pull.rebase true   # rebase
-git config pull.ff only       # fast-forward only
 
 ## Visual Studio Code
 code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
