@@ -22,7 +22,6 @@ sleep 12
 
 # GITHUB SYNCS
 # Public
-git config pull.rebase false  # merge (the default strategy)
 echo -ne 'Sync PUBLIC GITHUB repo...                                                           (0%)\r'
 git -C ~/dotfiles/ pull
 sleep 2
