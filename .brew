@@ -26,7 +26,7 @@ brew install dockutil
 
 # Upgrade any cask applications
 echo "Check for brew cask updates."
-brew cask upgrade
+brew upgrade --cask
 
 # Remove outdated versions from the cellar
 brew cleanup
