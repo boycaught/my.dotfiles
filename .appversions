@@ -132,7 +132,7 @@ export v_JANSSON="2.13.1"
 export v_JASPER="2.0.19"
 export v_JDK="-14.0.2"
 export v_JEMALLOC="5.2.1"
-export v_JENKINS="2.262"
+export v_JENKINS="2.263"
 export v_JETTY="9.4.32.v20200930"
 export v_JETTY_RUNNER="9.4.31.v20200723"
 export v_JOPLIN="1.0.164"
@@ -381,6 +381,6 @@ export v_ZETTLR="1.7.4"
 export v_ZETTELKASTEN="3.3.1"
 
 # Last update: Tue 10/20/2020 - HoneyFishMINI - Safari
-# Last update: Sun 10/18/2020 - SilverSurferMBP - Safari
+# Last update: Tue 10/20/2020 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
