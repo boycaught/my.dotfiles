@@ -33,8 +33,8 @@ export v_CLAMAV="0.102.4_1"
 export v_CLANG_FORMAT="10.0.0"
 export v_CMAKE="3.18.4"
 export v_COMMANDBOX="5.1.1"
-export v_COMPOSER="1.10.13"
-export v_CONSUL="1.8.4"
+export v_COMPOSER="2.0.1"
+export v_CONSUL="1.8.5"
 export v_COREUTILS="8.32"
 export v_CRYSTAL="0.35.1"
 export v_CRYSTAL_LANG="0.35.1_1"
@@ -170,7 +170,7 @@ export v_LIBIDN2="2.3.0"
 export v_LIBIDN="1.36"
 export v_LIBKSBA="1.4.0"
 export v_LIBMAGIC="5.38"
-export v_LIBMPC="1.2.0"
+export v_LIBMPC="1.2.1"
 export v_LIBOGG="1.3.4"
 export v_LIBOMP="11.0.0"
 export v_LIBPNG="1.6.37"
@@ -381,6 +381,6 @@ export v_ZETTLR="1.7.4"
 export v_ZETTELKASTEN="3.3.1"
 
 # Last update: Sat 10/24/2020 - HoneyFishMINI - Safari
-# Last update: Tue 10/20/2020 - SilverSurferMBP - Safari
+# Last update: Sat 10/24/2020 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
