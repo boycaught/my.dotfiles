@@ -350,6 +350,7 @@ export v_ZSTD="1.4.4"
 export v_BOGUS="24.7.365" 
 
 ### Casks 
+export v_ADOPTOPENJDK8="8,272:b10"
 export v_ALTAIR_GRAPHQL_CLIENT="2.4.13"
 export v_ANKI="2.1.30"
 export v_AUDIO_HIJACK="3.7.1"
