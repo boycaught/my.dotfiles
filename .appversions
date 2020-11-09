@@ -357,7 +357,7 @@ export v_BOGUS="24.7.365"
 
 ### Casks 
 export v_ADOPTOPENJDK8="8,272:b10"
-export v_ALTAIR_GRAPHQL_CLIENT="2.4.13"
+export v_ALTAIR_GRAPHQL_CLIENT="2.5.2"
 export v_ANKI="2.1.30"
 export v_AUDIO_HIJACK="3.7.1"
 export v_DB_BROWSER_FOR_SQLITE="3.12.0"
@@ -366,12 +366,12 @@ export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="3.1.403,b4db3ee6-91da-4dd3-a279-37c45d9627b7:fad88a7335d374d6e4d53aef085f4b24"
 export v_ELECTRON="10.1.5"
 export v_FIRECAMP="1.4.4"
-export v_FISSION="2.6.0"
+export v_FISSION="2.6.1"
 export v_GIMP="2.10.14"
 export v_GNUCASH="4.2,1"
 export v_GRAMPS="5.1.3,4"
 export v_INKSCAPE="1.0.1"
-export v_JOPLIN="1.2.6"
+export v_JOPLIN="1.3.18"
 export v_KEEPASSXC="2.6.2-2"
 export v_LIBREOFFICE="7.0.3"
 export v_MICROSOFT_AUTO_UPDATE="4.28.20101102"
@@ -381,13 +381,13 @@ export v_PLAYONMAC="4.4"
 export v_QUITERSS="0.19.4"
 export v_SQLELECTRON="1.32.0"
 export v_THEBRAIN="11.0.131.0"
-export v_VAGRANT="2.2.9"
-export v_VIENNA="3.5.9"
+export v_VAGRANT="2.2.13"
+export v_VIENNA="3.5.10"
 export v_VIRTUALBOX="6.1.16,140961"
 export v_ZETTLR="1.7.4"
 export v_ZETTELKASTEN="3.3.1"
 
 # Last update: Wed 11/4/2020 - HoneyFishMINI - Safari
-# Last update: Fri 10/30/2020 - SilverSurferMBP - Safari
+# Last update: Sun 11/8/2020 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
