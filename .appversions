@@ -64,7 +64,7 @@ export v_EPSTOOL="3.09"
 export v_ERLANG="23.1.2"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
-export v_EXPLOITDB="2020-11-14"
+export v_EXPLOITDB="2020-11-17"
 export v_FAAC="1.29.9.2"
 export v_FDK_AAC="2.0.1"
 export v_FFMPEG="4.3.1_4"
@@ -388,7 +388,7 @@ export v_VIRTUALBOX="6.1.16,140961"
 export v_ZETTLR="1.7.4"
 export v_ZETTELKASTEN="3.3.1"
 
-# Last update: Sun 11/15/2020 - HoneyFishMINI - Safari
+# Last update: Tue 11/17/2020 - HoneyFishMINI - Safari
 # Last update: Tue 11/17/2020 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
