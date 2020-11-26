@@ -64,7 +64,7 @@ export v_EPSTOOL="3.09"
 export v_ERLANG="23.1.4"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
-export v_EXPLOITDB="2020-11-25"
+export v_EXPLOITDB="2020-11-26"
 export v_FAAC="1.29.9.2"
 export v_FDK_AAC="2.0.1"
 export v_FFMPEG="4.3.1_4"
@@ -258,7 +258,7 @@ export v_PANGO="1.48.0"
 export v_PASSENGER="6.0.7_1"
 export v_PCRE="8.44"
 export v_PDFTOEDN="0.36.8"
-export v_PHP7="7.4.12"
+export v_PHP7="7.4.13"
 export v_PHPMYADMIN="5.0.4"
 export v_PINENTRY="1.1.0_1"
 export v_PIXMAN="0.40.0"
@@ -389,7 +389,7 @@ export v_ZETTLR="1.7.4"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOMUS="5.4.58903.1122"
 
-# Last update: Tue 11/25/2020 - HoneyFishMINI - Safari
-# Last update: Tue 11/25/2020 - SilverSurferMBP - Safari
-# SynchStatus: true
+# Last update: Thu 11/26/2020 - HoneyFishMINI - Safari
+# Last update: Wed 11/25/2020 - SilverSurferMBP - Safari
+# SynchStatus: false
 # EOF
