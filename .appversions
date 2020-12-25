@@ -124,7 +124,7 @@ export v_HWLOC="2.4.0"
 export v_HYPERKIT="0.20200224_1"
 export v_ICU4C="67.1"
 export v_ILMBASE="2.5.3"
-export v_IMAGEMAGICK="7.0.10-52"
+export v_IMAGEMAGICK="7.0.10-53"
 export v_IMAP_UW="2007f_1"
 export v_IPYTHON="7.19.0"
 export v_ISL="0.22.1"
@@ -304,7 +304,7 @@ export v_RINGOJS="2.0.0"
 export v_RSYNC="3.2.3"
 export v_RTMPDUMP="2.4+20151223_1"
 export v_RUBY="2.7.1_2"
-export v_RUBY_BUILD="20201221"
+export v_RUBY_BUILD="20201225"
 export v_RUST="1.48.0"
 export v_S3CMD="2.1.0_2"
 export v_SASSC="3.6.1"
@@ -394,6 +394,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.4.59780.1220"
 
 # Last update: Wed 12/23/2020 - HoneyFishMINI - Safari
-# Last update: Wed 12/16/2020 - SilverSurferMBP - Safari
+# Last update: Fri 12/25/2020 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
