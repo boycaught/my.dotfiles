@@ -75,7 +75,7 @@ export v_FINDUTILS="4.7.0"
 export v_FLAC="1.3.3"
 export v_FLTK="1.3.5"
 export v_FONTCONFIG="2.13.1"
-export v_FREECIV="2.6.2.1"
+export v_FREECIV="2.6.3"
 export v_FREETDS="1.2.18"
 export v_FREETYPE="2.10.4"
 export v_FREI0R="1.7.0"
@@ -395,7 +395,7 @@ export v_ZETTLR="1.8.4"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.4.59780.1220"
 
-# Last update: Tue 12/29/2020 - HoneyFishMINI - Safari
+# Last update: Sun 1/3/2021 - HoneyFishMINI - Safari
 # Last update: Sun 1/3/2021 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
