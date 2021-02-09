@@ -127,7 +127,7 @@ export v_HWLOC="2.4.0"
 export v_HYPERKIT="0.20200224_1"
 export v_ICU4C="67.1"
 export v_ILMBASE="2.5.4"
-export v_IMAGEMAGICK="7.0.10-61"
+export v_IMAGEMAGICK="7.0.10-62"
 export v_IMAP_UW="2007f_1"
 export v_IPYTHON="7.20.0"
 export v_ISL="0.23"
@@ -242,7 +242,7 @@ export v_NPTH="1.6"
 export v_NSPR="4.29"
 export v_NSQ="1.2.0"
 export v_NSS="3.61"
-export v_NUMPY="1.20.0"
+export v_NUMPY="1.20.1"
 export v_OCAML="4.10.0"
 export v_OCTAVE="5.2.0_9"
 export v_ONIGURUMA="6.9.6"
@@ -404,7 +404,7 @@ export v_ZETTLR="1.8.7"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.5.12484.0202"
 
-# Last update: Sat 2/6/2021 - HoneyFishMINI - Safari
+# Last update: Mon 2/8/2021 - HoneyFishMINI - Safari
 # Last update: Sat 2/6/2021 - SilverSurferMBP - Safari
 # SynchStatus: true
 # EOF
