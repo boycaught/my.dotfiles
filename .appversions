@@ -3,7 +3,7 @@
 export v_ACK="3.5.0"
 export v_ADNS="1.6.0"
 export v_AMBER="0.7.2"
-export v_ANSIBLE="3.0.0"
+export v_ANSIBLE="3.1.0"
 export v_ANT="1.10.9"
 export v_AOM="2.0.2"
 export v_APIBUILDER_CLI="0.1.37"
