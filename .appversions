@@ -63,7 +63,7 @@ export v_EPSTOOL="3.09"
 export v_ERLANG="23.3"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
-export v_EXPLOITDB="2021-03-25"
+export v_EXPLOITDB="2021-03-26"
 export v_FAAC="1.29.9.2"
 export v_FDK_AAC="2.0.1"
 export v_FFMPEG="4.3.2_3"
@@ -315,7 +315,7 @@ export v_S3CMD="2.1.0_2"
 export v_SASSC="3.6.1"
 export v_SCONS="4.1.0.post1"
 export v_SDL="12.15_3"
-export v_SDL2="2.0.14_1"
+export v_SDL2_MIXER="2.0.4_1"
 export v_SHARED_MIME_INFO="2.1"
 export v_SIP="4.19.23"
 export v_SNAPPY="1.1.8"
@@ -410,7 +410,7 @@ export v_ZETTLR="1.8.7"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.6.0.536"
 
-# Last update: Thu 3/25/2021 - HoneyFishMINI - Safari
+# Last update: Fri 3/26/2021 - HoneyFishMINI - Safari
 # Last update: Fri 3/26/2021 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
