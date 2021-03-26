@@ -57,7 +57,7 @@ export v_EC2_API_TOOLS="1.7.6.1_1"
 export v_ELASTICSEARCH="7.10.1"
 export v_ELIXIR="1.11.4"
 export v_ELM="0.19.1"
-export v_EMSCRIPTEN="2.0.15"
+export v_EMSCRIPTEN="2.0.16"
 export v_ENCHANT="2.2.15"
 export v_EPSTOOL="3.09"
 export v_ERLANG="23.3"
@@ -289,7 +289,7 @@ export v_PYQT="5.15.0"
 export v_PYTHON2="2.7.17_1"
 export v_PYTHON3="3.9.1_8"
 export v_PYTHON_38="@3.8 3.8.8_1"
-export v_PYTHON_39="@3.9 3.9.2_2"
+export v_PYTHON_39="@3.9 3.9.2_3"
 export v_PYTHON="3.9.1_8"
 export v_QHULL="2020.1"
 export v_QRUPDATE="1.1.2_13"
@@ -411,6 +411,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.6.0.536"
 
 # Last update: Thu 3/25/2021 - HoneyFishMINI - Safari
-# Last update: Wed 3/24/2021 - SilverSurferMBP - Safari
+# Last update: Fri 3/26/2021 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
