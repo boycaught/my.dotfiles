@@ -409,7 +409,7 @@ export v_VIENNA="3.7.1,7437"
 export v_VIRTUALBOX="6.1.18,142142"
 export v_ZETTLR="1.8.7"
 export v_ZETTELKASTEN="3.3.1"
-export v_ZOOM="5.6.0.536"
+export v_ZOOM="5.6.1.560"
 
 # Last update: Mon 3/29/2021 - HoneyFishMINI - Safari
 # Last update: Fri 3/26/2021 - SilverSurferMBP - Safari
