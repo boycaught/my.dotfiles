@@ -375,7 +375,7 @@ export v_DB_BROWSER_FOR_SQLITE="3.12.0"
 export v_DEXED="0.9.6"
 export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
-export v_DOTNET_SDK="5.0.201,de613120-9306-4867-b504-45fcc81ba1b6:2a03f18c549f52cf78f88afa44e6dc6a"
+export v_DOTNET_SDK="5.0.202,749775e4-7b6f-4367-bb7a-9cb63a818dae:c2614b34e234fa03dc65320a8a954570"
 export v_DROPBOX="111.4.472"
 export v_ELECTRON="12.0.2"
 export v_FIRECAMP="1.4.4"
@@ -411,7 +411,7 @@ export v_ZETTLR="1.8.7"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.6.1.560"
 
-# Last update: Mon 4/6/2021 - HoneyFishMINI - Safari
-# Last update: Fri 4/2/2021 - SilverSurferMBP - Safari
+# Last update: Tue 4/6/2021 - HoneyFishMINI - Safari
+# Last update: Wed 4/7/2021 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
