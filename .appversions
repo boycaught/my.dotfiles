@@ -116,7 +116,7 @@ export v_GROOVY="3.0.8"
 export v_GSETTINGS_DESKTOP_SCHEMAS="40.0"
 export v_GTK_PLUS3="3.24.29"
 export v_GTS="0.7.6_2"
-export v_GUILE="3.0.5"
+export v_GUILE="3.0.7"
 export v_HARFBUZZ="2.8.1"
 export v_HDF5="1.12.0_4"
 export v_HELM="3.5.4"
@@ -418,7 +418,7 @@ export v_ZETTLR="1.8.8"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.6.4.765"
 
-# Last update: Sun 5/10/2021 - HoneyFishMINI - Safari
-# Last update: Sat 5/8/2021 - SilverSurferMBP - Safari
-# SynchStatus: false
+# Last update: Mon 5/10/2021 - HoneyFishMINI - Safari
+# Last update: Mon 5/10/2021 - SilverSurferMBP - Safari
+# SynchStatus: true
 # EOF
