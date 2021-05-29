@@ -39,6 +39,7 @@ MAVEN_OPTS="-Xms256m -Xmx512m"
 MYSQL_PATH="$BREW_HOME/Cellar/mariadb/$v_MARIADB"
 MONGODB_HOME="$BREW_HOME/Cellar/mongodb/$v_MONGODB"
 NGINX_HOME="$BREW_HOME/Cellar/nginx/$v_NGINX"
+PYENV_ROOT="$HOME/.pyenv"
 PYTHON_HOME="/System/Library/Frameworks/Python.framework/Versions/Current"
 RUBY_HOME="$HOME/.rbenv/versions/$v_RBENV_GLOBAL"
 RUBY_GEM="$HOME/.gem/ruby/$v_RBENV_GEM_BASE.0"
@@ -67,8 +68,7 @@ PATH="$HOME/.local/bin:\
 ~/perl5/bin:\
 ~/.meteor:\
 ~/.cargo/bin:\
-~/.pyenv/shims:\
-~/.pyenv/bin:\
+$PYENV_ROOT/bin:\
 /usr/local/bin:\
 /usr/bin:\
 /usr/local/sbin:\
@@ -135,6 +135,7 @@ export MAVEN_OPTS
 export MONGODB_HOME
 export MYSQL_PATH
 export NGINX_HOME
+export PYENV_ROOT
 export PYTHON_HOME
 export PYTHONPATH
 export RUBY_HOME
