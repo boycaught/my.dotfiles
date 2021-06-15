@@ -68,6 +68,7 @@ PATH="$HOME/.local/bin:\
 ~/perl5/bin:\
 ~/.meteor:\
 ~/.cargo/bin:\
+~/.npm-packages/bin:\
 $PYENV_ROOT/bin:\
 /usr/local/bin:\
 /usr/bin:\
