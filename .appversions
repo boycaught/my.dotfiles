@@ -63,7 +63,7 @@ export v_ELM="0.19.1"
 export v_EMSCRIPTEN="2.0.22"
 export v_ENCHANT="2.3.0"
 export v_EPSTOOL="3.09"
-export v_ERLANG="24.0.2_1"
+export v_ERLANG="24.0.3"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
 export v_EXPLOITDB="2021-06-26"
@@ -124,7 +124,7 @@ export v_HELM="3.6.1"
 export v_HTOP="3.0.5"
 export v_HTTPD="2.4.48"
 export v_HTTPING="2.5_2"
-export v_HUGO="0.84.1"
+export v_HUGO="0.84.2"
 export v_HWLOC="2.5.0"
 export v_HYPERKIT="0.20200224_1"
 export v_ICU4C="69.1"
@@ -427,6 +427,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.6.7.1020"
 
 # Last update: Thu 6/24/2021 - HoneyFishMINI - Safari
-# Last update: Sun 6/27/2021 - SilverSurferMBP - Safari
+# Last update: Mon 6/278/2021 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
