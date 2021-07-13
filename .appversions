@@ -78,7 +78,7 @@ export v_FLAC="1.3.3"
 export v_FLTK="1.3.5"
 export v_FONTCONFIG="2.13.1"
 export v_FREECIV="2.6.5"
-export v_FREETDS="1.2.21"
+export v_FREETDS="1.3"
 export v_FREETYPE="2.10.4"
 export v_FREI0R="1.7.0"
 export v_FRIBIDI="1.0.10"
@@ -412,6 +412,7 @@ export v_MINECRAFT="933,1"
 export v_OBSIDIAN="0.10.8"
 export v_OSXFUSE="3.11.2"
 export v_PLAYONMAC="4.4"
+export v_PLEX="1.33.0.2444-a220eae4"
 export v_QUITERSS="0.19.4"
 export v_RSTUDIO="1.14.1717"
 export v_SHOTCUT="21.05.18"
@@ -429,7 +430,7 @@ export v_ZETTLR="1.8.9"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.7.1.499"
 
-# Last update: Mon 7/12/2021 - HoneyFishMINI - Safari
+# Last update: Tue 7/13/2021 - HoneyFishMINI - Safari
 # Last update: Thu 7/8/2021 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
