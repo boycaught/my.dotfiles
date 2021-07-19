@@ -381,7 +381,7 @@ export v_BOGUS="24.7.365"
 
 ### Casks 
 export v_ADOPTOPENJDK8="8,292:b10"
-export v_ALTAIR_GRAPHQL_CLIENT="4.0.5"
+export v_ALTAIR_GRAPHQL_CLIENT="4.0.7"
 export v_ANKI="2.1.30"
 export v_AUDIO_HIJACK="3.7.1"
 export v_AVIDMUX="2.7.8"
@@ -392,8 +392,8 @@ export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="5.0.302,6f2d055d-6092-4236-9824-b8326f971301:663c758102cacc0e3f4288c6462fac3f"
 export v_DROPBOX="111.4.472"
-export v_ELECTRON="13.1.6"
-export v_FIRECAMP="2.0.9"
+export v_ELECTRON="13.1.7"
+export v_FIRECAMP="2.0.10"
 export v_FISSION="2.7.0"
 export v_FLUID="2.1.2,2120"
 export v_FLYCUT="1.9.6"
@@ -432,6 +432,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.7.1.499"
 
 # Last update: Tue 7/17/2021 - HoneyFishMINI - Safari
-# Last update: Thu 7/8/2021 - SilverSurferMBP - Safari
+# Last update: Thu 7/18/2021 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
