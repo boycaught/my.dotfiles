@@ -421,7 +421,7 @@ export v_SHOTCUT="21.06.29"
 export v_SQLELECTRON="1.36.0"
 export v_SURGE_SYNTHESIZER="1.9.0"
 export v_THEBRAIN="11.0.147.0"
-export v_UNITY="2021.1.13f1,a03098edbbe0"
+export v_UNITY="2021.1.15f1,e767a7370072"
 export v_VAGRANT="2.2.17"
 export v_VANILLA="2.0.2,48"
 export v_VB_CABLE="108"
@@ -433,6 +433,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.7.3.809"
 
 # Last update: Sun 7/18/2021 - HoneyFishMINI - Safari
-# Last update: Sun 7/25/2021 - SilverSurferMBP - Safari
+# Last update: Mon 7/26/2021 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
