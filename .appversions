@@ -392,9 +392,9 @@ export v_DB_BROWSER_FOR_SQLITE="3.12.2"
 export v_DEXED="0.9.6"
 export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
-export v_DOTNET_SDK="5.0.302,6f2d055d-6092-4236-9824-b8326f971301:663c758102cacc0e3f4288c6462fac3f"
+export v_DOTNET_SDK="5.0.400,543144ce-10ad-4396-a464-28c440f8fe22:29bd5273237ed3a408aef1f8aacd239b"
 export v_DROPBOX="111.4.472"
-export v_ELECTRON="13.1.7"
+export v_ELECTRON="13.1.9"
 export v_FIRECAMP="2.0.11"
 export v_FISSION="2.7.0"
 export v_FLUID="2.1.2,2120"
@@ -404,7 +404,7 @@ export v_GNUCASH="4.6"
 export v_GOOGLE_CHROME_DEV="90.0.4412.3,4412.3"
 export v_GRAMPS="5.1.4,2"
 export v_INKSCAPE="1.1"
-export v_JOPLIN="2.1.9"
+export v_JOPLIN="2.2.7"
 export v_JULIA="1.6.2"
 export v_KEEPASSXC="2.6.4"
 export v_LIBREOFFICE="7.1.5"
@@ -431,9 +431,9 @@ export v_VIENNA="3.7.1,7437"
 export v_VIRTUALBOX="6.1.26,145957"
 export v_ZETTLR="1.8.9"
 export v_ZETTELKASTEN="3.3.1"
-export v_ZOOM="5.7.4.898"
+export v_ZOOM="5.7.5.1123"
 
-# Last update: Wed 8/4/2021 - HoneyFishMINI - Safari
+# Last update: Sun 8/15/2021 - HoneyFishMINI - Safari
 # Last update: Mon 8/2/2021 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
