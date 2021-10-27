@@ -254,7 +254,7 @@ export v_NEO4J="4.3.6"
 export v_NETCDF="4.8.1"
 export v_NETPBM="10.86.13"
 export v_NETTLE="3.7.3"
-export v_NGHTTP2="1.45.1_1"
+export v_NGHTTP2="1.46.0"
 export v_NGINX="1.21.3"
 export v_NINJA="1.10.2"
 export v_NMAP="7.11"
@@ -451,6 +451,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.3.2240"
 
 # Last update: Wed 10/27/2021 - HoneyFishMINI - Safari
-# Last update: Sun 10/17/2021 - SilverSurferMBP - Safari
+# Last update: Wed 10/27/2021 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
