@@ -448,7 +448,7 @@ export v_VB_CABLE="108"
 export v_VERACRYPT="1.24-Update8"
 export v_VIENNA="3.7.2,7555"
 export v_VIRTUALBOX="6.1.28,147628"
-export v_ZETTLR="2.0.2"
+export v_ZETTLR="2.0.3"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.3.2240"
 
