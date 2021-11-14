@@ -324,7 +324,7 @@ export v_QRUPDATE="1.1.2_13"
 export v_QT5="@5 5.15.2_1"
 export v_QT="6.2.1"
 export v_R="4.1.2"
-export v_RABBITMQ="3.9.8"
+export v_RABBITMQ="3.9.9"
 export v_RAV1E="0.5.0"
 export v_RBENV="1.2.0"
 export v_RBENV_GLOBAL="2.7.1"
@@ -454,6 +454,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.3.2240"
 
 # Last update: Sat 11/13/2021 - HoneyFishMINI - Safari
-# Last update: Sun 11/7/2021 - SilverSurferMBP - Safari
+# Last update: Sun 11/14/2021 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
