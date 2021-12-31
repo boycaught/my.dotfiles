@@ -87,7 +87,7 @@ export v_FLAC="1.3.3"
 export v_FLTK="1.3.5"
 export v_FONTCONFIG="2.13.1"
 export v_FREECIV="2.6.6"
-export v_FREETDS="1.3.5"
+export v_FREETDS="1.3.6"
 export v_FREETYPE="2.11.1"
 export v_FREI0R="1.7.0"
 export v_FRIBIDI="1.0.11"
@@ -409,7 +409,7 @@ export v_BOGUS="24.7.365"
 
 ### Casks 
 export v_ADOPTOPENJDK8="8,292,b10"
-export v_ALTAIR_GRAPHQL_CLIENT="4.3.0"
+export v_ALTAIR_GRAPHQL_CLIENT="4.3.1"
 export v_ANKI="2.1.30"
 export v_AUDIO_HIJACK="3.7.1"
 export v_AVIDMUX="2.8.0"
@@ -449,7 +449,7 @@ export v_PLEX="1.33.0.2444-a220eae4"
 export v_PLEX_MEDIA_SERVER="1.23.4.4805-186bae04e"
 export v_QUITERSS="0.19.4"
 export v_RSTUDIO="2021.09.1,372"
-export v_SHOTCUT="21.10.31"
+export v_SHOTCUT="21.12.24"
 export v_SQLELECTRON="1.36.0"
 export v_SURGE_SYNTHESIZER="1.9.0"
 export v_THEBRAIN="11.0.147.0"
@@ -466,6 +466,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Thu 12/30/2021 - HoneyFishMINI - Safari
-# Last update: Sun 12/26/2021 - SilverSurferMBP - Safari
+# Last update: Fri 12/31/2021 - SilverSurferMBP - Safari
 # SynchStatus: false
 # EOF
