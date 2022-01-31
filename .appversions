@@ -426,7 +426,7 @@ export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="6.0.101,83e6b9b3-a78e-4df7-b33f-78a38a1db0c7,b1641cad9024c212bafdd6273f3d5e19"
 export v_DROPBOX="111.4.472"
 export v_ELECTRON="16.0.8"
-export v_FIRECAMP="2.5.1"
+export v_FIRECAMP="2.5.2"
 export v_FISSION="2.8.0"
 export v_FLUID="2.1.2,2120"
 export v_FLYCUT="1.9.6"
@@ -464,11 +464,11 @@ export v_VCV_RACK="2.0.6"
 export v_VERACRYPT="1.25.4"
 export v_VIENNA="3.7.2,7555"
 export v_VIRTUALBOX="6.1.32,149290"
-export v_ZETTLR="2.1.2"
+export v_ZETTLR="2.1.3"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Thu 1/27/2022 - HoneyFishMINI - Safari
-# Last update: Sat 1/29/2022 - SilverSurferMBP - Safari
+# Last update: Sun 1/30/2022 - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
