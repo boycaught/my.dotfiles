@@ -244,7 +244,7 @@ export v_MD5DEEP="4.4_1"
 export v_MERCURIAL="6.0.2"
 export v_MESON="0.61.1"
 export v_MINIKUBE="1.12.3"
-export v_MINIO="20220205044059"
+export v_MINIO="20220207081733"
 export v_MITMPROXY="5.2"
 export v_MLT="7.4.0_2"
 export v_MOBILE_SHELL="1.3.2_1"
@@ -468,7 +468,7 @@ export v_ZETTLR="2.1.3"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Sun 2/6/2022-x - HoneyFishMINI - Safari
+# Last update: Tue 2/8/2022 - HoneyFishMINI - Safari
 # Last update: Tue 2/8/2022 - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
