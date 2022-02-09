@@ -21,6 +21,7 @@ alias pgpack='pg_ctl -D /usr/local/var/postgres start &'
 alias pgwack='pg_ctl -D /usr/local/var/postgres stop &'
 alias jekyllpack='bundle exec jekyll serve &'
 alias hobo='vagrant destroy -f && rm -fR .vagrant && cx && lx'
+alias todo='todo.sh'
 
 ## FF X => FIND FILE NAMED X
 alias ff="find . -name \!:1 -print"     
