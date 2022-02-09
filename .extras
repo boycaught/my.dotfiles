@@ -13,6 +13,7 @@ code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
 
 ## SSH to Alternative DEV boxes
 alias gethoneyfish='ssh ${VM_HONEYFISH}'
+alias getsilversurfer='ssh ${VM_SILVERSURFER}'
 alias getlinode='ssh ${VM_LINODE}'
 alias getracknerd='ssh ${VM_RACKNERD}'
 alias getetherserver1='ssh ${VM_ETHERSERVER1}'
