@@ -18,6 +18,7 @@ export HISTIGNORE="ls:ls *:cd:cd -:pwd;exit:date:* --help"
 
 # VPS dev servers
 export VM_HONEYFISH="larry_green@honeyfishmini"
+export VM_SILVERSURFER="larry_green@silversurfermbp"
 export VM_LINODE="root@50.116.5.192"
 export VM_RACKNERD="root@108.166.202.119"
 export VM_ETHERSERVER1="root@185.196.3.118"
