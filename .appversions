@@ -135,7 +135,7 @@ export v_HELM="3.8.0"
 export v_HTOP="3.1.2"
 export v_HTTPD="2.4.52"
 export v_HTTPING="2.5_2"
-export v_HUGO="0.93.1"
+export v_HUGO="0.93.2"
 export v_HWLOC="2.7.0"
 export v_HYPERKIT="0.20200224_1"
 export v_ICU4C="70.1"
@@ -475,6 +475,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Fri 3/4/2022-w - HoneyFishMINI - Safari
-# Last update: Fri 3/4/2022-w - SilverSurferMBP - Safari
+# Last update: Fri 3/4/2022-z - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
