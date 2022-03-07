@@ -262,7 +262,7 @@ export v_MYSQL="10.1.16"
 export v_MYSQL_SANDBOX="3.2.17_1"
 export v_N="8.0.2"
 export v_NANO="5.2"
-export v_NAVE="3.2.3"
+export v_NAVE="3.2.4"
 export v_NCURSES="6.3"
 export v_NEO4J="4.4.4"
 export v_NETCDF="4.8.1_1"
@@ -424,7 +424,7 @@ export v_BLENDER="3.0.1"
 export v_BURN="3.1.5"
 export v_DB_BROWSER_FOR_SQLITE="3.12.2"
 export v_DEXED="0.9.6"
-export v_DIGIKAM="7.5.0"
+export v_DIGIKAM="7.6.0"
 export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="6.0.200,0f1f23eb-004f-41a2-a4ef-e1a9b533a794,f2d47f0ed6a7be2027166ea1132cc806"
@@ -470,11 +470,11 @@ export v_VCV_RACK="2.1.0"
 export v_VERACRYPT="1.25.9"
 export v_VIENNA="3.7.2,7555"
 export v_VIRTUALBOX="6.1.32,149290"
-export v_ZETTLR="2.2.3"
+export v_ZETTLR="2.2.4"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Sat 3/5/2022-x - HoneyFishMINI - Safari
+# Last update: Sun 3/6/2022-x - HoneyFishMINI - Safari
 # Last update: Sat 3/5/2022-x - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
