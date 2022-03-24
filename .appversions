@@ -118,7 +118,7 @@ export v_GOX="1.0.1"
 export v_GPG_AGENT="2.0.31"
 export v_GRADLE="7.4.1"
 export v_GRADLE6="6.9.2"
-export v_GRAILS="5.1.3"
+export v_GRAILS="5.1.4"
 export v_GRAPHICSMAGICK="1.3.35"
 export v_GRAPHITE2="1.3.14"
 export v_GRAPHVIZ="3.0.0"
@@ -150,7 +150,7 @@ export v_JANSSON="2.14"
 export v_JASPER="3.0.3"
 export v_JDK="-14.0.2"
 export v_JEMALLOC="5.2.1"
-export v_JENKINS="2.339"
+export v_JENKINS="2.340"
 export v_JETTY="9.4.45.v20220203"
 export v_JETTY_RUNNER="9.4.31.v20200723"
 export v_JOPLIN="1.0.164"
@@ -476,6 +476,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Tue 3/22/2022-z - HoneyFishMINI - Safari
-# Last update: Tue 3/22/2022-z - SilverSurferMBP - Safari
+# Last update: Wed 3/23/2022-z - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
