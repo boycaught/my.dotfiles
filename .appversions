@@ -90,7 +90,7 @@ export v_FONTCONFIG="2.13.1"
 export v_FREECIV="2.6.6"
 export v_FREETDS="1.3.9"
 export v_FREETYPE="2.11.1"
-export v_FREI0R="1.7.0"
+export v_FREI0R="1.8.0"
 export v_FRIBIDI="1.0.11"
 export v_GAWK="5.1.0"
 export v_GCC="11.2.0_3"
@@ -476,6 +476,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Mon 3/28/2022-w - HoneyFishMINI - Safari
-# Last update: Sat 3/26/2022-z - SilverSurferMBP - Safari
-# Sync_Status: false
+# Last update: Mon 3/28/2022-w - SilverSurferMBP - Safari
+# Sync_Status: true
 # EOF
