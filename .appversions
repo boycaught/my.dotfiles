@@ -418,7 +418,7 @@ export v_BOGUS="24.7.365"
 ### Casks 
 export v_ADOPTOPENJDK8="8,292,b10"
 export v_ALTAIR_GRAPHQL_CLIENT="4.4.1"
-export v_ANKI="2.1.30"
+export v_ANKI="2.1.50"
 export v_AUDIO_HIJACK="3.7.1"
 export v_AVIDMUX="2.8.0"
 export v_BLENDER="3.1.2"
