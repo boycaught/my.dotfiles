@@ -45,6 +45,7 @@ RUBY_HOME="$HOME/.rbenv/versions/$v_RBENV_GLOBAL"
 RUBY_GEM="$HOME/.gem/ruby/$v_RBENV_GEM_BASE.0"
 WEBMIN_HOME="$MY_HOME/webmin"
 VISUALVM="$MY_HOME/visualvm"
+VISUAL_STUDIO_CODE_HOME="/Applications/Visual Studio Code.app/Contents/Resources/app/"
 LDFLAGS="-L/usr/local/opt/zlib/lib"
 CPPFLAGS="-I/usr/local/opt/zlib/include"
 BOGUS="A whole lot of who?"
@@ -101,6 +102,7 @@ $NGINX_HOME/sbin:\
 $RUBY_HOME/bin:\
 $RUBY_GEM/bin:\
 $WEBMIN_HOME:\
+$VISUAL_STUDIO_CODE_HOME/bin:\
 $PATH"
 
 export ACTIVEMQ_HOME
