@@ -317,7 +317,7 @@ export v_POSTGRESQL10="10.19_1"
 export v_POSTGRESQL11="11.14_1"
 export v_POSTGRESQL12="12.9_1"
 export v_POSTGRESQL13="13.5_1"
-export v_PRCE2="10.37_1"
+export v_PRCE2="10.40"
 export v_PRCE="8.45"
 export v_PRIVOXY="3.0.33"
 export v_PROT0BUF="3.19.4"
@@ -479,6 +479,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Wed 4/20/2022-w - HoneyFishMINI - Safari
-# Last update: Mon 4/18/2022-a - SilverSurferMBP - Safari
+# Last update: Wed 4/20/2022-w - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
