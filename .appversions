@@ -249,8 +249,9 @@ export v_MD5DEEP="4.4_1"
 export v_MERCURIAL="6.1.1"
 export v_MESON="0.62.1"
 export v_MINIKUBE="1.12.3"
-export v_MINIO="20220416042602"
+export v_MINIO="20220426012024"
 export v_MITMPROXY="5.2"
+export v_MKCERT="1.4.4"
 export v_MLT="7.6.0"
 export v_MOBILE_SHELL="1.3.2_1"
 export v_MONGODB="4.0.5"
@@ -377,7 +378,7 @@ export v_SWAGGER_CODEGEN="3.0.20"
 export v_STRONGSWAN="5.8.4"
 export v_SWIG="4.0.2"
 export v_SYNFIG="1.4.2_1"
-export v_TBB="2021.5.0"
+export v_TBB="2021.5.0_1"
 export v_TCL_TK="8.6.12_1"
 export v_TERRAFORM="1.1.9"
 export v_TESSERACT="5.1.0"
@@ -479,7 +480,7 @@ export v_ZETTLR="2.2.5"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Tue 4/26/2022-x - HoneyFishMINI - Safari
+# Last update: Wed 4/27/2022-z - HoneyFishMINI - Safari
 # Last update: Wed 4/27/2022-z - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
