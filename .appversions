@@ -382,7 +382,7 @@ export v_SWIG="4.0.2"
 export v_SYNFIG="1.4.2_1"
 export v_TBB="2021.5.0_1"
 export v_TCL_TK="8.6.12_1"
-export v_TERRAFORM="1.2.0"
+export v_TERRAFORM="1.2.1"
 export v_TESSERACT="5.1.0"
 export v_TESTDISK="7.1"
 export v_TEXINFO="6.7"
@@ -488,6 +488,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Sat 5/21/2022-z - HoneyFishMINI - Safari
-# Last update: Mon 5/23/2022-a - SilverSurferMBP - Safari
+# Last update: Tue 5/24/2022-a - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
