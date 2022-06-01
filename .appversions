@@ -279,7 +279,7 @@ export v_NMAP="7.11"
 export v_NODE="18.2.0"
 export v_NORM="1.5.8"
 export v_NPTH="1.6"
-export v_NSPR="4.33"
+export v_NSPR="4.34"
 export v_NSQ="1.2.1"
 export v_NSS="3.78"
 export v_NUMPY="1.22.3"
@@ -489,6 +489,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Tue 5/31/2022-x - HoneyFishMINI - Safari
-# Last update: Mon 5/30/2022-z - SilverSurferMBP - Safari
+# Last update: Tue 5/31/2022-z - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
