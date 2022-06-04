@@ -114,7 +114,7 @@ export v_GNU_SED="4.8"
 export v_GNUPG="2.3.6"
 export v_GNUPLOT="5.4.0_1"
 export v_GNUTLS="3.7.6"
-export v_GO="1.18.2"
+export v_GO="1.18.3"
 export v_GOBJECT_INTROSPECTION="1.72.0"
 export v_GOX="1.0.1"
 export v_GPG_AGENT="2.0.31"
@@ -489,6 +489,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Fri 6/3/2022-a - HoneyFishMINI - Safari
-# Last update: Wed 6/1/2022-w - SilverSurferMBP - Safari
+# Last update: Fri 6/3/2022-y - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
