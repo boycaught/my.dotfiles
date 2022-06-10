@@ -388,7 +388,7 @@ export v_TESSERACT="5.1.0"
 export v_TESTDISK="7.1"
 export v_TEXINFO="6.7"
 export v_TIDY_HTML5="5.6.0"
-export v_TMUX="3.3"
+export v_TMUX="3.3a"
 export v_TOMCAT="10.0.21"
 export v_TREE="2.0.2"
 export v_UNBOUND="1.16.0"
@@ -490,7 +490,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Thu 6/9/2022-d-2 - HoneyFishMINI - Safari
+# Last update: Fri 6/10/2022-w - HoneyFishMINI - Safari
 # Last update: Fri 6/10/2022-w - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
