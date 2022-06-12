@@ -447,13 +447,15 @@ export v_GNUCASH="4.10-4"
 export v_GOOGLE_CHROME_DEV="90.0.4412.3,4412.3"
 export v_GRAMPS="5.1.5,1"
 export v_INKSCAPE="1.2"
+export v_JELLYFIN="10.8.0"
+export v_JELLYFIN_MEDIA_PLAYER="1.7.0"
 export v_JOPLIN="2.8.8"
 export v_JULIA="1.7.3"
 export v_KEEPASSXC="2.7.1"
 export v_KODI="19.4-Matrix"
-export v_LBRY="0.53.1"
+export v_LBRY="0.53.4"
 export v_LIBREOFFICE="7.3.4"
-export v_LUDWIG="2.0.25"
+export v_LUDWIG="2.0.26"
 export v_MACFUSE="4.2.4"
 export v_MICROSOFT_AUTO_UPDATE="4.28.20101102"
 export v_MINECRAFT="933,1"
@@ -492,5 +494,5 @@ export v_ZOOM="5.8.6.2879"
 
 # Last update: Sat 6/11/2022-x - HoneyFishMINI - Safari
 # Last update: Fri 6/10/2022-w - SilverSurferMBP - Safari
-# Sync_Status: true
+# Sync_Status: F
 # EOF
