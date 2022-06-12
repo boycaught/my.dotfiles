@@ -135,7 +135,7 @@ export v_HARFBUZZ="4.3.0"
 export v_HDF5="1.12.2"
 export v_HELM="3.9.0"
 export v_HTOP="3.2.1"
-export v_HTTPD="2.4.53_2"
+export v_HTTPD="2.4.54"
 export v_HTTPING="2.5_2"
 export v_HUGO="0.100.2"
 export v_HWLOC="2.7.1"
@@ -198,7 +198,7 @@ export v_LIBIDN="1.38"
 export v_LIBIMAGEQUANT="4.0.0"
 export v_LIBKSBA="1.6.0"
 export v_LIBMAF="2.3.0_1"
-export v_LIBMAGIC="5.41"
+export v_LIBMAGIC="5.42"
 export v_LIBMATIO="1.5.23"
 export v_LIBMPC="1.2.1"
 export v_LIBNGHTTP2="1.47.0"
@@ -389,7 +389,7 @@ export v_TESTDISK="7.1"
 export v_TEXINFO="6.7"
 export v_TIDY_HTML5="5.6.0"
 export v_TMUX="3.3a"
-export v_TOMCAT="10.0.21"
+export v_TOMCAT="10.0.22"
 export v_TREE="2.0.2"
 export v_UNBOUND="1.16.0"
 export v_UNITY="2021.2.16f1,559fc0ec6670"
@@ -492,7 +492,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Sat 6/11/2022-x - HoneyFishMINI - Safari
-# Last update: Sat 6/11/2022-y - SilverSurferMBP - Safari
+# Last update: Sat 6/12/2022-x - HoneyFishMINI - Safari
+# Last update: Sun 6/13/2022-x - SilverSurferMBP - Safari
 # Sync_Status: F
 # EOF
