@@ -233,7 +233,7 @@ export v_LIBXML="++ 2.42.1"
 export v_LIBXML2="2.9.14_2"
 export v_LIBYAML="0.2.4"
 export v_LIBZIP="1.9.0"
-export v_LIQUIBASE="4.11.0"
+export v_LIQUIBASE="4.12.0"
 export v_LITTLE_CMS2="2.13.1"
 export v_LLVM5="5.0.2_1"
 export v_LLVM6="6.0.1_3"
@@ -341,7 +341,7 @@ export v_PYTHON="3.9.8"
 export v_QHULL="2020.1"
 export v_QRUPDATE="1.1.2_13"
 export v_QT="6.3.0"
-export v_QT5="@5 5.15.3"
+export v_QT5="@5 5.15.5"
 export v_R="4.2.0"
 export v_RABBITMQ="3.10.5"
 export v_RAV1E="0.5.1"
@@ -494,6 +494,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Thu 6/16/2022-w - HoneyFishMINI - Safari
-# Last update: Sat 6/18/2022-d - SilverSurferMBP - Safari
+# Last update: Sun 6/19/2022-z - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
