@@ -26,7 +26,7 @@ export v_BASH="5.1.16"
 export v_BDW_GC="8.0.6"
 export v_BINARYEN="109"
 export v_BITWARDEN_CLI="1.22.1"
-export v_BOOST="1.78.0_1"
+export v_BOOST="1.79.0"
 export v_BROTLI="1.0.9"
 export v_CA_CERTIFICATES="2022-04-26"
 export v_CABAL_INSTALL="3.6.2.0"
@@ -495,6 +495,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Sat 7/2/2022-x - HoneyFishMINI - Safari
-# Last update: Sat 7/2/2022-y - SilverSurferMBP - Safari
+# Last update: Sun 7/3/2022-d - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
