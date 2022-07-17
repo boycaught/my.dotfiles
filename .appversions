@@ -315,7 +315,7 @@ export v_PINENTRY="1.2.0"
 export v_PIXMAN="0.40.0"
 export v_PKG_CONFIG="0.29.2_3"
 export v_PNGQUANT="2.12.5"
-export v_POPPLER="22.06.0"
+export v_POPPLER="22.06.0_1"
 export v_POSTGRESQL="14.4"
 export v_POSTGRESQL10="10.19_1"
 export v_POSTGRESQL11="11.14_1"
@@ -497,6 +497,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Sat 7/16/2022-z - HoneyFishMINI - Safari
-# Last update: Sat 7/16/2022-z - SilverSurferMBP - Safari
+# Last update: Sun 7/17/2022-w - SilverSurferMBP - Safari
 # Sync_Status: true
 # EOF
