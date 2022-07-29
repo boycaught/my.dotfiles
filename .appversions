@@ -479,7 +479,7 @@ export v_SHOTCUT="22.04.25"
 export v_SQLELECTRON="1.38.0"
 export v_SURGE_SYNTHESIZER="1.9.0"
 export v_SUPERPRODUCTIVITY="7.11.5"
-export v_THEBRAIN="12.0.92.0"
+export v_THEBRAIN="12.0.93.0"
 export v_TINDERBOX="9.2.1"
 export v_TOMATOBAR="3.4.0"
 export v_TREZOR_BRIDGE="2.0.27"
@@ -498,7 +498,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Wed 7/27/2022-f - HoneyFishMINI - Safari
+# Last update: Thu 7/28/2022-g - HoneyFishMINI - Safari
 # Last update: Mon 7/25/2022-e - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
