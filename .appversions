@@ -440,7 +440,7 @@ export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="6.0.302,7257dada-8ec1-4b5c-9b69-7201a2cf377f,89f452882fb87fbb89d697417cb3f231"
 export v_DROPBOX="111.4.472"
-export v_ELECTRON="19.0.7"
+export v_ELECTRON="19.0.10"
 export v_EMBY_SERVER="4.7.5.0"
 export v_FIRECAMP="2.6.1"
 export v_FISSION="2.8.1"
@@ -469,7 +469,7 @@ export v_OBSIDIAN="0.10.8"
 export v_OPENSHOT_VIDEO_EDITOR="2.6.1"
 export v_OPENTOONZ="1.6.0"
 export v_OSXFUSE="3.11.2"
-export v_PGADMIN4="6.11"
+export v_PGADMIN4="6.12"
 export v_PLAYONMAC="4.4"
 export v_PLEX="1.33.0.2444-a220eae4"
 export v_PLEX_MEDIA_SERVER="1.23.4.4805-186bae04e"
@@ -499,6 +499,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Thu 7/28/2022-g - HoneyFishMINI - Safari
-# Last update: Mon 7/25/2022-e - SilverSurferMBP - Safari
+# Last update: Thu 7/28/2022-g - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
