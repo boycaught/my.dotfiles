@@ -464,7 +464,7 @@ export v_LUDWIG="2.0.27"
 export v_MACFUSE="4.2.4"
 export v_MICROSOFT_AUTO_UPDATE="4.28.20101102"
 export v_MINECRAFT="933,1"
-export v_NEXTCLOUD="3.5.2"
+export v_NEXTCLOUD="3.5.3"
 export v_OBSIDIAN="0.10.8"
 export v_OPENSHOT_VIDEO_EDITOR="2.6.1"
 export v_OPENTOONZ="1.6.0"
@@ -499,6 +499,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Thu 7/28/2022-g - HoneyFishMINI - Safari
-# Last update: Sat 7/30/2022-e - SilverSurferMBP - Safari
+# Last update: Sat 7/30/2022-f - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
