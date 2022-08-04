@@ -433,7 +433,7 @@ export v_ALTAIR_GRAPHQL_CLIENT="4.5.2"
 export v_ANKI="2.1.54"
 export v_AUDIO_HIJACK="3.7.1"
 export v_AVIDMUX="2.8.0"
-export v_BLENDER="3.2.1"
+export v_BLENDER="3.2.2"
 export v_BURN="3.1.6"
 export v_DB_BROWSER_FOR_SQLITE="3.12.2"
 export v_DEXED="0.9.6"
@@ -442,7 +442,7 @@ export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="6.0.302,7257dada-8ec1-4b5c-9b69-7201a2cf377f,89f452882fb87fbb89d697417cb3f231"
 export v_DROPBOX="111.4.472"
-export v_ELECTRON="20.0.0"
+export v_ELECTRON="20.0.1"
 export v_EMBY_SERVER="4.7.6.0"
 export v_FIRECAMP="2.6.1"
 export v_FISSION="2.8.1"
@@ -502,5 +502,5 @@ export v_ZOOM="5.8.6.2879"
 
 # Last update: Thu 8/4/2022-e - HoneyFishMINI - Safari
 # Last update: Thu 8/4/2022-e - SilverSurferMBP - Safari
-# Sync_Status: false
+# Sync_Status: true
 # EOF
