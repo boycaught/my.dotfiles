@@ -68,7 +68,7 @@ export v_EC2_AMI_TOOLS="1.5.7_1"
 export v_EC2_API_TOOLS="1.7.6.1_1"
 export v_EIGEN="3.4.0_1"
 export v_ELASTICSEARCH="7.10.1"
-export v_ELIXIR="1.13.4"
+export v_ELIXIR="1.13.4_1"
 export v_ELM="0.19.1"
 export v_EMSCRIPTEN="3.1.19"
 export v_ENCHANT="2.3.3"
@@ -197,7 +197,7 @@ export v_LIBHEIF="1.12.0_2"
 export v_LIBICONV="1.17"
 export v_LIBIDN="1.41"
 export v_LIBIDN2="2.3.3"
-export v_LIBIMAGEQUANT="4.0.1"
+export v_LIBIMAGEQUANT="4.0.2"
 export v_LIBKSBA="1.6.0"
 export v_LIBMAF="2.3.0_1"
 export v_LIBMAGIC="5.42"
@@ -460,7 +460,7 @@ export v_JELLYFIN="10.8.4"
 export v_JELLYFIN_MEDIA_PLAYER="1.7.1"
 export v_JOPLIN="2.8.8"
 export v_JULIA="1.7.3"
-export v_KDENLIVE="22.04.2"
+export v_KDENLIVE="22.08.0"
 export v_KEEPASSXC="2.7.1"
 export v_KODI="19.4-Matrix"
 export v_LBRY="0.53.4"
@@ -503,7 +503,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Thu 8/18/2022-e - HoneyFishMINI - Safari
+# Last update: Mon 8/22/2022-e - HoneyFishMINI - Safari
 # Last update: Sat 8/20/2022-e - SilverSurferMBP - Safari 
-# Sync_Status: T
+# Sync_Status: F
 # EOF
