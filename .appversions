@@ -20,7 +20,7 @@ export v_ATK="2.38.0"
 export v_AUGEAS="1.12.0_1"
 export v_AUTOCONF="2.71"
 export v_AUTOMAKE="1.16.5"
-export v_AWSCLI="2.7.29"
+export v_AWSCLI="2.7.30"
 export v_AWS_SHELL="0.2.1_2"
 export v_BASH="5.1.16"
 export v_BDW_GC="8.2.2"
@@ -33,7 +33,7 @@ export v_CA_CERTIFICATES="2022-07-27"
 export v_CABAL_INSTALL="3.6.2.0"
 export v_C_ARES="1.18.1_1"
 export v_CAIRO="1.16.0_5"
-export v_CERTBOT="1.29.0"
+export v_CERTBOT="1.30.0"
 export v_CERES_SOLVER="2.1.0_1"
 export v_CFITSIO="4.1.0"
 export v_CGIF="0.3.0"
@@ -394,7 +394,7 @@ export v_SWIG="4.0.2"
 export v_SYNFIG="1.4.2_2"
 export v_TBB="2021.5.0_1"
 export v_TCL_TK="8.6.12_1"
-export v_TERRAFORM="1.2.8"
+export v_TERRAFORM="1.2.9"
 export v_TESSERACT="5.2.0"
 export v_TESTDISK="7.1"
 export v_TEXINFO="6.7"
@@ -506,7 +506,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Tue 9/6/2022-d4 - HoneyFishMINI - Safari
-# Last update: Wed 9/7/2022-f3 - SilverSurferMBP - Safari 
+# Last update: Tue 9/6/2022-d7 - HoneyFishMINI - Safari
+# Last update: Thu 9/8/2022-d8 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
