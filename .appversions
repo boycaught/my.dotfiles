@@ -15,7 +15,7 @@ export v_ARPACK="3.7.0_5"
 export v_ASCIIDOC="9.0.2"
 export v_ASK_CLI="2.28.0"
 export v_ASPELL="0.60.7"
-export v_ASSIMP="5.2.4"
+export v_ASSIMP="5.2.5"
 export v_ATK="2.38.0"
 export v_AUGEAS="1.12.0_1"
 export v_AUTOCONF="2.71"
@@ -70,7 +70,7 @@ export v_EIGEN="3.4.0_1"
 export v_ELASTICSEARCH="7.10.1"
 export v_ELIXIR="1.14.0"
 export v_ELM="0.19.1"
-export v_EMSCRIPTEN="3.1.19"
+export v_EMSCRIPTEN="3.1.21"
 export v_ENCHANT="2.3.3"
 export v_EPSTOOL="3.09"
 export v_ERLANG="25.0.3"
@@ -507,6 +507,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Sat 9/10/2022-e1 - HoneyFishMINI - Safari
-# Last update: Fri 9/9/2022-g8 - SilverSurferMBP - Safari 
+# Last update: Sun 9/11/2022-f5 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
