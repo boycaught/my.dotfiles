@@ -6,7 +6,7 @@ export v_ADWAITA_ICON_THEME="43"
 export v_AMBER="0.7.2"
 export v_ANSIBLE="6.4.0"
 export v_ANT="1.10.12"
-export v_AOM="3.4.0"
+export v_AOM="3.5.0"
 export v_APIBUILDER_CLI="0.1.37"
 export v_APR="1.7.0_3"
 export v_APR_UTIL="1.6.1_4"
@@ -138,7 +138,7 @@ export v_HELM="3.10.0"
 export v_HTOP="3.2.1"
 export v_HTTPD="2.4.54_1"
 export v_HTTPING="2.5_2"
-export v_HUGO="0.103.1"
+export v_HUGO="0.104.0"
 export v_HWLOC="2.8.0"
 export v_HUNSPELL="1.7.1"
 export v_HYPERKIT="0.20200224_1"
@@ -437,6 +437,7 @@ export v_BOGUS="24.7.365"
 export v_ADOPTOPENJDK8="8,292,b10"
 export v_ALTAIR_GRAPHQL_CLIENT="4.6.4"
 export v_ANKI="2.1.54"
+export v_AUDACITY="3.2.0"
 export v_AUDIO_HIJACK="3.7.1"
 export v_AVIDMUX="2.8.0"
 export v_BLENDER="3.3.0"
@@ -508,6 +509,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Thu 9/22/2022-e1 - HoneyFishMINI - Safari
-# Last update: Thu 9/22/2022-f7 - SilverSurferMBP - Safari 
+# Last update: Fri 9/23/2022-f5 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
