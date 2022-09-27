@@ -154,7 +154,7 @@ export v_JANSSON="2.14"
 export v_JASPER="3.0.6_2"
 export v_JDK="-14.0.2"
 export v_JEMALLOC="5.3.0"
-export v_JENKINS="2.370"
+export v_JENKINS="2.371"
 export v_JETTY="9.4.49.v20220914"
 export v_JETTY_RUNNER="9.4.31.v20200723"
 export v_JOPLIN="1.0.164"
@@ -509,7 +509,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Tue 9/27/2022-e8 - HoneyFishMINI - Safari
-# Last update: Mon 9/26/2022-e7 - SilverSurferMBP - Safari 
+# Last update: Tue 9/27/2022-e7 - HoneyFishMINI - Safari
+# Last update: Tue 9/27/2022-e8 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
