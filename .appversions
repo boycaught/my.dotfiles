@@ -450,7 +450,7 @@ export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="6.0.401,c98d3ccf-561c-4f9b-a1d7-5debb0880031,fd1ebfbd783788649ee139c229cd48fa"
 export v_DROPBOX="111.4.472"
-export v_ELECTRON="21.0.0"
+export v_ELECTRON="21.0.1"
 export v_EMBY_SERVER="4.7.6.0"
 export v_FIRECAMP="2.6.1"
 export v_FISSION="2.8.1"
@@ -458,7 +458,7 @@ export v_FLUID="2.1.2,2120"
 export v_FLYCUT="1.9.6"
 export v_GIMP="2.10.32"
 export v_GNUCASH="4.12-1"
-export v_GODOT="3.5"
+export v_GODOT="3.5.1"
 export v_GOOGLE_CHROME_DEV="90.0.4412.3,4412.3"
 export v_GRAMPS="5.1.5,1"
 export v_INKSCAPE="1.2"
@@ -510,6 +510,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Wed 9/28/2022-f1 - HoneyFishMINI - Safari
-# Last update: Thu 9/29/2022-e7 - SilverSurferMBP - Safari 
+# Last update: Thu 9/29/2022-e1 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
