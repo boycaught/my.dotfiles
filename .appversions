@@ -277,7 +277,7 @@ export v_NAVE="3.3.1"
 export v_NCURSES="6.3"
 export v_NEO4J="4.4.10"
 export v_NETCDF="4.8.1_3"
-export v_NETPBM="10.86.34"
+export v_NETPBM="10.86.35"
 export v_NETTLE="3.8.1"
 export v_NGHTTP2="1.50.0"
 export v_NGINX="1.23.1"
@@ -318,7 +318,7 @@ export v_PCRE="8.45"
 export v_PCRE2="10.40"
 export v_PDFTOEDN="0.36.8"
 export v_PHP7="7.4.13"
-export v_PHP="8.1.10_1"
+export v_PHP="8.1.11"
 export v_PHPMYADMIN="5.2.0"
 export v_PINENTRY="1.2.1"
 export v_PIXMAN="0.40.0"
@@ -509,7 +509,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Wed 9/28/2022-f1 - HoneyFishMINI - Safari
+# Last update: Thu 9/29/2022-f4 - HoneyFishMINI - Safari
 # Last update: Thu 9/29/2022-e1 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
