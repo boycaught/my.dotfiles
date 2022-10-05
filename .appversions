@@ -442,7 +442,7 @@ export v_ANKI="2.1.54"
 export v_AUDACITY="3.2.0"
 export v_AUDIO_HIJACK="3.7.1"
 export v_AVIDMUX="2.7.4"
-export v_BLENDER="3.3.0"
+export v_BLENDER="3.3.1"
 export v_BURN="3.1.6"
 export v_DB_BROWSER_FOR_SQLITE="3.12.2"
 export v_DEXED="0.9.6"
@@ -511,6 +511,6 @@ export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Wed 10/5/2022-e4 - HoneyFishMINI - Safari
-# Last update: Tue 10/4/2022-e5 - SilverSurferMBP - Safari 
+# Last update: Wed 10/5/2022-f3 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
