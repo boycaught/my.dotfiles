@@ -76,7 +76,7 @@ export v_EPSTOOL="3.09"
 export v_ERLANG="25.1.1"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
-export v_EXPLOITDB="2022-09-22"
+export v_EXPLOITDB="2022-10-07"
 export v_EXIFTOOL="12.42_1"
 export v_ETL="1.5.1"
 export v_FAAC="1.30"
@@ -510,7 +510,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.3.1"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Thu 10/6/2022-f8 - HoneyFishMINI - Safari
+# Last update: Fri 10/7/2022-f3 - HoneyFishMINI - Safari
 # Last update: Thu 10/6/2022-f6 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
