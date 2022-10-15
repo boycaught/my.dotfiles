@@ -473,7 +473,6 @@ export v_KEEPASSXC="2.7.1"
 export v_KODI="19.4-Matrix"
 export v_LBRY="0.53.5"
 export v_LIBREOFFICE="7.4.2"
-export v_LUDWIG="2.0.38"
 export v_MACFUSE="4.2.4"
 export v_MICROSOFT_AUTO_UPDATE="4.28.20101102"
 export v_MINECRAFT="933,1"
@@ -511,7 +510,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Wed 10/12/2022-d8 - HoneyFishMINI - Safari
+# Last update: Fri 10/14/2022-g4 - HoneyFishMINI - Safari
 # Last update: Fri 10/14/2022-f8 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
