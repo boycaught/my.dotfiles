@@ -454,7 +454,7 @@ export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="6.0.402,f55a179b-7084-41b9-98e3-408a3c317158,5445f9e747fa29ce0be3240017d28322"
 export v_DROPBOX="111.4.472"
-export v_ELECTRON="21.2.1"
+export v_ELECTRON="21.2.2"
 export v_EMBY_SERVER="4.7.8.0"
 export v_FIRECAMP="2.6.1"
 export v_FISSION="2.8.2"
@@ -512,7 +512,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Mon 10/31/2022-e2 - HoneyFishMINI - Safari
+# Last update: Wed 11/3/2022-d8 - HoneyFishMINI - Safari
 # Last update: Wed 11/2/2022-f1 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
