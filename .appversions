@@ -273,7 +273,7 @@ export v_MPG123="1.31.1"
 export v_MSGPACK="4.0.0"
 export v_MYSQL="10.1.16"
 export v_MYSQL_SANDBOX="3.2.17_1"
-export v_N="9.0.0"
+export v_N="9.0.1"
 export v_NANO="5.2"
 export v_NAVE="3.3.1"
 export v_NCURSES="6.3"
@@ -512,7 +512,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Thu 11/3/2022-d8 - HoneyFishMINI - Safari
+# Last update: Fri 11/4/2022-d2 - HoneyFishMINI - Safari
 # Last update: Thu 11/3/2022-f3 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
