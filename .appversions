@@ -252,7 +252,7 @@ export v_LOREM="0.8.0"
 export v_LUA="5.3.5_1"
 export v_LZ4="1.9.4"
 export v_M4="1.4.19"
-export v_MAKEDEPEND="1.0.6"
+export v_MAKEDEPEND="1.0.7"
 export v_MARIADB="10.9.3"
 export v_MAVEN="3.6.3_1"
 export v_MBEDTLS="3.2.1"
@@ -518,6 +518,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Sat 11/12/2022-e2 - HoneyFishMINI - Safari
-# Last update: Sun 11/13/2022-d4 - SilverSurferMBP - Safari 
+# Last update: Sun 11/13/2022-g5 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
