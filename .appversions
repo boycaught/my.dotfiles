@@ -375,7 +375,7 @@ export v_RTMPDUMP="2.4+20151223_1"
 export v_RUBBERBAND="3.1.1"
 export v_RUBY="2.7.1_2"
 export v_RUBY_BUILD="20221124"
-export v_RUST="1.64.0"
+export v_RUST="1.65.0"
 export v_RUSTUP_INIT="1.25.1"
 export v_S3CMD="2.3.0"
 export v_SASSC="3.6.2"
@@ -506,7 +506,7 @@ export v_UNITY="2022.1.22f1,6b6e9fc2adda"
 export v_VAGRANT="2.3.3"
 export v_VANILLA="2.0.2,48"
 export v_VB_CABLE="108"
-export v_VCV_RACK="2.1.2"
+export v_VCV_RACK="2.2.0"
 export v_VERACRYPT="1.25.9"
 export v_VIENNA="3.7.3,7560"
 export v_VIRTUALBOX="7.0.4,154605"
@@ -517,6 +517,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Wed 11/23/2022-e2 - HoneyFishMINI - Safari
-# Last update: Thu 11/24/2022-f8 - SilverSurferMBP - Safari 
+# Last update: Fri 11/25/2022-e8 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
