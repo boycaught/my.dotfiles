@@ -494,7 +494,7 @@ export v_PLEX="1.33.0.2444-a220eae4"
 export v_PLEX_MEDIA_SERVER="1.23.4.4805-186bae04e"
 export v_QUITERSS="0.19.4"
 export v_RSTUDIO="2022.07.2,576"
-export v_SHOTCUT="22.10.25"
+export v_SHOTCUT="22.11.25"
 export v_SQLELECTRON="1.38.0"
 export v_SURGE_SYNTHESIZER="1.9.0"
 export v_SUPERPRODUCTIVITY="7.12.0"
@@ -517,6 +517,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Sun 11/27/2022-d3 - HoneyFishMINI - Safari
-# Last update: Sun 11/27/2022-g2 - SilverSurferMBP - Safari 
+# Last update: Mon 11/28/2022-c8 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
