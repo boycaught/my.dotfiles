@@ -185,7 +185,7 @@ export v_LIBASSUAN="2.5.5"
 export v_LIBATOMIC_OPS="7.6.10"
 export v_LIBAV="12.3_8"
 export v_LIBAVIF="0.11.1"
-export v_LIBBLURAY="1.3.3"
+export v_LIBBLURAY="1.3.4"
 export v_LIBCERF="2.0"
 export v_LIBDE265="1.0.9"
 export v_LIBEPOXY="1.5.10"
@@ -286,7 +286,7 @@ export v_NGHTTP2="1.51.0"
 export v_NGINX="1.23.1"
 export v_NINJA="1.11.1"
 export v_NMAP="7.11"
-export v_NODE="19.1.0"
+export v_NODE="19.2.0"
 export v_NORM="1.5.8"
 export v_NPTH="1.6"
 export v_NSPR="4.35"
@@ -516,7 +516,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Tue 11/29/2022-g3 - HoneyFishMINI - Safari
+# Last update: Wed 11/30/2022-d8 - HoneyFishMINI - Safari
 # Last update: Tue 11/29/2022-g4 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
