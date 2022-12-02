@@ -40,7 +40,7 @@ export v_CGIF="0.3.0"
 export v_CHECK="0.15.2"
 export v_CLAMAV="1.0.0"
 export v_CLANG_FORMAT="10.0.0"
-export v_CMAKE="3.25.0"
+export v_CMAKE="3.25.1"
 export v_COMMANDBOX="5.6.1"
 export v_COMPOSER="2.4.4"
 export v_CONSUL="1.13.3"
@@ -517,6 +517,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Thu 12/1/2022-e4 - HoneyFishMINI - Safari
-# Last update: Wed 11/30/2022-e6 - SilverSurferMBP - Safari 
+# Last update: Thu 12/1/2022-f1 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
