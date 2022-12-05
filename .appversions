@@ -444,7 +444,7 @@ export v_BOGUS="24.7.365"
 
 ### Casks 
 export v_ADOPTOPENJDK8="8,292,b10"
-export v_ALTAIR_GRAPHQL_CLIENT="5.0.6"
+export v_ALTAIR_GRAPHQL_CLIENT="5.0.8"
 export v_ANKI="2.1.54"
 export v_AUDACITY="3.2.1"
 export v_AUDIO_HIJACK="3.7.1"
@@ -453,7 +453,7 @@ export v_BLENDER="3.3.1"
 export v_BURN="3.1.6"
 export v_DB_BROWSER_FOR_SQLITE="3.12.2"
 export v_DEXED="0.9.6"
-export v_DIGIKAM="7.7.0"
+export v_DIGIKAM="7.9.0"
 export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="7.0.100,11810c49-a615-40ec-b869-2eb2eae30f7b,4b0b7700fa0e8307b5f99c1d372d95bb"
@@ -517,7 +517,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Sat 12/5/2022-d8 - HoneyFishMINI - Safari
+# Last update: Mon 12/5/2022-f2 - HoneyFishMINI - Safari
 # Last update: Sun 12/4/2022-c6 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
