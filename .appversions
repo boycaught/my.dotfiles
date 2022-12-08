@@ -260,7 +260,7 @@ export v_MD5DEEP="4.4_1"
 export v_MERCURIAL="6.3.1"
 export v_MESON="0.64.1"
 export v_MINIKUBE="1.12.3"
-export v_MINIO="20221129234049"
+export v_MINIO="20221207005637"
 export v_MITMPROXY="5.2"
 export v_MKCERT="1.4.4"
 export v_MLT="7.12.0"
@@ -444,12 +444,12 @@ export v_BOGUS="24.7.365"
 
 ### Casks 
 export v_ADOPTOPENJDK8="8,292,b10"
-export v_ALTAIR_GRAPHQL_CLIENT="5.0.8"
+export v_ALTAIR_GRAPHQL_CLIENT="5.0.9"
 export v_ANKI="2.1.54"
 export v_AUDACITY="3.2.2"
 export v_AUDIO_HIJACK="3.7.1"
 export v_AVIDMUX="2.7.4"
-export v_BLENDER="3.3.1"
+export v_BLENDER="3.4.0"
 export v_BURN="3.1.6"
 export v_DB_BROWSER_FOR_SQLITE="3.12.2"
 export v_DEXED="0.9.6"
@@ -517,7 +517,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Tue 12/6/2022-e7 - HoneyFishMINI - Safari
-# Last update: Wed 12/7/2022-f2 - SilverSurferMBP - Safari 
+# Last update: Wed 12/7/2022-f4 - HoneyFishMINI - Safari
+# Last update: Wed 12/7/2022-e2 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
