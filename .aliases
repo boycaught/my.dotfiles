@@ -23,6 +23,7 @@ alias jekyllpack='bundle exec jekyll serve &'
 alias hobo='vagrant destroy -f && rm -fR .vagrant && cx && lx'
 alias todo='todo.sh'
 alias wmreboot='sudo /etc/webmin/restart'
+alias ytdl='youtube-dl'
 
 ## FF X => FIND FILE NAMED X
 alias ff="find . -name \!:1 -print"     
