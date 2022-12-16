@@ -474,7 +474,7 @@ export v_GRAMPS="5.1.5,1"
 export v_INKSCAPE="1.2.2"
 export v_JELLYFIN="10.8.7"
 export v_JELLYFIN_MEDIA_PLAYER="1.7.1"
-export v_JOPLIN="2.8.8"
+export v_JOPLIN="2.9.17"
 export v_JULIA="1.8.3"
 export v_JUPYTERLAB="3.5.1-1"
 export v_KDENLIVE="22.12.0"
@@ -520,6 +520,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Thu 12/15/2022-f4 - HoneyFishMINI - Safari
-# Last update: Wed 12/14/2022-f1 - SilverSurferMBP - Safari 
+# Last update: Fri 12/16/2022-e6 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
