@@ -206,7 +206,7 @@ export v_LIBMAF="2.3.0_1"
 export v_LIBMAGIC="5.43"
 export v_LIBMATIO="1.5.23"
 export v_LIBMNG="2.0.3_1"
-export v_LIBMPC="1.2.1"
+export v_LIBMPC="1.3.1"
 export v_LIBNGHTTP2="1.51.0"
 export v_LIBOGG="1.3.5"
 export v_LIBOMP="15.0.6"
@@ -520,6 +520,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Thu 12/15/2022-f4 - HoneyFishMINI - Safari
-# Last update: Sat 12/17/2022-h1 - SilverSurferMBP - Safari 
+# Last update: Sun 12/18/2022-ec - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
