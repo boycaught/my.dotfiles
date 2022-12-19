@@ -144,7 +144,7 @@ export v_HUNSPELL="1.7.1"
 export v_HYPERKIT="0.20200224_1"
 export v_ICU4C="71.1"
 export v_ILMBASE="2.5.8"
-export v_IMAGEMAGICK="7.1.0-54"
+export v_IMAGEMAGICK="7.1.0-54_1"
 export v_IMATH="3.1.6"
 export v_IMAP_BACKUP="8.0.0"
 export v_IMAP_UW="2007f_1"
@@ -212,7 +212,7 @@ export v_LIBOMP="15.0.6"
 export v_LIBPNG="1.6.39"
 export v_LIBPQ="15.1"
 export v_LIBPROXY="0.4.17_1"
-export v_LIBRAW="0.20.2_4"
+export v_LIBRAW="0.21.0"
 export v_LIBRESSL="3.6.1"
 export v_LIBRIST="0.2.7_1"
 export v_LIBRSVG="2.55.1"
@@ -520,6 +520,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Mon 12/19/2022-e2 - HoneyFishMINI - Safari
-# Last update: Sun 12/18/2022-e8 - SilverSurferMBP - Safari 
+# Last update: Mon 12/19/2022-e7 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
