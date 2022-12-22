@@ -449,7 +449,7 @@ export v_ANKI="2.1.54"
 export v_AUDACITY="3.2.2"
 export v_AUDIO_HIJACK="3.7.1"
 export v_AVIDMUX="2.7.4"
-export v_BLENDER="3.4.0"
+export v_BLENDER="3.4.1"
 export v_BURN="3.1.6"
 export v_DB_BROWSER_FOR_SQLITE="3.12.2"
 export v_DEXED="0.9.6"
@@ -490,7 +490,7 @@ export v_OBSIDIAN="1.0.0"
 export v_OPENSHOT_VIDEO_EDITOR="3.0.0"
 export v_OPENTOONZ="1.6.0"
 export v_OSXFUSE="3.11.2"
-export v_PGADMIN4="6.16"
+export v_PGADMIN4="6.18"
 export v_PLAYONMAC="4.4"
 export v_PLEX="1.33.0.2444-a220eae4"
 export v_PLEX_MEDIA_SERVER="1.23.4.4805-186bae04e"
@@ -519,7 +519,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Wed 12/21/2022-g6 - HoneyFishMINI - Safari
+# Last update: Wed 12/21/2022-g1 - HoneyFishMINI - Safari
 # Last update: Tue 12/20/2022-f1 - SilverSurferMBP - Safari 
-# Sync_Status: true
+# Sync_Status: false
 # EOF
