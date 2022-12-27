@@ -414,7 +414,7 @@ export v_TEXINFO="6.7"
 export v_TIDY_HTML5="5.6.0"
 export v_TMUX="3.3a"
 export v_TOMCAT="10.1.4"
-export v_TREE="2.0.4"
+export v_TREE="2.1.0"
 export v_TREZOR_BRIDGE="2.0.32"
 export v_UNBOUND="1.17.0"
 export v_UNIXODBC="2.3.11"
@@ -525,6 +525,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Tue 12/27/2022-e4 - HoneyFishMINI - Safari
-# Last update: Mon 12/26/2022-d1 - SilverSurferMBP - Safari 
+# Last update: Tue 12/27/2022-e7 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
