@@ -1,11 +1,5 @@
 #!/bin/zsh
-## updated to v_2022.08.11
-
-# Customizations
-for file in ~/dotfiles/.{appversions,paths,aliases,extras,exports,functions,macros,shell_integration}; do
-        [ -r "$file" ] && source "$file"
-done
-unset file
+## updated to v_2023.01.08
 
 # Prefer US English and use UTF-8
 export LC_ALL="en_US.UTF-8"
@@ -131,6 +125,12 @@ eval "$(pyenv init --path)"
 eval "$(pyenv init -)"
 #fi
 
+# Customizations
+for file in ~/dotfiles/.{appversions,paths,aliases,extras,exports,functions,macros,shell_integration}; do
+        [ -r "$file" ] && source "$file"
+done
+unset file
+
 #EOF
-#LastUpdated: 08/11/2022
-#v2022.08.25
+#LastUpdated: 01/08/2023
+#v2022.01.08
