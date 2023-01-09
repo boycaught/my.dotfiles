@@ -117,7 +117,7 @@ source $ZSH/oh-my-zsh.sh
 export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@1.1)"
 
 # Load rbenv
-eval "$(rbenv init -)"
+# eval "$(rbenv init -)"
 
 # Load pyenv
 #if command -v pyenv 1>/dev/null 2>&1; then
