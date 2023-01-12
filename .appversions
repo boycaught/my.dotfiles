@@ -25,7 +25,7 @@ export v_AWS_SHELL="0.2.1_2"
 export v_BASH="5.2.15"
 export v_BDW_GC="8.2.2"
 export v_BINARYEN="111"
-export v_BITWARDEN_CLI="2022.11.0"
+export v_BITWARDEN_CLI="2023.1.0"
 export v_BLACKHOLE="0.2.6"
 export v_BOOST="1.81.0"
 export v_BROTLI="1.0.9"
@@ -379,7 +379,7 @@ export v_RTMPDUMP="2.4+20151223_1"
 export v_RUBBERBAND="3.1.2"
 export v_RUBY="2.7.1_2"
 export v_RUBY_BUILD="20221225"
-export v_RUST="1.66.0"
+export v_RUST="1.66.1"
 export v_RUSTUP_INIT="1.25.1"
 export v_S3CMD="2.3.0"
 export v_SASSC="3.6.2"
@@ -527,6 +527,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Wed 1/11/2023-f7 - HoneyFishMINI - Safari
-# Last update: Tue 1/10/2023-g1 - SilverSurferMBP - Safari 
+# Last update: Wed 1/11/2023-g7 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
