@@ -487,7 +487,7 @@ export v_KDENLIVE="22.12.0"
 export v_KEEPASSXC="2.7.4"
 export v_KODI="19.5-Matrix"
 export v_LBRY="0.53.6"
-export v_LIBREOFFICE="7.4.3"
+export v_LIBREOFFICE="7.4.4"
 export v_MACFUSE="4.2.4"
 export v_MICROSOFT_AUTO_UPDATE="4.28.20101102"
 export v_MINECRAFT="933,1"
@@ -528,6 +528,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Wed 1/11/2023-f7 - HoneyFishMINI - Safari
-# Last update: Wed 1/11/2023-g7 - SilverSurferMBP - Safari 
+# Last update: Fri 1/13/2023-d8 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
