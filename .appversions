@@ -520,7 +520,7 @@ export v_VB_CABLE="108"
 export v_VCV_RACK="2.2.2"
 export v_VERACRYPT="1.25.9"
 export v_VIENNA="3.7.3,7560"
-export v_VIRTUALBOX="7.0.4,154605"
+export v_VIRTUALBOX="7.0.6,155176"
 export v_VNC_VIEWER="6.22.826"
 export v_VSCODIUM="1.74.2.22355"
 export v_VULKAN_HEADERS="1.3.238"
@@ -530,6 +530,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Wed 1/11/2023-f7 - HoneyFishMINI - Safari
-# Last update: Wed 1/18/2023-h4 - SilverSurferMBP - Safari 
+# Last update: Thu 1/19/2023-h6 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
