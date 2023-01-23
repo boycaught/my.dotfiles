@@ -467,7 +467,7 @@ export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="7.0.102,17798684-12da-417d-845b-8d2f54b3bd67,d6a67ffe06f263906571aacf7057bc8e"
 export v_DROPBOX="111.4.472"
-export v_ELECTRON="22.0.2"
+export v_ELECTRON="22.0.3"
 export v_EMBY_SERVER="4.7.10.0"
 export v_FIRECAMP="2.6.1"
 export v_FISSION="2.8.3"
@@ -480,7 +480,7 @@ export v_GODOT="3.5.1"
 export v_GOOGLE_CHROME_DEV="90.0.4412.3,4412.3"
 export v_GRAMPS="5.1.5,2"
 export v_INKSCAPE="1.2.2"
-export v_JELLYFIN="10.8.7"
+export v_JELLYFIN="10.8.9"
 export v_JELLYFIN_MEDIA_PLAYER="1.7.1"
 export v_JOPLIN="2.9.17"
 export v_JULIA="1.8.4"
@@ -530,6 +530,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Sun 1/22/2023-h4 - HoneyFishMINI - Safari
-# Last update: Sun 1/22/2023-h7 - SilverSurferMBP - Safari 
+# Last update: Mon 1/23/2023-e5 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
