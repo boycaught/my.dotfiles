@@ -381,7 +381,7 @@ export v_RSYNC="3.2.3"
 export v_RTMPDUMP="2.4+20151223_1"
 export v_RUBBERBAND="3.1.2"
 export v_RUBY="2.7.1_2"
-export v_RUBY_BUILD="20221225"
+export v_RUBY_BUILD="20230124"
 export v_RUST="1.66.1"
 export v_RUSTUP_INIT="1.25.1"
 export v_S3CMD="2.3.0"
@@ -530,6 +530,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Mon 1/23/2023-g2 - HoneyFishMINI - Safari
-# Last update: Mon 1/23/2023-e5 - SilverSurferMBP - Safari 
+# Last update: Tue 1/24/2023-e8 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
