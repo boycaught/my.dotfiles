@@ -150,7 +150,7 @@ export v_IMATH="3.1.6"
 export v_IMAP_BACKUP="8.0.0"
 export v_IMAP_UW="2007f_1"
 export v_INTLTOOL="0.51.0_1"
-export v_IPYTHON="8.8.0"
+export v_IPYTHON="8.9.0"
 export v_ISL="0.25"
 export v_JANSSON="2.14"
 export v_JASPER="4.0.0"
@@ -489,7 +489,7 @@ export v_KDENLIVE="22.12.0"
 export v_KEEPASSXC="2.7.4"
 export v_KODI="20.0-Nexus"
 export v_LBRY="0.53.6"
-export v_LIBREOFFICE="7.4.4"
+export v_LIBREOFFICE="7.4.5"
 export v_MACFUSE="4.2.4"
 export v_MICROSOFT_AUTO_UPDATE="4.28.20101102"
 export v_MINECRAFT="933,1"
@@ -530,6 +530,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Mon 1/23/2023-g2 - HoneyFishMINI - Safari
-# Last update: Thu 1/26/2023-f4 - SilverSurferMBP - Safari 
+# Last update: Fri 1/27/2023-f1 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
