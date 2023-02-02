@@ -8,8 +8,8 @@ export v_ANSIBLE="7.2.0"
 export v_ANT="1.10.13"
 export v_AOM="3.5.0_2"
 export v_APIBUILDER_CLI="0.1.37"
-export v_APR="1.7.1"
-export v_APR_UTIL="1.6.2"
+export v_APR="1.7.2"
+export v_APR_UTIL="1.6.3"
 export v_ARGON2="20190702_1"
 export v_ARPACK="3.7.0_5"
 export v_ASCIIDOC="9.0.2"
@@ -76,7 +76,7 @@ export v_EPSTOOL="3.09"
 export v_ERLANG="25.2.2"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
-export v_EXPLOITDB="2023-02-01"
+export v_EXPLOITDB="2023-02-02"
 export v_EXIFTOOL="12.42_1"
 export v_ETL="1.5.1"
 export v_FAAC="1.30"
@@ -530,6 +530,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
 # Last update: Mon 1/30/2023-d7 - HoneyFishMINI - Safari
-# Last update: Wed 2/1/2023-d5 - SilverSurferMBP - Safari 
+# Last update: Wed 2/2/2023-e4 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
