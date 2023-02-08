@@ -297,7 +297,7 @@ export v_NPTH="1.6"
 export v_NSPR="4.35"
 export v_NSQ="1.2.1"
 export v_NSS="3.87"
-export v_NUMPY="1.24.1"
+export v_NUMPY="1.24.2"
 export v_OCAML="4.10.0"
 export v_OCTAVE="5.2.0_9"
 export v_OCTOSQL="0.12.0"
@@ -530,7 +530,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.8.6.2879"
 
-# Last update: Tue 2/7/2023-d2 - HoneyFishMINI - Safari
+# Last update: Wed 2/8/2023-d1 - HoneyFishMINI - Safari
 # Last update: Tue 2/7/2023-d6 - SilverSurferMBP - Safari 
 # Sync_Status: false
 # EOF
