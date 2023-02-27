@@ -304,7 +304,7 @@ export v_NSS="3.88.1"
 export v_NUMPY="1.24.2"
 export v_OCAML="4.10.0"
 export v_OCTAVE="5.2.0_9"
-export v_OCTOSQL="0.12.0"
+export v_OCTOSQL="0.12.1"
 export v_ONIGURUMA="6.9.8"
 export v_OPEN_MPI="4.1.5"
 export v_OPENBLAS="0.3.21"
@@ -471,7 +471,7 @@ export v_AUDACITY="3.2.4"
 export v_AUDIO_HIJACK="3.7.1"
 export v_AVIDMUX="2.7.4"
 export v_BLENDER="3.4.1"
-export v_BURN="3.1.6"
+export v_BURN="3.1.7"
 export v_DARKTABLE="4.2.1"
 export v_DB_BROWSER_FOR_SQLITE="3.12.2"
 export v_DEXED="0.9.6"
@@ -555,6 +555,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Sat 2/18/2023-f2 - HoneyFishMINI - Safari
-# Last update: Sat 2/25/2023-f1 - SilverSurferMBP - Safari
+# Last update: Sun 2/26/2023-g4 - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
