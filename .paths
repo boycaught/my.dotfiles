@@ -36,9 +36,9 @@ JYTHON_HOME="$BREW_HOME/Cellar/jython/$v_JYTHON/libexec"
 LIQUIBASE_HOME=$BREW_HOME/Cellar/liquibase/$v_LIQUIBASE/libexec
 M2_HOME="$MY_HOME/maven"
 MAVEN_OPTS="-Xms256m -Xmx512m"
-MYSQL_PATH="$BREW_HOME/Cellar/mariadb/$v_MARIADB"
-MONGODB_HOME="$BREW_HOME/Cellar/mongodb/$v_MONGODB"
+MARIADB_HOME="$BREW_HOME/Cellar/mariadb/$v_MARIADB"
 NGINX_HOME="$BREW_HOME/Cellar/nginx/$v_NGINX"
+POSTGRESQL_HOME="$BREW_HOME/opt/postgresql@15"
 PYENV_ROOT="$HOME/.pyenv"
 PYTHON_HOME="/System/Library/Frameworks/Python.framework/Versions/Current"
 RUBY_HOME="$HOME/.rbenv/versions/$v_RBENV_GLOBAL"
@@ -95,14 +95,14 @@ $HEROKU_HOME/bin:\
 $JETTY_HOME/bin:\
 $JRUBY_HOME/bin:\
 $M2_HOME\bin:\
-$MONGODB_HOME/bin:\
-$MYSQL_PATH/bin:\
+$MARIADB_HOME/bin:\
 $MY_HOME/bin:\
 $NGINX_HOME/sbin:\
 $RUBY_HOME/bin:\
 $RUBY_GEM/bin:\
 $WEBMIN_HOME:\
 $VISUAL_STUDIO_CODE_HOME/bin:\
+$POSTGRESQL_HOME/bin:\
 $PATH"
 
 export ACTIVEMQ_HOME
@@ -135,8 +135,7 @@ export JYTHONPATH
 export LIQUIBASE_HOME
 export M2_HOME
 export MAVEN_OPTS
-export MONGODB_HOME
-export MYSQL_PATH
+export MARIADB_HOME
 export NGINX_HOME
 export PYENV_ROOT
 export PYTHON_HOME
@@ -148,6 +147,7 @@ export PERL5LIB
 export PERL_LOCAL_LIB_ROOT
 export PERL_MB_OPT
 export PERL_MM_OPT
+export POSTGRESQL_HOME
 export BOGUS
 export CC="/usr/bin/gcc"
 export LDFLAGS
