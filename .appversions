@@ -291,6 +291,7 @@ export v_NASM="2.16.01"
 export v_NAVE="3.5.0"
 export v_NCURSES="6.3"
 export v_NEO4J="5.4.0"
+export v_NEOVIM="0.8.3"
 export v_NETCDF="4.8.1_3"
 export v_NETPBM="10.86.37"
 export v_NETTLE="3.8.1"
@@ -533,6 +534,7 @@ export v_PLAYONMAC="4.4"
 export v_PLEX="1.33.0.2444-a220eae4"
 export v_PLEX_MEDIA_SERVER="1.23.4.4805-186bae04e"
 export v_PODMAN_DESKTOP="0.12.0"
+export v_PYCHARM_CE_WITH_ANACONDA_PLUGIN="2020.3.2,203.6682.179"
 export v_QUITERSS="0.19.4"
 export v_RSTUDIO="2022.07.2,576"
 export v_SCRIBUS="1.5.8"
@@ -563,6 +565,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Wed 3/8/2023-f3 - HoneyFishMINI - Safari
-# Last update: Wed 3/8/2023-e4 - SilverSurferMBP - Safari
+# Last update: Wed 3/8/2023-f1 - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
