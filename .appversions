@@ -33,7 +33,7 @@ export v_C_ARES="1.19.0"
 export v_CA_CERTIFICATES="2023-01-10"
 export v_CABAL_INSTALL="3.8.1.0"
 export v_CAIRO="1.16.0_5"
-export v_CARGO_C="0.9.16"
+export v_CARGO_C="0.9.17"
 export v_CERTBOT="2.4.0"
 export v_CERES_SOLVER="2.1.0_1"
 export v_CFITSIO="4.2.0"
@@ -511,7 +511,7 @@ export v_JELLYFIN_MEDIA_PLAYER="1.8.1"
 export v_JOPLIN="2.9.17"
 export v_JULIA="1.8.4"
 export v_JUPYTERLAB="3.6.1-2"
-export v_KDENLIVE="22.12.0"
+export v_KDENLIVE="22.12.3"
 export v_KEEPASSXC="2.7.4"
 export v_KEKA="1.2.60"
 export v_KODI="20.0-Nexus"
@@ -565,7 +565,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Fri 3/10/2023-e8 - HoneyFishMINI - Safari
+# Last update: Sat 3/11/2023-e4 - HoneyFishMINI - Safari
 # Last update: Sat 3/11/2023-d2 - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
