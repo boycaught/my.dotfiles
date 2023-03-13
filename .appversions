@@ -107,7 +107,7 @@ export v_GHC="9.4.4"
 export v_GHC92="@9.2 9.2.7"
 export v_GHOSTSCRIPT="10.0.0"
 export v_GIFLIB="5.2.1"
-export v_GIT="2.39.2"
+export v_GIT="2.40.0"
 export v_GL2PS="1.4.2"
 export v_GLIB="2.74.6"
 export v_GLIBMM="@2.66 2.66.5"
@@ -566,6 +566,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Mon 3/13/2023-f6 - HoneyFishMINI - Safari
-# Last update: Sun 3/12/2023-e7 - SilverSurferMBP - Safari
+# Last update: Mon 3/13/2023-d8 - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
