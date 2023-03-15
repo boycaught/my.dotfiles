@@ -485,7 +485,7 @@ export v_DARKTABLE="4.2.1"
 export v_DB_BROWSER_FOR_SQLITE="3.12.2"
 export v_DEXED="0.9.6"
 export v_DIFFUSIONBEE="1.5.2"
-export v_DIGIKAM="7.9.0"
+export v_DIGIKAM="7.10.0"
 export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="7.0.201,225948f7-3889-4bdf-9cf4-184e81216700,be35fbca24493ffbe0062c2f798e4461"
@@ -524,7 +524,7 @@ export v_MAKEMKV="1.17.3"
 export v_MICROSOFT_AUTO_UPDATE="4.28.20101102"
 export v_MINECRAFT="933,1"
 export v_MIXXX="2.3.4"
-export v_MUSESCORE="4.0.1.230121751"
+export v_MUSESCORE="4.0.2.230651546"
 export v_NEXTCLOUD="3.5.3"
 export v_OBSIDIAN="1.0.0"
 export v_ONLYOFFICE="7.3.0"
@@ -566,7 +566,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Tue 3/14/2023-e4 - HoneyFishMINI - Safari
+# Last update: Wed 3/15/2023-e8 - HoneyFishMINI - Safari
 # Last update: Wed 3/15/2023-e8 - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
