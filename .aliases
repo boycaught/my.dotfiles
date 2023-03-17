@@ -23,7 +23,9 @@ alias jekyllpack='bundle exec jekyll serve &'
 alias hobo='vagrant destroy -f && rm -fR .vagrant && cx && lx'
 alias todo='todo.sh'
 alias wmreboot='sudo /etc/webmin/restart'
-alias ytdl='youtube-dl'
+#alias ytdl='youtube-dl'
+alias ytdl='yt-dlp'
+alias cleanbrew='sudo rm -fR ${HOME}/Library/Caches/Homebrew/*'
 
 ## FF X => FIND FILE NAMED X
 alias ff="find . -name \!:1 -print"     
@@ -45,7 +47,7 @@ alias newstream='node ~/Sites/www/app/newstream/river5.js'
 
 ## Meteor
 ## Note: MeteorJS gets corrupted occasionally, this installs fresh copy
-alias meteorfresh='curl https://install.meteor.com/ | sh'
+#alias meteorfresh='curl https://install.meteor.com/ | sh'
 
 ## Sublime Text 2
 alias subl='"/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl"'
