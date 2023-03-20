@@ -522,6 +522,7 @@ export v_LIBREOFFICE="7.5.1"
 export v_LMMS="1.2.2"
 export v_MACFUSE="4.2.4"
 export v_MAKEMKV="1.17.3"
+export v_MELD="3.21.0-r3,19"
 export v_MICROSOFT_AUTO_UPDATE="4.28.20101102"
 export v_MINECRAFT="933,1"
 export v_MIXXX="2.3.4"
@@ -567,7 +568,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sun 3/19/2023-d2 - HoneyFishMINI - Safari
-# Last update: Mon 3/21/2023-b7 - SilverSurferMBP - Safari
+# Last update: Mon 3/21/2023-e1 - HoneyFishMINI - Safari
+# Last update: Mon 3/21/2023-e1 - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
