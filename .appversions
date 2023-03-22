@@ -273,6 +273,7 @@ export v_MBEDTLS="3.2.1"
 export v_MD5DEEP="4.4_1"
 export v_MERCURIAL="6.3.3"
 export v_MESON="1.0.1"
+export v_MICRO_INETD="2014-08-14"
 export v_MINIKUBE="1.12.3"
 export v_MINIO="20230210184839"
 export v_MITMPROXY="5.2"
@@ -570,6 +571,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Tue 3/21/2023-f6 - HoneyFishMINI - Safari
-# Last update: Tue 3/21/2023-e1 - SilverSurferMBP - Safari
+# Last update: Tue 3/21/2023-e5 - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
