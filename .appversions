@@ -20,7 +20,7 @@ export v_ATK="2.38.0"
 export v_AUGEAS="1.14.0_1"
 export v_AUTOCONF="2.71"
 export v_AUTOMAKE="1.16.5"
-export v_AWSCLI="2.11.4"
+export v_AWSCLI="2.11.5"
 export v_AWS_SHELL="0.2.1_2"
 export v_BASH="5.2.15"
 export v_BDW_GC="8.2.2"
@@ -570,7 +570,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Wed 3/22/2023-f8 - HoneyFishMINI - Safari
+# Last update: Wed 3/22/2023-g6 - HoneyFishMINI - Safari
 # Last update: Wed 3/22/2023-g3 - SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
