@@ -150,7 +150,7 @@ export v_HUNSPELL="1.7.2"
 export v_HYPERKIT="0.20200224_1"
 export v_ICU4C="72.1"
 export v_ILMBASE="2.5.8"
-export v_IMAGEMAGICK="7.1.1-4_1"
+export v_IMAGEMAGICK="7.1.1-5"
 export v_IMATH="3.1.7"
 export v_IMAP_BACKUP="9.2.0"
 export v_IMAP_UW="2007f_1"
@@ -572,7 +572,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sun 3/26/2023-e2 - HoneyFishMINI - Safari
+# Last update: Sun 3/26/2023-e4 - HoneyFishMINI - Safari
 # Last update: Sun 3/26/2023-a4- SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
