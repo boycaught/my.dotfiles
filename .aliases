@@ -49,10 +49,14 @@ alias newstream='node ~/Sites/www/app/newstream/river5.js'
 ## Note: MeteorJS gets corrupted occasionally, this installs fresh copy
 #alias meteorfresh='curl https://install.meteor.com/ | sh'
 
-## Sublime Text 2
-alias subl='"/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl"'
+## Sublime Text 2 (Deprecated)
+#alias subl='"/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl"'
 #alias subl="source '/Applications/Sublime Text 2.app/Contents/MacOS/Sublime Text 2'"
-alias subpacks="cd '/Library/Application Support/Sublime Text 2/Packages'"
+#alias subpacks="cd '/Library/Application Support/Sublime Text 2/Packages'"
+
+# Sublime Text 4
+alias subl='"/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl"'
+alias subpacks="cd '/Library/Application Support/Sublime Text/Packages'"
 
 alias popdots="git -C ~/dotfiles/ pull"
 alias popprofs="sudo git -C /etc/profile.d/ pull"
