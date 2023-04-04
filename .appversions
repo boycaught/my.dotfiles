@@ -157,7 +157,7 @@ export v_IMAP_BACKUP="9.2.0"
 export v_IMAP_UW="2007f_1"
 export v_INTLTOOL="0.51.0_1"
 export v_IPYTHON="8.12.0"
-export v_ISL="0.25"
+export v_ISL="0.26"
 export v_JACK="1.9.22"
 export v_JANSSON="2.14"
 export v_JASPER="4.0.0"
@@ -578,6 +578,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Tue 4/4/2023-d1 - HoneyFishMINI - Safari
-# Last update: Mon 4/3/2023-c4- SilverSurferMBP - Safari
+# Last update: Tue 4/4/2023-d1- SilverSurferMBP - Safari
 # Sync_Status: true
 # EOF
