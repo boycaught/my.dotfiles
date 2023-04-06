@@ -380,6 +380,7 @@ export v_PYTHON310="@3.10 3.10.10_1"
 export v_PYTHON39="@3.9 3.9.16"
 export v_PYTHON38="@3.8 3.8.16"
 export v_PYTHON="3.11.2"
+export v_QEMU="7.2.1"
 export v_QHULL="2020.1"
 export v_QRUPDATE="1.1.2_13"
 export v_QT="6.4.3_1"
@@ -403,6 +404,7 @@ export v_RUBY_BUILD="20230330"
 export v_RUST="1.68.2"
 export v_RUSTUP_INIT="1.25.2"
 export v_S3CMD="2.3.0"
+export v_SASS_SASS_SASS="2.19.6"
 export v_SASSC="3.6.2"
 export v_SCONS="4.5.2"
 export v_SDL="12.15_3"
@@ -578,6 +580,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Wed 4/5/2023-e7 - HoneyFishMINI - Safari
-# Last update: Tue 4/4/2023-d1- SilverSurferMBP - Safari
+# Last update: Wed 4/5/2023-g6 - SilverSurferMBP - Safari
 # Sync_Status: true
 # EOF
