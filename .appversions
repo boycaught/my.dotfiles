@@ -261,7 +261,7 @@ export v_LITTLE_CMS2="2.14"
 export v_LLVM5="5.0.2_1"
 export v_LLVM6="6.0.1_3"
 export v_LLVM8="8.0.1_3"
-export v_LLVM="16.0.0"
+export v_LLVM="16.0.1"
 export v_LOREM="0.8.0"
 export v_LUA="5.3.5_1"
 export v_LZ4="1.9.4"
@@ -580,6 +580,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Thu 4/6/2023-g6 - HoneyFishMINI - Safari
-# Last update: Wed 4/5/2023-g6 - SilverSurferMBP - Safari
+# Last update: Thu 4/6/2023-g6- SilverSurferMBP - Safari
 # Sync_Status: true
 # EOF
