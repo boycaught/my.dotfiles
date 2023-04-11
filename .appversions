@@ -480,7 +480,7 @@ export v_BOGUS="24.7.365"
 
 ### Casks 
 export v_ADOPTOPENJDK8="8,292,b10"
-export v_ALTAIR_GRAPHQL_CLIENT="5.0.21"
+export v_ALTAIR_GRAPHQL_CLIENT="5.0.22"
 export v_ANKI="2.1.61"
 export v_AUDACITY="3.2.5"
 export v_AUDIO_HIJACK="3.7.1"
@@ -579,6 +579,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Tue 4/11/2023-e6 - HoneyFishMINI - Safari
-# Last update: Tue 4/11/2023-e6- SilverSurferMBP - Safari
+# Last update: Tue 4/11/2023-e2- SilverSurferMBP - Safari
 # Sync_Status: true
 # EOF
