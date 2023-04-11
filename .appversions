@@ -374,7 +374,7 @@ export v_PYQT_BUILDER="1.15.0"
 export v_PYTHON_BUILD="0.9.0"
 export v_PYTHON2="2.7.17_1"
 export v_PYTHON3="3.11.2"
-export v_PYTHON311="@3.11 3.11.2_1"
+export v_PYTHON311="@3.11 3.11.3"
 export v_PYTHON310="@3.10 3.10.11"
 export v_PYTHON39="@3.9 3.9.16"
 export v_PYTHON38="@3.8 3.8.16"
@@ -579,6 +579,6 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Tue 4/11/2023-e6 - HoneyFishMINI - Safari
-# Last update: Sat 4/8/2023-d5- SilverSurferMBP - Safari
+# Last update: Tue 4/11/2023-e6- SilverSurferMBP - Safari
 # Sync_Status: true
 # EOF
