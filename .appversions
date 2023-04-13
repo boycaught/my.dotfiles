@@ -450,7 +450,7 @@ export v_VIRTUALENV="20.21.0"
 export v_VIPS="8.14.2"
 export v_VTK="9.2.6"
 export v_VULKAN_HEADERS="1.3.247"
-export v_VULKAN_LOADER="1.3.246"
+export v_VULKAN_LOADER="1.3.249"
 export v_WEBP="1.3.0"
 export v_WEBPACK="4.44.1"
 export v_WGET="1.21.3_1"
@@ -578,7 +578,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Thu 4/13/2023-e1 - HoneyFishMINI - Safari
+# Last update: Thu 4/13/2023-f1 - HoneyFishMINI - Safari
 # Last update: Thu 4/13/2023-e1- SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
