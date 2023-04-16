@@ -12,16 +12,16 @@ code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
 ## if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-init -)"; fi
 
 ## SSH to Alternative DEV boxes
-alias get-honeyfish='ssh ${VM_HONEYFISH}'
-alias get-silversurfer='ssh ${VM_SILVERSURFER}'
-alias get-linode='ssh ${VM_LINODE}'
-alias get-racknerd='ssh ${VM_RACKNERD}'
-alias get-etherserver1='ssh ${VM_ETHERSERVER1}'
-alias get-etherserver2='ssh ${VM_ETHERSERVER2}'
-alias get-massivetuna='ssh -p 12121 ${VM_MASSIVETUNA}'
-alias get-unannounced='ssh -p 10221 ${VM_UNANNOUNCED}'
-alias get-readracer='ssh -p 13921 ${VM_READRACER}'
-##alias get-todayscassette='ssh -p 10121 ${VM_TODAYSCASSETE}'
+alias loginhoneyfish='ssh ${VM_HONEYFISH}'
+alias loginsilversurfer='ssh ${VM_SILVERSURFER}'
+alias loginlinode='ssh ${VM_LINODE}'
+alias loginracknerd='ssh ${VM_RACKNERD}'
+alias loginetherserver1='ssh ${VM_ETHERSERVER1}'
+alias loginetherserver2='ssh ${VM_ETHERSERVER2}'
+alias loginmassivetuna='ssh -p 12121 ${VM_MASSIVETUNA}'
+alias loginunannounced='ssh -p 10221 ${VM_UNANNOUNCED}'
+alias loginreadracer='ssh -p 13921 ${VM_READRACER}'
+##alias logintodayscassette='ssh -p 10121 ${VM_TODAYSCASSETE}'
 
 ## Flags
 export PKG_CONFIG_PATH="/usr/local/opt/zlib/lib/pkgconfig:/usr/local/opt/libffi/lib/pkgconfig"
