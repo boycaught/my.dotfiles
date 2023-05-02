@@ -33,13 +33,13 @@ export v_C_ARES="1.19.0"
 export v_CA_CERTIFICATES="2023-01-10"
 export v_CABAL_INSTALL="3.8.1.0"
 export v_CAIRO="1.16.0_5"
-export v_CARGO_C="0.9.17_1"
+export v_CARGO_C="0.9.19"
 export v_CERTBOT="2.5.0"
 export v_CERES_SOLVER="2.1.0_1"
 export v_CFITSIO="4.2.0"
 export v_CGIF="0.3.1"
 export v_CHECK="0.15.2"
-export v_CLAMAV="1.0.1"
+export v_CLAMAV="1.1.0"
 export v_CLANG_FORMAT="10.0.0"
 export v_CMAKE="3.26.3"
 export v_CMOCKA="1.1.7"
@@ -401,7 +401,7 @@ export v_RTMPDUMP="2.4+20151223_1"
 export v_RUBBERBAND="3.2.1"
 export v_RUBY="2.7.1_2"
 export v_RUBY_BUILD="20230428"
-export v_RUST="1.68.2"
+export v_RUST="1.69.0"
 export v_RUSTUP_INIT="1.25.2"
 export v_S3CMD="2.3.0"
 export v_SASS_SASS_SASS="1.62.1"
@@ -581,7 +581,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Mon 5/1/2023-dd3 - HoneyFishMINI - Safari
+# Last update: Tue 5/2/2023-d6 - HoneyFishMINI - Safari
 # Last update: Mon 5/1/2023-dd3- SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
