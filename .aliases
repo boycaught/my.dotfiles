@@ -26,6 +26,7 @@ alias wmreboot='sudo /etc/webmin/restart'
 #alias ytdl='youtube-dl'
 alias ytdl='yt-dlp'
 alias cleanbrew='sudo rm -fR ${HOME}/Library/Caches/Homebrew/*'
+alias autogetupdates='source ~/dotfiles/autogetupdates.sh'
 
 ## FF X => FIND FILE NAMED X
 alias ff="find . -name \!:1 -print"     
