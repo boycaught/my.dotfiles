@@ -388,7 +388,7 @@ export v_QT="6.4.3_3"
 export v_QT5="@5 5.15.8_3"
 export v_R="4.3.0_1"
 export v_RABBITMQ="3.11.9"
-export v_RAV1E="0.6.4"
+export v_RAV1E="0.6.5"
 export v_RBENV="1.2.0"
 export v_RBENV_GLOBAL="2.7.1"
 export v_RBENV_GEM_BASE="2.7"
@@ -585,7 +585,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Mon 5/8/2023-ff1 - HoneyFishMINI - Safari
+# Last update: Mon 5/8/2023-f7 - HoneyFishMINI - Safari
 # Last update: Tue 5/9/2023-f4 SilverSurferMBP - Safari
 # Sync_Status: false
 # EOF
