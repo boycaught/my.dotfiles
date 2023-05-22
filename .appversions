@@ -135,7 +135,7 @@ export v_GREP="3.11"
 export v_GROONGA="13.0.1"
 export v_GROOVY="4.0.12"
 export v_GSETTINGS_DESKTOP_SCHEMAS="44.0"
-export v_GTK_PLUS3="3.24.37"
+export v_GTK_PLUS3="3.24.38"
 export v_GTS="0.7.6_2"
 export v_GUILE="3.0.9"
 export v_HARFBUZZ="7.3.0"
@@ -587,7 +587,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sun 5/21/2023-ee4 - HoneyFishMINI - Safari
+# Last update: Mon 5/22/2023-dd5 - HoneyFishMINI - Safari
 # Last update: Wed 5/17/2023-ccc3 - SilverSurferMBP - Safari
 # Sync_Status: false
 
