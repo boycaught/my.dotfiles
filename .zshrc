@@ -1,5 +1,5 @@
 #!/bin/zsh
-## updated to v_2023.01.08
+## updated to v_2023.05.26
 
 # Prefer US English and use UTF-8
 export LC_ALL="en_US.UTF-8"
