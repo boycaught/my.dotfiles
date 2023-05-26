@@ -128,6 +128,10 @@ for file in ~/dotfiles/.{appversions,paths,aliases,extras,exports,functions,macr
 done
 unset file
 
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
 #EOF
-#LastUpdated: 05/23/2023
+#LastUpdated: 05/26/2023
 #v2023.05.26
