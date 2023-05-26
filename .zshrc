@@ -121,9 +121,6 @@ export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@1.1)"
 
 # Load pyenv
 eval "$(pyenv init --path)"
-#if command -v pyenv 1>/dev/null 2>&1; then
-#eval "$(pyenv init -)"
-#fi
 
 # Customizations
 for file in ~/dotfiles/.{appversions,paths,aliases,extras,exports,functions,macros,shell_integration}; do
@@ -132,5 +129,5 @@ done
 unset file
 
 #EOF
-#LastUpdated: 01/08/2023
-#v2022.01.08
+#LastUpdated: 05/23/2023
+#v2023.05.26
