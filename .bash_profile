@@ -6,3 +6,4 @@
 complete -W "NSGlobalDomain" defaults
 
 source /etc/profile.d/lag_custom.sh
+. "$HOME/.cargo/env"

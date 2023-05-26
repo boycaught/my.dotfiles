@@ -120,10 +120,7 @@ export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@1.1)"
 # eval "$(rbenv init -)"
 
 # Load pyenv
-#if command -v pyenv 1>/dev/null 2>&1; then
 eval "$(pyenv init --path)"
-eval "$(pyenv init -)"
-#fi
 
 # Customizations
 for file in ~/dotfiles/.{appversions,paths,aliases,extras,exports,functions,macros,shell_integration}; do
@@ -131,6 +128,10 @@ for file in ~/dotfiles/.{appversions,paths,aliases,extras,exports,functions,macr
 done
 unset file
 
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
 #EOF
-#LastUpdated: 01/08/2023
-#v2022.01.08
+#LastUpdated: 05/26/2023
+#v2023.05.26
