@@ -120,9 +120,9 @@ export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@1.1)"
 # eval "$(rbenv init -)"
 
 # Load pyenv
-#if command -v pyenv 1>/dev/null 2>&1; then
 eval "$(pyenv init --path)"
-eval "$(pyenv init -)"
+#if command -v pyenv 1>/dev/null 2>&1; then
+#eval "$(pyenv init -)"
 #fi
 
 # Customizations
