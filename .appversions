@@ -518,7 +518,7 @@ export v_FISSION="2.8.3"
 export v_FLUID="2.1.2"
 export v_FLYCUT="1.9.6"
 export v_FREAC="1.1.7"
-export v_GENYMOTION="3.3.3"
+export v_GENYMOTION="3.4.0"
 export v_GHOST_BROWSER="2.1.4.5"
 export v_GIMP="2.10.34-1"
 export v_GNUCASH="5.1-1"
@@ -594,7 +594,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Sat 6/3/2023-e5 - HoneyFishMINI - Safari
-# Last update: Sun 5/28/2023-e6 - SilverSurferMBP - Safari
+# Last update: Sat 6/3/2023-ff8 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
