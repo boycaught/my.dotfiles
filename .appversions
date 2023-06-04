@@ -33,7 +33,7 @@ export v_C_ARES="1.19.1"
 export v_CA_CERTIFICATES="2023-05-30"
 export v_CABAL_INSTALL="3.8.1.0"
 export v_CAIRO="1.16.0_5"
-export v_CARGO_C="0.9.19"
+export v_CARGO_C="0.9.20"
 export v_CERTBOT="2.6.0"
 export v_CERES_SOLVER="2.1.0_1"
 export v_CFITSIO="4.2.0"
@@ -519,6 +519,7 @@ export v_FLUID="2.1.2"
 export v_FLYCUT="1.9.6"
 export v_FREAC="1.1.7"
 export v_GENYMOTION="3.4.0"
+export v_GEPHI="0.10.1"
 export v_GHOST_BROWSER="2.1.4.5"
 export v_GIMP="2.10.34-1"
 export v_GNUCASH="5.1-1"
@@ -593,7 +594,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sat 6/3/2023-e5 - HoneyFishMINI - Safari
+# Last update: Sun 6/4/2023-ddd3 - HoneyFishMINI - Safari
 # Last update: Sat 6/3/2023-ff8 - SilverSurferMBP - Safari
 # Sync_Status: false
 
