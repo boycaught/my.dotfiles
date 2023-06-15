@@ -495,7 +495,7 @@ export v_BOGUS="24.7.365"
 export v_ADOPTOPENJDK8="8,292,b10"
 export v_ALTAIR_GRAPHQL_CLIENT="5.0.25"
 export v_ANKI="2.1.62"
-export v_ANKI_APP="7.3.7"
+export v_ANKI_APP="7.4.0"
 export v_ANOTHER_REDIS_DESKTOP_MANAGER="1.6.0"
 export v_AUDACITY="3.3.3"
 export v_AUDIO_HIJACK="3.7.1"
@@ -510,7 +510,7 @@ export v_DIFFUSIONBEE="1.7.4"
 export v_DIGIKAM="8.0.0"
 export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
-export v_DOTNET_SDK="7.0.302,8cf422e2-ae69-4285-944f-b685058be7b1,811763e4723370528b3097c5c1c8ad92"
+export v_DOTNET_SDK="7.0.304,6e4a2a04-483d-42d4-8cbd-27257c47a8bf,52917aad4fb720797c351e38fb706531"
 export v_DROPBOX="111.4.472"
 export v_ELECTRON="25.1.0"
 export v_EMBY_SERVER="4.7.13.0"
@@ -596,7 +596,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Wed 6/14/2023-dd2 - HoneyFishMINI - Safari
+# Last update: Thu 6/15/2023-e8 - HoneyFishMINI - Safari
 # Last update: Tue 6/13/2023-h1  silverSurferMBP - Safari
 # Sync_Status: false
 
