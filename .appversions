@@ -537,7 +537,7 @@ export v_JELLYFIN_MEDIA_PLAYER="1.9.1"
 export v_JOPLIN="2.10.19"
 export v_JULIA="1.9.1"
 export v_JUPYTERLAB="3.6.3-2"
-export v_KDENLIVE="23.04.1"
+export v_KDENLIVE="23.04.2"
 export v_KEEPASSXC="2.7.5"
 export v_KEKA="1.2.60"
 export v_KODI="20.1-Nexus"
@@ -596,7 +596,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Thu 6/15/2023-gg2 - HoneyFishMINI - Safari
+# Last update: Sun 6/18/2023-g4 - HoneyFishMINI - Safari
 # Last update: Sun 6/18/2023-fff3  silverSurferMBP - Safari
 # Sync_Status: false
 
