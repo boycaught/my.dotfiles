@@ -438,7 +438,7 @@ export v_SUNDIALS="5.3.0_1"
 export v_SWAGGER_CODEGEN="3.0.20"
 export v_STRONGSWAN="5.8.4"
 export v_SUBVERSION="1.14.2_2"
-export v_SVT_AV1="1.5.0"
+export v_SVT_AV1="1.6.0"
 export v_SWIG="4.1.1"
 export v_SYNFIG="1.5.1"
 export v_TBB="2021.8.0"
@@ -597,7 +597,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Sun 6/18/2023-g4 - HoneyFishMINI - Safari
-# Last update: Sun 6/18/2023-fff3  silverSurferMBP - Safari
+# Last update: Mon 6/19/2023-dd4  silverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
