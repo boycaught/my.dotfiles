@@ -312,7 +312,7 @@ export v_NGHTTP2="1.54.0_1"
 export v_NGINX="1.25.1"
 export v_NINJA="1.11.1"
 export v_NMAP="7.11"
-export v_NODE="20.3.0_1"
+export v_NODE="20.3.1"
 export v_NORM="1.5.8"
 export v_NPTH="1.6"
 export v_NSPR="4.35"
@@ -597,7 +597,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Tue 6/20/2023-dd7 - HoneyFishMINI - Safari
-# Last update: Mon 6/19/2023-dd4  silverSurferMBP - Safari
+# Last update: Wed 6/21/2023-hh2 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
