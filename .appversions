@@ -507,7 +507,7 @@ export v_CURSOR="0.1.12"
 export v_DARKTABLE="4.4.0"
 export v_DB_BROWSER_FOR_SQLITE="3.12.2"
 export v_DEXED="0.9.6"
-export v_DIFFUSIONBEE="1.7.4"
+export v_DIFFUSIONBEE="2.2.1"
 export v_DIGIKAM="8.0.0"
 export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
@@ -598,7 +598,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Fri 6/23/2023-ff5 - HoneyFishMINI - Safari
-# Last update: Thu 6/22/2023-d8  SilverSurferMBP - Safari
+# Last update: Fri 6/22/2023-ff7  SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
