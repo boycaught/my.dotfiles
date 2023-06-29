@@ -151,7 +151,7 @@ export v_HIGHWAY="1.0.4"
 export v_HTOP="3.2.2"
 export v_HTTPD="2.4.57_1"
 export v_HTTPING="2.9"
-export v_HUGO="0.114.0"
+export v_HUGO="0.115.0"
 export v_HWLOC="2.9.2"
 export v_HUNSPELL="1.7.2"
 export v_HYPERKIT="0.20200224_1"
@@ -601,7 +601,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sat 6/24/2023-e4 - HoneyFishMINI - Safari
+# Last update: Thu 6/29/2023-ff5 - HoneyFishMINI - Safari
 # Last update: Thu 6/29/2023-f1 - SilverSurferMBP - Safari
 # Sync_Status: false
 
