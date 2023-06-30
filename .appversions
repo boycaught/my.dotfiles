@@ -30,7 +30,7 @@ export v_BITWARDEN_CLI="2023.5.0"
 export v_BLACKHOLE="0.2.6"
 export v_BOOST="1.82.0_1"
 export v_BROTLI="1.0.9"
-export v_BUF="1.22.0"
+export v_BUF="1.23.0"
 export v_C_ARES="1.19.1"
 export v_CA_CERTIFICATES="2023-05-30"
 export v_CABAL_INSTALL="3.8.1.0"
@@ -284,7 +284,7 @@ export v_MBEDTLS="3.4.0"
 export v_MD5DEEP="4.4_1"
 export v_MERCURIAL="6.4"
 export v_MESON="1.1.1"
-export v_METABASE="0.46.5"
+export v_METABASE="0.46.6"
 export v_MICRO_INETD="2014-08-14"
 export v_MINIKUBE="1.12.3"
 export v_MINIO="20230210184839"
@@ -393,7 +393,7 @@ export v_PYTHON310="@3.10 3.10.12_1"
 export v_PYTHON39="@3.9 3.9.17_1"
 export v_PYTHON38="@3.8 3.8.17_1"
 export v_PYTHON="3.11.2"
-export v_PYTHON_TYPING_EXTENTIONS="4.6.3"
+export v_PYTHON_TYPING_EXTENTIONS="4.7.0"
 export v_QEMU="8.0.2"
 export v_QHULL="2020.1"
 export v_QRUPDATE="1.1.2_13"
@@ -602,7 +602,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Thu 6/29/2023-ff5 - HoneyFishMINI - Safari
-# Last update: Thu 6/29/2023-f1 - SilverSurferMBP - Safari
+# Last update: Thu 6/29/2023-ggg5 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
