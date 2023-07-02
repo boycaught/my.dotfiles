@@ -74,7 +74,7 @@ export v_EC2_AMI_TOOLS="1.5.7_1"
 export v_EC2_API_TOOLS="1.7.6.1_1"
 export v_EIGEN="3.4.0_1"
 export v_ELASTICSEARCH="7.10.1"
-export v_ELIXIR="1.15.1"
+export v_ELIXIR="1.15.2"
 export v_ELM="0.19.1"
 export v_EMSCRIPTEN="3.1.42"
 export v_ENCHANT="2.5.0"
@@ -601,7 +601,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sat 7/1/2023-ddd3 - HoneyFishMINI - Safari
+# Last update: Sun 7/2/2023-d4 - HoneyFishMINI - Safari
 # Last update: Thu 6/29/2023-ggg5 - SilverSurferMBP - Safari
 # Sync_Status: false
 
