@@ -274,6 +274,7 @@ export v_LLVM="16.0.6"
 export v_LOREM="0.8.0"
 export v_LUA="5.4.6"
 export v_LUAJIT="2.1.0-beta3-20230612.1"
+export v_LUV="1.45.0-0"
 export v_LZ4="1.9.4"
 export v_M4="1.4.19"
 export v_MAKE="4.4.1"
@@ -393,7 +394,7 @@ export v_PYTHON310="@3.10 3.10.12_1"
 export v_PYTHON39="@3.9 3.9.17_1"
 export v_PYTHON38="@3.8 3.8.17_1"
 export v_PYTHON="3.11.2"
-export v_PYTHON_TYPING_EXTENTIONS="4.7.0"
+export v_PYTHON_TYPING_EXTENTIONS="4.7.1"
 export v_QEMU="8.0.2"
 export v_QHULL="2020.1"
 export v_QRUPDATE="1.1.2_13"
@@ -601,7 +602,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sun 7/2/2023-d4 - HoneyFishMINI - Safari
+# Last update: Sun 7/2/2023-d5 - HoneyFishMINI - Safari
 # Last update: Thu 6/29/2023-ggg5 - SilverSurferMBP - Safari
 # Sync_Status: false
 
