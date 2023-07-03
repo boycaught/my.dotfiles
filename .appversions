@@ -501,7 +501,7 @@ export v_BOGUS="24.7.365"
 export v_ADOPTOPENJDK8="8,292,b10"
 export v_ALTAIR_GRAPHQL_CLIENT="5.0.28"
 export v_ANKI="2.1.62"
-export v_ANKI_APP="7.4.0"
+export v_ANKI_APP_ANKI="7.4.1"
 export v_ANOTHER_REDIS_DESKTOP_MANAGER="1.6.0"
 export v_AUDACITY="3.3.3"
 export v_AUDIO_HIJACK="3.7.1"
@@ -534,7 +534,7 @@ export v_GNUCASH="5.2-1"
 export v_GODOT="4.0.3"
 export v_GOOGLE_CHROME_DEV="90.0.4412.3,4412.3"
 export v_GOOGLE_EARTH_PRO="7.3.6"
-export v_GRAMPS="5.1.5,2"
+export v_GRAMPS="5.1.6,1"
 export v_HYPER="3.4.1"
 export v_IINA="1.3.1"
 export v_INKSCAPE="1.2.2"
@@ -602,7 +602,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sun 7/2/2023-d5 - HoneyFishMINI - Safari
+# Last update: Mon 7/3/2023-ddd5 - HoneyFishMINI - Safari
 # Last update: Mon 7/3/2023-dd5 - SilverSurferMBP - Safari
 # Sync_Status: false
 
