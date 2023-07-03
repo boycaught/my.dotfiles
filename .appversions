@@ -423,7 +423,7 @@ export v_SASS_SASS_SASS="1.63.6"
 export v_SASSC="3.6.2"
 export v_SCONS="4.5.2"
 export v_SDL="12.15_3"
-export v_SDL2="2.28.0"
+export v_SDL2="2.28.1"
 export v_SDL2_COMPAT="1.2.64"
 export v_SDL2_MIXER="2.6.3_1"
 export v_SDL2_NET="2.2.0"
@@ -603,7 +603,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Sun 7/2/2023-d5 - HoneyFishMINI - Safari
-# Last update: Sun 7/2/2023-dd1 - SilverSurferMBP - Safari
+# Last update: Mon 7/3/2023-dd5 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
