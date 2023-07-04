@@ -42,6 +42,7 @@ export v_CERES_SOLVER="2.1.0_1"
 export v_CFITSIO="4.2.0"
 export v_CGIF="0.3.2"
 export v_CHECK="0.15.2"
+export v_CJSON="1.7.16"
 export v_CLAMAV="1.1.0_1"
 export v_CLANG_FORMAT="10.0.0"
 export v_CMAKE="3.26.4"
@@ -199,7 +200,7 @@ export v_LIBAV="12.3_8"
 export v_LIBAVIF="0.11.1"
 export v_LIBBLURAY="1.3.4"
 export v_LIBCERF="2.0"
-export v_LIBCYTHON="0.29.35"
+export v_LIBCYTHON="0.29.36"
 export v_LIBDE265="1.0.12"
 export v_LIBEPOXY="1.5.10"
 export v_LIBEV="4.33"
@@ -602,7 +603,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Tue 7/4/2023-e5 - HoneyFishMINI - Safari
+# Last update: Tue 7/4/2023-ff5 - HoneyFishMINI - Safari
 # Last update: Tue 7/4/2023-e5 - SilverSurferMBP - Safari
 # Sync_Status: false
 
