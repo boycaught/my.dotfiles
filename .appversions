@@ -83,7 +83,7 @@ export v_ERLANG="26.0.2"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
 export v_EXIFTOOL="12.42_1"
-export v_EXPLOITDB="2023-06-27"
+export v_EXPLOITDB="2023-07-04"
 export v_ETL="1.5.1"
 export v_FAAC="1.30"
 export v_FDK_AAC="2.0.2"
@@ -122,7 +122,7 @@ export v_GLOG="0.6.0"
 export v_GMP="6.2.1_1"
 export v_GNU_GETOPT="2.39.1"
 export v_GNU_SED="4.8"
-export v_GNUPG="2.4.2"
+export v_GNUPG="2.4.3"
 export v_GNUPLOT="5.4.0_1"
 export v_GNUTLS="3.8.0"
 export v_GO="1.20.5"
@@ -151,7 +151,7 @@ export v_HIGHWAY="1.0.4"
 export v_HTOP="3.2.2"
 export v_HTTPD="2.4.57_1"
 export v_HTTPING="2.9"
-export v_HUGO="0.115.0"
+export v_HUGO="0.115.1"
 export v_HWLOC="2.9.2"
 export v_HUNSPELL="1.7.2"
 export v_HYPERKIT="0.20200224_1"
@@ -603,7 +603,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Mon 7/3/2023-ddd5 - HoneyFishMINI - Safari
-# Last update: Mon 7/3/2023-dd5 - SilverSurferMBP - Safari
+# Last update: Tue 7/4/2023-e5 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
