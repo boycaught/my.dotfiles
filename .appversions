@@ -37,6 +37,7 @@ export v_CABAL_INSTALL="3.8.1.0"
 export v_CADDY="2.6.4"
 export v_CAIRO="1.16.0_5"
 export v_CARGO_C="0.9.20"
+export v_CBONSAI="1.3.1"
 export v_CERTBOT="2.6.0_1"
 export v_CERES_SOLVER="2.1.0_1"
 export v_CFITSIO="4.2.0"
@@ -603,8 +604,8 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Fri 7/7/2023-e1 - HoneyFishMINI - Safari
-# Last update: Fri 7/7/2023-e1 - SilverSurferMBP - Safari
+# Last update: Fri 7/7/2023-ee2 - HoneyFishMINI - Safari
+# Last update: Fri 7/7/2023-ee2 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
