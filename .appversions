@@ -13,7 +13,7 @@ export v_APR_UTIL="1.6.3_1"
 export v_ARGON2="20190702_1"
 export v_ARPACK="3.7.0_5"
 export v_ASCIIDOC="9.0.2"
-export v_ASK_CLI="2.30.1"
+export v_ASK_CLI="2.30.4"
 export v_ASPELL="0.60.7"
 export v_ASSIMP="5.2.5"
 export v_ATK="2.38.0"
@@ -514,7 +514,7 @@ export v_DARKTABLE="4.4.1"
 export v_DB_BROWSER_FOR_SQLITE="3.12.2"
 export v_DEXED="0.9.6"
 export v_DIFFUSIONBEE="2.2.1"
-export v_DIGIKAM="8.0.0"
+export v_DIGIKAM="8.1.0"
 export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="7.0.305,cc993071-2ecd-415b-a055-2918072bbfd4,545947633a386671807fc3f3db511295"
@@ -532,7 +532,7 @@ export v_GEPHI="0.10.1"
 export v_GHOST_BROWSER="2.1.4.5"
 export v_GIMP="2.10.34-1"
 export v_GNUCASH="5.2-1"
-export v_GODOT="4.0.3"
+export v_GODOT="4.1"
 export v_GOOGLE_CHROME_DEV="90.0.4412.3,4412.3"
 export v_GOOGLE_EARTH_PRO="7.3.6"
 export v_GRAMPS="5.1.6,1"
@@ -603,8 +603,8 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Thu 7/6/2023-f5 - HoneyFishMINI - Safari
-# Last update: Thu 7/6/2023-f5 - SilverSurferMBP - Safari
+# Last update: Fri 7/7/2023-e1 - HoneyFishMINI - Safari
+# Last update: Fri 7/7/2023-e1 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
