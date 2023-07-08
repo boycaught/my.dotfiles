@@ -19,7 +19,7 @@
 ### done
 
 # Run the streamline and getupdates programs
-streamline && getupdates
+streamline && getupdates && cbonsai
 
 # Send an email when the program is done
 echo "getupdates has completed" | mail -s "getupdates completed" dev.bot@lagtime.com
