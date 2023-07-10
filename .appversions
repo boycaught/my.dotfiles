@@ -93,6 +93,7 @@ export v_FFMPEG="5.1.2_6"
 export v_FFMPEG_4="@4 4.4.4"
 export v_FFTW="3.3.10_1"
 export v_FIG2DEV="3.2.7b"
+export v_FILEBOWSER="2.23.0"
 export v_FINDUTILS="4.9.0"
 export v_FLAC="1.4.3"
 export v_FLTK="1.3.5"
@@ -607,7 +608,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Sat 7/8/2023-ddd2 - HoneyFishMINI - Safari
-# Last update: Mon 7/10/2023-dd7 - SilverSurferMBP - Safari
+# Last update: Mon 7/10/2023-ddd7 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
