@@ -85,7 +85,7 @@ export v_ERLANG="26.0.2"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
 export v_EXIFTOOL="12.42_1"
-export v_EXPLOITDB="2023-07-08"
+export v_EXPLOITDB="2023-07-12"
 export v_ETL="1.5.1"
 export v_FAAC="1.30"
 export v_FDK_AAC="2.0.2"
@@ -276,7 +276,7 @@ export v_LLVM8="8.0.1_3"
 export v_LLVM="16.0.6"
 export v_LOREM="0.8.0"
 export v_LUA="5.4.6"
-export v_LUAJIT="2.1.0-beta3-20230708.6"
+export v_LUAJIT="2.1.0-beta3-20230709.3"
 export v_LUV="1.45.0-0"
 export v_LZ4="1.9.4"
 export v_M4="1.4.19"
@@ -576,7 +576,7 @@ export v_PGADMIN4="7.4"
 export v_PLAYONMAC="4.4"
 export v_PLEX="1.33.0.2444-a220eae4"
 export v_PLEX_MEDIA_SERVER="1.23.4.4805-186bae04e"
-export v_PODMAN_DESKTOP="1.1.0"
+export v_PODMAN_DESKTOP="1.2.0"
 export v_PYCHARM_CE_WITH_ANACONDA_PLUGIN="2020.3.2,203.6682.179"
 export v_QUITERSS="0.19.4"
 export v_RSTUDIO="2023.06.1,524"
@@ -608,7 +608,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Tue 7/11/2023-ddd7 - HoneyFishMINI - Safari
-# Last update: Tue 7/11/2023-ff6 - SilverSurferMBP - Safari
+# Last update: Wed 7/12/2023-d2 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
