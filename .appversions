@@ -505,7 +505,7 @@ export v_BOGUS="24.7.365"
 export v_ADOPTOPENJDK8="8,292,b10"
 export v_ALTAIR_GRAPHQL_CLIENT="5.0.28"
 export v_ANKI="2.1.62"
-export v_ANKI_APP_ANKI="7.4.3"
+export v_ANKIAPP_ANKI="7.4.4"
 export v_ANOTHER_REDIS_DESKTOP_MANAGER="1.6.0"
 export v_AUDACITY="3.3.3"
 export v_AUDIO_HIJACK="3.7.1"
@@ -607,8 +607,8 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sat 7/15/2023-ddd7 - HoneyFishMINI - Safari
-# Last update: Sun 7/15/2023-d8 - SilverSurferMBP - Safari
+# Last update: Sun 7/16/2023-dd8 - HoneyFishMINI - Safari
+# Last update: Sun 7/16/2023-d8 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
