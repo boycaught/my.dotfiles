@@ -116,7 +116,7 @@ export v_GHC92="@9.2 9.2.7"
 export v_GHOSTSCRIPT="10.01.2"
 export v_GIFLIB="5.2.1"
 export v_GIT="2.41.0_2"
-export v_GIT_CREDENTIAL_OAUTH="0.9.0"
+export v_GIT_CREDENTIAL_OAUTH="0.9.1"
 export v_GL2PS="1.4.2"
 export v_GLIB="2.76.4"
 export v_GLIBMM="@2.66 2.66.6"
@@ -607,8 +607,8 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Tue 7/18/2023-d2 - HoneyFishMINI - Safari
-# Last update: Tue 7/18/2023-d2 - SilverSurferMBP - Safari
+# Last update: Tue 7/17/2023-d2 - HoneyFishMINI - Safari
+# Last update: Wed 7/18/2023-ccc7 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
