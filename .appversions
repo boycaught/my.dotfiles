@@ -511,7 +511,7 @@ export v_ANOTHER_REDIS_DESKTOP_MANAGER="1.6.0"
 export v_AUDACITY="3.3.3"
 export v_AUDIO_HIJACK="3.7.1"
 export v_AVIDMUX="2.7.4"
-export v_BLENDER="3.5.1"
+export v_BLENDER="3.6.1"
 export v_BURN="3.1.7"
 export v_CHATALL="1.30.46"
 export v_CURSOR="0.1.12"
@@ -534,7 +534,7 @@ export v_FLYCUT="1.9.6"
 export v_FREAC="1.1.7"
 export v_GENYMOTION="3.4.0"
 export v_GEPHI="0.10.1"
-export v_GHOST_BROWSER="2.1.4.5"
+export v_GHOST_BROWSER="2.1.5.0"
 export v_GIMP="2.10.34-1"
 export v_GNUCASH="5.2-1"
 export v_GODOT="4.1"
@@ -608,8 +608,8 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Wed 7/18/2023-d1 - HoneyFishMINI - Safari
-# Last update: Wed 7/18/2023-ccc7 - SilverSurferMBP - Safari
+# Last update: Thu 7/20/2023-ddd3 - HoneyFishMINI - Safari
+# Last update: Wed 7/19/2023-ccc7 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
