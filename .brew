@@ -4,6 +4,10 @@
 echo "Check for brew formula updates."
 brew upgrade
 
+# Upgrade any cask applications
+echo "Check for brew cask updates."
+brew upgrade --cask
+
 # Install GNU core utilities (those that come with OS X are outdated)
 brew install coreutils
 echo "Don’t forget to add $(brew --prefix coreutils)/libexec/gnubin to \$PATH."
@@ -23,10 +27,6 @@ brew install git
 brew install rename
 brew install tree
 brew install dockutil
-
-# Upgrade any cask applications
-echo "Check for brew cask updates."
-brew upgrade --cask
 
 # Remove outdated versions from the cellar
 brew cleanup
