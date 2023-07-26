@@ -162,7 +162,7 @@ export v_ICU4C="73.2"
 export v_ILMBASE="2.5.8"
 export v_IMAGEMAGICK="7.1.1-14"
 export v_IMATH="3.1.9"
-export v_IMAP_BACKUP="10.0.1"
+export v_IMAP_BACKUP="11.0.0"
 export v_IMAP_UW="2007f_1"
 export v_INTLTOOL="0.51.0_1"
 export v_IPYTHON="8.14.0"
@@ -290,7 +290,7 @@ export v_MBEDTLS="3.4.0"
 export v_MD5DEEP="4.4_1"
 export v_MERCURIAL="6.5"
 export v_MESON="1.2.0"
-export v_METABASE="0.46.6.1"
+export v_METABASE="0.46.6.2"
 export v_MICRO_INETD="2014-08-14"
 export v_MINIKUBE="1.12.3"
 export v_MINIO="20230210184839"
@@ -613,7 +613,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Tue 7/24/2023-ggg3 - HoneyFishMINI - Safari
-# Last update: Tue 7/25/2023-dd5 - SilverSurferMBP - Safari
+# Last update: Tue 7/25/2023-ggg4 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
