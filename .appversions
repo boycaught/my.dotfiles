@@ -587,6 +587,7 @@ export v_RSTUDIO="2023.06.1,524"
 export v_SCRIBUS="1.5.8"
 export v_SHOTCUT="23.05.14"
 export v_SQLELECTRON="1.38.0"
+export v_STORYBOARDER="3.0.0"
 export v_SURGE_SYNTHESIZER="1.9.0"
 export v_SUPERPRODUCTIVITY="7.12.2"
 export v_THEBRAIN="13.0.27.0"
@@ -611,7 +612,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Mon 7/24/2023-ggg3 - HoneyFishMINI - Safari
+# Last update: Tue 7/24/2023-ggg3 - HoneyFishMINI - Safari
 # Last update: Tue 7/25/2023-dd5 - SilverSurferMBP - Safari
 # Sync_Status: false
 
