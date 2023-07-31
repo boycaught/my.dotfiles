@@ -93,7 +93,7 @@ export v_FFMPEG="5.1.2_6"
 export v_FFMPEG_4="@4 4.4.4"
 export v_FFTW="3.3.10_1"
 export v_FIG2DEV="3.2.7b"
-export v_FILEBOWSER_TAP_FILEBROWSER="2.24.0"
+export v_FILEBOWSER_TAP_FILEBROWSER="2.24.1"
 export v_FINDUTILS="4.9.0"
 export v_FLAC="1.4.3"
 export v_FLIT="3.9.0_1"
@@ -156,7 +156,7 @@ export v_HIGHWAY="1.0.4"
 export v_HTOP="3.2.2"
 export v_HTTPD="2.4.57_1"
 export v_HTTPING="2.9"
-export v_HUGO="0.115.3"
+export v_HUGO="0.116.0"
 export v_HWLOC="2.9.2"
 export v_HUNSPELL="1.7.2"
 export v_HYPERKIT="0.20200224_1"
@@ -614,7 +614,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sun 7/30/2023-d4 - HoneyFishMINI - Safari
+# Last update: Mon 7/31/2023-ddd7 - HoneyFishMINI - Safari
 # Last update: Sun 7/30/2023-d4 - SilverSurferMBP - Safari
 # Sync_Status: false
 
