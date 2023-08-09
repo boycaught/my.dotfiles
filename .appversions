@@ -186,7 +186,7 @@ export v_JSONCPP="1.9.5"
 export v_JSDOC3="4.0.2"
 export v_JSON_C="0.16"
 export v_JUPYTER="1.0.0_5"
-export v_JUPYTERLAB="4.0.3"
+export v_JUPYTERLAB="4.0.4"
 export v_JYTHON="2.7.3"
 export v_KABEL__PHP_EXT__PHP_IMAP="7.4.9"
 export v_KILLPORT="0.9.1"
@@ -602,12 +602,12 @@ export v_UNITY="2023.1.7f1,4f4e359ec3fc"
 export v_VAGRANT="2.3.7"
 export v_VANILLA="2.0.2,48"
 export v_VB_CABLE="108"
-export v_VCV_RACK="2.3.0"
+export v_VCV_RACK="2.4.0"
 export v_VERACRYPT="1.25.9"
 export v_VIENNA="3.7.3,7560"
 export v_VIRTUALBOX="7.0.10,158379"
 export v_VIVALDI="5.7.2921.53"
-export v_VNC_VIEWER="7.5.1"
+export v_VNC_VIEWER="7.6.0"
 export v_VSCODIUM="1.74.2.22355"
 export v_WATERFOX="5.1.10"
 export v_WEBCAMOID="9.0.0"
@@ -617,7 +617,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Sun 8/6/2023-dd6 - HoneyFishMINI - Safari
-# Last update: Mon 8/7/2023-d7 - SilverSurferMBP - Safari
+# Last update: Tue 8/8/2023-d8 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
