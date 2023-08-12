@@ -598,7 +598,7 @@ export v_THEBRAIN="13.0.27.0"
 export v_TINDERBOX="9.5.2"
 export v_TREZOR_BRIDGE="2.0.27"
 export v_TUXGUITAR="1.5.6"
-export v_UNITY="2023.1.7f1,4f4e359ec3fc"
+export v_UNITY="2023.1.8f1,ab88ac34d80c"
 export v_VAGRANT="2.3.7"
 export v_VANILLA="2.0.2,48"
 export v_VB_CABLE="108"
@@ -616,7 +616,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sat 8/12/2023-e4 - HoneyFishMINI - Safari
+# Last update: Sat 8/12/2023-e6 - HoneyFishMINI - Safari
 # Last update: Sat 8/12/2023-e4 - SilverSurferMBP - Safari
 # Sync_Status: false
 
