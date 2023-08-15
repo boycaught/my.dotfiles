@@ -135,3 +135,7 @@ export NVM_DIR="$HOME/.nvm"
 #EOF
 #LastUpdated: 05/26/2023
 #v2023.05.26
+
+### MANAGED BY RANCHER DESKTOP START (DO NOT EDIT)
+export PATH="/Users/larry_green/.rd/bin:$PATH"
+### MANAGED BY RANCHER DESKTOP END (DO NOT EDIT)
