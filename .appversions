@@ -4,7 +4,7 @@ export v_ACK="3.7.0"
 export v_ADNS="1.6.0"
 export v_ADWAITA_ICON_THEME="44.0"
 export v_AMBER="0.7.2"
-export v_ANSIBLE="8.2.0_2"
+export v_ANSIBLE="8.3.0"
 export v_ANT="1.10.13"
 export v_AOM="3.6.1"
 export v_APIBUILDER_CLI="0.1.37"
@@ -617,7 +617,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Tue 8/15/2023-dd7 - HoneyFishMINI - Safari
+# Last update: Tue 8/15/2023-ee6 - HoneyFishMINI - Safari
 # Last update: Tue 8/15/2023-dd7 - SilverSurferMBP - Safari
 # Sync_Status: false
 
