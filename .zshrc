@@ -138,14 +138,9 @@ command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init -)"
 
 #EOF
-<<<<<<< HEAD
-#LastUpdated: 05/26/2023
-#v2023.05.26
-
 ### MANAGED BY RANCHER DESKTOP START (DO NOT EDIT)
 export PATH="/Users/larry_green/.rd/bin:$PATH"
 ### MANAGED BY RANCHER DESKTOP END (DO NOT EDIT)
-=======
+
 #LastUpdated: 08/16/2023
 #v2023.08.14
->>>>>>> 9f2b38b2a86819b31aa2b9948449e44a2f7c7b8a
