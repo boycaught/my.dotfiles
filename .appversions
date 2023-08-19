@@ -430,7 +430,7 @@ export v_RUNME="1.7.2"
 export v_RUST="1.71.1"
 export v_RUSTUP_INIT="1.25.2"
 export v_S3CMD="2.3.0"
-export v_SASS_SASS_SASS="1.66.0"
+export v_SASS_SASS_SASS="1.66.1"
 export v_SASSC="3.6.2"
 export v_SCONS="4.5.2"
 export v_SDL="12.15_3"
@@ -620,7 +620,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Fri 8/18/2023-fff3 - HoneyFishMINI - Safari
-# Last update: Thu 8/17/2023-ff1 - SilverSurferMBP - Safari
+# Last update: Sat 8/19/2023-dd7 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
