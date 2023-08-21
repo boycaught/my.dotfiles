@@ -5,7 +5,7 @@ export v_ADNS="1.6.0"
 export v_ADWAITA_ICON_THEME="44.0"
 export v_AMBER="0.7.2"
 export v_ANSIBLE="8.3.0"
-export v_ANT="1.10.13"
+export v_ANT="1.10.14"
 export v_AOM="3.6.1"
 export v_APIBUILDER_CLI="0.1.37"
 export v_APR="1.7.4"
@@ -447,7 +447,7 @@ export v_SOURCE_HIGHLIGHT="3.1.9_2"
 export v_SPEEX="1.2.1"
 export v_SPHINX_DOC="7.2.2"
 export v_SPDYLAY="1.4.0_3"
-export v_SQLITE="3.42.0"
+export v_SQLITE="3.42.0_1"
 export v_SQUASHFS="4.4"
 export v_SRT="1.5.2"
 export v_SUITE_SPARSE="7.1.0"
@@ -619,7 +619,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sun 8/20/2023-gg5 - HoneyFishMINI - Safari
+# Last update: Mon 8/21/2023-dd1 - HoneyFishMINI - Safari
 # Last update: Sun 8/20/2023-d4 - SilverSurferMBP - Safari
 # Sync_Status: false
 
