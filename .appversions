@@ -56,6 +56,7 @@ export v_CRYSTAL="0.35.1"
 export v_CRYSTAL_LANG="0.35.1_1"
 export v_CURL="8.2.1"
 export v_CURL_OPENSSL="7.77.0"
+export v_CYTHON="3.0.2"
 export v_DART_LANG_DART_DART="3.1.0"
 export v_DAV1D="1.2.1"
 export v_DBUS="1.14.8"
@@ -206,7 +207,7 @@ export v_LIBAV="12.3_8"
 export v_LIBAVIF="0.11.1"
 export v_LIBBLURAY="1.3.4"
 export v_LIBCERF="2.0"
-export v_LIBCYTHON="3.0.0"
+export v_LIBCYTHON="3.0.2"
 export v_LIBDE265="1.0.12"
 export v_LIBEPOXY="1.5.10"
 export v_LIBEV="4.33"
@@ -620,7 +621,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sat 8/26/2023-dd1 - HoneyFishMINI - Safari
+# Last update: Sun 8/27/2023-eee6 - HoneyFishMINI - Safari
 # Last update: Sun 8/27/2023-ee3 - SilverSurferMBP - Safari
 # Sync_Status: false
 
