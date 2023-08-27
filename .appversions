@@ -103,7 +103,7 @@ export v_FLUID_SYNTH="2.3.3"
 export v_FMT="10.0.0"
 export v_FONTCONFIG="2.14.2"
 export v_FREECIV="3.0.5"
-export v_FREETDS="1.3.19"
+export v_FREETDS="1.3.20"
 export v_FREETYPE="2.13.1"
 export v_FREI0R="2.3.1"
 export v_FRIBIDI="1.0.13"
@@ -306,7 +306,7 @@ export v_MOLTEN_VK="1.2.5"
 export v_MONGODB="4.0.5"
 export v_MONO="6.12.0.182"
 export v_MOSH="1.4.0_3"
-export v_MOZJPEG="4.1.3"
+export v_MOZJPEG="4.1.4"
 export v_MPFR="4.2.0-p9"
 export v_MPG123="1.31.3"
 export v_MPV="0.36.0"
@@ -391,7 +391,7 @@ export v_PROTOBUF_C="1.4.1_3"
 export v_PSTOEDIT="3.75"
 export v_PUGIXML="1.13"
 export v_PYYAML="6.0.1"
-export v_PYENV="2.3.24"
+export v_PYENV="2.3.25"
 export v_PYENV_VIRTUALENV="1.2.1"
 export v_PYGMENTS="2.16.1"
 export v_PYPY="5.0.1"
@@ -621,7 +621,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Sat 8/26/2023-dd1 - HoneyFishMINI - Safari
-# Last update: Sat 8/26/2023-dd1 - SilverSurferMBP - Safari
+# Last update: Sun 8/27/2023-ee3 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
