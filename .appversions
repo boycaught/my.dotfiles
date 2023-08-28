@@ -26,7 +26,7 @@ export v_BASH="5.2.15"
 export v_BDW_GC="8.2.4"
 export v_BERKELEY_DB="18.1.40_2"
 export v_BINARYEN="113"
-export v_BITWARDEN_CLI="2023.7.0"
+export v_BITWARDEN_CLI="2023.8.2"
 export v_BLACKHOLE="0.2.6"
 export v_BOOST="1.82.0_1"
 export v_BROTLI="1.0.9"
@@ -288,7 +288,7 @@ export v_LZ4="1.9.4"
 export v_M4="1.4.19"
 export v_MAKE="4.4.1"
 export v_MAKEDEPEND="1.0.8"
-export v_MARIADB="11.0.2_1"
+export v_MARIADB="11.1.2"
 export v_MAVEN="3.9.4"
 export v_MBEDTLS="3.4.1"
 export v_MBEDTLS2="@2 2.28.4"
@@ -411,7 +411,7 @@ export v_QEMU="8.1.0_1"
 export v_QHULL="2020.1"
 export v_QRUPDATE="1.1.2_13"
 export v_QT="6.5.1_3"
-export v_QT5="@5 5.15.10"
+export v_QT5="@5 5.15.10_1"
 export v_R="4.3.1"
 export v_RABBITMQ="3.11.9"
 export v_RAV1E="0.6.6"
@@ -622,7 +622,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Mon 8/28/2023-d7 - HoneyFishMINI - Safari
-# Last update: Sun 8/27/2023-ee3 - SilverSurferMBP - Safari
+# Last update: Mon 8/28/2023-ff4 - SilverSurferMBP - Safari
 # Sync_Status: false
 
 # EOF
