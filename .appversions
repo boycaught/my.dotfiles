@@ -36,7 +36,7 @@ export v_CA_CERTIFICATES="2023-08-22"
 export v_CABAL_INSTALL="3.8.1.0"
 export v_CADDY="2.7.4"
 export v_CAIRO="1.16.0_5"
-export v_CARGO_C="0.9.23"
+export v_CARGO_C="0.9.24"
 export v_CBONSAI="1.3.1"
 export v_CERTBOT="2.6.0_1"
 export v_CERES_SOLVER="2.1.0_1"
@@ -621,7 +621,7 @@ export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sun 8/27/2023-eee6 - HoneyFishMINI - Safari
+# Last update: Sun 8/27/2023-f8 - HoneyFishMINI - Safari
 # Last update: Sun 8/27/2023-ee3 - SilverSurferMBP - Safari
 # Sync_Status: false
 
