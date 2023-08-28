@@ -603,7 +603,7 @@ export v_THEBRAIN="13.0.34.0"
 export v_TINDERBOX="9.5.2"
 export v_TREZOR_BRIDGE="2.0.27"
 export v_TUXGUITAR="1.5.6"
-export v_UNITY="2023.1.9f1,f3f94c8cdc49"
+export v_UNITY="2023.1.10f1,661833f8c66c"
 export v_VAGRANT="2.3.7"
 export v_VANILLA="2.0.2,48"
 export v_VB_CABLE="108"
@@ -614,14 +614,14 @@ export v_VIRTUALBOX="7.0.10,a,158379"
 export v_VIVALDI="5.7.2921.53"
 export v_VNC_VIEWER="7.6.0"
 export v_VSCODIUM="1.74.2.22355"
-export v_WATERFOX="5.1.11"
+export v_WATERFOX="5.1.12"
 export v_WEBCAMOID="9.0.0"
 export v_XNVIEWMP="1.5.3"
 export v_ZETTLR="2.3.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sun 8/27/2023-g8 - HoneyFishMINI - Safari
+# Last update: Sun 8/27/2023-gg3 - HoneyFishMINI - Safari
 # Last update: Sun 8/27/2023-ee3 - SilverSurferMBP - Safari
 # Sync_Status: false
 
