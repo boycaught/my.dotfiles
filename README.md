@@ -9,7 +9,7 @@ My basic setup is captured in `install-deps.sh` which adds homebrew, z, nave, et
 
 ## private config
 
-Toss it into a file called `.extra` which you do not commit to this repo and just keep in your `~/`
+Toss it into a file called `.extras` which you do not commit to this repo and just keep in your `~/`
 
 I do something nice with my `PATH` there:
 
