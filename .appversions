@@ -117,7 +117,7 @@ export v_GD="2.3.3_6"
 export v_GDBM="1.23"
 export v_GDK_PIXBUF="2.42.10_1"
 export v_GETTEXT="0.21.1"
-export v_GH="2.33.0"
+export v_GH="2.34.0"
 export v_GHC="9.4.4"
 export v_GHC92="@9.2 9.2.7"
 export v_GHOSTSCRIPT="10.01.2"
@@ -377,7 +377,7 @@ export v_PIXMAN="0.42.2"
 export v_PKG_CONFIG="0.29.2_3"
 export v_PNGQUANT="2.12.5"
 export v_PODMAN="4.6.2"
-export v_POPPLER="23.08.0"
+export v_POPPLER="23.09.0"
 export v_POPT="1.19"
 export v_POSTGRAPHILE="4.13.0"
 export v_POSTGRESQL="15.4"
@@ -619,12 +619,12 @@ export v_VNC_VIEWER="7.6.0"
 export v_VSCODIUM="1.74.2.22355"
 export v_WATERFOX="5.1.12"
 export v_WEBCAMOID="9.0.0"
-export v_XNVIEWMP="1.5.3"
+export v_XNVIEWMP="1.5.4"
 export v_ZETTLR="3.0.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Tue 9/5/2023-h2 - HoneyFishMINI - Safari
+# Last update: Wed 9/6/2023-ddd3 - HoneyFishMINI - Safari
 # Last update: Mon 9/4/2023-dd4 - SilverSurferMBP - Safari
 # Sync_Status: false
 
