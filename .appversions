@@ -277,7 +277,7 @@ export v_LIBXRENDER="0.9.11"
 export v_LIBYAML="0.2.4"
 export v_LIBZIP="1.10.1"
 export v_LIGHTTPD="1.4.71"
-export v_LIQUIBASE="4.23.1"
+export v_LIQUIBASE="4.23.2"
 export v_LIT="16.0.6"
 export v_LITTLE_CMS2="2.15"
 export v_LLVM5="5.0.2_1"
@@ -433,7 +433,7 @@ export v_RTMPDUMP="2.4-20151223_3"
 export v_RUBBERBAND="3.3.0"
 export v_RUBY="2.7.1_2"
 export v_RUBY_BUILD="20230912"
-export v_RUFF="0.0.288"
+export v_RUFF="0.0.289"
 export v_RUNME="1.7.3"
 export v_RUST="1.72.0_1"
 export v_RUSTUP_INIT="1.25.2"
@@ -627,7 +627,7 @@ export v_ZETTLR="3.0.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Mon 9/11/2023-f5 - HoneyFishMINI - Safari
+# Last update: Tue 9/12/2023-fff3 - HoneyFishMINI - Safari
 # Last update: Tue 9/12/2023-e3 - SilverSurferMBP - Waterfox
 # Sync_Status: false
 
