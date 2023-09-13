@@ -21,7 +21,7 @@ export v_ATK="2.38.0"
 export v_AUGEAS="1.141"
 export v_AUTOCONF="2.71"
 export v_AUTOMAKE="1.16.5"
-export v_AWSCLI="2.13.17"
+export v_AWSCLI="2.13.18"
 export v_AWS_SHELL="0.2.1_2"
 export v_BASH="5.2.15"
 export v_BDW_GC="8.2.4"
@@ -60,7 +60,7 @@ export v_CRYSTAL_LANG="0.35.1_1"
 export v_CURL="8.3.0"
 export v_CURL_OPENSSL="7.77.0"
 export v_CYTHON="3.0.2"
-export v_DART_LANG_DART_DART="3.1.1"
+export v_DART_LANG_DART_DART="3.1.2"
 export v_DAV1D="1.2.1"
 export v_DBUS="1.14.10"
 export v_DIALOG="1.3-20230209"
@@ -627,7 +627,7 @@ export v_ZETTLR="3.0.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Tue 9/12/2023-fff3 - HoneyFishMINI - Safari
+# Last update: Wed 9/13/2023-ff2 - HoneyFishMINI - Safari
 # Last update: Wed 9/13/2023-ddd5 - SilverSurferMBP - LibreFox
 # Sync_Status: false
 
