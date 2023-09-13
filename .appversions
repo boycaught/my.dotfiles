@@ -57,7 +57,7 @@ export v_CONSUL="1.13.3"
 export v_COREUTILS="9.4"
 export v_CRYSTAL="0.35.1"
 export v_CRYSTAL_LANG="0.35.1_1"
-export v_CURL="8.2.1"
+export v_CURL="8.3.0"
 export v_CURL_OPENSSL="7.77.0"
 export v_CYTHON="3.0.2"
 export v_DART_LANG_DART_DART="3.1.1"
@@ -91,7 +91,7 @@ export v_ERLANG="26.0.2"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
 export v_EXIFTOOL="12.42_1"
-export v_EXPLOITDB="2023-09-12"
+export v_EXPLOITDB="2023-09-13"
 export v_ETL="1.5.1"
 export v_FAAC="1.30"
 export v_FDK_AAC="2.0.2"
@@ -628,7 +628,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Tue 9/12/2023-fff3 - HoneyFishMINI - Safari
-# Last update: Tue 9/12/2023-e3 - SilverSurferMBP - Waterfox
+# Last update: Wed 9/13/2023-ddd5 - SilverSurferMBP - LibreFox
 # Sync_Status: false
 
 # EOF
