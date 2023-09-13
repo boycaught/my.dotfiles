@@ -5,6 +5,7 @@
 ## MY UTILITY ALIASES
 alias cx='clear' #custom
 alias cl='clear' #standard
+alias clx='clear && ls -alg'
 alias lx='ls -alg ${colorflag}'
 alias px='ps uxa | more'
 alias dx='du -k | more'
