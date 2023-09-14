@@ -198,7 +198,7 @@ export v_KABEL__PHP_EXT__PHP_IMAP="7.4.9"
 export v_KILLPORT="0.9.1"
 export v_KRB5="1.21.2"
 export v_KUBERNETES="1.25.2"
-export v_KUBERNETES_CLI="1.28.1"
+export v_KUBERNETES_CLI="1.28.2"
 export v_KUBERNETES_HELM="2.1.0"
 export v_LAME="3.100"
 export v_LASTPASS_CLI="1.3.6"
@@ -627,7 +627,7 @@ export v_ZETTLR="3.0.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Wed 9/13/2023-ff2 - HoneyFishMINI - Safari
+# Last update: Wed 9/13/2023-fff1 - HoneyFishMINI - Safari
 # Last update: Wed 9/13/2023-ddd5 - SilverSurferMBP - LibreFox
 # Sync_Status: false
 
