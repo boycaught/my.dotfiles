@@ -433,7 +433,7 @@ export v_RSYNC="3.2.3"
 export v_RTMPDUMP="2.4-20151223_3"
 export v_RUBBERBAND="3.3.0"
 export v_RUBY="2.7.1_2"
-export v_RUBY_BUILD="20230914"
+export v_RUBY_BUILD="20230914.1"
 export v_RUFF="0.0.289"
 export v_RUNME="1.7.3"
 export v_RUST="1.72.0_1"
@@ -628,8 +628,8 @@ export v_ZETTLR="3.0.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Thu 9/14/2023-e8 - HoneyFishMINI - Safari
-# Last update: Wed 9/13/2023-ddd5 - SilverSurferMBP - LibreFox
+# Last update: Thu 9/14/2023-e8 - HoneyFishMINI - LibreWolf
+# Last update: Thu 9/14/2023-ee2 - SilverSurferMBP - LibreWolf
 # Sync_Status: false
 
 # EOF
