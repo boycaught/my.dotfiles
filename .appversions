@@ -21,7 +21,7 @@ export v_ATK="2.38.0"
 export v_AUGEAS="1.141"
 export v_AUTOCONF="2.71"
 export v_AUTOMAKE="1.16.5"
-export v_AWSCLI="2.13.18"
+export v_AWSCLI="2.13.19"
 export v_AWS_SHELL="0.2.1_2"
 export v_BASH="5.2.15"
 export v_BDW_GC="8.2.4"
@@ -84,7 +84,7 @@ export v_EIGEN="3.4.0_1"
 export v_ELASTICSEARCH="7.10.1"
 export v_ELIXIR="1.15.5"
 export v_ELM="0.19.1"
-export v_EMSCRIPTEN="3.1.45"
+export v_EMSCRIPTEN="3.1.46"
 export v_ENCHANT="2.5.0"
 export v_EPSTOOL="3.09"
 export v_ERLANG="26.0.2"
@@ -434,7 +434,7 @@ export v_RTMPDUMP="2.4-20151223_3"
 export v_RUBBERBAND="3.3.0"
 export v_RUBY="2.7.1_2"
 export v_RUBY_BUILD="20230914.1"
-export v_RUFF="0.0.289"
+export v_RUFF="0.0.290"
 export v_RUNME="1.7.3"
 export v_RUST="1.72.0_1"
 export v_RUSTUP_INIT="1.25.2"
@@ -630,7 +630,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Thu 9/14/2023-eee1 - HoneyFishMINI - LibreWolf
-# Last update: Fri 9/15/2023-e6 - SilverSurferMBP - LibreWolf
+# Last update: Fri 9/15/2023-ggg4 - SilverSurferMBP - LibreWolf
 # Sync_Status: false
 
 # EOF
