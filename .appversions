@@ -597,7 +597,7 @@ export v_PGADMIN4="7.6"
 export v_PLAYONMAC="4.4"
 export v_PLEX="1.33.0.2444-a220eae4"
 export v_PLEX_MEDIA_SERVER="1.23.4.4805-186bae04e"
-export v_PODMAN_DESKTOP="1.3.1"
+export v_PODMAN_DESKTOP="1.4.0"
 export v_PYCHARM_CE_WITH_ANACONDA_PLUGIN="2020.3.2,203.6682.179"
 export v_QUITERSS="0.19.4"
 export v_RSTUDIO="2023.06.2,561"
@@ -629,7 +629,7 @@ export v_ZETTLR="3.0.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sun 9/17/2023-ee1 - HoneyFishMINI - LibreWolf
+# Last update: Mon 9/18/2023-dd4 - HoneyFishMINI - LibreWolf
 # Last update: Sat 9/16/2023-fff2 - SilverSurferMBP - LibreWolf
 # Sync_Status: false
 
