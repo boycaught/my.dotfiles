@@ -121,7 +121,7 @@ export v_GETTEXT="0.21.1"
 export v_GH="2.34.0"
 export v_GHC="9.4.4"
 export v_GHC92="@9.2 9.2.7"
-export v_GHOSTSCRIPT="10.01.2"
+export v_GHOSTSCRIPT="10.02.0"
 export v_GIFLIB="5.2.1"
 export v_GIT="2.42.0"
 export v_GIT_CREDENTIAL_OAUTH="0.10.1"
@@ -630,7 +630,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Sun 9/17/2023-ee1 - HoneyFishMINI - LibreWolf
-# Last update: Sat 9/16/2023-eee8 - SilverSurferMBP - LibreWolf
+# Last update: Sat 9/16/2023-fff2 - SilverSurferMBP - LibreWolf
 # Sync_Status: false
 
 # EOF
