@@ -284,7 +284,7 @@ export v_LITTLE_CMS2="2.15"
 export v_LLVM5="5.0.2_1"
 export v_LLVM6="6.0.1_3"
 export v_LLVM8="8.0.1_3"
-export v_LLVM="16.0.6"
+export v_LLVM="17.0.1"
 export v_LOREM="0.8.0"
 export v_LUA="5.4.6"
 export v_LUAJIT="2.1.0-beta3-20230813.2"
@@ -436,8 +436,8 @@ export v_RUBBERBAND="3.3.0"
 export v_RUBY="2.7.1_2"
 export v_RUBY_BUILD="20230919"
 export v_RUFF="0.0.290"
-export v_RUNME="1.7.3"
-export v_RUST="1.72.0_1"
+export v_RUNME="1.7.4"
+export v_RUST="1.72.0_2"
 export v_RUSTUP_INIT="1.25.2"
 export v_S3CMD="2.3.0"
 export v_SASS_SASS_SASS="1.67.0"
@@ -631,7 +631,7 @@ export v_ZETTLR="3.0.1"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Fri 9/22/2023-e8 - HoneyFishMINI - LibreWolf
+# Last update: Fri 9/22/2023-eee4 - HoneyFishMINI - LibreWolf
 # Last update: Thu 9/21/2023-ddd8 - SilverSurferMBP - LibreWolf
 # Sync_Status: false
 
