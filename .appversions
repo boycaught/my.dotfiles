@@ -523,7 +523,7 @@ export v_BOGUS="24.7.365"
 ### Casks 
 export v_4K_VIDEO_DOWNLOADERPLUS="1.2.4"
 export v_ADOPTOPENJDK8="8,292,b10"
-export v_ALTAIR_GRAPHQL_CLIENT="5.2.2"
+export v_ALTAIR_GRAPHQL_CLIENT="5.2.3"
 export v_ANKI="2.1.66"
 export v_ANKIAPP_ANKI="7.6.0"
 export v_ANOTHER_REDIS_DESKTOP_MANAGER="1.6.0"
@@ -555,7 +555,7 @@ export v_GENYMOTION="3.4.0"
 export v_GEPHI="0.10.1"
 export v_GHOST_BROWSER="2.1.5.2"
 export v_GIMP="2.10.34-3"
-export v_GNUCASH="5.2-1"
+export v_GNUCASH="5.4-1"
 export v_GODOT="4.1.1"
 export v_GOOGLE_CHROME_DEV="90.0.4412.3,4412.3"
 export v_GOOGLE_EARTH_PRO="7.3.6"
@@ -631,7 +631,7 @@ export v_ZETTLR="3.0.1"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Mon 9/25/2023-ddd7 - HoneyFishMINI - LibreWolf
+# Last update: Mon 9/25/2023-ee4 - HoneyFishMINI - LibreWolf
 # Last update: Thu 9/21/2023-ddd8 - SilverSurferMBP - LibreWolf
 # Sync_Status: false
 
