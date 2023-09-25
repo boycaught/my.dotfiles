@@ -168,7 +168,7 @@ export v_HUNSPELL="1.7.2"
 export v_HYPERKIT="0.20200224_1"
 export v_ICU4C="73.2"
 export v_ILMBASE="2.5.8"
-export v_IMAGEMAGICK="7.1.1-16"
+export v_IMAGEMAGICK="7.1.1-18"
 export v_IMATH="3.1.9"
 export v_IMAP_BACKUP="12.0.0"
 export v_IMAP_UW="2007f_1"
@@ -414,7 +414,7 @@ export v_PYTHON="3.11.2"
 export v_PYTHON_CRYPTOGRAPHY="41.0.4"
 export v_PYTHON_LSP_SERVER="1.8.0"
 export v_PYTHON_TYPING_EXTENTIONS="4.8.0"
-export v_QEMU="8.1.0_3"
+export v_QEMU="8.1.1"
 export v_QHULL="2020.1"
 export v_QRUPDATE="1.1.2_13"
 export v_QT="6.5.1_3"
@@ -632,7 +632,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Mon 9/25/2023-ee4 - HoneyFishMINI - LibreWolf
-# Last update: Thu 9/21/2023-ddd8 - SilverSurferMBP - LibreWolf
+# Last update: Mon 9/25/2023-ee4 - SilverSurferMBP - LibreWolf
 # Sync_Status: false
 
 # EOF
