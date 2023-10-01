@@ -169,9 +169,9 @@ export v_HUNSPELL="1.7.2"
 export v_HYPERKIT="0.20200224_1"
 export v_ICU4C="73.2"
 export v_ILMBASE="2.5.8"
-export v_IMAGEMAGICK="7.1.1-18"
+export v_IMAGEMAGICK="7.1.1-19"
 export v_IMATH="3.1.9"
-export v_IMAP_BACKUP="12.1.0"
+export v_IMAP_BACKUP="13.0.0"
 export v_IMAP_UW="2007f_1"
 export v_INTLTOOL="0.51.0_1"
 export v_IPYTHON="8.16.0"
@@ -633,8 +633,8 @@ export v_ZETTLR="3.0.1"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sat 9/30/2023-ddd4 - HoneyFishMINI - LibreWolf
-# Last update: Sat 9/30/2023-31 - SilverSurferMBP - LibreWolf
+# Last update: Sun 10/1/2023-eee5 - HoneyFishMINI - LibreWolf
+# Last update: Sun 10/1/2023-eee5 - SilverSurferMBP - LibreWolf
 # Sync_Status: false
 
 # EOF
