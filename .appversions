@@ -285,7 +285,7 @@ export v_LITTLE_CMS2="2.15"
 export v_LLVM5="5.0.2_1"
 export v_LLVM6="6.0.1_3"
 export v_LLVM8="8.0.1_3"
-export v_LLVM="17.0.1"
+export v_LLVM="17.0.2"
 export v_LOREM="0.8.0"
 export v_LUA="5.4.6"
 export v_LUAJIT="2.1.0-beta3-20230813.2"
@@ -301,7 +301,7 @@ export v_MBEDTLS2="@2 2.28.4"
 export v_MD5DEEP="4.4_1"
 export v_MERCURIAL="6.5.2"
 export v_MESON="1.2.2"
-export v_METABASE="0.47.2"
+export v_METABASE="0.47.3"
 export v_MICRO_INETD="2014-08-14"
 export v_MINIKUBE="1.12.3"
 export v_MINIO="20230210184839"
@@ -635,7 +635,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Tue 10/3/2023-eee4 - HoneyFishMINI - LibreWolf
-# Last update: Tue 10/3/2023-e1 - SilverSurferMBP - LibreWolf
+# Last update: Wed 10/4/2023-ddd6 - SilverSurferMBP - LibreWolf
 # Sync_Status: false
 
 # EOF
