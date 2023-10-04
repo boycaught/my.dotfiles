@@ -559,7 +559,7 @@ export v_GEPHI="0.10.1"
 export v_GHOST_BROWSER="2.1.5.2"
 export v_GIMP="2.10.34-3"
 export v_GNUCASH="5.4-2"
-export v_GODOT="4.1.1"
+export v_GODOT="4.1.2"
 export v_GOOGLE_CHROME_DEV="90.0.4412.3,4412.3"
 export v_GOOGLE_EARTH_PRO="7.3.6"
 export v_GRAMPS="5.1.6,1"
@@ -635,7 +635,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Tue 10/3/2023-eee4 - HoneyFishMINI - LibreWolf
-# Last update: Wed 10/4/2023-ddd6 - SilverSurferMBP - LibreWolf
+# Last update: Wed 10/4/2023-ddd7 - SilverSurferMBP - LibreWolf
 # Sync_Status: false
 
 # EOF
