@@ -21,7 +21,7 @@ export v_ATK="2.38.0"
 export v_AUGEAS="1.141"
 export v_AUTOCONF="2.71"
 export v_AUTOMAKE="1.16.5"
-export v_AWSCLI="2.13.23"
+export v_AWSCLI="2.13.24"
 export v_AWS_SHELL="0.2.1_2"
 export v_BASH="5.2.15"
 export v_BDW_GC="8.2.4"
@@ -280,7 +280,7 @@ export v_LIBYAML="0.2.4"
 export v_LIBZIP="1.10.1"
 export v_LIGHTTPD="1.4.71"
 export v_LIQUIBASE="4.23.2"
-export v_LIT="17.0.1"
+export v_LIT="17.0.2"
 export v_LITTLE_CMS2="2.15"
 export v_LLVM5="5.0.2_1"
 export v_LLVM6="6.0.1_3"
@@ -634,7 +634,7 @@ export v_ZETTLR="3.0.1"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Tue 10/3/2023-eee4 - HoneyFishMINI - LibreWolf
+# Last update: Wed 10/4/2023-g3 - HoneyFishMINI - LibreWolf
 # Last update: Wed 10/4/2023-ddd7 - SilverSurferMBP - LibreWolf
 # Sync_Status: false
 
