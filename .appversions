@@ -397,7 +397,7 @@ export v_PROT0BUF="24.3"
 export v_PROTOBUF_C="1.4.1_7"
 export v_PSTOEDIT="3.75"
 export v_PUGIXML="1.14"
-export v_PYYAML="6.0.1"
+export v_PYYAML="6.0.1_1"
 export v_PYENV="2.3.30"
 export v_PYENV_VIRTUALENV="1.2.1"
 export v_PYGMENTS="2.16.1_1"
@@ -416,7 +416,7 @@ export v_PYTHON_CERTIFI="2023.7.22_1"
 export v_PYTHON_CRYPTOGRAPHY="41.0.4_1"
 export v_PYTHON_LSP_SERVER="1.8.2"
 export v_PYTHON_MUTAGEN="1.47.0_1"
-export v_PYTHON_PACKAGING="23.2"
+export v_PYTHON_PACKAGING="23.2_1"
 export v_PYTHON_PYPARSING="3.1.1_1"
 export v_PYTHON_TYPING_EXTENTIONS="4.8.0_1"
 export v_QEMU="8.1.2"
@@ -639,7 +639,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Mon 10/16/2023-ee2 - HoneyFishMINI - LibreWolf
-# Last update: Thu 10/19/2023-dd7 - SilverSurferMBP - Safari (unfiled)
+# Last update: Thu 10/19/2023-ee2 - SilverSurferMBP - Safari (unfiled)
 # Sync_Status: false
 
 # EOF
