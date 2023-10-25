@@ -549,7 +549,7 @@ export v_DIFFUSIONBEE="2.2.1"
 export v_DIGIKAM="8.1.0"
 export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
-export v_DOTNET_SDK="7.0.402,0998f773-80a6-4a6e-bf1f-4a83dd5df01f,ce12481071bbf6350a92e231c7217db6"
+export v_DOTNET_SDK="7.0.403,4243dbe5-7173-4422-a073-b13395231cfa,808d2c3639437ef67630"
 export v_DROPBOX="111.4.472"
 export v_ELECTRON="27.0.2"
 export v_EMBY_SERVER="4.7.14.0"
@@ -641,7 +641,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Mon 10/16/2023-ee2 - HoneyFishMINI - LibreWolf
-# Last update: Wed 10/24/2023-ddd7 - SilverSurferMBP - Safari via ssh
+# Last update: Wed 10/24/2023-e1 - SilverSurferMBP - Safari via ssh
 # Sync_Status: false
 
 # EOF
