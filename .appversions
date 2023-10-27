@@ -68,8 +68,8 @@ export v_DIALOG="1.3-20231002"
 export v_DIRMNGR="1.1.1_3"
 export v_DNSMASQ="2.89"
 export v_DOCBOOK_XSL="1.79.2_1"
-export v_DOCKER="24.0.6"
-export v_DOCKER_COMPLETION="24.0.6"
+export v_DOCKER="24.0.7"
+export v_DOCKER_COMPLETION="24.0.7"
 export v_DOCKER_COMPOSE="1.19.0"
 export v_DOCKER_MACHINE="0.16.2"
 export v_DOCKUTIL="2.0.5"
@@ -390,8 +390,8 @@ export v_POSTGRESQL11="11.14_1"
 export v_POSTGRESQL12="12.9_1"
 export v_POSTGRESQL13="13.5_1"
 export v_POSTGRESQL14="14.7"
-export v_POSTGRESQL15="15.4"
-export v_POSTGRESQL="15.4"
+export v_POSTGRESQL15="15.4_1"
+export v_POSTGRESQL="15.4_1"
 export v_PRCE2="10.40"
 export v_PRCE="8.45"
 export v_PRIVOXY="3.0.34"
@@ -641,7 +641,7 @@ export v_ZETTLR="3.0.1"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Wed 10/25/2023-eee4 - HoneyFishMINI - LibreWolf
+# Last update: Thu 10/26/2023-h3 - HoneyFishMINI - LibreWolf
 # Last update: Thu 10/26/2023-ddd3 - SilverSurferMBP - Safari via ssh
 # Sync_Status: false
 
