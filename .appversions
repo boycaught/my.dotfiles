@@ -490,7 +490,7 @@ export v_TREE_SITTER="0.20.8"
 export v_TREZOR_BRIDGE="2.0.32"
 export v_UNBOUND="1.18.0_1"
 export v_UNIXODBC="2.3.12"
-export v_UTF8CPP="4.0.0"
+export v_UTF8CPP="4.0.1"
 export v_UTF8PROC="2.9.0"
 export v_UTIL_MACROS="1.20.0"
 export v_VAPOURSYNTH="64"
@@ -641,7 +641,7 @@ export v_ZETTLR="3.0.1"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Sat 10/28/2023-gg7 - HoneyFishMINI - Safari
+# Last update: Sun 10/29/2023-ddd3 - HoneyFishMINI - Safari
 # Last update: Sat 10/28/2023-g5 - SilverSurferMBP - LibreWolf
 # Sync_Status: false
 
