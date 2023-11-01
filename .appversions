@@ -601,6 +601,7 @@ export v_MUSESCORE="4.1.1.232071203"
 export v_NEXTCLOUD="3.5.3"
 export v_OBSIDIAN="1.0.0"
 export v_ONLYOFFICE="7.3.0"
+export v_OPENBB_TERMINAL="3.2.3"
 export v_OPENSHOT_VIDEO_EDITOR="3.1.1"
 export v_OPENTOONZ="1.7.1"
 export v_OSXFUSE="3.11.2"
@@ -642,7 +643,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last update: Tue 10/31/2023-ee3 - HoneyFishMINI - Safari
-# Last update: Wed 11/1/2023-ddd6 - SilverSurferMBP - Safari via ssh
+# Last update: Wed 11/1/2023-ddd8 - SilverSurferMBP - Safari via ssh
 # Sync_Status: false
 
 # EOF
