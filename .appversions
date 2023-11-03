@@ -560,7 +560,7 @@ export v_FISSION="2.8.4"
 export v_FLUID="2.1.2"
 export v_FLYCUT="1.9.6"
 export v_FREAC="1.1.7"
-export v_GDEVELOP="5.3.179"
+export v_GDEVELOP="5.3.180"
 export v_GENYMOTION="3.5.1"
 export v_GEPHI="0.10.1"
 export v_GHOST_BROWSER="2.1.5.3"
@@ -643,7 +643,7 @@ export v_ZETTLR="3.0.1"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last update: Thu 11/2/2023-dd6 - HoneyFishMINI - Safari
+# Last update: Fri 11/3/2023-ee3 - HoneyFishMINI - Safari
 # Last update: Fri 11/3/2023-e7 - SilverSurferMBP - Safari via ssh
 # Sync_Status: false
 
