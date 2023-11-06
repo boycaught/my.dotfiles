@@ -26,7 +26,7 @@ alias todo='todo.sh'
 alias wmreboot='sudo /etc/webmin/restart'
 #alias ytdl='youtube-dl'
 alias ytdl='yt-dlp'
-alias cleanbrew='sudo rm -fR ${HOME}/Library/Caches/Homebrew/* && sleep 2 && cbonsai'
+alias cleanbrew='sudo rm -fR ${HOME}/Library/Caches/Homebrew/* && sleep 2 && purge && sleep 2 && cbonsai'
 alias autogetupdates='source ~/dotfiles/autogetupdates.sh'
 
 ## FF X => FIND FILE NAMED X
