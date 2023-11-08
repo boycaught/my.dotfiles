@@ -159,7 +159,7 @@ export v_H2O="2.2.6_3"
 export v_HARFBUZZ="8.2.2"
 export v_HATCH="1.7.0_2"
 export v_HDF5="1.14.3"
-export v_HELM="3.13.1"
+export v_HELM="3.13.2"
 export v_HIGHWAY="1.0.7"
 export v_HTOP="3.2.2"
 export v_HTTPD="2.4.58"
@@ -488,7 +488,7 @@ export v_TOMCAT="10.1.5"
 export v_TREE="2.1.1"
 export v_TREE_SITTER="0.20.8"
 export v_TREZOR_BRIDGE="2.0.32"
-export v_UNBOUND="1.18.0_1"
+export v_UNBOUND="1.19.0"
 export v_UNIXODBC="2.3.12"
 export v_UTF8CPP="4.0.2"
 export v_UTF8PROC="2.9.0"
@@ -644,7 +644,7 @@ export v_ZETTLR="3.0.1"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Mon 11/6/2023-ddd2 - HoneyFishMINI - LibreWolf
+# Last_Update: Wed 11/8/2023-ddd8 - HoneyFishMINI - LibreWolf
 # Last_Update: Wed 11/8/2023-dd8 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
