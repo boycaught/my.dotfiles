@@ -39,7 +39,7 @@ export v_CABAL_INSTALL="3.10.1.0"
 export v_CADDY="2.7.5"
 export v_CAIRO="1.18.0"
 export v_CAPSTONE="5.0.1"
-export v_CARGO_C="0.9.26"
+export v_CARGO_C="0.9.28"
 export v_CBONSAI="1.3.1"
 export v_CERTBOT="2.7.4"
 export v_CERES_SOLVER="2.1.0_1"
@@ -217,7 +217,7 @@ export v_LIBAVIF="1.0.2"
 export v_LIBBLURAY="1.3.4"
 export v_LIBCERF="2.0"
 export v_LIBCYTHON="3.0.5"
-export v_LIBDE265="1.0.12"
+export v_LIBDE265="1.0.13"
 export v_LIBEPOXY="1.5.10"
 export v_LIBEV="4.33"
 export v_LIBEVENT="2.1.12_1"
@@ -649,7 +649,7 @@ export v_ZETTLR="3.0.1"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Tue 11/21/2023-e8 - HoneyFishMINI - LibreWolf
+# Last_Update: Tue 11/21/2023-ee2 - HoneyFishMINI - LibreWolf
 # Last_Update: Tue 11/21/2023-e4 - SilverSurferMBP - Safari via ssh
 # Sync_Status: false
 
