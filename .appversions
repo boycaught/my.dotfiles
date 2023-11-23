@@ -424,7 +424,7 @@ export v_PYTHON_MUTAGEN="1.47.0_1"
 export v_PYTHON_PACKAGING="23.2_1"
 export v_PYTHON_PYPARSING="3.1.1_1"
 export v_PYTHON_PYTZ="2023.3.post1_1"
-export v_PYTHON_SETUPTOOLS="69.0.0"
+export v_PYTHON_SETUPTOOLS="69.0.2"
 export v_PYTHON_TABULATE="0.9.0_1"
 export v_PYTHON_TYPING_EXTENTIONS="4.8.0_1"
 export v_PYYAML="6.0.1_1"
@@ -439,7 +439,7 @@ export v_RAV1E="0.6.6"
 export v_RBENV="1.2.0"
 export v_RBENV_GLOBAL="2.7.1"
 export v_RBENV_GEM_BASE="2.7"
-export v_READLINE="8.2.1"
+export v_READLINE="8.2.7"
 export v_REDIS="7.2.3"
 export v_RENAME="1.601"
 export v_RETHINKDB="2.4.3"
@@ -652,7 +652,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Wed 11/22/2023-f5 - HoneyFishMINI - LibreWolf
-# Last_Update: Wed 11/22/2023-ee1 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Thu 11/23/2023-ee8 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
