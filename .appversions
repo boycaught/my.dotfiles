@@ -195,7 +195,7 @@ export v_JSONCPP="1.9.5"
 export v_JSDOC3="4.0.2"
 export v_JSON_C="0.17"
 export v_JUPYTER="1.0.0_5"
-export v_JUPYTERLAB="4.0.9"
+export v_JUPYTERLAB="4.0.9_1"
 export v_JYTHON="2.7.3"
 export v_KABEL__PHP_EXT__PHP_IMAP="7.4.9"
 export v_KEYRING="24.3.0"
@@ -652,7 +652,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Sat 11/25/2023-ddd2 - HoneyFishMINI - LibreWolf
-# Last_Update: Sun 11/26/2023-e6 - SilverSurferMBP - Safari via ssh
+# Last_Update: Sun 11/26/2023-ee4 - SilverSurferMBP - Safari via ssh
 # Sync_Status: false
 
 # EOF
