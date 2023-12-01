@@ -560,7 +560,7 @@ export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="8.0.100,27a7ece8-f6cd-4cab-89cf-987e85ae6805,2c9ab2cb294143b0533f005640c393da"
 export v_DROPBOX="111.4.472"
-export v_ELECTRON="27.1.2"
+export v_ELECTRON="27.1.3"
 export v_EMBY_SERVER="4.7.14.0"
 export v_FAKE="1.9.1"
 export v_FIRECAMP="2.6.1"
@@ -622,7 +622,7 @@ export v_PYCHARM_CE_WITH_ANACONDA_PLUGIN="2020.3.2,203.6682.179"
 export v_QUITERSS="0.19.4"
 export v_RSTUDIO="2023.09.1,494"
 export v_SCRIBUS="1.5.8"
-export v_SHOTCUT="23.07.29"
+export v_SHOTCUT="23.11.29"
 export v_SPAMSIEVE="3.0.2"
 export v_SQLELECTRON="1.38.0"
 export v_STORYBOARDER="3.0.0"
@@ -651,7 +651,7 @@ export v_ZETTLR="3.0.3"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Thu 11/30/2023-ddd3 - HoneyFishMINI - LibreWolf
+# Last_Update: Fri 12/1/2023-ddd5 - HoneyFishMINI - LibreWolf
 # Last_Update: Thu 11/30/2023-ddd3 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
