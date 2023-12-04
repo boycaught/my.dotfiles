@@ -109,7 +109,7 @@ export v_FLUID_SYNTH="2.3.4"
 export v_FMT="10.1.1"
 export v_FONTCONFIG="2.14.2"
 export v_FREECIV="3.0.5"
-export v_FREETDS="1.4.8"
+export v_FREETDS="1.4.9"
 export v_FREETYPE="2.13.2"
 export v_FREI0R="2.3.1"
 export v_FRIBIDI="1.0.13"
@@ -170,7 +170,7 @@ export v_HUNSPELL="1.7.2"
 export v_HYPERKIT="0.20200224_1"
 export v_ICU4C="73.2"
 export v_ILMBASE="2.5.8"
-export v_IMAGEMAGICK="7.1.1-21"
+export v_IMAGEMAGICK="7.1.1-22"
 export v_IMATH="3.1.9"
 export v_IMAP_BACKUP="14.4.5"
 export v_IMAP_UW="2007f_1"
@@ -539,7 +539,7 @@ export v_BOGUS="24.7.365"
 ### Casks 
 export v_4K_VIDEO_DOWNLOADERPLUS="1.3.0"
 export v_ADOPTOPENJDK8="8,292,b10"
-export v_ALTAIR_GRAPHQL_CLIENT="5.2.12"
+export v_ALTAIR_GRAPHQL_CLIENT="5.2.13"
 export v_ANKI="23.10.1"
 export v_ANKIAPP_ANKI="7.6.0"
 export v_ANOTHER_REDIS_DESKTOP_MANAGER="1.6.0"
@@ -652,7 +652,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Fri 12/1/2023-ddd5 - HoneyFishMINI - LibreWolf
-# Last_Update: Sun 12/3/2023-fff3 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Mon 12/4/2023-d5 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
