@@ -436,7 +436,7 @@ export v_PYYAML="6.0.1_1"
 export v_QEMU="8.1.3_2"
 export v_QHULL="2020.1"
 export v_QRUPDATE="1.1.2_13"
-export v_QT="6.6.0_1"
+export v_QT="6.6.1"
 export v_QT5="@5 5.15.11"
 export v_R="4.3.2"
 export v_RABBITMQ="3.11.9"
@@ -658,7 +658,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Fri 12/15/2023-e4 - HoneyFishMINI - LibreWolf
-# Last_Update: Thu 12/14/2023-ddd6 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Fri 12/15/2023-e4 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
