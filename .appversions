@@ -33,7 +33,7 @@ export v_BLACKHOLE="0.2.6"
 export v_BOOST="1.83.0"
 export v_BROTLI="1.1.0"
 export v_BUF="1.28.1"
-export v_C_ARES="1.23.0"
+export v_C_ARES="1.24.0"
 export v_CA_CERTIFICATES="2023-12-13"
 export v_CABAL_INSTALL="3.10.1.0"
 export v_CADDY="2.7.6"
@@ -50,7 +50,7 @@ export v_CHECK="0.15.2"
 export v_CJSON="1.7.16"
 export v_CLAMAV="1.2.1"
 export v_CLANG_FORMAT="10.0.0"
-export v_CMAKE="3.28.0"
+export v_CMAKE="3.28.1"
 export v_CMOCKA="1.1.7"
 export v_COMMANDBOX="5.9.1"
 export v_COMPOSER="2.6.6"
@@ -427,6 +427,7 @@ export v_PYTHON_MUTAGEN="1.47.0_1"
 export v_PYTHON_PACKAGING="23.2_1"
 export v_PYTHON_PATHSPEC="0.12.1"
 export v_PYTHON_PLATFORMDIRS="4.1.0"
+export v_PYTHON_PSUTIL="5.9.7"
 export v_PYTHON_PYPARSING="3.1.1_1"
 export v_PYTHON_PYTZ="2023.3.post1_1"
 export v_PYTHON_SETUPTOOLS="69.0.2"
@@ -658,7 +659,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Fri 12/15/2023-e4 - HoneyFishMINI - LibreWolf
-# Last_Update: Sat 12/16/2023-dd1 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Mon 12/18/2023-ddd1 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
