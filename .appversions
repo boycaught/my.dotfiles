@@ -15,7 +15,7 @@ export v_ARGON2="20190702_1"
 export v_ARPACK="3.7.0_5"
 export v_ASCIIDOC="9.0.2"
 export v_ASK_CLI="2.30.6"
-export v_ASPELL="0.60.7"
+export v_ASPELL="0.60.8.1"
 export v_ASSIMP="5.2.5"
 export v_ATK="2.38.0"
 export v_AUGEAS="1.141"
@@ -211,7 +211,7 @@ export v_LIBAEC="1.1.2"
 export v_LIBARCHIVE="3.7.2"
 export v_LIBASS="0.17.1"
 export v_LIBASSUAN="2.5.6"
-export v_LIBATOMIC_OPS="7.6.10"
+export v_LIBATOMIC_OPS="7.8.2"
 export v_LIBAV="12.3_8"
 export v_LIBAVIF="1.0.3"
 export v_LIBBLURAY="1.3.4"
@@ -658,7 +658,7 @@ export v_ZETTLR="3.0.3"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Tue 12/19/2023-eee2 - HoneyFishMINI - LibreWolf
+# Last_Update: Tue 12/19/2023-gg2 - HoneyFishMINI - LibreWolf
 # Last_Update: Tue 12/19/2023-ee7 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
