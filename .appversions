@@ -73,7 +73,7 @@ export v_DOCKER="24.0.7"
 export v_DOCKER_COMPLETION="24.0.7"
 export v_DOCKER_COMPOSE="1.19.0"
 export v_DOCKER_MACHINE="0.16.2"
-export v_DOCKUTIL="2.0.5"
+export v_DOCKUTIL="3.0.1"
 export v_DOCUTILS="0.20.1_1"
 export v_DOUBLE_CONVERSION="3.3.0"
 export v_DOXYGEN="1.10.0"
@@ -663,8 +663,8 @@ export v_ZETTLR="3.0.3"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Sat 12/31/2023-dd1 - HoneyFishMINI - LibreWolf
-# Last_Update: Mon 1/1/2023-ddd7 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Mon 1/1/2024-ddd8 - HoneyFishMINI - LibreWolf
+# Last_Update: Mon 1/1/2024-ddd7 - SilverSurferMBP - LibreWolf via ssh
 # Happy New Year 2024
 # Sync_Status: false
 
