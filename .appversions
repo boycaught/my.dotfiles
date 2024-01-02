@@ -107,7 +107,7 @@ export v_FLAC="1.4.3"
 export v_FLIT="3.9.0_2"
 export v_FLTK="1.3.5"
 export v_FLUID_SYNTH="2.3.4"
-export v_FMT="10.1.1"
+export v_FMT="10.2.0"
 export v_FONTCONFIG="2.15.0"
 export v_FREECIV="3.0.5"
 export v_FREETDS="1.4.10"
@@ -663,7 +663,7 @@ export v_ZETTLR="3.0.3"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Mon 1/1/2024-ddd8 - HoneyFishMINI - LibreWolf
+# Last_Update: Mon 1/1/2024-ggg3 - HoneyFishMINI - LibreWolf
 # Last_Update: Mon 1/1/2024-ddd7 - SilverSurferMBP - LibreWolf via ssh
 # Happy New Year 2024
 # Sync_Status: false
