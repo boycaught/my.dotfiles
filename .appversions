@@ -464,7 +464,7 @@ export v_RUNME="2.0.7"
 export v_RUST="1.75.0"
 export v_RUSTUP_INIT="1.25.2"
 export v_S3CMD="2.4.0"
-export v_SASS_SASS_SASS="1.69.6"
+export v_SASS_SASS_SASS="1.69.7"
 export v_SASSC="3.6.2"
 export v_SCONS="4.6.0"
 export v_SDL="12.15_3"
@@ -663,7 +663,7 @@ export v_ZETTLR="3.0.3"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Tue 1/2/2024-ee8 - HoneyFishMINI - LibreWolf
+# Last_Update: Tue 1/2/2024-f4 - HoneyFishMINI - LibreWolf
 # Last_Update: Tue 1/2/2024-e4 - SilverSurferMBP - LibreWolf via ssh
 # Happy New Year 2024
 # Sync_Status: false
