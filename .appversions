@@ -61,7 +61,7 @@ export v_CRYSTAL="0.35.1"
 export v_CRYSTAL_LANG="0.35.1_1"
 export v_CURL="8.5.0"
 export v_CURL_OPENSSL="7.77.0"
-export v_CYTHON="3.0.5"
+export v_CYTHON="3.0.7"
 export v_DART_LANG_DART_DART="3.2.4"
 export v_DAV1D="1.3.0"
 export v_DBUS="1.14.10"
@@ -217,7 +217,7 @@ export v_LIBAV="12.3_8"
 export v_LIBAVIF="1.0.3"
 export v_LIBBLURAY="1.3.4"
 export v_LIBCERF="2.0"
-export v_LIBCYTHON="3.0.5"
+export v_LIBCYTHON="3.0.7"
 export v_LIBDE265="1.0.15"
 export v_LIBEPOXY="1.5.10"
 export v_LIBEV="4.33"
@@ -663,7 +663,7 @@ export v_ZETTLR="3.0.3"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Mon 1/1/2024-ggg3 - HoneyFishMINI - LibreWolf
+# Last_Update: Tue 1/2/2024-ee8 - HoneyFishMINI - LibreWolf
 # Last_Update: Tue 1/2/2024-e4 - SilverSurferMBP - LibreWolf via ssh
 # Happy New Year 2024
 # Sync_Status: false
