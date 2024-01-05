@@ -461,7 +461,7 @@ export v_RUBBERBAND="3.3.0"
 export v_RUBY="2.7.1_2"
 export v_RUBY_BUILD="20231211"
 export v_RUFF="0.1.11"
-export v_RUNME="2.0.7"
+export v_RUNME="2.2.0"
 export v_RUST="1.75.0"
 export v_RUSTUP_INIT="1.25.2"
 export v_S3CMD="2.4.0"
@@ -668,7 +668,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Thu 1/4/2024-e1 - HoneyFishMINI - LibreWolf
-# Last_Update: Thu 1/4/2024-dd7 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Fri 1/5/2024-ee7 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
