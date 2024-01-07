@@ -17,6 +17,7 @@ export v_ASCIIDOC="9.0.2"
 export v_ASK_CLI="2.30.6"
 export v_ASPELL="0.60.8.1_1"
 export v_ASSIMP="5.2.5"
+export v_AT_SPI2_CORE="2.50.1"
 export v_ATK="2.38.0"
 export v_AUGEAS="1.141"
 export v_AUTOCONF="2.72"
@@ -667,7 +668,7 @@ export v_ZETTLR="3.0.3"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Fri 1/5/2024-ee7 - HoneyFishMINI - LibreWolf
+# Last_Update: Sun 1/7/2024-e6 - HoneyFishMINI - LibreWolf
 # Last_Update: Sat 1/6/2024-ff6 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
