@@ -382,7 +382,7 @@ export v_PCRE="8.45"
 export v_PDFTOEDN="0.36.8"
 export v_PERL="5.38.2_1"
 export v_PHP7="7.4.13"
-export v_PHP="8.3.1"
+export v_PHP="8.3.2"
 export v_PHPMYADMIN="5.2.1"
 export v_PINENTRY="1.2.1"
 export v_PIXMAN="0.42.2"
@@ -585,6 +585,7 @@ export v_DUCKDUCKGO="1.68.0.93"
 export v_ELECTRON="28.1.4"
 export v_EMBY_SERVER="4.7.14.0"
 export v_FAKE="1.9.1"
+export v_FIG="2.17.0"
 export v_FIRECAMP="2.6.1"
 export v_FISSION="2.8.4"
 export v_FLUID="2.1.2"
@@ -675,7 +676,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Thu 1/18/2024-ddd3 - HoneyFishMINI - LibreWolf
-# Last_Update: Thu 1/18/2024-ddd3 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Fri 1/19/2024-d7 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
