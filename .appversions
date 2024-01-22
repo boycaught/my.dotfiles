@@ -277,7 +277,7 @@ export v_LIBX11="1.8.6"
 export v_LIBXCB="1.16"
 export v_LIBXDMCP="1.1.4"
 export v_LIBXEXT="1.3.5"
-export v_LIBXML="++ 2.42.1"
+export v_LIBXML="++ 2.42.3"
 export v_LIBXML2="2.12.4"
 export v_LIBXMP="4.6.0"
 export v_LIBXRENDER="0.9.11"
@@ -675,7 +675,7 @@ export v_ZETTLR="3.0.3"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Mon 1/22/2024-ddd4 - HoneyFishMINI - Safari
+# Last_Update: Mon 1/22/2024-ddd6 - HoneyFishMINI - Safari
 # Last_Update: Mon 1/22/2024-ddd4 - SilverSurferMBP - Safari via ssh
 # Sync_Status: false
 
