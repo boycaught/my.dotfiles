@@ -174,7 +174,7 @@ export v_ICU4C="73.2"
 export v_ILMBASE="2.5.8"
 export v_IMAGEMAGICK="7.1.1-27"
 export v_IMATH="3.1.9"
-export v_IMAP_BACKUP="14.5.1"
+export v_IMAP_BACKUP="14.5.2"
 export v_IMAP_UW="2007f_1"
 export v_INTLTOOL="0.51.0_1"
 export v_IPYTHON="8.19.0"
@@ -355,7 +355,7 @@ export v_OCTAVE="5.2.0_9"
 export v_OCTOSQL="0.12.2"
 export v_ONIGURUMA="6.9.9"
 export v_OPEN_MPI="5.0.1"
-export v_OPENBLAS="0.3.25"
+export v_OPENBLAS="0.3.26"
 export v_OPENCORE_AMR="0.1.6"
 export v_OPENCV="4.7.0"
 export v_OPENCV3="@3 3.4.16_4"
@@ -675,7 +675,7 @@ export v_ZETTLR="3.0.3"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Sun 1/21/2024-dd8 - HoneyFishMINI - Safari
+# Last_Update: Mon 1/22/2024-ddd4 - HoneyFishMINI - Safari
 # Last_Update: Sun 1/21/2024-dd8 - SilverSurferMBP - Safari via ssh
 # Sync_Status: false
 
