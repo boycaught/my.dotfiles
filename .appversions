@@ -562,7 +562,7 @@ export v_4K_VIDEO_DOWNLOADERPLUS="1.4.1"
 export v_ADOPTOPENJDK8="8,292,b10"
 export v_ALTAIR_GRAPHQL_CLIENT="6.1.0"
 export v_ANKI="23.12.1"
-export v_ANKIAPP_ANKI="8.1.7"
+export v_ANKIAPP_ANKI="8.2.1"
 export v_ANOTHER_REDIS_DESKTOP_MANAGER="1.6.0"
 export v_AUDACITY="3.4.2"
 export v_AUDIO_HIJACK="3.7.1"
@@ -678,7 +678,7 @@ export v_ZETTLR="3.0.3"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Wed 1/24/2024-ddd6 - HoneyFishMINI - Safari
+# Last_Update: Thu 1/25/2024-e2 - HoneyFishMINI - Safari
 # Last_Update: Thu 1/25/2024-e2 - SilverSurferMBP - Safari via ssh
 # Sync_Status: false
 
