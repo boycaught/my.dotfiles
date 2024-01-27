@@ -494,7 +494,7 @@ export v_SPDYLAY="1.4.0_3"
 export v_SQLITE="3.45.0"
 export v_SQUASHFS="4.4"
 export v_SRT="1.5.3"
-export v_SUITE_SPARSE="7.5.1"
+export v_SUITE_SPARSE="7.6.0"
 export v_SUNDIALS="5.3.0_1"
 export v_SWAGGER_CODEGEN="3.0.20"
 export v_STRONGSWAN="5.8.4"
@@ -553,7 +553,7 @@ export v_YUICOMPRESSOR="2.4.8_1"
 export v_Z3="4.12.5"
 export v_ZEROMQ="4.3.5_1"
 export v_ZIMG="3.0.5"
-export v_ZLIB="1.2.11"
+export v_ZLIB="1.3.1"
 export v_ZSTD="1.5.5"
 export v_BOGUS="24.7.365" 
 
@@ -678,7 +678,7 @@ export v_ZETTLR="3.0.3"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Thu 1/25/2024-e2 - HoneyFishMINI - Safari
+# Last_Update: Sat 1/27/2024-ee3 - HoneyFishMINI - Safari
 # Last_Update: Sat 1/27/2024-ddd7 - SilverSurferMBP - Safari via ssh
 # Sync_Status: false
 
