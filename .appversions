@@ -5,7 +5,7 @@ export v_ACK="3.7.0"
 export v_ADNS="1.6.0"
 export v_ADWAITA_ICON_THEME="45.0"
 export v_AMBER="0.7.2"
-export v_ANSIBLE="9.1.0"
+export v_ANSIBLE="9.1.0_1"
 export v_ANT="1.10.14"
 export v_AOM="3.8.1"
 export v_APIBUILDER_CLI="0.1.37"
@@ -370,7 +370,7 @@ export v_OPENLDAP="2.6.6"
 export v_OPENSEARCH="2.11.1"
 export v_OPENSLIDE="4.0.0"
 export v_OPENSSL1_1="@1.1 1.1.1w"
-export v_OPENSSL3="@3 3.2.0_1"
+export v_OPENSSL3="@3 3.2.1"
 export v_OPUS="1.4"
 export v_OPUSFILE="0.12_1"
 export v_ORC="0.4.36"
@@ -679,7 +679,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Tue 1/30/2024-f8 - HoneyFishMINI - Safari
-# Last_Update: Mon 1/29/2024-ccc6 - SilverSurferMBP - Safari via ssh
+# Last_Update: Tue 1/30/2024-f8 - SilverSurferMBP - Safari via ssh
 # Sync_Status: false
 
 # EOF
