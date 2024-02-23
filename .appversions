@@ -311,7 +311,7 @@ export v_MD4C="0.5.1"
 export v_MD5DEEP="4.4_1"
 export v_MERCURIAL="6.6.2"
 export v_MESON="1.3.1"
-export v_METABASE="0.48.5"
+export v_METABASE="0.48.7"
 export v_MICRO_INETD="2014-08-14"
 export v_MINIKUBE="1.12.3"
 export v_MINIO="20230210184839"
@@ -687,7 +687,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Wed 2/21/2024-c8 - HoneyFishMINI - LibreWolf
-# Last_Update: Wed 2/21/2024-c8 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Thu 2/22/2024-ggg2 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
