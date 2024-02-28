@@ -617,7 +617,7 @@ export v_JELLYFIN="10.8.13-1"
 export v_JELLYFIN_MEDIA_PLAYER="1.9.1"
 export v_JOPLIN="2.13.15"
 export v_JULIA="1.10.1"
-export v_JUPYTERLAB="4.0.11-1"
+export v_JUPYTERLAB="4.1.2-1"
 export v_KDENLIVE="23.08.3"
 export v_KEEPASSXC="2.7.6"
 export v_KEKA="1.2.60"
@@ -689,7 +689,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Tue 2/27/2024-gg2 - HoneyFishMINI - Safari
-# Last_Update: Sat 2/24/2024-gg4 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Tue 2/27/2024-gg3 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
