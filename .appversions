@@ -480,6 +480,7 @@ export v_RUSTUP_INIT="1.25.2"
 export v_S3CMD="2.4.0"
 export v_SASS_SASS_SASS="1.71.1"
 export v_SASSC="3.6.2"
+export v_SCDOC="1.11.3"
 export v_SCONS="4.6.0"
 export v_SDL="12.15_3"
 export v_SDL2="2.30.0"
@@ -510,14 +511,14 @@ export v_SYNFIG="1.5.2"
 export v_TBB="2021.8.0"
 export v_TCL_TK="8.6.13_5"
 export v_TERRAFORM="1.5.7"
-export v_TESSERACT="5.3.4"
+export v_TESSERACT="5.3.4_1"
 export v_TESTDISK="7.1"
 export v_TEXINFO="6.7"
 export v_TIDY_HTML5="5.6.0"
 export v_TMUX="3.3a_3"
 export v_TOMCAT="10.1.5"
 export v_TREE="2.1.1_1"
-export v_TREE_SITTER="0.20.9"
+export v_TREE_SITTER="0.21.0"
 export v_TREZOR_BRIDGE="2.0.32"
 export v_UNBOUND="1.19.1"
 export v_UNIXODBC="2.3.12"
@@ -688,7 +689,7 @@ export v_ZETTLR="3.0.5"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Tue 2/27/2024-gg2 - HoneyFishMINI - Safari
+# Last_Update: Tue 2/27/2024-gg7 - HoneyFishMINI - Safari
 # Last_Update: Tue 2/27/2024-gg5 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
