@@ -660,7 +660,7 @@ export v_PYCHARM_CE_WITH_ANACONDA_PLUGIN="2020.3.2,203.6682.179"
 export v_QUITERSS="0.19.4"
 export v_RSTUDIO="2023.12.1,402"
 export v_SCRIBUS="1.6.1"
-export v_SHOTCUT="24.01.28"
+export v_SHOTCUT="24.02.29"
 export v_SIMPLESYNTH="1.1"
 export v_SPAMSIEVE="3.0.3"
 export v_SQLELECTRON="1.38.0"
@@ -691,7 +691,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Fri 3/1/2024-eee6 - HoneyFishMINI - LibreWorld
-# Last_Update: Fri 3/1/2024-eee5 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Fri 3/1/2024-eee6 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
