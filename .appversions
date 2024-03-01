@@ -593,7 +593,7 @@ export v_DOTNET_SDK="8.0.201,9508dade-753c-45eb-8220-216e8b552548,a5fc65c2b7ef2d
 export v_DROPBOX="111.4.472"
 export v_DUCKDUCKGO="1.68.0.93"
 export v_ELECTRON="29.0.1"
-export v_EMBYSERVER="4.8.1.0"
+export v_EMBYSERVER="4.8.3.0"
 export v_FAKE="1.9.1"
 export v_FIG="2.17.0"
 export v_FIGMA="116.15.15"
@@ -602,7 +602,7 @@ export v_FISSION="2.8.4"
 export v_FLUID="2.1.2"
 export v_FLYCUT="1.9.6"
 export v_FREAC="1.1.7"
-export v_GDEVELOP="5.3.190"
+export v_GDEVELOP="5.3.192"
 export v_GENYMOTION="3.5.1"
 export v_GEPHI="0.10.1"
 export v_GHOST_BROWSER="2.1.5.3"
@@ -617,7 +617,7 @@ export v_IINA="1.3.1"
 export v_INKSCAPE="1.3.1"
 export v_JELLYFIN="10.8.13-1"
 export v_JELLYFIN_MEDIA_PLAYER="1.9.1"
-export v_JOPLIN="2.13.15"
+export v_JOPLIN="2.13.17"
 export v_JULIA="1.10.1"
 export v_JUPYTERLAB="4.1.2-1"
 export v_KDENLIVE="23.08.3"
@@ -690,7 +690,7 @@ export v_ZETTLR="3.0.5"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Wed 2/28/2024-dd3 - HoneyFishMINI - LibreWorld
+# Last_Update: Fri 3/1/2024-eee6 - HoneyFishMINI - LibreWorld
 # Last_Update: Fri 3/1/2024-eee5 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
