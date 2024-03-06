@@ -1,4 +1,4 @@
-[#!/bin/sh
+#!/bin/sh
 
 export v_ABSEIL="20230802.1"
 export v_ACK="3.7.0"
