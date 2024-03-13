@@ -569,7 +569,7 @@ export v_ZSTD="1.5.5"
 export v_BOGUS="24.7.365" 
 
 ### Casks 
-export v_4K_VIDEO_DOWNLOADERPLUS="1.4.4"
+export v_4K_VIDEO_DOWNLOADERPLUS="1.5.0"
 export v_ADOPTOPENJDK8="8,292,b10"
 export v_ALTAIR_GRAPHQL_CLIENT="6.3.1"
 export v_ANKI="23.12.1"
@@ -595,10 +595,10 @@ export v_DIFFUSIONBEE="2.5.1"
 export v_DIGIKAM="8.2.0"
 export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
-export v_DOTNET_SDK="8.0.201,9508dade-753c-45eb-8220-216e8b552548,a5fc65c2b7ef2df9dfa003fbeac44f9f"
+export v_DOTNET_SDK="8.0.202,15530a86-8714-4828-a934-8058c3673e1a,738ed9cd4f6eaf7367c9bda26999652e"
 export v_DROPBOX="111.4.472"
 export v_DUCKDUCKGO="1.68.0.93"
-export v_ELECTRON="29.1.1"
+export v_ELECTRON="29.1.2"
 export v_EMBYSERVER="4.8.3.0"
 export v_FAKE="1.9.1"
 export v_FIG="2.17.0"
@@ -680,7 +680,7 @@ export v_THEBRAIN="13.0.42.0"
 export v_TINDERBOX="9.7.1"
 export v_TREZOR_BRIDGE="2.0.27"
 export v_TUXGUITAR="1.5.6"
-export v_UNITY="2023.2.13f1,70197a359f36"
+export v_UNITY="2023.2.14f1,eeca29774eb5"
 export v_USBIMAGER="1.0.10"
 export v_VAGRANT="2.4.1"
 export v_VANILLA="2.0.2,48"
@@ -700,7 +700,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Tue 3/12/2024-e5 - HoneyFishMINI - LibreWolf
-# Last_Update: Wed 3/13/2024-e4 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Wed 3/13/2024-e5 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
