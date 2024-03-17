@@ -653,8 +653,8 @@ export v_ONLYOFFICE="7.3.0"
 export v_OPENBB_TERMINAL="3.2.5"
 export v_OPENSHOT_VIDEO_EDITOR="3.1.1"
 export v_OPENTOONZ="1.7.1"
-export v_OPERA=""
-export v_OPERA_GX=""
+export v_OPERA="76.0.4017.107"
+export v_OPERA_GX="78.0.4093.186"
 export v_OPERA_MOBILE_EMULATOR="12.1"
 export v_OSXFUSE="3.11.2"
 export v_PGADMIN4="8.4"
@@ -700,7 +700,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Sun 3/17/2024-ee3  - HoneyFishMINI - LibreWolf
-# Last_Update: Sun 3/17/2024-ee3 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Sun 3/17/2024-f2 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
