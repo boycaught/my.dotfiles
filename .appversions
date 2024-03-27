@@ -580,6 +580,8 @@ export v_AUDIO_HIJACK="3.7.1"
 export v_AVIDMUX="2.7.4"
 export v_BALENAETCHER="1.18.11"
 export v_BLENDER="4.1.0"
+export v_BLUEFISH="2.2.12"
+export v_BRACKETS="2.2.0"
 export v_BRAVE_BROWSER_BETA="164.97"
 export v_BRAVE_BROWSER_NIGHTLY="165.90"
 export v_BREWSERVICESMENUBAR="4.1"
@@ -630,6 +632,7 @@ export v_KDENLIVE="23.08.3"
 export v_KEEPASSXC="2.7.7"
 export v_KEKA="1.2.60"
 export v_KODI="20.5-Nexus"
+export v_LAPCE="0.3.1"
 export v_LBRY="0.53.9"
 export v_LIBREOFFICE="24.2.0"
 export v_LIBREWOLF="124.0.1,1"
@@ -699,7 +702,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Wed 3/27/2024-dd5 - HoneyFishMINI - FireFoxDev
-# Last_Update: Wed 3/27/2024-dd5 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Wed 3/27/2024-ddd7 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
