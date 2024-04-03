@@ -96,7 +96,7 @@ export v_ERLANG="26.2.1"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
 export v_EXIFTOOL="12.42_1"
-export v_EXPLOITDB="2024-03-29"
+export v_EXPLOITDB="2024-04-03"
 export v_ETL="1.5.1"
 export v_FAAC="1.30"
 export v_FDK_AAC="2.0.3"
@@ -374,7 +374,7 @@ export v_OPENJDK_11="@11 11.0.22"
 export v_OPENJDK_17="@17 17.0.10"
 export v_OPENJPEG="2.5.2"
 export v_OPENLDAP="2.6.6"
-export v_OPENSEARCH="2.12.0"
+export v_OPENSEARCH="2.13.0"
 export v_OPENSLIDE="4.0.0"
 export v_OPENSSL1_1="@1.1 1.1.1w"
 export v_OPENSSL3="@3 3.2.1"
@@ -612,7 +612,7 @@ export v_FISSION="2.8.4"
 export v_FLUID="2.1.2"
 export v_FLYCUT="1.9.6"
 export v_FREAC="1.1.7"
-export v_GDEVELOP="5.3.196"
+export v_GDEVELOP="5.3.197"
 export v_GENYMOTION="3.5.1"
 export v_GEPHI="0.10.1"
 export v_GHOST_BROWSER="2.1.5.3"
@@ -707,7 +707,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Tue 4/2/2024-gg6 - HoneyFishMINI - LibreWolf
-# Last_Update: Tue 4/2/2024-gg4 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Wed 4/3/2024-d8 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
