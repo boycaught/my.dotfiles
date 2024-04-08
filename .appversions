@@ -418,8 +418,8 @@ export v_PSTOEDIT="3.75"
 export v_PUGIXML="1.14"
 export v_PYCPARSER="2.22"
 export v_PYDOCSTYLE="6.3.0_1"
-export v_PYENV="2.3.35"
-export v_PYENV_VIRTUALENV="1.2.1"
+export v_PYENV="2.4.0"
+export v_PYENV_VIRTUALENV="1.2.3"
 export v_PYGMENTS="2.17.2"
 export v_PYPY="5.0.1"
 export v_PYQT="@5 5.15.9"
@@ -708,7 +708,7 @@ export v_ZETTLR="3.0.5"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Sat 4/6/2024-ff8 - HoneyFishMINI - LibreWolf
+# Last_Update: Mon 4/8/2024-eee7 - HoneyFishMINI - LibreWolf
 # Last_Update: Sun 4/7/2024-dd5 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
