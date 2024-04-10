@@ -577,7 +577,7 @@ export v_4K_VIDEO_DOWNLOADERPLUS="1.5.1"
 export v_ADOPTOPENJDK8="8,292,b10"
 export v_ALTAIR_GRAPHQL_CLIENT="6.4.1"
 export v_ANKI="24.04"
-export v_ANKIAPP_ANKI="9.0.5"
+export v_ANKIAPP_ANKI="9.0.6"
 export v_ANOTHER_REDIS_DESKTOP_MANAGER="1.6.3"
 export v_AUDACITY="3.4.2"
 export v_AUDIO_HIJACK="3.7.1"
@@ -601,7 +601,7 @@ export v_DIFFUSIONBEE="2.5.1"
 export v_DIGIKAM="8.3.0"
 export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
-export v_DOTNET_SDK="8.0.203,bcfcba7d-4a1d-4435-95c2-7c4143e01007,68804b02e9a3bcfd6f26b04d01219791"
+export v_DOTNET_SDK="8.0.204,7bcf1329-6691-45e9-8fdd-96c65bcabd1f,cb618d2620974fc029e4f758eb267452"
 export v_DROPBOX="111.4.472"
 export v_DUCKDUCKGO="1.68.0.93"
 export v_ELECTRON="29.2.0"
@@ -709,7 +709,7 @@ export v_ZETTLR="3.0.5"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Tue 4/9/2024-ee4- HoneyFishMINI - LibreWolf
+# Last_Update: Tue 4/9/2024-g8- HoneyFishMINI - LibreWolf
 # Last_Update: Tue 4/9/2024-dd6 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
