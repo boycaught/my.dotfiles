@@ -573,7 +573,7 @@ export v_ZSTD="1.5.6"
 export v_BOGUS="24.7.365" 
 
 ### Casks 
-export v_4K_VIDEO_DOWNLOADERPLUS="1.5.1"
+export v_4K_VIDEO_DOWNLOADERPLUS="1.5.2"
 export v_ADOPTOPENJDK8="8,292,b10"
 export v_ALTAIR_GRAPHQL_CLIENT="6.4.1"
 export v_ANKI="24.04"
@@ -691,7 +691,7 @@ export v_THEBRAIN="13.0.42.0"
 export v_TINDERBOX="9.7.3"
 export v_TREZOR_BRIDGE="2.0.27"
 export v_TUXGUITAR="1.5.6"
-export v_UNITY="2023.2.17f1,396a1c6fe404"
+export v_UNITY="2023.2.18f1,1cb755715f58"
 export v_USBIMAGER="1.0.10"
 export v_VAGRANT="2.4.1"
 export v_VANILLA="2.0.2,48"
@@ -711,7 +711,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Thu 4/11/2024-ggg2 - HoneyFishMINI - LibreWolf
-# Last_Update: Fri 4/12/2024-ddd8 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Fri 4/12/2024-e2 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
