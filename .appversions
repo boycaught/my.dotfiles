@@ -543,7 +543,7 @@ export v_VULKAN_HEADERS="1.3.280"
 export v_VULKAN_LOADER="1.3.280"
 export v_WAVPACK="5.7.0"
 export v_WEBFS="1.21_1"
-export v_WEBP="1.3.2"
+export v_WEBP="1.4.0"
 export v_WEBPACK="4.44.1"
 export v_WGET="1.24.5"
 export v_WIREGUARD_GO="0.0.20230223"
@@ -710,7 +710,7 @@ export v_ZETTLR="3.0.5"
 export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Sun 4/14/2024-ddd2 - HoneyFishMINI - FireFoxDev
+# Last_Update: Mon 4/15/2024-fff6 - HoneyFishMINI - FireFoxDev
 # Last_Update: Mon 4/15/2024-dd4 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
