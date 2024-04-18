@@ -574,7 +574,7 @@ export v_ZSTD="1.5.6"
 export v_BOGUS="24.7.365" 
 
 ### Casks 
-export v_4K_VIDEO_DOWNLOADERPLUS="1.5.2"
+export v_4K_VIDEO_DOWNLOADERPLUS="1.5.3"
 export v_ADOPTOPENJDK8="8,292,b10"
 export v_ALTAIR_GRAPHQL_CLIENT="6.4.2"
 export v_ANKI="24.04.1"
@@ -622,7 +622,7 @@ export v_GEPHI="0.10.1"
 export v_GHOST_BROWSER="2.1.5.3"
 export v_GIMP="2.10.36"
 export v_GNUCASH="5.6-1"
-export v_GODOT="4.2"
+export v_GODOT="4.2.2"
 export v_GOOGLE_CHROME_DEV="90.0.4412.3,4412.3"
 export v_GOOGLE_EARTH_PRO="7.3.6.9796"
 export v_GRAMPS="5.2.2,1"
@@ -712,7 +712,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Tue 4/16/2024-d2 - HoneyFishMINI - FireFoxDev
-# Last_Update: Thu 4/18/2024-d7 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Thu 4/18/2024-d8 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
