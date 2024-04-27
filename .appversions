@@ -384,7 +384,7 @@ export v_OPENVINO="2024.0.0"
 export v_OPUS="1.5.2"
 export v_OPUSFILE="0.12_1"
 export v_ORC="0.4.38"
-export v_OVEN-SH_BUN_BUN="1.1.5"
+export v_OVEN_SH_BUN_BUN="1.1.5"
 export v_P11_KIT="0.25.3"
 export v_PACKER="1.9.4"
 export v_PANDOC="3.1.13"
@@ -713,7 +713,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Thu 4/25/2024-f2 - HoneyFishMINI - FireFoxDev
-# Last_Update: Fri 4/26/2024-f4 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Sat 4/27/2024-e8 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
