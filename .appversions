@@ -23,7 +23,6 @@ export v_ATK="2.38.0"
 export v_AUGEAS="1.141"
 export v_AUTOCONF="2.72"
 export v_AUTOMAKE="1.16.5"
-export v_AWS_SHELL="0.2.1_2"
 export v_BASH="5.2.26"
 export v_BDW_GC="8.2.6"
 export v_BERKELEY_DB="18.1.40_2"
@@ -387,7 +386,6 @@ export v_P11_KIT="0.25.3"
 export v_PACKER="1.9.4"
 export v_PANDOC="3.1.13"
 export v_PANGO="1.52.2"
-export v_PASSENGER="6.0.20_2"
 export v_PCRE="8.45"
 export v_PCRE2="10.43"
 export v_PDFTOEDN="0.36.8"
@@ -546,7 +544,6 @@ export v_WEBPACK="4.44.1"
 export v_WGET="1.24.5"
 export v_WIREGUARD_GO="0.0.20230223"
 export v_WIREGUARD_TOOLS="1.0.20210914_1"
-export v_WP_CLI="2.10.0"
 export v_WXMAC="3.1.5"
 export v_WXWIDGETS="3.2.4"
 export v_X264="r3108"
@@ -709,7 +706,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Fri 5/3/2024-fff1 - HoneyFishMINI - FireFoxDev
-# Last_Update: Fri 5/3/2024-ddd8 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Fri 5/3/2024-fff1 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
