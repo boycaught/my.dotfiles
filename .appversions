@@ -56,9 +56,10 @@ export v_CLANG_FORMAT="10.0.0"
 export v_CMAKE="3.29.2"
 export v_CMOCKA="1.1.7"
 export v_COMMANDBOX="6.0.0"
-export v_COMPOSER="2.7.4"
+export v_COMPOSER="2.7.6"
 export v_CONSUL="1.13.3"
 export v_COREUTILS="9.5"
+export v_CRYPTOGRAPHY="42.0.6"
 export v_CRYSTAL="0.35.1"
 export v_CRYSTAL_LANG="0.35.1_1"
 export v_CUNIT="2.1-3"
@@ -96,7 +97,7 @@ export v_ERLANG="26.2.4"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
 export v_EXIFTOOL="12.42_1"
-export v_EXPLOITDB="2024-04-22"
+export v_EXPLOITDB="2024-05-05"
 export v_ETL="1.5.1"
 export v_FAAC="1.30"
 export v_FDK_AAC="2.0.3"
@@ -170,7 +171,7 @@ export v_HIMALAYA="0.9.0"
 export v_HTOP="3.3.0"
 export v_HTTPD="2.4.59"
 export v_HTTPING="2.9"
-export v_HUGO="0.125.4"
+export v_HUGO="0.125.6"
 export v_HWLOC="2.10.0"
 export v_HUNSPELL="1.7.2"
 export v_HYPERKIT="0.20200224_1"
@@ -712,7 +713,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Sat 5/4/2024-dd2 - HoneyFishMINI - FireFoxDev
-# Last_Update: Sat 5/4/2024-dd2 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Sun 5/5/2024-ddd4 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
