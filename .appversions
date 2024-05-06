@@ -138,7 +138,7 @@ export v_GLIBMM="@2.66 2.66.6"
 export v_GLIDE="0.13.3"
 export v_GLOG="0.6.0"
 export v_GMP="6.2.1_1"
-export v_GNU_GETOPT="2.40"
+export v_GNU_GETOPT="2.40.1"
 export v_GNU_SED="4.8"
 export v_GNUPG="2.4.5"
 export v_GNUPLOT="5.4.0_1"
@@ -317,7 +317,7 @@ export v_MBEDTLS="3.6.0"
 export v_MBEDTLS2="@2 2.28.8"
 export v_MD4C="0.5.1"
 export v_MD5DEEP="4.4_1"
-export v_MERCURIAL="6.7.2"
+export v_MERCURIAL="6.7.3"
 export v_MESON="1.4.0"
 export v_METABASE="0.49.8"
 export v_MICRO_INETD="2014-08-14"
@@ -713,7 +713,7 @@ export v_ZETTELKASTEN="3.2023.10"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Sat 5/4/2024-dd2 - HoneyFishMINI - FireFoxDev
-# Last_Update: Mon 5/6/2024-e1 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Mon 5/6/2024-eee8 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
