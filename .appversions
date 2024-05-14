@@ -30,7 +30,6 @@ export v_BERKELEY_DB5="@5 5.3.28"
 export v_BINARYEN="117"
 export v_BITWARDEN_CLI="2024.4.1"
 export v_BLACK="24.4.2"
-export v_BLACKHOLE="0.2.6"
 export v_BOOST="1.84.0_1"
 export v_BROTLI="1.1.0"
 export v_BUF="1.31.0"
@@ -716,7 +715,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Tue 5/14/2024-d6 - HoneyFishMINI - FireFoxDev
-# Last_Update: Tue 5/14/2024-d6 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Tue 5/14/2024-e8 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
