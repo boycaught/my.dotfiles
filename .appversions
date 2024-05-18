@@ -14,7 +14,7 @@ export v_APR_UTIL="1.6.3_1"
 export v_ARGON2="20190702_1"
 export v_ARPACK="3.7.0_5"
 export v_ASCIIDOC="10.2.0"
-export v_ASCIIDOCTOR="2.0.21"
+export v_ASCIIDOCTOR="2.0.23"
 export v_ASK_CLI="2.30.6"
 export v_ASPELL="0.60.8.1_1"
 export v_ASSIMP="5.4.1"
@@ -714,7 +714,7 @@ export v_ZETTLR="3.3.1"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Sat 5/18/2024-dd4 - HoneyFishMINI - FireFoxDev
+# Last_Update: Sat 5/18/2024-ddd8 - HoneyFishMINI - FireFoxDev
 # Last_Update: Sat 5/18/2024-dd5 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
