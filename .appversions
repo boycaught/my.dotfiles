@@ -164,7 +164,7 @@ export v_H2O="2.2.6_3"
 export v_HARFBUZZ="8.4.0"
 export v_HATCH="1.11.0"
 export v_HDF5="1.14.3_1"
-export v_HELM="3.15.0"
+export v_HELM="3.15.1"
 export v_HIGHWAY="1.1.0"
 export v_HIMALAYA="0.9.0"
 export v_HTOP="3.3.0"
@@ -714,7 +714,7 @@ export v_ZETTLR="3.3.1"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Wed 5/22/2024-dd3 - HoneyFishMINI - FireFoxDev
+# Last_Update: Thu 5/23/2024-f3 - HoneyFishMINI - FireFoxDev
 # Last_Update: Thu 5/23/2024-dd7 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
