@@ -162,7 +162,7 @@ export v_GTS="0.7.6_3"
 export v_GUILE="3.0.9_1"
 export v_H2O="2.2.6_3"
 export v_HARFBUZZ="8.4.0"
-export v_HATCH="1.11.0"
+export v_HATCH="1.11.1"
 export v_HDF5="1.14.3_1"
 export v_HELM="3.15.1"
 export v_HIGHWAY="1.1.0"
@@ -301,7 +301,7 @@ export v_LLVM5="@5 5.0.2_1"
 export v_LLVM6="@6 6.0.1_3"
 export v_LLVM8="@8 8.0.1_3"
 export v_LLVM16="@16 16.0.6_1"
-export v_LLVM="18.1.5"
+export v_LLVM="18.1.6"
 export v_LOREM="0.8.0"
 export v_LUA="5.4.6"
 export v_LUAJIT="2.1.1713773202"
@@ -608,7 +608,7 @@ export v_DOCKER_TOOLBOX="19.03.1"
 export v_DOTNET_SDK="dotnet-sdk 8.0.300,e7e9bfe4-8277-4b2f-946a-b49c2b910884,0a6c4853f7fec5d641087bf3ffabbd55"
 export v_DROPBOX="111.4.472"
 export v_DUCKDUCKGO="1.68.0.93"
-export v_ELECTRON="30.0.7"
+export v_ELECTRON="30.0.8"
 export v_EMBYSERVER="4.8.7.0"
 export v_FAKE="1.9.1"
 export v_FIG="2.17.0"
@@ -714,8 +714,8 @@ export v_ZETTLR="3.3.1"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Thu 5/23/2024-f3 - HoneyFishMINI - FireFoxDev
-# Last_Update: Thu 5/23/2024-dd7 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Fri 5/24/2024-dd6 - HoneyFishMINI - FireFoxDev
+# Last_Update: Fri 5/24/2024-dd6 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
