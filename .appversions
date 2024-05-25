@@ -259,7 +259,7 @@ export v_LIBPTHREAD_STUBS="0.5"
 export v_LIBRAW="0.21.2"
 export v_LIBRESSL="3.9.2"
 export v_LIBRIST="0.2.10_1"
-export v_LIBRSVG="2.58.0"
+export v_LIBRSVG="2.58.1"
 export v_LIBSAMPLERATE="0.2.2"
 export v_LIBSASS="3.6.6"
 export v_LIBSIGC="++@2 2.10.8"
@@ -534,7 +534,7 @@ export v_UNIXODBC="2.3.12"
 export v_UTF8CPP="4.0.5"
 export v_UTF8PROC="2.9.0"
 export v_UTIL_MACROS="1.20.1"
-export v_UV="0.2.2"
+export v_UV="0.2.3"
 export v_VALA="0.56.14"
 export v_VAPOURSYNTH="68"
 export v_VECLIBFORT="0.4.2_7"
@@ -716,7 +716,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Fri 5/24/2024-ddd5 - HoneyFishMINI - FireFoxDev
-# Last_Update: Fri 5/24/2024-ddd5 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Sat 5/25/2024-d3 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
