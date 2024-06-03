@@ -80,7 +80,7 @@ export v_DOCKUTIL="3.1.3"
 export v_DOCUTILS="0.21.2"
 export v_DOUBLE_CONVERSION="3.3.0"
 export v_DOXYGEN="1.11.0"
-export v_DUCKDB="0.10.3"
+export v_DUCKDB="1.0.0"
 export v_DVM="1.0.3"
 export v_EASYENGINE="4.1.3"
 export v_EC2_AMI_TOOLS="1.5.7_1"
@@ -715,8 +715,8 @@ export v_ZETTLR="3.3.1"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Mon 6/2/2024-ccc7 - HoneyFishMINI - FireFoxDev
-# Last_Update: Sun 6/2/2024-eee8 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Mon 6/3/2024-ccc7 - HoneyFishMINI - FireFoxDev
+# Last_Update: Mon 6/3/2024-eee8 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
