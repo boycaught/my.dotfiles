@@ -96,7 +96,7 @@ export v_ERLANG="26.2.4"
 export v_ERLANG_19="@19 19.3.6.13"
 export v_ERLANG_20="@20 20.3.8.26"
 export v_EXIFTOOL="12.42_1"
-export v_EXPLOITDB="2024-06-04"
+export v_EXPLOITDB="2024-06-08"
 export v_ETL="1.5.1"
 export v_FAAC="1.30"
 export v_FDK_AAC="2.0.3"
@@ -716,7 +716,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Thu 6/6/2024-e1 - HoneyFishMINI - FireFoxDev
-# Last_Update: Thu 6/6/2024-e1 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Fri 6/7/2024-h7 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
