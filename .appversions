@@ -52,7 +52,7 @@ export v_CHECK="0.15.2"
 export v_CJSON="1.7.18"
 export v_CLAMAV="1.3.1"
 export v_CLANG_FORMAT="10.0.0"
-export v_CMAKE="3.29.4"
+export v_CMAKE="3.29.5"
 export v_CMOCKA="1.1.7"
 export v_COMMANDBOX="6.0.0"
 export v_COMPOSER="2.7.6"
@@ -116,8 +116,8 @@ export v_FONTCONFIG="2.15.0"
 export v_FREECIV="3.0.5"
 export v_FREETDS="1.4.17"
 export v_FREETYPE="2.13.2"
-export v_FREI0R="2.3.2"
-export v_FRIBIDI="1.0.14"
+export v_FREI0R="2.3.3"
+export v_FRIBIDI="1.0.15"
 export v_GAWK="5.1.0"
 export v_GCC="14.1.0_1"
 export v_GD="2.3.3_6"
@@ -715,7 +715,7 @@ export v_ZETTLR="3.3.1"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Sat 6/8/2024-ccc6 - HoneyFishMINI - FireFoxDev
+# Last_Update: Sat 6/8/2024-ee3 - HoneyFishMINI - FireFoxDev
 # Last_Update: Fri 6/7/2024-h7 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
