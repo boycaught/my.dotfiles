@@ -319,7 +319,7 @@ export v_MD4C="0.5.1"
 export v_MD5DEEP="4.4_1"
 export v_MERCURIAL="6.7.4"
 export v_MESON="1.4.1"
-export v_METABASE="0.50.3"
+export v_METABASE="0.50.4"
 export v_MICRO_INETD="2014-08-14"
 export v_MINIKUBE="1.12.3"
 export v_MINIO="20230210184839"
@@ -435,6 +435,7 @@ export v_PYTHON39="@3.9 3.9.19"
 export v_PYTHON3="3.12.1"
 export v_PYTHON_ATTRS="23.2.0"
 export v_PYTHON="3.12.4"
+export v_PYTHON="3.12.4"
 export v_PYTHON_ARGCOMPLETE="3.3.0"
 export v_PYTHON_BUILD="1.2.1"
 export v_PYTHON_CERTIFI="2023.11.17"
@@ -482,7 +483,7 @@ export v_RTMPDUMP="2.4-20151223_3"
 export v_RUBBERBAND="3.3.0"
 export v_RUBY="3.3.3"
 export v_RUBY_BUILD="20240612"
-export v_RUFF="0.4.8"
+export v_RUFF="0.4.9"
 export v_RUNME="3.3.4"
 export v_RUST="1.78.0"
 export v_RUSTUP_INIT="1.27.1"
@@ -716,7 +717,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Sat 6/15/2024-ddd5 - HoneyFishMINI - FireFoxDev
-# Last_Update: Fri 6/14/2024-dd5 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Sat 6/15/2024-ddd5 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
