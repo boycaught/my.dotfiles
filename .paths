@@ -4,6 +4,7 @@ BREW_HOME="/usr/local"
 MY_HOME="$HOME/usr/local"
 MY_DOCS="$HOME/Documents"
 MY_APPS="/Applications"
+MY_VIDEOS="$HOME/Movies/dl/__PROCESSING/__dlp/"
 
 ## JAVA PATHS
 JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk$v_JRE.jdk/Contents/Home"
@@ -134,6 +135,7 @@ export JYTHON_HOME
 export JYTHONPATH
 export LIQUIBASE_HOME
 export M2_HOME
+export MY_VIDEOS
 export MAVEN_OPTS
 export MARIADB_HOME
 export NGINX_HOME
