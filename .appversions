@@ -58,6 +58,7 @@ export v_COMMANDBOX="6.0.0"
 export v_COMPOSER="2.7.7"
 export v_CONSUL="1.13.3"
 export v_COREUTILS="9.5"
+export v_COWSAY="3.04"
 export v_CRYPTOGRAPHY="42.0.8"
 export v_CRYSTAL="0.35.1"
 export v_CRYSTAL_LANG="0.35.1_1"
@@ -302,6 +303,7 @@ export v_LLVM6="@6 6.0.1_3"
 export v_LLVM8="@8 8.0.1_3"
 export v_LLVM16="@16 16.0.6_1"
 export v_LLVM="18.1.7"
+export v_COWSAY="100.0.1"
 export v_LOREM="0.8.0"
 export v_LUA="5.4.6"
 export v_LUAJIT="2.1.1716656478"
@@ -717,8 +719,8 @@ export v_ZETTLR="3.2.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Thu 6/20/2024-f1 - HoneyFishMINI - FireFoxDev
-# Last_Update: Thu 6/20/2024-ddd2 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Thu 6/20/2024-f3 - HoneyFishMINI - FireFoxDev
+# Last_Update: Thu 6/20/2024-f3 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
