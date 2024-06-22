@@ -350,6 +350,7 @@ export v_NASM="2.16.03"
 export v_NAVE="3.5.2"
 export v_NCURSES="6.5"
 export v_NEO4J="5.4.0"
+export v_NEOFETCH="7.1.0"
 export v_NEOVIM="0.10.0"
 export v_NETCDF="4.9.2_1"
 export v_NETPBM="11.02.09"
@@ -497,6 +498,7 @@ export v_SASS_SASS_SASS="1.77.6"
 export v_SASSC="3.6.2"
 export v_SCDOC="1.11.3"
 export v_SCONS="4.7.0"
+export v_SCREENRESOLUTION="1.6"
 export v_SDL="12.15_3"
 export v_SDL2="2.30.4"
 export v_SDL2_COMPAT="1.2.68"
@@ -721,7 +723,7 @@ export v_ZETTLR="3.2.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Fri 6/21/2024-f8 - HoneyFishMINI - FireFoxDev
+# Last_Update: Sat 6/22/2024-ddd5 - HoneyFishMINI - FireFoxDev
 # Last_Update: Sat 6/22/2024-ddd5 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
