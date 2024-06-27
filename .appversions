@@ -589,7 +589,7 @@ export v_BOGUS="24.7.365"
 ### Casks 
 export v_4K_VIDEO_DOWNLOADERPLUS="1.7.1"
 export v_ADOPTOPENJDK8="8,292,b10"
-export v_ALTAIR_GRAPHQL_CLIENT="7.2.0"
+export v_ALTAIR_GRAPHQL_CLIENT="7.2.1"
 export v_ANKI="24.06.2"
 export v_ANKIAPP_ANKI="9.0.6"
 export v_ANOTHER_REDIS_DESKTOP_MANAGER="1.6.6"
@@ -655,7 +655,7 @@ export v_KODI="21.0-Omega"
 export v_LAPCE="0.4.0"
 export v_LBRY="0.53.9"
 export v_LIBREOFFICE="24.2.4"
-export v_LIBREWOLF="127.0.1,1"
+export v_LIBREWOLF="127.0.2,2"
 export v_LINGON_X="8.4.9"
 export v_LMMS="1.2.2"
 export v_LOGSEQ="0.9.2"
@@ -681,7 +681,7 @@ export v_OPERA_MOBILE_EMULATOR="12.1"
 export v_OSXFUSE="3.11.2"
 export v_PENCIL="3.1.1"
 export v_PENCIL2D="0.6.6"
-export v_PGADMIN4="8.8"
+export v_PGADMIN4="8.9"
 export v_PHOENIX_CODE="3.5.6"
 export v_PLAYONMAC="4.4"
 export v_PLEX="1.33.0.2444-a220eae4"
@@ -724,7 +724,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Wed 6/26/2024-hhh6 - HoneyFishMINI - FireFoxDev
-# Last_Update: THu 6/27/2024-ddd6 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: THu 6/27/2024-ddd7 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
