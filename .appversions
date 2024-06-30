@@ -182,7 +182,7 @@ export v_IMATH="3.1.11"
 export v_IMAP_BACKUP="15.0.2"
 export v_IMAP_UW="2007f_1"
 export v_INTLTOOL="0.51.0_1"
-export v_IPYTHON="8.25.0"
+export v_IPYTHON="8.26.0"
 export v_ISL="0.26"
 export v_JACK="1.9.22_1"
 export v_JANSSON="2.14"
@@ -723,7 +723,7 @@ export v_ZETTLR="3.2.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Sun 6/30/2024-e7 - HoneyFishMINI - FireFoxDev
+# Last_Update: Sun 6/30/2024-ee6 - HoneyFishMINI - FireFoxDev
 # Last_Update: Sun 6/30/2024-ddd1 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
