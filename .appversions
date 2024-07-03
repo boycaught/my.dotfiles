@@ -365,7 +365,7 @@ export v_NPTH="1.7"
 export v_NSPR="4.35"
 export v_NSQ="1.2.1"
 export v_NSS="3.100"
-export v_NUMPY="1.26.4"
+export v_NUMPY="2.0.0"
 export v_OCAML="4.10.0"
 export v_OCTAVE="5.2.0_9"
 export v_OCTOSQL="0.13.0"
@@ -616,6 +616,7 @@ export v_DIFFUSIONBEE="2.5.1"
 export v_DIGIKAM="8.3.0"
 export v_DISCORD="0.0.259"
 export v_DOCKER_TOOLBOX="19.03.1"
+export v_DOLPHIN="2407"
 export v_DOTNET_SDK="8.0.302,5b488f80-2155-4b14-9865-50f328574283,e9126ea28af0375173a18e1d8a6a3086"
 export v_DROPBOX="111.4.472"
 export v_DUCKDUCKGO="1.68.0.93"
@@ -725,7 +726,7 @@ export v_ZETTLR="3.2.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: TUe 7/2/2024-e4 - HoneyFishMINI - FireFoxDev
+# Last_Update: Tue 7/2/2024-gg1 - HoneyFishMINI - FireFoxDev
 # Last_Update: Tue 7/2/2024-e4 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
