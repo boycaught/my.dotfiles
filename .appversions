@@ -488,7 +488,7 @@ export v_RSYNC="3.2.3"
 export v_RTMPDUMP="2.4-20151223_3"
 export v_RUBBERBAND="3.3.0"
 export v_RUBY="3.3.3"
-export v_RUBY_BUILD="20240702"
+export v_RUBY_BUILD="20240709.1"
 export v_RUFF="0.5.1"
 export v_RUNME="3.4.1"
 export v_RUST="1.79.0"
@@ -727,7 +727,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Tue 7/9/2024-ff3 - HoneyFishMINI - FireFoxDev
-# Last_Update: Tue 7/9/2024-ff3 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Tue 7/9/2024-ff6 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
