@@ -656,7 +656,7 @@ export v_KEKA="1.2.60"
 export v_KODI="21.0-Omega"
 export v_LAPCE="0.4.0"
 export v_LBRY="0.53.9"
-export v_LIBREOFFICE="24.2.4"
+export v_LIBREOFFICE="24.2.5"
 export v_LIBREWOLF="127.0.2,2"
 export v_LINGON_X="8.4.9"
 export v_LMMS="1.2.2"
@@ -727,7 +727,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Wed 7/10/2024-hh3 - HoneyFishMINI - FireFoxDev
-# Last_Update: Wed 7/10/2024-hh4 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Thu 7/11/2024-ddd1 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
