@@ -144,6 +144,7 @@ export v_GNUPLOT="5.4.0_1"
 export v_GNUTLS="3.8.4"
 export v_GO="1.22.5"
 export v_GOBJECT_INTROSPECTION="1.80.1"
+export v_GOOGLETEST="1.15.0"
 export v_GOX="1.0.1"
 export v_GPG_AGENT="2.0.31"
 export v_GPGME="1.23.2_1"
@@ -726,7 +727,7 @@ export v_ZETTLR="3.2.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Tue 7/16/2024-eee7 - HoneyFishMINI - FireFoxDev
+# Last_Update: Tue 7/16/2024-ggg6 - HoneyFishMINI - FireFoxDev
 # Last_Update: Tue 7/16/2024-eee7 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
