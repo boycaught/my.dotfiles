@@ -588,7 +588,7 @@ export v_ZSTD="1.5.6"
 export v_BOGUS="24.7.365" 
 
 ### Casks 
-export v_4K_VIDEO_DOWNLOADERPLUS="1.7.3"
+export v_4K_VIDEO_DOWNLOADERPLUS="1.8.0"
 export v_ADOPTOPENJDK8="8,292,b10"
 export v_ALTAIR_GRAPHQL_CLIENT="7.2.4"
 export v_ANKI="24.06.3"
@@ -728,7 +728,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Thu 7/18/2024-eee8 - HoneyFishMINI - FireFoxDev
-# Last_Update: Fri 7/19/2024-dd7 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Fri 7/19/2024-dd8 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
