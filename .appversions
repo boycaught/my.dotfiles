@@ -595,7 +595,7 @@ export v_ALTAIR_GRAPHQL_CLIENT="7.3.0"
 export v_ANKI="24.06.3"
 export v_ANKIAPP_ANKI="9.0.6"
 export v_ANOTHER_REDIS_DESKTOP_MANAGER="1.6.6"
-export v_AUDACITY="3.6.0"
+export v_AUDACITY="3.6.1"
 export v_AUDIO_HIJACK="3.7.1"
 export v_AVIDMUX="2.7.4"
 export v_BALENAETCHER="1.19.21"
@@ -730,7 +730,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Sun 7/21/2024-ccc6 - HoneyFishMINI - FireFoxDev
-# Last_Update: Sun 7/21/2024-d3 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Mon 7/22/2024-dd3 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
