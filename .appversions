@@ -367,7 +367,7 @@ export v_NPTH="1.7"
 export v_NSPR="4.35"
 export v_NSQ="1.2.1"
 export v_NSS="3.102"
-export v_NUMPY="2.0.0"
+export v_NUMPY="2.0.1"
 export v_OCAML="4.10.0"
 export v_OCTAVE="5.2.0_9"
 export v_OCTOSQL="0.13.0"
@@ -729,7 +729,7 @@ export v_ZETTLR="3.2.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Tue 7/23/2024-dd4 - HoneyFishMINI - FireFoxDev
+# Last_Update: Tue 7/23/2024-ee7 - HoneyFishMINI - FireFoxDev
 # Last_Update: Tue 7/23/2024-dd4 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
