@@ -612,7 +612,7 @@ export v_CLOUDYTABS="2.0"
 export v_CODEWHISPERER="0.13.0"
 export v_CURSOR="0.1.12"
 export v_DARKTABLE="4.8.0"
-export v_DB_BROWSER_FOR_SQLITE="3.12.2"
+export v_DB_BROWSER_FOR_SQLITE="3.13.0"
 export v_DEXED="0.9.7"
 export v_DIFFUSIONBEE="2.5.1"
 export v_DIGIKAM="8.4.0"
@@ -730,7 +730,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Mon 7/22/2024-dd3 - HoneyFishMINI - FireFoxDev
-# Last_Update: Mon 7/22/2024-dd3 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Tue 7/23/2024-dd4 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
