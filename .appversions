@@ -656,6 +656,7 @@ export v_KDENLIVE="23.08.3"
 export v_KEEPASSXC="2.7.9"
 export v_KEKA="1.2.60"
 export v_KODI="21.0-Omega"
+export v_KRITA="5.2.3"
 export v_LAPCE="0.4.0"
 export v_LBRY="0.53.9"
 export v_LIBREOFFICE="24.2.5"
@@ -696,7 +697,7 @@ export v_PROTONMAIL_BRIDGE="3.8.2"
 export v_PROTONMAIL_IMPORT_EXPORT="1.3.3"
 export v_PYCHARM_CE_WITH_ANACONDA_PLUGIN="2020.3.2,203.6682.179"
 export v_QUITERSS="0.19.4"
-export v_REAPER="7.18"
+export v_REAPER="7.19"
 export v_RSTUDIO="2024.04.2,764"
 export v_SCRIBUS="1.6.2"
 export v_SHOTCUT="24.02.29"
@@ -730,7 +731,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Tue 7/23/2024-ee7 - HoneyFishMINI - FireFoxDev
-# Last_Update: Tue 7/23/2024-dd4 - SilverSurferMBP - FireFoxDev via ssh
+# Last_Update: Wed 7/24/2024-ddd1 - SilverSurferMBP - FireFoxDev via ssh
 # Sync_Status: false
 
 # EOF
