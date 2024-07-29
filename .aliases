@@ -28,6 +28,7 @@ alias wmreboot='sudo /etc/webmin/restart'
 alias ytdl='yt-dlp'
 alias cleanbrew='sudo rm -fR ${HOME}/Library/Caches/Homebrew/* && sleep 2 && sudo purge && sleep 2 && cbonsai'
 alias autogetupdates='source ~/dotfiles/autogetupdates.sh'
+alias infonix='nix-shell -p nix-info --run "nix-info -m"'
 
 ## FF X => FIND FILE NAMED X
 alias ff="find . -name \!:1 -print"     
