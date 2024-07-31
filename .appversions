@@ -36,7 +36,7 @@ export v_BROTLI="1.1.0"
 export v_BUF="1.35.1"
 export v_C_ARES="1.32.3"
 export v_CA_CERTIFICATES="2024-07-02"
-export v_CABAL_INSTALL="3.10.3.0"
+export v_CABAL_INSTALL="3.12.1.0"
 export v_CADDY="2.8.4"
 export v_CAIRO="1.18.0"
 export v_CAPSTONE="5.0.1"
@@ -223,7 +223,7 @@ export v_LIBASS="0.17.3"
 export v_LIBASSUAN="2.5.7"
 export v_LIBATOMIC_OPS="7.8.2"
 export v_LIBAV="12.3_8"
-export v_LIBAVIF="1.1.0"
+export v_LIBAVIF="1.1.1"
 export v_LIBBLURAY="1.3.4"
 export v_LIBCERF="2.0"
 export v_LIBCYTHON="3.0.7"
@@ -732,7 +732,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Tue 7/30/2024-ddd1 - HoneyFishMINI - LibreWolf
-# Last_Update: Tue 7/30/2024-ddd1 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Fri 7/31/2024-ddd1 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
