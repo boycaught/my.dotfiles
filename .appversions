@@ -591,7 +591,7 @@ export v_ZSTD="1.5.6"
 export v_BOGUS="24.7.365" 
 
 ### Casks 
-export v_4K_VIDEO_DOWNLOADERPLUS="1.8.1"
+export v_4K_VIDEO_DOWNLOADERPLUS="1.8.2"
 export v_ADOPTOPENJDK8="8,292,b10"
 export v_ALTAIR_GRAPHQL_CLIENT="7.3.4"
 export v_ANKI="24.06.3"
@@ -634,7 +634,7 @@ export v_FL_STUDIO="24.1.1.3888"
 export v_FLUID="2.1.2"
 export v_FLYCUT="1.9.6"
 export v_FREAC="1.1.7"
-export v_GDEVELOP="5.4.206"
+export v_GDEVELOP="5.4.207"
 export v_GENYMOTION="3.5.1"
 export v_GEPHI="0.10.1"
 export v_GHOST_BROWSER="2.1.5.3"
@@ -732,7 +732,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Tue 7/30/2024-ddd1 - HoneyFishMINI - LibreWolf
-# Last_Update: Fri 7/31/2024-ddd1 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Fri 7/31/2024-ddd2 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
