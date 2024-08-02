@@ -591,7 +591,7 @@ export v_ZSTD="1.5.6"
 export v_BOGUS="24.7.365" 
 
 ### Casks 
-export v_4K_VIDEO_DOWNLOADERPLUS="1.8.2"
+export v_4K_VIDEO_DOWNLOADERPLUS="1.8.3"
 export v_ADOPTOPENJDK8="8,292,b10"
 export v_ALTAIR_GRAPHQL_CLIENT="7.3.4"
 export v_ANKI="24.06.3"
