@@ -7,9 +7,9 @@ MY_APPS="/Applications"
 MY_VIDEOS="$HOME/Movies/dl/__PROCESSING/__dlp/"
 
 ## JAVA PATHS
-JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk$v_JRE.jdk/Contents/Home"
-JVM_HOME="/Library/Java/JavaVirtualMachines/jdk$v_JRE.jdk/Contents/Home"
-JDK_HOME="/Library/Java/JavaVirtualMachines/jdk$v_JDK.jdk/Contents/Home"
+JAVA_HOME="/Library/Java/JavaVirtualMachines/$v_JRE.jdk/Contents/Home"
+JVM_HOME="/Library/Java/JavaVirtualMachines/$v_JRE.jdk/Contents/Home"
+JDK_HOME="/Library/Java/JavaVirtualMachines/$v_JDK.jdk/Contents/Home"
 JAVA_OPTS="-Xms512m -Xmx2048m -Djava.awt.headless=true"
 
 ## CUSTOM PATHS
