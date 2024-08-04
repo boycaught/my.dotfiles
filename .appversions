@@ -394,7 +394,6 @@ export v_OPENVINO="2024.1.0"
 export v_OPUS="1.5.2"
 export v_OPUSFILE="0.12_1"
 export v_ORC="0.4.39"
-export v_OVEN_SH_BUN_BUN="1.1.21"
 export v_P11_KIT="0.25.3"
 export v_PACKER="1.9.4"
 export v_PANDOC="3.3"
@@ -731,7 +730,7 @@ export v_ZETTLR="3.2.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Sat 8/3/2024-ddd4 - HoneyFishMINI - LibreWolf
+# Last_Update: Sun 8/4/2024-d2 - HoneyFishMINI - LibreWolf
 # Last_Update: Sun 8/4/2024-d2 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
