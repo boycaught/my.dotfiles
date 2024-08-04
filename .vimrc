@@ -5,7 +5,15 @@ set nocompatible
 set t_Co=256
 set background=dark
 syntax on
-colorscheme badwolf
+" colorscheme badwolf
+
+" ------ New additions - 20240423-h2 ------
+colorscheme monokai
+set number
+" python from powerline.vim import setup as powerline_setup
+" python powerline_setup()
+" python del powerline_setup
+" -----------------------------------------
 
 " Enabled later, after Pathogen
 filetype off

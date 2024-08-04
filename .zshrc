@@ -1,3 +1,5 @@
+# Q pre block. Keep at the top of this file.
+[[ -f "${HOME}/Library/Application Support/amazon-q/shell/zshrc.pre.zsh" ]] && builtin source "${HOME}/Library/Application Support/amazon-q/shell/zshrc.pre.zsh"
 #!/bin/zsh
 ## updated to v_2023.05.26
 
@@ -145,20 +147,23 @@ export PATH="/Users/larry_green/.rd/bin:$PATH"
 ### CONDA SETUP FOR AI DEV --- START ---
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/Users/larry_green/.pyenv/versions/miniconda3-latest/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
-if [ $? -eq 0 ]; then
-    eval "$__conda_setup"
-else
-    if [ -f "/Users/larry_green/.pyenv/versions/miniconda3-latest/etc/profile.d/conda.sh" ]; then
-        . "/Users/larry_green/.pyenv/versions/miniconda3-latest/etc/profile.d/conda.sh"
-    else
-        export PATH="/Users/larry_green/.pyenv/versions/miniconda3-latest/bin:$PATH"
-    fi
-fi
-unset __conda_setup
+# __conda_setup="$('/Users/larry_green/.pyenv/versions/miniconda3-latest/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+# if [ $? -eq 0 ]; then
+#     eval "$__conda_setup"
+# else
+#     if [ -f "/Users/larry_green/.pyenv/versions/miniconda3-latest/etc/profile.d/conda.sh" ]; then
+#         . "/Users/larry_green/.pyenv/versions/miniconda3-latest/etc/profile.d/conda.sh"
+#     else
+#         export PATH="/Users/larry_green/.pyenv/versions/miniconda3-latest/bin:$PATH"
+#     fi
+# fi
+# unset __conda_setup
 # <<< conda initialize <<<
 ### CONDA SETUP FOR AI DEV --- END ---
 
 
 #LastUpdated: 08/16/2023
 #v2023.08.14
+
+# Q post block. Keep at the bottom of this file.
+[[ -f "${HOME}/Library/Application Support/amazon-q/shell/zshrc.post.zsh" ]] && builtin source "${HOME}/Library/Application Support/amazon-q/shell/zshrc.post.zsh"
