@@ -633,7 +633,7 @@ export v_FL_STUDIO="24.1.1.3888"
 export v_FLUID="2.1.2"
 export v_FLYCUT="1.9.6"
 export v_FREAC="1.1.7"
-export v_GDEVELOP="5.4.207"
+export v_GDEVELOP="5.4.208"
 export v_GENYMOTION="3.5.1"
 export v_GEPHI="0.10.1"
 export v_GHOST_BROWSER="2.1.5.3"
@@ -647,7 +647,7 @@ export v_GRAMPS="5.2.3,1"
 export v_HYPER="3.4.1"
 export v_IINA="1.3.1"
 export v_INKSCAPE="1.3.1"
-export v_JELLYFIN="10.9.8"
+export v_JELLYFIN="10.9.9"
 export v_JELLYFIN_MEDIA_PLAYER="1.11.1"
 export v_JOPLIN="3.0.14"
 export v_JULIA="1.10.4"
@@ -730,7 +730,7 @@ export v_ZETTLR="3.2.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Sun 8/4/2024-d2 - HoneyFishMINI - LibreWolf
+# Last_Update: Mon 8/5/2024-ff8 - HoneyFishMINI - LibreWolf
 # Last_Update: Sun 8/4/2024-d2 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
