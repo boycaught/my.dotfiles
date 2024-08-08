@@ -411,6 +411,7 @@ export v_PIXMAN="0.42.2"
 export v_PKG_CONFIG="0.29.2_3"
 export v_PMIX="5.0.3"
 export v_PNGQUANT="2.12.5"
+export v_POETRY="1.8.3"
 export v_POPPLER="24.04.0_1"
 export v_POPT="1.19"
 export v_POSTGRAPHILE="4.13.0"
@@ -731,7 +732,7 @@ export v_ZETTLR="3.2.0"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Wed 8/7/2024-ee4- HoneyFishMINI - LibreWolf
+# Last_Update: Thu 8/8/2024-d2- HoneyFishMINI - LibreWolf
 # Last_Update: Thu 8/8/2024-ccc6 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
