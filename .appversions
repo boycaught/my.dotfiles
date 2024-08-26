@@ -651,7 +651,7 @@ export v_GRAMPS="5.2.3,1"
 export v_HYPER="3.4.1"
 export v_IINA="1.3.1"
 export v_INKSCAPE="1.3.1"
-export v_JELLYFIN="10.9.9"
+export v_JELLYFIN="10.9.10"
 export v_JELLYFIN_MEDIA_PLAYER="1.11.1"
 export v_JOPLIN="3.0.15"
 export v_JULIA="1.10.4"
@@ -661,7 +661,7 @@ export v_KEEPASSXC="2.7.9"
 export v_KEKA="1.2.60"
 export v_KODI="21.1-Omega"
 export v_KRITA="5.2.3"
-export v_LAPCE="0.4.1"
+export v_LAPCE="0.4.2"
 export v_LBRY="0.53.9"
 export v_LIBREOFFICE="24.8.0"
 export v_LIBREWOLF="129.0.2,1"
@@ -735,7 +735,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Fri 8/23/2024-eee4 - HoneyFishMINI - LibreWolf
-# Last_Update: Sat 8/24/2024-f8 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Sun 8/25/2024-ddd6 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
