@@ -9,7 +9,7 @@ export v_ANSIBLE="10.3.0"
 export v_ANT="1.10.14"
 export v_AOM="3.9.1"
 export v_APIBUILDER_CLI="0.1.37"
-export v_APR="1.7.4"
+export v_APR="1.7.5"
 export v_APR_UTIL="1.6.3_1"
 export v_ARGON2="20190702_1"
 export v_ARPACK="3.7.0_5"
@@ -123,7 +123,7 @@ export v_FREETYPE="2.13.3"
 export v_FREI0R="2.3.3"
 export v_FRIBIDI="1.0.15"
 export v_GAWK="5.1.0"
-export v_GCC="14.1.0_2"
+export v_GCC="14.2.0"
 export v_GD="2.3.3_6"
 export v_GDBM="1.24"
 export v_GDK_PIXBUF="2.42.12"
@@ -735,7 +735,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Sun 8/25/2024-ddd6 - HoneyFishMINI - LibreWolf
-# Last_Update: Sun 8/25/2024-ddd6 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Mon 8/26/2024-ddd7 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
