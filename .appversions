@@ -594,7 +594,7 @@ export v_BOGUS="24.7.365"
 ### Casks 
 export v_4K_VIDEO_DOWNLOADERPLUS="1.8.5"
 export v_ADOPTOPENJDK8="8,292,b10"
-export v_ALTAIR_GRAPHQL_CLIENT="7.3.5"
+export v_ALTAIR_GRAPHQL_CLIENT="7.3.6"
 export v_ANKI="24.06.3"
 export v_ANKIAPP_ANKI="9.0.6"
 export v_ANOTHER_REDIS_DESKTOP_MANAGER="1.6.7"
@@ -726,7 +726,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Thu 9/12/2024-d4 - HoneyFishMINI - LibreWolf
-# Last_Update: Fri 9/13/2024-ddd2 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Sat 9/15/2024-f2 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
