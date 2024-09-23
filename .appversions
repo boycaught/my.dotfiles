@@ -136,7 +136,7 @@ export v_GIFLIB="5.2.2"
 export v_GIT="2.46.0"
 export v_GIT_CREDENTIAL_OAUTH="0.13.2"
 export v_GL2PS="1.4.2"
-export v_GLIB="2.82.0"
+export v_GLIB="2.82.1"
 export v_GLIBMM="@2.66 2.66.6"
 export v_GLIDE="0.13.3"
 export v_GLOG="0.6.0"
@@ -605,7 +605,7 @@ export v_AVIDMUX="2.7.4"
 export v_BALENAETCHER="1.19.21"
 export v_BEEPER="3.105.2"
 export v_BLENDER="4.2.1"
-export v_BLUEFISH="2.2.12"
+export v_BLUEFISH="2.2.16"
 export v_BRAVE_BROWSER_BETA="1.66.90.0"
 export v_BRAVE_BROWSER_NIGHTLY="1.67.42.0"
 export v_BREWSERVICESMENUBAR="4.1"
@@ -686,7 +686,7 @@ export v_OSXFUSE="3.11.2"
 export v_PDF_TOOLBOX="2.0.2"
 export v_PENCIL="3.1.1"
 export v_PENCIL2D="0.7.0"
-export v_PGADMIN4="8.11"
+export v_PGADMIN4="8.12"
 export v_PHOENIX_CODE="3.5.6"
 export v_PLAYONMAC="4.4"
 export v_PLEX="1.33.0.2444-a220eae4"
@@ -727,7 +727,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Fri 9/20/2024-dd2 - HoneyFishMINI - LibreWolf
-# Last_Update: Sun 9/22/2024-dd7 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Mon 9/23/2024-d8 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
