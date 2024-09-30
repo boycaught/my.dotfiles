@@ -363,7 +363,7 @@ export v_NEOVIM="0.10.1"
 export v_NETCDF="4.9.2_2"
 export v_NETPBM="11.02.11"
 export v_NETTLE="3.10"
-export v_NGHTTP2="1.61.0"
+export v_NGHTTP2="1.63.0"
 export v_NGINX="1.27.1"
 export v_NINJA="1.12.1"
 export v_NMAP="7.11"
@@ -727,7 +727,7 @@ export v_ZETTLR="3.2.1"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Mon 9/30/2024-dd2 - HoneyFishMINI - LibreWolf
+# Last_Update: Mon 9/30/2024-ddd2 - HoneyFishMINI - LibreWolf
 # Last_Update: Fri 9/27/2024-e3 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
