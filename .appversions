@@ -631,7 +631,7 @@ export v_DOTNET_SDK="8.0.402,b98e1dbc-5ba2-446c-b294-0cd01392a91d,13afc1c75aa0ba
 export v_DROPBOX="111.4.472"
 export v_DUCKDUCKGO="1.68.0.93"
 export v_ELECTRON="32.1.2"
-export v_EMBYSERVER="4.8.9.0"
+export v_EMBYSERVER="4.8.10.0"
 export v_FAKE="1.9.1"
 export v_FIGMA="116.15.15"
 export v_FIRECAMP="2.6.1"
@@ -665,7 +665,7 @@ export v_KEEPASSXC="2.7.9"
 export v_KEKA="1.2.60"
 export v_KEKAEXTERNALHELPER="1.2.0,1.4.4"
 export v_KODI="21.1-Omega"
-export v_KRITA="5.2.5"
+export v_KRITA="5.2.6"
 export v_LAPCE="0.4.2"
 export v_LBRY="0.53.9"
 export v_LIBREOFFICE="24.8.2"
@@ -733,7 +733,7 @@ export v_ZETTLR="3.2.1"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Tue 10/1/2024-ddd7 - HoneyFishMINI - LibreWolf
+# Last_Update: Tue 10/1/2024-e2 - HoneyFishMINI - LibreWolf
 # Last_Update: Fri 9/27/2024-e3 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
