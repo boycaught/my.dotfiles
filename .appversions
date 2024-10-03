@@ -729,12 +729,12 @@ export v_VSCODIUM="1.74.2.22355"
 export v_WATERFOX="6.0.19"
 export v_WEBCAMOID="9.0.0"
 export v_XNVIEWMP="1.6.5"
-export v_ZETTLR="3.2.1"
+export v_ZETTLR="3.2.2"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Tue 10/1/2024-e2 - HoneyFishMINI - LibreWolf
-# Last_Update: Fri 9/27/2024-e3 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Wed 10/2/2024-ggg7 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
