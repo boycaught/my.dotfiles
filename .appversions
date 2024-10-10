@@ -609,7 +609,7 @@ export v_ANOTHER_REDIS_DESKTOP_MANAGER="1.6.7"
 export v_AUDACITY="3.6.4"
 export v_AUDIO_HIJACK="3.7.1"
 export v_AVIDMUX="2.7.4"
-export v_BALENAETCHER="1.19.21"
+export v_BALENAETCHER="1.19.25"
 export v_BEEPER="3.105.2"
 export v_BLENDER="4.2.2"
 export v_BLUEFISH="2.2.16"
@@ -732,7 +732,7 @@ export v_ZETTLR="3.2.2"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Tue 10/8/2024-e6 - HoneyFishMINI - LibreWolf
+# Last_Update: Thu 10/10/2024-ee2 - HoneyFishMINI - LibreWolf
 # Last_Update: Wed 10/9/2024-h8 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
