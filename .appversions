@@ -640,7 +640,7 @@ export v_FL_STUDIO="24.1.1.3936"
 export v_FLUID="2.1.2"
 export v_FLYCUT="1.9.6"
 export v_FREAC="1.1.7"
-export v_GDEVELOP="5.4.213"
+export v_GDEVELOP="5.4.215"
 export v_GENYMOTION="3.5.1"
 export v_GEPHI="0.10.1"
 export v_GHOST_BROWSER="2.1.5.3"
@@ -725,7 +725,7 @@ export v_VIRTUALBOX="7.1.2,164945"
 export v_VIVALDI="5.7.2921.53"
 export v_VNC_VIEWER="7.12.1"
 export v_VSCODIUM="1.74.2.22355"
-export v_WATERFOX="6.0.19"
+export v_WATERFOX="6.0.20"
 export v_WEBCAMOID="9.0.0"
 export v_XNVIEWMP="1.6.5"
 export v_ZETTLR="3.2.2"
@@ -733,7 +733,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Thu 10/10/2024-ee2 - HoneyFishMINI - LibreWolf
-# Last_Update: Wed 10/9/2024-h8 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Fri 10/11/2024-ggg7 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
