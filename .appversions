@@ -609,7 +609,7 @@ export v_ALTAIR_GRAPHQL_CLIENT="8.0.0"
 export v_ANKI="24.06.3"
 export v_ANKIAPP_ANKI="9.0.6"
 export v_ANOTHER_REDIS_DESKTOP_MANAGER="1.6.7"
-export v_AUDACITY="3.6.4"
+export v_AUDACITY="3.7.0"
 export v_AUDIO_HIJACK="3.7.1"
 export v_AVIDMUX="2.7.4"
 export v_BALENAETCHER="1.19.25"
@@ -639,7 +639,7 @@ export v_FAKE="1.9.1"
 export v_FIGMA="116.15.15"
 export v_FIRECAMP="2.6.1"
 export v_FISSION="2.8.4"
-export v_FL_STUDIO="24.1.2.4038"
+export v_FL_STUDIO="24.1.2.4074"
 export v_FLUID="2.1.2"
 export v_FLYCUT="1.9.6"
 export v_FREAC="1.1.7"
@@ -728,7 +728,7 @@ export v_VIRTUALBOX="7.1.4,165100"
 export v_VIVALDI="5.7.2921.53"
 export v_VNC_VIEWER="7.12.1"
 export v_VSCODIUM="1.74.2.22355"
-export v_WATERFOX="6.0.20"
+export v_WATERFOX="6.5.0"
 export v_WEBCAMOID="9.0.0"
 export v_XNVIEWMP="1.6.5"
 export v_ZETTLR="3.2.3"
@@ -736,7 +736,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Tue 10/29/2024-f5 - HoneyFishMINI - LibreWolf
-# Last_Update: Tue 10/29/2024-f5 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Thu 10/31/2024-dd4 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
