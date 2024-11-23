@@ -181,7 +181,7 @@ export v_HIMALAYA="0.9.0"
 export v_HTOP="3.3.0"
 export v_HTTPD="2.4.62"
 export v_HTTPING="2.9"
-export v_HUGO="0.139.0"
+export v_HUGO="0.139.2"
 export v_HWLOC="2.11.2"
 export v_HUNSPELL="1.7.2"
 export v_HYPERKIT="0.20200224_1"
@@ -307,7 +307,7 @@ export v_LIBXMP="4.6.0"
 export v_LIBXRENDER="0.9.11"
 export v_LIBXTST="1.2.5"
 export v_LIBYAML="0.2.4"
-export v_LIBZIP="1.11.1"
+export v_LIBZIP="1.11.2"
 export v_LIGHTTPD="1.4.76"
 export v_LIT="18.1.8"
 export v_LITTLE_CMS2="2.16"
@@ -736,7 +736,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Mon 11/18/2024-cc7 - HoneyFishMINI - LibreWolf
-# Last_Update: Wed 11/20/2024-fff4 - SilverSurferMBP - LibreWolf via ssh
+# Last_Update: Sat 11/23/2024-ee4 - SilverSurferMBP - LibreWolf via ssh
 # Sync_Status: false
 
 # EOF
