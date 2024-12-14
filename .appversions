@@ -560,7 +560,7 @@ export v_UNZIP="6.0_8"
 export v_UTF8CPP="4.0.5"
 export v_UTF8PROC="2.9.0"
 export v_UTIL_MACROS="1.20.2"
-export v_UV="0.5.8"
+export v_UV="0.5.9"
 export v_VALA="0.56.14"
 export v_VAPOURSYNTH="70.11"
 export v_VECLIBFORT="0.4.2_7"
@@ -739,7 +739,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Fri 12/13/2024-ccc6 - HoneyFishMINI - FireFoxDev
-# Last_Update: Thu 12/12/2024-ff3 - SilverSurferMBP - FireFoxDev
+# Last_Update: Fri 12/13/2024-fff7 - SilverSurferMBP - FireFoxDev
 # Sync_Status: false
 
 # EOF
