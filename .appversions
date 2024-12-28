@@ -117,7 +117,7 @@ export v_FLAC="1.4.3"
 export v_FLIT="3.9.0_6"
 export v_FLTK="1.3.5"
 export v_FLUID_SYNTH="2.4.1"
-export v_FMT="11.0.2"
+export v_FMT="11.1.0"
 export v_FONTCONFIG="2.15.0"
 export v_FREECIV="3.0.5"
 export v_FREETDS="1.4.24"
@@ -552,6 +552,7 @@ export v_TEXINFO="6.7"
 export v_TIDY_HTML5="5.6.0"
 export v_TLDR="1.6.1"
 export v_TMUX="3.5a"
+export v_TODO_TXT="2.13.0"
 export v_TOMCAT="10.1.5"
 export v_TREE="2.2.0"
 export v_TREE_SITTER="0.24.5"
@@ -740,7 +741,7 @@ export v_ZETTLR="3.2.3"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Mon 12/23/2024-gg2 - HoneyFishMINI - FireFoxDev
+# Last_Update: Thu 12/26/2024-dd4 - HoneyFishMINI - FireFoxDev
 # Last_Update: Mon 12/23/2024-h7 - SilverSurferMBP - FireFoxDev
 # Sync_Status: false
 
