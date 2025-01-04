@@ -1,6 +1,6 @@
-#!/bin/zsh
-# Amazon Q pre block. Keep at the top of this file.
+# Q pre block. Keep at the top of this file.
 [[ -f "${HOME}/Library/Application Support/amazon-q/shell/zshrc.pre.zsh" ]] && builtin source "${HOME}/Library/Application Support/amazon-q/shell/zshrc.pre.zsh"
+#!/bin/zsh
 ## updated to v_2023.05.26
 
 # Prefer US English and use UTF-8
@@ -164,7 +164,8 @@ export PATH="/Users/larry_green/.rd/bin:$PATH"
 
 #LastUpdated: 08/04/2024
 #LastUpdated: 08/16/2023
-#v2023.08.14
+#LastUpdated: 01/03/2025
+#v2025.01.03
 
-# Amazon Q post block. Keep at the bottom of this file.
+# Q post block. Keep at the bottom of this file.
 [[ -f "${HOME}/Library/Application Support/amazon-q/shell/zshrc.post.zsh" ]] && builtin source "${HOME}/Library/Application Support/amazon-q/shell/zshrc.post.zsh"
