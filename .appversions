@@ -506,7 +506,7 @@ export v_RTMPDUMP="2.4-20151223_3"
 export v_RUBBERBAND="3.3.0"
 export v_RUBY="3.4.1"
 export v_RUBY_BUILD="20241225.2"
-export v_RUFF="0.8.6"
+export v_RUFF="0.9.1"
 export v_RUNME="3.10.2"
 export v_RUST="1.83.0_1"
 export v_RUSTUP_INIT="1.27.1_1"
@@ -563,7 +563,7 @@ export v_UNZIP="6.0_8"
 export v_UTF8CPP="4.0.5"
 export v_UTF8PROC="2.10.0"
 export v_UTIL_MACROS="1.20.2"
-export v_UV="0.5.16"
+export v_UV="0.5.17"
 export v_VALA="0.56.14"
 export v_VAPOURSYNTH="70.11"
 export v_VECLIBFORT="0.4.2_7"
@@ -742,7 +742,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Thu 1/9/2025-ddd6 - HoneyFishMINI - FireFoxDev
-# Last_Update: Thu 1/9/2025-e4 - SilverSurferMBP - FireFoxDev
+# Last_Update: Fri 1/10/2025-gg2 - SilverSurferMBP - FireFoxDev
 # Sync_Status: false
 
 # EOF
