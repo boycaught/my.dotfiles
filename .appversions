@@ -682,7 +682,7 @@ export v_KRITA="5.2.6"
 export v_LAPCE="0.4.2"
 export v_LBRY="0.53.9"
 export v_LIBREOFFICE="24.8.3"
-export v_LIBREWOLF="132.0.2,1"
+export v_LIBREWOLF="134.0.2,1"
 export v_LINGON_X="8.4.9"
 export v_LMMS="1.2.2"
 export v_LOGSEQ="0.9.2"
@@ -723,7 +723,7 @@ export v_SQLELECTRON="1.38.0"
 export v_STORYBOARDER="3.0.0"
 export v_SURGE_SYNTHESIZER="1.9.0"
 export v_SUPERPRODUCTIVITY="7.12.2"
-export v_TEMURIN="@8 8,432,06"
+export v_TEMURIN="@8 8,442,06"
 export v_THEBRAIN="14.0.103.0"
 export v_TINDERBOX="10.0.2"
 export v_TREZOR_BRIDGE="2.0.27"
@@ -746,7 +746,7 @@ export v_ZETTLR="3.2.3"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Sat 1/25/2025-ee6 - HoneyFishMINI - FireFoxDev
+# Last_Update: Sat 1/25/2025-eee1 - HoneyFishMINI - FireFoxDev
 # Last_Update: Fri 1/24/2025-f1 - SilverSurferMBP - FireFoxDev
 # Sync_Status: false
 
