@@ -29,7 +29,7 @@ export v_BDW_GC="8.2.8"
 export v_BERKELEY_DB="18.1.40_2"
 export v_BERKELEY_DB5="@5 5.3.28"
 export v_BINARYEN="121"
-export v_BITWARDEN_CLI="2025.1.2"
+export v_BITWARDEN_CLI="2025.1.3"
 export v_BLACK="25.1.0"
 export v_BOOST="1.87.0"
 export v_BOTTOM="0.10.2"
@@ -734,7 +734,7 @@ export v_VAGRANT="2.4.2"
 export v_VANILLA="2.0.2,48"
 export v_VB_CABLE="108"
 export v_VCV_RACK="2.5.2"
-export v_VERACRYPT="1.26.19"
+export v_VERACRYPT="1.26.20"
 export v_VIENNA="3.7.3,7560"
 export v_VIRTUALBOX="7.1.6,167084"
 export v_VIVALDI="5.7.2921.53"
@@ -748,7 +748,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Thu 2/6/2025-dd2 - HoneyFishMINI - FireFoxDev
-# Last_Update: Wed 2/5/2025-dd1 - SilverSurferMBP - FireFoxDev
+# Last_Update: Thu 2/6/2025-dd7 - SilverSurferMBP - FireFoxDev
 # Sync_Status: false
 
 # EOF
