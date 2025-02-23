@@ -373,7 +373,7 @@ export v_NAVE="3.5.2"
 export v_NCURSES="6.5"
 export v_NEO4J="5.4.0"
 export v_NEOFETCH="7.1.0"
-export v_NEOVIM="0.10.4"
+export v_NEOVIM="0.10.4_1"
 export v_NETCDF="4.9.2_2"
 export v_NETPBM="11.02.11"
 export v_NETTLE="3.10.1"
@@ -565,7 +565,7 @@ export v_TMUX="3.5a"
 export v_TODO_TXT="2.13.0"
 export v_TOMCAT="10.1.5"
 export v_TREE="2.2.0"
-export v_TREE_SITTER="0.24.7"
+export v_TREE_SITTER="0.25.2"
 export v_TREZOR_BRIDGE="2.0.32"
 export v_UNBOUND="1.22.0"
 export v_UNIXODBC="2.3.12"
@@ -752,7 +752,7 @@ export v_ZETTLR="3.2.3"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Fri 2/21/2025-ccc8 - HoneyFishMINI - LibreWolf 134.0.2-1
+# Last_Update: Sat 2/22/2025-fff6 - HoneyFishMINI - LibreWolf 134.0.2-1
 # Last_Update: Thu 2/20/2025-d1 - SilverSurferMBP - LibreWolf 134.0.2-1
 # Sync_Status: true
 
