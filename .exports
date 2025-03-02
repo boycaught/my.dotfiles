@@ -16,6 +16,10 @@ export HISTTIMEFORMAT
 # Make some commands not show up in history
 export HISTIGNORE="ls:ls *:cd:cd -:pwd;exit:date:* --help"
 
+# GITHubh
+export GIT_AUTHOR_NAME="boycaught"
+export GIT_AUTHOR_EMAIL="github.bot@lagtime.com"
+
 # VPS dev servers
 export VM_HONEYFISH="larry_green@honeyfishmini.local"
 export VM_SILVERSURFER="larry_green@silversurfermbp.local"
