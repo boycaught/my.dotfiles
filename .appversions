@@ -764,7 +764,7 @@ export v_USBIMAGER="1.0.10"
 export v_VAGRANT="2.4.2"
 export v_VANILLA="2.0.2,48"
 export v_VB_CABLE="108"
-export v_VCV_RACK="2.6.3"
+export v_VCV_RACK="2.6.4"
 export v_VERACRYPT="1.26.20"
 export v_VIENNA="3.7.3,7560"
 export v_VIRTUALBOX="7.1.8,168469"
@@ -779,7 +779,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Sat 4/19/2025-eee7 - HoneyFishMINI - LibreWolf 134.0.2-1
-# Last_Update: Fri 4/18/2025-ff6 - SilverSurferMBP - LibreWolf 134.0.2-1
+# Last_Update: Sat 4/19/2025-eee7 - SilverSurferMBP - LibreWolf 134.0.2-1
 # Sync_Status: false
 
 # EOF
