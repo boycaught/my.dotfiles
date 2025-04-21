@@ -675,6 +675,7 @@ export v_FIGMA="116.15.15"
 export v_FIRECAMP="2.6.1"
 export v_FISSION="2.8.4"
 export v_FL_STUDIO="24.1.2.4074"
+export v_FLOORP="11.25.0"
 export v_FLOTATO="36,1"
 export v_FLUID="2.1.2"
 export v_FLYCUT="1.9.6"
@@ -723,12 +724,14 @@ export v_MICROSOFT_GIT_GIT_CREDENTIAL_MANAGER_CORE="2.3.0"
 export v_MINECRAFT="933,1"
 export v_MIXXX="2.4.1"
 export v_MOUNTAIN_DUCK="4.14.0.21323"
+export v_MULLVAD_BROWSER="14.0.9"
 export v_MUSESCORE="4.1.1.232071203"
 export v_NEXTCLOUD="3.5.3"
 export v_OBSIDIAN="1.0.0"
 export v_ONLYOFFICE="7.3.0"
 export v_OPENSHOT_VIDEO_EDITOR="3.3.0"
 export v_OPENTOONZ="1.7.1"
+export v_ORION="0.99,132.0.3"
 export v_OSXFUSE="3.11.2"
 export v_PDF_TOOLBOX="2.0.2"
 export v_PENCIL="3.1.1"
@@ -778,8 +781,8 @@ export v_ZETTLR="3.2.3"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Sun 4/20/2025-ee8 - HoneyFishMINI - LibreWolf 134.0.2-1
-# Last_Update: Sun 4/20/2025-ee8 - SilverSurferMBP - LibreWolf 134.0.2-1
+# Last_Update: Sun 4/20/2025-gg5 - HoneyFishMINI - LibreWolf 134.0.2-1
+# Last_Update: Sun 4/20/2025-gg5 - SilverSurferMBP - LibreWolf 134.0.2-1
 # Sync_Status: false
 
 # EOF
