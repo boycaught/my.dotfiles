@@ -47,7 +47,7 @@ export v_CAIROMM="@1.14 1.14.5"
 export v_CAPSTONE="5.0.5"
 export v_CARGO_C="0.10.12"
 export v_CBONSAI="1.3.1"
-export v_CERTIFI="2025.1.31"
+export v_CERTIFI="2025.4.26"
 export v_CERTBOT="4.0.0"
 export v_CERES_SOLVER="2.1.0_1"
 export v_CFFI="1.17.1_1"
@@ -182,7 +182,7 @@ export v_GTS="0.7.6_3"
 export v_GUILE="3.0.9_1"
 export v_H2O="2.2.6_3"
 export v_HARFBUZZ="11.1.0"
-export v_HATCH="1.14.1"
+export v_HATCH="1.14.1_1"
 export v_HDF5="1.14.6"
 export v_HELIX="25.01.1"
 export v_HELM="3.17.3"
@@ -783,8 +783,8 @@ export v_ZETTLR="3.2.3"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Fri 4/25/2025-dd3 - HoneyFishMINI - LibreWolf 134.0.2-1
-# Last_Update: Sat 4/26/2025-ddd4 - SilverSurferMBP - LibreWolf 134.0.2-1
+# Last_Update: Sun 4/27/2025-dd7 - HoneyFishMINI - LibreWolf 134.0.2-1
+# Last_Update: Sun 4/27/2025-dd7 - SilverSurferMBP - LibreWolf 134.0.2-1
 # Sync_Status: false
 
 # EOF
