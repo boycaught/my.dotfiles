@@ -181,7 +181,7 @@ export v_GTKMM3="3.24.10"
 export v_GTS="0.7.6_3"
 export v_GUILE="3.0.9_1"
 export v_H2O="2.2.6_3"
-export v_HARFBUZZ="11.1.0"
+export v_HARFBUZZ="11.2.0"
 export v_HATCH="1.14.1_1"
 export v_HDF5="1.14.6"
 export v_HELIX="25.01.1"
@@ -351,7 +351,7 @@ export v_MBEDTLS2="@2 2.28.10"
 export v_MD4C="0.5.1"
 export v_MD5DEEP="4.4_1"
 export v_MERCURIAL="7.0.1"
-export v_MESON="1.7.2"
+export v_MESON="1.8.0"
 export v_METABASE="0.54.3"
 export v_MICRO_INETD="2014-08-14"
 export v_MINIKUBE="1.12.3"
@@ -530,7 +530,7 @@ export v_RUBBERBAND="3.3.0"
 export v_RUBY="3.4.3"
 export v_RUBY_BUILD="20250424"
 export v_RUFF="0.11.7"
-export v_RUNME="3.13.1"
+export v_RUNME="3.13.2"
 export v_RUST="1.86.0"
 export v_RUSTUP="1.28.1"
 export v_RUSTUP_INIT="1.27.1_1"
@@ -783,8 +783,8 @@ export v_ZETTLR="3.2.3"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Mon 4/28/2025-ee5 - HoneyFishMINI - LibreWolf 134.0.2-1
-# Last_Update: Mon 4/28/2025-ee5 - SilverSurferMBP - LibreWolf 134.0.2-1
+# Last_Update: Tue 4/29/2025-dd4 - HoneyFishMINI - LibreWolf 134.0.2-1
+# Last_Update: Tue 4/29/2025-dd4 - SilverSurferMBP - LibreWolf 134.0.2-1
 # Sync_Status: false
 
 # EOF
