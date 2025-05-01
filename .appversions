@@ -192,7 +192,7 @@ export v_HIMALAYA="1.1.0"
 export v_HTOP="3.4.1"
 export v_HTTPD="2.4.63"
 export v_HTTPING="4.4.0"
-export v_HUGO="0.147.0"
+export v_HUGO="0.147.1"
 export v_HWLOC="2.12.0"
 export v_HUNSPELL="1.7.2"
 export v_HYPERKIT="0.20200224_1"
@@ -783,8 +783,8 @@ export v_ZETTLR="3.2.3"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Thu 5/1/2025-ccc4 - HoneyFishMINI - LibreWolf 134.0.2-1
-# Last_Update: Thu 5/1/2025-ccc4 - SilverSurferMBP - LibreWolf 134.0.2-1
+# Last_Update: Thu 5/1/2025-ddd4 - HoneyFishMINI - LibreWolf 134.0.2-1
+# Last_Update: Thu 5/1/2025-ddd4 - SilverSurferMBP - LibreWolf 134.0.2-1
 # Sync_Status: false
 
 # EOF
