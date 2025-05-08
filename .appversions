@@ -696,6 +696,7 @@ export v_HYPER="3.4.1"
 export v_IINA="1.3.1"
 export v_INKSCAPE="1.4.028868"
 export v_INSTATUS_OUT="1.0.8"
+export v_JDK_MISSION_CONTROL="9.1.0,07"
 export v_JELLYFIN="10.10.2"
 export v_JELLYFIN_MEDIA_PLAYER="1.12.0"
 export v_JOPLIN="3..211"
@@ -759,7 +760,8 @@ export v_SQLELECTRON="1.38.0"
 export v_STORYBOARDER="3.0.0"
 export v_SURGE_SYNTHESIZER="1.9.0"
 export v_SUPERPRODUCTIVITY="7.12.2"
-export v_TEMURIN="@8 8,452,09"
+export v_TEMURIN_8="@8 8,452,09"
+export v_TEMURIN_17="@17 17.0.15,6"
 export v_THEBRAIN="14.0.103.0"
 export v_THEIAIDE="1.59.1"
 export v_TINDERBOX="10.1.2"
@@ -784,7 +786,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Wed 5/7/2025-d6 - HoneyFishMINI - LibreWolf 134.0.2-1
-# Last_Update: Sun 5/4/2025-dd2 - SilverSurferMBP - LibreWolf 134.0.2-1
+# Last_Update: Wed 5/7/2025-d6 - SilverSurferMBP - LibreWolf 134.0.2-1
 # Sync_Status: false
 
 # EOF
