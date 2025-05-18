@@ -66,7 +66,7 @@ export v_COMPOSER="2.8.9"
 export v_CONSUL="1.13.3"
 export v_COREUTILS="9.7"
 export v_COWSAY="3.04"
-export v_CRYPTOGRAPHY="44.0.3"
+export v_CRYPTOGRAPHY="45.0.1"
 export v_CRYSTAL="0.35.1"
 export v_CRYSTAL_LANG="0.35.1_1"
 export v_CUNIT="2.1-3"
@@ -532,7 +532,7 @@ export v_RUBY="3.4.4"
 export v_RUBY_BUILD="20250516"
 export v_RUFF="0.11.10"
 export v_RUNME="3.13.2"
-export v_RUST="1.86.0"
+export v_RUST="1.87.0"
 export v_RUSTUP="1.28.2"
 export v_RUSTUP_INIT="1.27.1_1"
 export v_S3CMD="2.4.0_1"
@@ -789,7 +789,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Sat 5/17/2025-dd5 - HoneyFishMINI - LibreWolf 134.0.2-1
-# Last_Update: Fri 5/16/2025-d2 - SilverSurferMBP - LibreWolf 134.0.2-1
+# Last_Update: Sat 5/17/2025-g8 - SilverSurferMBP - LibreWolf 134.0.2-1
 # Sync_Status: processing
 
 # EOF
