@@ -98,7 +98,7 @@ export v_EIGEN="3.4.0_1"
 export v_ELASTICSEARCH="7.10.1"
 export v_ELIXIR="1.18.3"
 export v_ELM="0.19.1"
-export v_EMSCRIPTEN="4.0.8"
+export v_EMSCRIPTEN="4.0.9"
 export v_ENCHANT="2.8.4"
 export v_EPSTOOL="3.09"
 export v_ERLANG="27.3.4"
@@ -789,7 +789,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Mon 5/19/2025-f3 - HoneyFishMINI - LibreWolf 134.0.2-1
-# Last_Update: Sun 5/18/2025-eee6 - SilverSurferMBP - LibreWolf 134.0.2-1
-# Sync_Status: processing
+# Last_Update: Mon 5/19/2025-hh7 - SilverSurferMBP - LibreWolf 134.0.2-1
+# Sync_Status: false
 
 # EOF
