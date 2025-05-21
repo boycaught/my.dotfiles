@@ -477,11 +477,11 @@ export v_PYTHON2="2.7.17_1"
 export v_PYTHON310="@3.10 3.10.17_1"
 export v_PYTHON311="@3.11 3.11.12_1"
 export v_PYTHON312="@3.12 3.12.10_1"
-export v_PYTHON313="@3.13 3.13.3"
+export v_PYTHON313="@3.13 3.13.3_1"
 export v_PYTHON38="@3.8 3.8.20"
 export v_PYTHON39="@3.9 3.9.22_1"
-export v_PYTHON3="3.13.2"
-export v_PYTHON="3.13.2"
+export v_PYTHON3="3.13.3_1"
+export v_PYTHON="3.13.3_1"
 export v_PYTHON_ARGCOMPLETE="3.3.0"
 export v_PYTHON_ATTRS="23.2.0"
 export v_PYTHON_BUILD="1.2.2.post1"
@@ -531,7 +531,7 @@ export v_RUBBERBAND="3.3.0"
 export v_RUBY="3.4.4"
 export v_RUBY_BUILD="20250516"
 export v_RUFF="0.11.10"
-export v_RUNME="3.13.2"
+export v_RUNME="3.14.0"
 export v_RUST="1.87.0"
 export v_RUSTUP="1.28.2"
 export v_RUSTUP_INIT="1.27.1_1"
@@ -789,7 +789,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Tue 5/20/2025-hh7 - HoneyFishMINI - LibreWolf 134.0.2-1
-# Last_Update: Mon 5/19/2025-hh7 - SilverSurferMBP - LibreWolf 134.0.2-1
+# Last_Update: Tue 5/20/2025-ggg7 - SilverSurferMBP - LibreWolf 134.0.2-1
 # Sync_Status: false
 
 # EOF
