@@ -607,7 +607,7 @@ export v_WEBP="1.5.0"
 export v_WEBPACK="4.44.1"
 export v_WGET="1.24.5"
 export v_WIREGUARD_GO="0.0.20250522"
-export v_WIREGUARD_TOOLS="1.0.20210914_1"
+export v_WIREGUARD_TOOLS="1.0.20250521"
 export v_WXMAC="3.1.5"
 export v_WXWIDGETS="3.2.8"
 export v_X264="r3108"
@@ -788,8 +788,8 @@ export v_ZETTLR="3.2.3"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Thu 5/22/2025-cc7 - HoneyFishMINI - LibreWolf 134.0.2-1
-# Last_Update: Tue 5/20/2025-ggg7 - SilverSurferMBP - LibreWolf 134.0.2-1
+# Last_Update: Thu 5/22/2025-ccc7 - HoneyFishMINI - LibreWolf 134.0.2-1
+# Last_Update: Thu 5/22/2025-ccc7 - SilverSurferMBP - LibreWolf 134.0.2-1
 # Sync_Status: false
 
 # EOF
