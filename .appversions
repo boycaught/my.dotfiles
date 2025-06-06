@@ -621,6 +621,7 @@ export v_XXHASH="0.8.0"
 export v_XZ="5.8.1"
 export v_YAJL="2.1.0"
 export v_YARA="4.5.4"
+export v_YARN="1.22.22"
 export v_YASM="1.3.0_2"
 export v_YOUTUBE_DL="2021.12.17"
 export v_YT_DLP="2025.5.22"
@@ -788,8 +789,8 @@ export v_ZETTLR="3.2.3"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Thu 6/5/2025-g3 - HoneyFishMINI - LibreWolf 134.0.2-1
-# Last_Update: Thu 6/5/2025-g3 - SilverSurferMBP - LibreWolf 134.0.2-1
+# Last_Update: Thu 6/5/2025-gg2 - HoneyFishMINI - LibreWolf 134.0.2-1
+# Last_Update: Thu 6/5/2025-gg2 - SilverSurferMBP - LibreWolf 134.0.2-1
 # Sync_Status: false
 
 # EOF
