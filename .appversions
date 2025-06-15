@@ -331,7 +331,7 @@ export v_LLVM6="@6 6.0.1_3"
 export v_LLVM8="@8 8.0.1_3"
 export v_LLVM16="@16 16.0.6_1"
 export v_LLVM18="@18 18.1.8"
-export v_LLVM="20.1.6"
+export v_LLVM="20.1.7"
 export v_LOREM="0.8.0"
 export v_LOWDOWN="1.3.0"
 export v_LUA="5.4.8"
@@ -436,7 +436,7 @@ export v_PERL="5.40.2"
 export v_PHP7="7.4.13"
 export v_PHP="8.4.8"
 export v_PHPMYADMIN="5.2.2"
-export v_PIECES_CLI="1.13.0"
+export v_PIECES_CLI="1.15.2"
 export v_PIECES_OS="11.2.3"
 export v_PILLOW="11.2.1"
 export v_PINENTRY="1.3.1_1"
@@ -789,7 +789,7 @@ export v_ZETTLR="3.2.3"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Thu 6/12/2025-g6 - HoneyFishMINI - LibreWolf 134.0.2-1
+# Last_Update: Sun 6/15/2025-ee2 - HoneyFishMINI - LibreWolf 134.0.2-1
 # Last_Update: Sat 6/14/2025-fff6 - SilverSurferMBP - LibreWolf 134.0.2-1
 # Sync_Status: false
 
