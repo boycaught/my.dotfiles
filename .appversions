@@ -164,7 +164,7 @@ export v_GOOGLETEST="1.17.0"
 export v_GOX="1.0.1"
 export v_GPG_AGENT="2.0.31"
 export v_GPGME="1.24.3"
-export v_GRADLE="8.14.2"
+export v_GRADLE="8.14.3"
 export v_GRADLE6="6.9.4"
 export v_GRAILS="6.2.3"
 export v_GRAFANA="12.0.2"
@@ -447,7 +447,7 @@ export v_PKGCONF="2.5.1"
 export v_PMIX="5.0.8"
 export v_PNGQUANT="2.12.5"
 export v_POETRY="2.1.3_2"
-export v_POPPLER="25.06.0"
+export v_POPPLER="25.07.0"
 export v_POPT="1.19"
 export v_POSTGRAPHILE="4.14.1"
 export v_POSTGRESQL10="10.19_1"
@@ -790,7 +790,7 @@ export v_ZETTLR="3.2.3"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Fri 7/4/2025-xxx - HoneyFishMINI - LibreWolf 134.0.2-1
+# Last_Update: Sat 7/5/2025-ddd4 - HoneyFishMINI - LibreWolf 134.0.2-1
 # Last_Update: Fri 7/4/2025-xxx - SilverSurferMBP - LibreWolf 134.0.2-1
 # Sync_Status: false
 
