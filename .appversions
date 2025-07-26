@@ -630,7 +630,7 @@ export v_YT_DLP="2025.7.21"
 export v_YUBICO_PIV_TOOL="2.1.1"
 export v_YUICOMPRESSOR="2.4.8_1"
 export v_Z3="4.15.2"
-export v_ZEROMQ="4.3.5_1"
+export v_ZEROMQ="4.3.5_2"
 export v_ZIG="0.14.0_2"
 export v_ZIMG="3.0.5"
 export v_ZIP="3.0"
@@ -660,6 +660,7 @@ export v_BREWSERVICESMENUBAR="4.1"
 export v_BURN="3.1.7"
 export v_CHATALL="1.30.46"
 export v_CODEWHISPERER="0.13.0"
+export v_COOL_RETRO_TERM="1.2.0"
 export v_CURSOR="0.1.12"
 export v_DB_BROWSER_FOR_SQLITE="3.13.1"
 export v_DEXED="0.9.8"
@@ -791,7 +792,7 @@ export v_ZETTLR="3.2.3"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Fri 7/25/2025-h4 - HoneyFishMINI - LibreWolf 140.0.4-1
+# Last_Update: Sat 7/27/2025-d1 - HoneyFishMINI - LibreWolf 140.0.4-1
 # Last_Update: Thu 7/24/2025-cc8 - SilverSurferMBP - LibreWolf 140.0.4-1
 # Sync_Status: trud
 
