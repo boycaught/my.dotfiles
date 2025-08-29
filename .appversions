@@ -202,7 +202,7 @@ export v_HYPERKIT="0.20200224_1"
 export v_ICU4C="73.2"
 export v_ICU4C76="@76 76.1_2"
 export v_ILMBASE="2.5.8"
-export v_IMAGEMAGICK="7.1.2-1"
+export v_IMAGEMAGICK="7.1.2-2_1"
 export v_IMATH="3.2.1"
 export v_IMAP_BACKUP="16.2.0"
 export v_IMAP_UW="2007f_1"
@@ -799,7 +799,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Thu 8/28/2025-ggg6 - HoneyFishMINI - LibreWolf 140.0.4-1
-# Last_Update: Wed 8/27/2025-ddd1 - SilverSurferMBP - LibreWolf 140.0.4-1
+# Last_Update: Thu 8/28/2025-ggg6 - SilverSurferMBP - LibreWolf 140.0.4-1
 # Sync_Status: false
 
 # EOF
