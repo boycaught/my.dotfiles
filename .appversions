@@ -219,7 +219,7 @@ export v_JETTY="12.0.25"
 export v_JETTY_RUNNER="9.4.31.v20200723"
 export v_JOPLIN="1.0.164"
 export v_JPEG="9f"
-export v_JPEG_TURBO="3.1.1"
+export v_JPEG_TURBO="3.1.2"
 export v_JPEG_XL="0.11.1_2"
 export v_JRE="temurin-21.jdk"
 export v_JRUBY="10.0.2.0"
@@ -802,7 +802,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Thu 9/4/2025-e6 - HoneyFishMINI - LibreWolf 140.0.4-1
-# Last_Update: Tue 9/2/2025-cc4 - SilverSurferMBP - LibreWolf 140.0.4-1
+# Last_Update: Thu 9/4/2025-e6 - SilverSurferMBP - LibreWolf 140.0.4-1
 # Sync_Status: false
 
 # EOF
