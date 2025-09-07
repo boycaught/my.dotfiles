@@ -149,7 +149,7 @@ export v_GIT="2.50.1"
 export v_GITEA="1.24.5"
 export v_GIT_CREDENTIAL_OAUTH="0.15.1"
 export v_GL2PS="1.4.2"
-export v_GLIB="2.84.4"
+export v_GLIB="2.86.0"
 export v_GLIBMM="@2.66 2.66.8"
 export v_GLIDE="0.13.3"
 export v_GLOG="0.6.0"
@@ -587,7 +587,7 @@ export v_TMUX="3.5a"
 export v_TODO_TXT="2.13.0"
 export v_TOMCAT="10.1.5"
 export v_TREE="2.2.0"
-export v_TREE_SITTER="0.25.8_1"
+export v_TREE_SITTER="0.25.9"
 export v_TREZOR_BRIDGE="2.0.32"
 export v_UNBOUND="1.23.1"
 export v_UNIXODBC="2.3.12"
@@ -802,7 +802,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Sat 9/6/2025-ccc4 - HoneyFishMINI - LibreWolf 140.0.4-1
-# Last_Update: Fri 9/5/2025-cc7 - SilverSurferMBP - LibreWolf 140.0.4-1
+# Last_Update: Sat 9/6/2025-g8 - SilverSurferMBP - LibreWolf 140.0.4-1
 # Sync_Status: false
 
 # EOF
