@@ -127,7 +127,7 @@ export v_FMT="11.2.0"
 export v_FONTCONFIG="2.17.1"
 export v_FREECIV="3.0.5"
 export v_FREETDS="1.5.5"
-export v_FREETYPE="2.13.3"
+export v_FREETYPE="2.14.0"
 export v_FREI0R="2.4.0"
 export v_FRIBIDI="1.0.16"
 export v_GAME_MUSIC_EMU="0.6.4"
@@ -801,7 +801,7 @@ export v_ZETTLR="3.2.3"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Sat 9/6/2025-ccc4 - HoneyFishMINI - LibreWolf 140.0.4-1
+# Last_Update: Sun 9/7/2025-hh1 - HoneyFishMINI - LibreWolf 140.0.4-1
 # Last_Update: Sat 9/6/2025-g8 - SilverSurferMBP - LibreWolf 140.0.4-1
 # Sync_Status: false
 
