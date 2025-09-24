@@ -66,7 +66,7 @@ export v_CMOCKA="1.1.8"
 export v_COMMANDBOX="6.2.1"
 export v_COMPOSER="2.8.12"
 export v_CONSUL="1.13.3"
-export v_COREUTILS="9.7"
+export v_COREUTILS="9.8"
 export v_COWSAY="3.04"
 export v_CRYPTOGRAPHY="46.0.1"
 export v_CRYSTAL="0.35.1"
@@ -803,8 +803,8 @@ export v_ZETTLR="3.2.3"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Mon 9/22/2025-ggg1 - HoneyFishMINI - LibreWolf 143.0-1
-# Last_Update: Sun 9/21/2025-ggg5 - SilverSurferMBP - LibreWolf 140.0.4-1
+# Last_Update: Mon 9/22/2025-g4 - HoneyFishMINI - LibreWolf 143.0-1
+# Last_Update: Mon 9/22/2025-gg1 - SilverSurferMBP - LibreWolf 140.0.4-1
 # Sync_Status: false
 
 # EOF
