@@ -664,7 +664,7 @@ export v_BLUEFISH="2.2.16"
 export v_BRAVE_BROWSER_BETA="1.66.90.0"
 export v_BRAVE_BROWSER_NIGHTLY="1.67.42.0"
 export v_BREWSERVICESMENUBAR="4.1"
-export v_BURN="3.1.7"
+export v_BURN="3.1.8"
 export v_CHATALL="1.30.46"
 export v_CODEBOLT="1.1.20"
 export v_CODEWHISPERER="0.13.0"
@@ -806,7 +806,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Wed 10/1/2025-ccc6 - HoneyFishMINI - LibreWolf 143.0-1,1
-# Last_Update: Mon 9/29/2025-h3 - SilverSurferMBP - LibreWolf 143.0.1,1
+# Last_Update: Wed 10/1/2025-ccc6 - SilverSurferMBP - LibreWolf 143.0.1,1
 # Sync_Status: false
 
 # EOF
