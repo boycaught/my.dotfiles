@@ -792,7 +792,7 @@ export v_VB_CABLE="108"
 export v_VCV_RACK="2.6.4"
 export v_VERACRYPT="1.26.24"
 export v_VIENNA="3.7.3,7560"
-export v_VIRTUALBOX="7.2.0,170228"
+export v_VIRTUALBOX="7.2.4,170995"
 export v_VIVALDI="5.7.2921.53"
 export v_VNC_VIEWER="7.12.1"
 export v_VOID="1.99.30044"
@@ -806,7 +806,7 @@ export v_ZETTLR="3.2.3"
 export v_ZETTELKASTEN="3.2022.8"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Sun 10/20/2025-dd4 - HoneyFishMINI - LibreWolf 143.0.3-1
+# Last_Update: Tue 10/21/2025-ddd4 - HoneyFishMINI - LibreWolf 143.0.3-1
 # Last_Update: Thu 10/16/2025-ddd7 - SilverSurferMBP - LibreWolf 143.0.3-1
 # Sync_Status: false
 
