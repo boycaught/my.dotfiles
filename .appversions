@@ -205,6 +205,7 @@ export v_IMAGEMAGICK="7.1.2-8_1"
 export v_IMAP_BACKUP="16.2.0"
 export v_IMAP_UW="2007f_1"
 export v_IMATH="3.2.2"
+export v_IMESSAGE_EXPORTER="3.2.0"
 export v_INTLTOOL="0.51.0_1"
 export v_IPYTHON="9.7.0"
 export v_ISL="0.27"
@@ -810,8 +811,8 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZETTLR="3.2.3"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Sun 11/16/2025-ddd8 - HoneyFishMINI - LibreWolf 144.0.2-1
-# Last_Update: Fri 11/14/2025-ddd4 - SilverSurferMBP - LibreWolf 144.0.2-1
+# Last_Update: Sun 11/16/2025-hhh3 - HoneyFishMINI - LibreWolf 144.0.2-1
+# Last_Update: Sun 11/16/2025-hhh3 - SilverSurferMBP - LibreWolf 144.0.2-1
 # Sync_Status: false
 
 # EOF
