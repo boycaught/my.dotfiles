@@ -677,7 +677,7 @@ export v_COOL_RETRO_TERM="1.2.0"
 export v_CURSOR="0.1.12"
 export v_DB_BROWSER_FOR_SQLITE="3.13.1"
 export v_DEVONTHINK="4.0.2"
-export v_DEXED="0.9.8"
+export v_DEXED="0.9.9"
 export v_DIFFUSIONBEE="2.5.1"
 export v_DIGIKAM="8.8.0"
 export v_DISCORD="0.0.259"
@@ -810,7 +810,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZETTLR="3.2.3"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Mon 11/24/2025-fff1 - HoneyFishMINI - LibreWolf 144.0.2-1
+# Last_Update: Mon 11/24/2025-g2 - HoneyFishMINI - LibreWolf 144.0.2-1
 # Last_Update: Mon 11/17/2025-cc6 - SilverSurferMBP - LibreWolf 144.0.2-1
 # Sync_Status: false
 
