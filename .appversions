@@ -166,7 +166,7 @@ export v_GPGME="2.0.1"
 export v_GRADLE6="6.9.4"
 export v_GRADLE="9.2.1"
 export v_GRAFANA="12.3.0"
-export v_GRAILS="7.0.2"
+export v_GRAILS="7.0.3"
 export v_GRAPHENE="1.10.8"
 export v_GRAPHICSMAGICK="1.3.35"
 export v_GRAPHITE2="1.3.14"
@@ -810,7 +810,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZETTLR="3.2.3"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Mon 11/24/2025-g2 - HoneyFishMINI - LibreWolf 144.0.2-1
+# Last_Update: Tue 11/25/2025-dd2 - HoneyFishMINI - LibreWolf 144.0.2-1
 # Last_Update: Mon 11/17/2025-cc6 - SilverSurferMBP - LibreWolf 144.0.2-1
 # Sync_Status: false
 
