@@ -700,7 +700,7 @@ export v_FLOORP="11.25.0"
 export v_FLOTATO="36,1"
 export v_FLUID="2.1.2"
 export v_FLYCUT="1.9.6"
-export v_FRAMER=""
+export v_FRAMER="2025.46.3"
 export v_FREAC="1.1.7"
 export v_GDEVELOP="5.4.218"
 export v_GENYMOTION="3.5.1"
@@ -811,7 +811,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZETTLR="3.2.3"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Fri 12/5/2025-gg7 - HoneyFishMINI - LibreWolf 145.0.2-1
+# Last_Update: Fri 12/5/2025-ggg3 - HoneyFishMINI - LibreWolf 145.0.2-1
 # Last_Update: Mon 11/17/2025-cc6 - SilverSurferMBP - LibreWolf 144.0.2-1
 # Sync_Status: false
 
