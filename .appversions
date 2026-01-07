@@ -794,7 +794,7 @@ export v_THEBRAIN="14.0.103.0"
 export v_THEIAIDE="1.59.1"
 export v_TINDERBOX="10.1.2"
 export v_TREZOR_BRIDGE="2.0.27"
-export v_TUXGUITAR="2.0.0"
+export v_TUXGUITAR="2.0.1"
 export v_USBIMAGER="1.0.10"
 export v_VAGRANT="2.4.9"
 export v_VANILLA="2.0.2,48"
@@ -816,7 +816,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZETTLR="3.2.3"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Wed 1/7/2025-ee4 - HoneyFishMINI - LibreWolf 145.0.2-1
+# Last_Update: Wed 1/7/2025-ee7 - HoneyFishMINI - LibreWolf 145.0.2-1
 # Last_Update: Mon 11/17/2025-cc6 - SilverSurferMBP - LibreWolf 144.0.2-1
 # Sync_Status: false
 
