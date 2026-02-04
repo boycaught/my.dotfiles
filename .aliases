@@ -32,6 +32,7 @@ alias infonix='nix-shell -p nix-info --run "nix-info -m"'
 alias infosys='neofetch'
 alias cleannix='nix-collect-garbage'
 alias spurge='sudo purge && sleep 2 && cbonsai'
+alias imx='imessage-exporter'
 
 ## FF X => FIND FILE NAMED X
 alias ff="find . -name \!:1 -print"     
