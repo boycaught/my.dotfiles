@@ -5,6 +5,7 @@ MY_HOME="$HOME/usr/local"
 MY_DOCS="$HOME/Documents"
 MY_APPS="/Applications"
 MY_VIDEOS="$HOME/Movies/dl/__PROCESSING/__dlp/"
+DROPBOX_VIDEOS="$HOME/Documents/Dropbox/Shared/CloudScans/__@@MovieClips/__@@DROPBOX/"
 
 ## JAVA PATHS
 JAVA_HOME="/Library/Java/JavaVirtualMachines/$v_JRE/Contents/Home"
