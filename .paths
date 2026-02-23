@@ -6,6 +6,7 @@ MY_DOCS="$HOME/Documents"
 MY_APPS="/Applications"
 MY_VIDEOS="$HOME/Movies/dl/__PROCESSING/__dlp/"
 DROPBOX_VIDEOS="$HOME/Documents/Dropbox/Shared/CloudScans/__@@MovieClips/__@@DROPBOX/"
+SSD1="/Volumes/GreenSSD1/@@Movies/"
 
 ## JAVA PATHS
 JAVA_HOME="/Library/Java/JavaVirtualMachines/$v_JRE/Contents/Home"
@@ -117,6 +118,7 @@ export CF_ROOT
 export CLASSPATH
 export CPATH
 export DROPBOX_HOME
+export DROPBOX_VIDEOS
 export EC2_HOME
 export FLEX_SDK
 export GOROOT
@@ -151,6 +153,7 @@ export PERL_LOCAL_LIB_ROOT
 export PERL_MB_OPT
 export PERL_MM_OPT
 export POSTGRESQL_HOME
+export SSD1
 export BOGUS
 export CC="/usr/bin/gcc"
 export LDFLAGS
