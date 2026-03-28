@@ -16,7 +16,7 @@ export EDITOR="nano"
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/larry_green/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -116,7 +116,7 @@ source $ZSH/oh-my-zsh.sh
 . ~/z/z.sh
 
 # Link Rubies to Homebrew's OpenSSL 1.1
-export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@1.1)"
+export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@3)"
 
 # Load rbenv
 # eval "$(rbenv init -)"

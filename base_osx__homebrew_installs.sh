@@ -1,146 +1,600 @@
 #!/bin/sh
 
-echo "Install Homebrew software BINARIES and CASKS. ........\n"
+echo "Install Homebrew software BINARIES. ........\n"
 
 # put binaries into array
 binary_urls=(
-ack 
-android-sdk 
-ansible 
-ant 
-apple-gcc42 
-aspell 
-augeas 
-autoconf 
-automake 
-awscli 
-bash 
-boost 
-certbot 
-clamav 
-cmake 
-commandbox 
-composer 
-consul 
-coreutils 
-dialog 
-dnsmasq
-dockutil 
-doxygen 
-dvm 
-dvm 
-elasticsearch 
-elixir 
-elm 
-emscripten 
-enchant 
-erlang 
-faac 
-ffmpeg 
-findutils 
-freetype 
-gdbm 
-gettext 
-git 
-glib 
-glide 
-gmp 
-gnupg 
-go 
-gpg 
-gpg2 
-gradle 
-grails 
-grep 
-groovy 
-htop-osx 
-httpd 
-httping 
-icu4c 
-imagemagick 
-jenkins 
-jetty 
-joplin
-jpeg 
-jruby 
-jsdoc3 
-jupyter 
-jython 
-kubernetes-cli 
-kubernetes-helm 
-lame 
-lastpass-cli 
-libassuan 
-libav 
-libffi 
-libgpg-error 
-libidn 
-libksba 
-libpng 
-libressl 
-libsass 
-libssh2 
-libtiff 
-libtool 
-libxml2 
-libyaml 
-liquibase 
-llvm 
-makedepend 
-mariadb 
-mcrypt 
-md5deep 
-mercurial 
-mhash 
-mobile-shell 
-mongodb 
-mono 
-mysql-sandbox 
-neo4j 
-nginx 
-ninja 
-node 
-openssl 
-packer 
-pandoc 
-passenger 
-pcre 
-php 
-phpmyadmin 
-pinentry 
-pkg-config 
-postgres 
-privoxy 
-protobuf 
-pyenv 
-pyenv-virtualenv 
-python 
-rabbitmq 
-r 
-rbenv 
-readline 
-redis 
-rename 
-rethinkdb 
-ringojs 
-rust 
-s3cmd 
-sassc 
-scons 
-sqlite 
-terraform 
-tidy-html5 
-tomcat 
-tree 
-unixodbc 
-wget 
-wp-cli 
-wxmac 
-x264 
-xvid 
-xz 
-youtube-dl 
-yuicompressor 
+	abseil
+	ack
+	ada-url
+	adns
+	adwaita-icon-theme
+	aften
+	aider
+	ansible
+	ant
+	aom
+	apr
+	apr-util
+	argon2
+	aribb24
+	asciidoc
+	asciidoctor
+	aspell
+	assimp
+	at-spi2-core
+	atk
+	atkmm@2.28
+	atomicparsley
+	augeas
+	autoconf
+	automake
+	azd
+	azure-functions-core-tools@4
+	bash
+	bdw-gc
+	berkeley-db
+	berkeley-db@5
+	binaryen
+	bison
+	bitwarden-cli
+	black
+	boost
+	bottom
+	brotli
+	btop
+	buf
+	bun@1.0.35
+	bun@1.1.9
+	c-ares
+	ca-certificates
+	cabal-install
+	caddy
+	cairo
+	cairomm@1.14
+	capstone
+	cargo-c
+	cbonsai
+	certbot
+	certifi
+	cffi
+	cfitsio
+	cgif
+	cgns
+	chocolate-doom
+	cjson
+	clamav
+	cmake
+	cmocka
+	commandbox
+	composer
+	coreutils
+	cryptography
+	cunit
+	curl
+	curl-openssl
+	cython
+	dart
+	dav1d
+	dbus
+	deno
+	dialog
+	direnv
+	dnsmasq
+	docbook
+	docbook-xsl
+	docker
+	docker-completion
+	dockutil
+	docutils
+	double-conversion
+	doxygen
+	dtc
+	duck
+	duckdb
+	duktape
+	dvm
+	eigen
+	elixir
+	elm
+	emscripten
+	enchant
+	erlang
+	exiftool
+	exploitdb
+	faac
+	fdk-aac
+	ffmpeg
+	ffmpeg@4
+	ffmpeg@6
+	fftw
+	findutils
+	fish
+	flac
+	flit
+	fluid-synth
+	fmt
+	fontconfig
+	freetds
+	freetype
+	frei0r
+	fribidi
+	game-music-emu
+	gcc
+	gd
+	gdbm
+	gdk-pixbuf
+	gettext
+	gh
+	ghc
+	ghostscript
+	giflib
+	gifsicle
+	gifski
+	git
+	git-credential-oauth
+	gitea
+	glib
+	glibmm@2.64
+	glibmm@2.66
+	gmp
+	gnu-getopt
+	gnupg
+	gnutls
+	go
+	go-md2man
+	gobject-introspection
+	goclone
+	gogcli
+	googletest
+	gpgme
+	gpgmepp
+	gradle
+	gradle-completion
+	grafana
+	grails
+	graphite2
+	graphviz
+	grep
+	groonga
+	groovy
+	gsasl
+	gsettings-desktop-schemas
+	gsmartcontrol
+	gtk+3
+	gtkmm3
+	gts
+	guile
+	gumbo-parser
+	h2o
+	harfbuzz
+	hatch
+	hdf5
+	hdrhistogram_c
+	helix
+	helm
+	hicolor-icon-theme
+	highway
+	himalaya
+	htop
+	httpd
+	httping
+	hugo
+	hunspell
+	hwloc
+	icu4c@75
+	icu4c@76
+	icu4c@77
+	icu4c@78
+	imagemagick
+	imap-backup
+	imath
+	imessage-exporter
+	imlib2
+	intltool
+	invoice
+	ipython
+	isl
+	jack
+	jansson
+	jasper
+	jbig2dec
+	jemalloc
+	jetty
+	joplin-cli
+	jpeg
+	jpeg-turbo
+	jpeg-xl
+	jruby
+	jsdoc3
+	json-c
+	jsoncpp
+	jython
+	karakeep
+	keepassc
+	keydb
+	keyring
+	killport
+	krb5
+	kubernetes-cli
+	lame
+	lastpass-cli
+	leptonica
+	libaec
+	libarchive
+	libass
+	libassuan
+	libatomic_ops
+	libavif
+	libb2
+	libbluray
+	libcaca
+	libcython
+	libdatrie
+	libde265
+	libdeflate
+	libdicom
+	libepoxy
+	libev
+	libevent
+	libexif
+	libffi
+	libfixposix
+	libgcrypt
+	libgit2
+	libgit2@1.6
+	libgit2@1.7
+	libgpg-error
+	libgsf
+	libharu
+	libheif
+	libiconv
+	libidn
+	libidn2
+	libimagequant
+	libiscsi
+	libksba
+	libmagic
+	libmatio
+	libmicrohttpd
+	libmng
+	libmpc
+	libnghttp2
+	libnghttp3
+	libngtcp2
+	libogg
+	libomp
+	libpng
+	libpq
+	libproxy
+	libpthread-stubs
+	libraw
+	libressl
+	librist
+	librsvg
+	libsamplerate
+	libsass
+	libsigc++@2
+	libslirp
+	libsndfile
+	libsodium
+	libsoxr
+	libssh
+	libssh2
+	libtasn1
+	libthai
+	libtiff
+	libtommath
+	libtool
+	libudfread
+	libultrahdr
+	libunibreak
+	libunistring
+	libusb
+	libuv
+	libvidstab
+	libvirt
+	libvmaf
+	libvorbis
+	libvpx
+	libvterm
+	libx11
+	libxau
+	libxcb
+	libxdmcp
+	libxext
+	libxfixes
+	libxi
+	libxml++
+	libxml2
+	libxmp
+	libxrender
+	libxtst
+	libyaml
+	libzip
+	lighttpd
+	lit
+	litehtml
+	little-cms2
+	lld@20
+	llhttp
+	llvm
+	llvm@18
+	llvm@20
+	llvm@21
+	lolcat
+	lpeg
+	lua
+	lua@5.4
+	luajit
+	luarocks
+	luv
+	lz4
+	lzip
+	lzo
+	m4
+	mailutils
+	make
+	makedepend
+	mariadb
+	mas
+	maven
+	mbedtls
+	mbedtls@2
+	mbedtls@3
+	md4c
+	md5deep
+	mecab
+	mecab-ipadic
+	mercurial
+	meson
+	metabase
+	mhash
+	micro_inetd
+	mkcert
+	molten-vk
+	mosh
+	mozjpeg
+	mpdecimal
+	mpfr
+	mpg123
+	mplayer
+	msgpack
+	mypy
+	n
+	nasm
+	nave
+	ncurses
+	neofetch
+	neovim
+	net-snmp
+	netcdf
+	netpbm
+	nettle
+	nghttp2
+	nginx
+	ninja
+	nlohmann-json
+	node
+	npth
+	nspr
+	nss
+	numpy
+	octosql
+	onigmo
+	oniguruma
+	open-mpi
+	openblas
+	opencore-amr
+	openexr
+	openjdk
+	openjdk@11
+	openjdk@21
+	openjpeg
+	openjph
+	openldap
+	openlibm
+	opensearch
+	openslide
+	openssl@1.1
+	openssl@3
+	opus
+	opusfile
+	orc
+	p11-kit
+	pandoc
+	pango
+	pangomm@2.46
+	pcre
+	pcre2
+	perl
+	php
+	phpmyadmin
+	pinentry
+	pixman
+	pkgconf
+	pmix
+	pnpm
+	poetry
+	poppler
+	portaudio
+	postgraphile
+	postgresql@15
+	privoxy
+	proj
+	protobuf
+	protobuf-c
+	protobuf@33
+	pugixml
+	pycodestyle
+	pycparser
+	pydocstyle
+	pyenv
+	pyenv-virtualenv
+	pygments
+	python-build
+	python-certifi
+	python-cryptography
+	python-lsp-server
+	python-lxml
+	python-packaging
+	python-pytz
+	python-setuptools
+	python-tabulate
+	python-typing-extensions
+	python@3.10
+	python@3.11
+	python@3.12
+	python@3.13
+	python@3.14
+	python@3.8
+	python@3.9
+	qemu
+	qt
+	qt3d
+	qt5compat
+	qt@5
+	qtbase
+	qtcharts
+	qtconnectivity
+	qtdatavis3d
+	qtdeclarative
+	qtgraphs
+	qtgrpc
+	qthttpserver
+	qtimageformats
+	qtlanguageserver
+	qtlocation
+	qtlottie
+	qtmultimedia
+	qtnetworkauth
+	qtpositioning
+	qtquick3d
+	qtquick3dphysics
+	qtquickeffectmaker
+	qtquicktimeline
+	qtremoteobjects
+	qtscxml
+	qtsensors
+	qtserialbus
+	qtserialport
+	qtshadertools
+	qtspeech
+	qtsvg
+	qttools
+	qttranslations
+	qtvirtualkeyboard
+	qtwebchannel
+	qtwebengine
+	qtwebsockets
+	qtwebview
+	r
+	rav1e
+	rbenv
+	readline
+	reddix
+	rename
+	ripgrep
+	rtmpdump
+	rubberband
+	ruby
+	ruby-build
+	ruff
+	runme
+	rust
+	rustup
+	rustup-init
+	s3cmd
+	sass
+	sassc
+	scdoc
+	scons
+	screenresolution
+	sdl
+	sdl12-compat
+	sdl2
+	sdl2_mixer
+	sdl2_net
+	shaderc
+	shared-mime-info
+	simdjson
+	slashem
+	smartmontools
+	snap
+	snappy
+	snow
+	source-highlight
+	speex
+	sphinx-doc
+	sqlite
+	squashfs
+	srt
+	subversion
+	suite-sparse
+	supabase
+	superfile
+	svt-av1
+	swig
+	tailscale
+	tcl-tk
+	terminal-notifier
+	tesseract
+	texinfo
+	theora
+	tidy-html5
+	tldr
+	tmux
+	todo-txt
+	tree
+	tree-sitter
+	tree-sitter@0.25
+	unbound
+	unibilium
+	unixodbc
+	unzip
+	utf8cpp
+	utf8proc
+	uthash
+	util-macros
+	uv
+	uvwasi
+	vala
+	vapoursynth
+	vde
+	vim
+	vips
+	virtualenv
+	vtk
+	vulkan-headers
+	vulkan-loader
+	wavpack
+	webfs
+	webp
+	wget
+	wireguard-go
+	wxmac
+	wxwidgets
+	wxwidgets@3.2
+	x264
+	x265
+	xcb-proto
+	xmlto
+	xorgproto
+	xtrans
+	xvid
+	xz
+	yara
+	yarn
+	yasm
+	yt-dlp
+	yuicompressor
+	z3
+	zeromq
+	zig
+	zimg
+	zip
+	zlib
+	zstd
 )
 # loop through array
 for b in "${binary_urls[@]}"
@@ -150,64 +604,3 @@ done
 # report completion
 echo "..... BINARIES installed. ...................\n"
 
-# put casks into array
-cask_urls=(
-alfred3 
-altair-graphql-client
-atom 
-audio-hijack
-audioscrobbler
-codekit 
-cyberduck 
-db-browser-for-sqlite
-docker 
-dotnet-sdk
-dropbox
-electron 
-firecamp
-fission
-flycut
-freemind 
-gimp 
-gnucash 
-gpg-suite 
-gramps
-handbrake 
-homebrew/cask/joplin 
-homebrew/cask-versions/brave-browser-dev   
-homebrew/cask-versions/firefox-developer-edition            
-homebrew/cask-versions/google-chrome-dev
-homebrew/cask-versions/safari-technology-preview
-microsoft-edge-dev 
-inkscape 
-iterm2 
-keepassxc
-keybase 
-lastpass
-libreoffice
-little-snitch
-micro-snitch
-mongotron 
-quiterss
-sqlectron 
-thebrain
-transmit
-vagrant 
-vagrant-manager 
-veracrypt 
-vienna
-virtualbox 
-visual-studio-code 
-vlc 
-xquartz
-zettelkasten
-zettlr
-)
-# loop through array
-for c in "${cask_urls[@]}"
-do
-	brew cask install $c
-done
-
-# report completion
-echo "........ CASKS installed."
