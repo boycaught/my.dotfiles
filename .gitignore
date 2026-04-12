@@ -20,3 +20,4 @@ Thumbs.db
 
 # Files that log on-demand actions
 getupdates.log
+.aider*
