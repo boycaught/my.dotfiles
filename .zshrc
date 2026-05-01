@@ -183,3 +183,10 @@ export PATH="/Users/larry_green/.rd/bin:$PATH"
 
 # Amazon Q post block. Keep at the bottom of this file.
 [[ -f "${HOME}/Library/Application Support/amazon-q/shell/zshrc.post.zsh" ]] && builtin source "${HOME}/Library/Application Support/amazon-q/shell/zshrc.post.zsh"
+
+# BoxLang home bin directory - added by BVM on Mon Apr 20 20:38:41 PDT 2026
+export PATH="/Users/larry_green/.boxlang/bin:$PATH"
+
+# Java JRE installed by BoxLang installer
+export JAVA_HOME="/Library/Java/JavaVirtualMachines/openjdk-21-jre"
+export PATH="$JAVA_HOME/bin:$PATH"
