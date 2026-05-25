@@ -127,7 +127,7 @@ export v_FLIT="3.12.0_7"
 export v_FLTK="1.3.5"
 export v_FLUID_SYNTH="2.5.4"
 export v_FMT="12.1.0"
-export v_FONTCONFIG="2.17.1"
+export v_FONTCONFIG="2.18.0"
 export v_FREECIV="3.0.5"
 export v_FREETDS="1.5.18"
 export v_FREETYPE="2.14.2"
@@ -846,6 +846,7 @@ export v_SPLAYER="4.9.4"
 export v_SQLELECTRON="1.38.0"
 export v_STRAWBERRY="0.0.95"
 export v_STORYBOARDER="3.0.0"
+export v_STREMIO="5.1.22"
 export v_SUPERPRODUCTIVITY="7.12.2"
 export v_SURGE_XT="1.3.4"
 export v_TEMURIN_17="@17 17.0.19,10"
@@ -876,7 +877,7 @@ export v_ZETTELKASTEN="3.2022.8"
 export v_ZETTLR="4.3.1"
 export v_ZOOM="5.13.7.15481"
 
-# Last_Update: Sat 5/23/2026-ee8 - HoneyFishMINI - LibreWolf 150.0,1
+# Last_Update: Sun 5/24/2026-f2 - HoneyFishMINI - LibreWolf 150.0,1
 # Last_Update: Mon 5/18/2026-bb5 - SilverSurferMBP - LibreWolf 150.0,1
 # Sync_Status: false
 
