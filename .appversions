@@ -198,6 +198,7 @@ export v_HATCH="1.17.0"
 export v_HDF5="2.1.0"
 export v_HELIX="25.07.1"
 export v_HELM="4.2.0"
+export v_HERMES_AGENT="2026.5.29.2"
 export v_HICOLOR_ICON_THEME="0.18"
 export v_HIGHWAY="1.4.0"
 export v_HIMALAYA="1.2.0"
@@ -427,7 +428,7 @@ export v_NUMPY="2.4.6"
 export v_OCAML="4.10.0"
 export v_OCTAVE="5.2.0_9"
 export v_OCTOSQL="0.13.0"
-export v_OLLAMA="0.30.0"
+export v_OLLAMA="0.30.6"
 export v_ONIGURUMA="6.9.10"
 export v_OPEN_MPI="5.0.9"
 export v_OPENBLAS="0.3.33"
@@ -701,6 +702,7 @@ export v_YT_DLP="2026.3.17_2"
 export v_YUBICO_PIV_TOOL="2.1.1"
 export v_YUICOMPRESSOR="2.4.8_1"
 export v_Z3="4.15.4"
+export v_ZEROCLAW="0.7.4"
 export v_ZEROMQ="4.3.5_2"
 export v_ZIG="0.16.0_1"
 export v_ZIMG="3.0.6"
@@ -882,7 +884,7 @@ export v_ZETTLR="4.3.1"
 export v_ZOOM="5.13.7.15481"
 
 # Last_Update: Fri 6/5/2026-ccc1 - HoneyFishMINI - LibreWolf 150.0,1
-# Last_Update: Tue 6/2/2026-xxx - SilverSurferMBP - LibreWolf 150.0,1
+# Last_Update: Fri 6/5/2026-xxx - SilverSurferMBP - LibreWolf 150.0,1
 # Sync_Status: false
 
 # EOF
