@@ -150,7 +150,7 @@ export v_GIFSICLE="1.96"
 export v_GIFSKI="1.34.0"
 export v_GIT="2.54.0"
 export v_GIT_CREDENTIAL_OAUTH="0.17.2"
-export v_GITEA="1.26.3"
+export v_GITEA="1.26.4"
 export v_GL2PS="1.4.2"
 export v_GLIB="2.88.1"
 export v_GLIBMM="@2.66 2.66.8"
@@ -908,7 +908,7 @@ export v_ZOOM="5.13.7.15481"
 export v_ZOTERO="9.0.4"
 
 # Last_Update: Sun 6/21/2026-ddd4 - HoneyFishMINI - LibreWolf 152.0.1,2
-# Last_Update: Tue 6/16/2026-g5 - SilverSurferMBP - LibreWolf 150.0,1
+# Last_Update: Sun 6/21/2026-xxx - SilverSurferMBP - LibreWolf 152.0.1,2
 # Sync_Status: false
 
 # EOF
