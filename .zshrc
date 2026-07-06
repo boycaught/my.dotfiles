@@ -189,5 +189,17 @@ export PATH="/Users/larry_green/.rd/bin:$PATH"
 export PATH="/Users/larry_green/.boxlang/bin:$PATH"
 
 # Java JRE installed by BoxLang installer
-export JAVA_HOME="/Library/Java/JavaVirtualMachines/openjdk-21-jre"
+# export JAVA_HOME="/Library/Java/JavaVirtualMachines/openjdk-21-jre"
 export PATH="$JAVA_HOME/bin:$PATH"
+
+# Added by BVM (BoxLang Version Manager) installer
+export PATH="/Users/larry_green/.bvm/bin:$PATH"
+
+# BVM environment setup
+export BVM_HOME="/Users/larry_green/.bvm"
+
+# BVM provides BoxLang binaries through wrappers when no version is active
+# Current version takes precedence when available
+if [ -L "$BVM_HOME/current" ]; then
+    export PATH="$BVM_HOME/current/bin:$PATH"
+fi
