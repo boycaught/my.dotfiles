@@ -62,7 +62,7 @@ export v_CHECK="0.15.2"
 export v_CHOCOLATE_DOOM="3.1.1"
 export v_CHROME_DEVTOOLS_MCP="1.6.0"
 export v_CJSON="1.7.19"
-export v_CLAMAV="1.5.3"
+export v_CLAMAV="1.5.4"
 export v_CLANG_FORMAT="10.0.0"
 export v_CMAKE="4.4.2"
 export v_CMOCKA="2.0.2"
@@ -611,6 +611,7 @@ export v_RUSTUP_INIT="1.29.0_2"
 export v_S3CMD="2.4.0_1"
 export v_SASS_SASS_SASS="1.102.0"
 export v_SASSC="3.6.2"
+export v_SATELLITE_TRACKER="0.1.20"
 export v_SCDOC="1.11.5"
 export v_SCIPY="1.16.2_1"
 export v_SCONS="4.10.1"
@@ -672,7 +673,7 @@ export v_UTF8CPP="4.1.1"
 export v_UTF8PROC="2.11.3"
 export v_UTHASH="2.4.0"
 export v_UTIL_MACROS="1.20.2"
-export v_UV="0.12.2"
+export v_UV="0.12.3"
 export v_UVWASI="0.0.23"
 export v_VALA="0.56.19"
 export v_VAPOURSYNTH="79"
@@ -919,7 +920,7 @@ export v_ZOOM="5.13.7.15481"
 export v_ZOTERO="9.0.4"
 
 # Last_Update: Fri 8/7/2026-dd5 - HoneyFishMINI - LibreWolf 152.0.2-1
-# Last_Update: Thu 8/6/2026-eee4 - SilverSurferMBP - LibreWolf 152.0.2-1
+# Last_Update: Fri 8/7/2026-ff2 - SilverSurferMBP - LibreWolf 152.0.2-1
 # Sync_Status: false
 
 # EOF
