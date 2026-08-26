@@ -60,7 +60,7 @@ export v_CGIF="0.5.3"
 export v_CGNS="4.5.2"
 export v_CHECK="0.15.2"
 export v_CHOCOLATE_DOOM="3.1.1"
-export v_CHROME_DEVTOOLS_MCP="1.7.0"
+export v_CHROME_DEVTOOLS_MCP="1.8.0"
 export v_CJSON="1.7.19"
 export v_CLAMAV="1.5.4"
 export v_CLANG_FORMAT="10.0.0"
@@ -364,6 +364,7 @@ export v_LOREM="0.8.0"
 export v_LOWDOWN="1.3.0"
 export v_LPEG="1.1.0_2"
 export v_LUA="5.5.1"
+export v_LUA54="@5.4 5.4.9"
 export v_LUAJIT="2.1.1787165859"
 export v_LUAROCKS="3.13.0_1"
 export v_LUV="1.52.1-0"
@@ -873,7 +874,7 @@ export v_RSYNCUI="2.9.8"
 export v_SCRIBUS="1.6.3"
 export v_SCRIVENER="3.5.2,17487,11"
 export v_SMPLAYER="25.6.0"
-export v_SOUNDSOURCE="6.1.1"
+export v_SOUNDSOURCE="6.1.2"
 export v_SPAMSIEVE="3.0.4"
 export v_SPARKLESHARE="3.28"
 export v_SPLAYER="4.9.4"
@@ -925,7 +926,7 @@ export v_ZOOM="5.13.7.15481"
 export v_ZOTERO="9.0.4"
 
 # Last_Update: Wed 8/26/2026-exx - HoneyFishMINI - LibreWolf 154.0,2
-# Last_Update: Mon 8/24/2026-ff3- SilverSurferMBP - LibreWolf 154.0,2
+# Last_Update: Wed 8/26/2026-f8- SilverSurferMBP - LibreWolf 154.0,2
 # Sync_Status: false
 
 # EOF
