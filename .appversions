@@ -175,7 +175,7 @@ export v_GPGME="2.1.2"
 export v_GPGMEPP="2.1.0"
 export v_GRADLE6="6.9.4"
 export v_GRADLE="9.7.1"
-export v_GRADLE_COMPLETION="9.6.1"
+export v_GRADLE_COMPLETION="9.7.1"
 export v_GRAFANA="13.2.0"
 export v_GRAILS="7.2.3"
 export v_GRAPHENE="1.10.8"
@@ -915,7 +915,7 @@ export v_WARP="0.2026.06.10.09.27.stable_01"
 export v_WATERFOX="6.5.1"
 export v_WEBCAMOID="9.0.0"
 export v_WEBCATALOG="76.0.1"
-export v_WEBULL="9.7.3,900003000049"
+export v_WEBULL="9.15.0,9000300098"
 export v_XNVIEWMP="1.11.2"
 export v_YUBICO_AUTHENTICATOR="7.3.3"
 export v_ZED="1.6.3"
@@ -925,7 +925,7 @@ export v_ZETTLR="4.3.1"
 export v_ZOOM="5.13.7.15481"
 export v_ZOTERO="9.0.4"
 
-# Last_Update: Sat 8/29/2026-dd2 - HoneyFishMINI - LibreWolf 154.0,2
+# Last_Update: Mon 8/31/2026-eee8 - HoneyFishMINI - LibreWolf 154.0,2
 # Last_Update: Sat 8/29/2026-fff4- SilverSurferMBP - LibreWolf 154.0,2
 # Sync_Status: false
 
