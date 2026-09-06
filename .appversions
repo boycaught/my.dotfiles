@@ -823,7 +823,7 @@ export v_LAPCE="0.4.3"
 export v_LAUNCHCONTROL="2.10.5"
 export v_LBRY="0.53.9"
 export v_LIBREOFFICE="26.2.3"
-export v_LIBREWOLF="155.0,1"
+export v_LIBREWOLF="155.0.1,1"
 export v_LINGON_X="8.4.9"
 export v_LMMS="1.2.2"
 export v_LOGSEQ="2.0.1"
@@ -840,7 +840,7 @@ export v_MICROSOFT_GIT_GIT_CREDENTIAL_MANAGER_CORE="2.3.0"
 export v_MINECRAFT="933,1"
 export v_MIXXX="2.4.1"
 export v_MOUNTAIN_DUCK="5.3.0,29446"
-export v_MULLVAD_BROWSER="15.0.20"
+export v_MULLVAD_BROWSER="15.0.21"
 export v_MUSESCORE="4.1.1.232071203"
 export v_NEXTCLOUD="3.5.3"
 export v_NHEKO="0.12.1"
@@ -915,7 +915,7 @@ export v_WARP="0.2026.06.10.09.27.stable_01"
 export v_WATERFOX="6.5.1"
 export v_WEBCAMOID="9.0.0"
 export v_WEBCATALOG="76.0.1"
-export v_WEBULL="9.15.0,9000300098"
+export v_WEBULL="9.15.1,9000300101"
 export v_XNVIEWMP="1.11.2"
 export v_YUBICO_AUTHENTICATOR="7.3.3"
 export v_ZED="1.6.3"
@@ -925,8 +925,8 @@ export v_ZETTLR="4.3.1"
 export v_ZOOM="5.13.7.15481"
 export v_ZOTERO="9.0.4"
 
-# Last_Update: Sat 9/4/2026-xxx - HoneyFishMINI - LibreWolf 155.0-1
-# Beginning transition from HomeBrew to MacPorts. 
+# Last_Update: Sat 9/5/2026-xxx - HoneyFishMINI - LibreWolf 155.0.1,1
+# Beginning transition from HomeBrew to MacPorts, NixOS Manager, and/or NanoBrew (testing all options). 
 # Last_Update: Sat 8/29/2026-fff4- SilverSurferMBP - LibreWolf 154.0,2
 # Sync_Status: false
 
