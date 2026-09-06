@@ -40,6 +40,7 @@ LIQUIBASE_HOME=$BREW_HOME/Cellar/liquibase/$v_LIQUIBASE/libexec
 M2_HOME="$MY_HOME/maven"
 MAVEN_OPTS="-Xms256m -Xmx512m"
 MARIADB_HOME="$BREW_HOME/Cellar/mariadb/$v_MARIADB"
+NANOBREW_HOME="/opt/nanobrew/prefix/bin/"
 NGINX_HOME="$BREW_HOME/Cellar/nginx/$v_NGINX"
 POSTGRESQL_HOME="$BREW_HOME/opt/postgresql@15"
 PYENV_ROOT="$HOME/.pyenv"
@@ -106,6 +107,7 @@ $RUBY_GEM/bin:\
 $WEBMIN_HOME:\
 $VISUAL_STUDIO_CODE_HOME/bin:\
 $POSTGRESQL_HOME/bin:\
+$NANOBREW_HOME/nb:\
 $PATH"
 
 export ACTIVEMQ_HOME
@@ -141,6 +143,7 @@ export M2_HOME
 export MY_VIDEOS
 export MAVEN_OPTS
 export MARIADB_HOME
+export NANOBREW_HOME
 export NGINX_HOME
 export PYENV_ROOT
 export PYTHON_HOME
