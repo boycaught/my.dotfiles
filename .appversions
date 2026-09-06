@@ -925,7 +925,8 @@ export v_ZETTLR="4.3.1"
 export v_ZOOM="5.13.7.15481"
 export v_ZOTERO="9.0.4"
 
-# Last_Update: Wed 9/2/2026-ccc8 - HoneyFishMINI - LibreWolf 155.0-1
+# Last_Update: Sat 9/4/2026-xxx - HoneyFishMINI - LibreWolf 155.0-1
+# Beginning transition from HomeBrew to MacPorts. 
 # Last_Update: Sat 8/29/2026-fff4- SilverSurferMBP - LibreWolf 154.0,2
 # Sync_Status: false
 
