@@ -824,7 +824,7 @@ export v_LAPCE="0.4.3"
 export v_LAUNCHCONTROL="2.10.5"
 export v_LBRY="0.53.9"
 export v_LIBREOFFICE="26.2.3"
-export v_LIBREWOLF="156.0,1"
+export v_LIBREWOLF="156.0.1,1"
 export v_LINGON_X="8.4.9"
 export v_LMMS="1.2.2"
 export v_LOGSEQ="2.0.1"
@@ -907,7 +907,7 @@ export v_VERACRYPT="1.26.29"
 export v_VERACRYPT="1.26.29"
 export v_VIENNA="3.10.6"
 export v_VIENNA="3.7.3,7560"
-export v_VIRTUALBOX="7.2.18,175117"
+export v_VIRTUALBOX="7.2.20,175154"
 export v_VIVALDI="8.0.4033.46"
 export v_VNC_VIEWER="7.12.1"
 export v_VOID="1.99.30044"
@@ -927,8 +927,8 @@ export v_ZOOM="5.13.7.15481"
 export v_ZOTERO="9.0.4"
 
 # Last_Update: Fri 9/18/2026-dd3 - HoneyFishMINI - LibreWolf 156.0,1
-# Beginning transition from HomeBrew to MacPorts, NixOS Manager, and/or NanoBrew (testing all options). 
-# Last_Update: Tue 9/8/2026-e2- SilverSurferMBP - LibreWolf 155.0.1,1
+# BEGINNING TRANSITION FROM HOMEBREW TO MACPORTS, NIXOS MANAGER, AND/OR NANOBREW (TESTING ALL OPTIONS). 
+# Last_Update: Tue 9/22/2026-g6- SilverSurferMBP - LibreWolf 155.0.1,1
 # Sync_Status: false
 
 # EOF
