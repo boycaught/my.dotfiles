@@ -809,7 +809,7 @@ export v_INSTATUS_OUT="1.0.8"
 export v_JDK_MISSION_CONTROL="9.1.0,07"
 export v_JELLYFIN="10.10.7"
 export v_JELLYFIN_MEDIA_PLAYER="1.12.0"
-export v_JOPLIN="3.6.18"
+export v_JOPLIN="3.7.21"
 export v_JULIA="1.11.2"
 export v_JUPYTERLAB="4.2.5-1"
 export v_KARAKEEP="0.32.0"
@@ -891,7 +891,7 @@ export v_TEMURIN_17="@17 17.0.20.1,1"
 export v_TEMURIN_8="@8 8,504,01"
 export v_THEBRAIN="14.0.114.0"
 export v_THEIAIDE="1.59.1"
-export v_THUNDERBIRD="153.0.3"
+export v_THUNDERBIRD="156.0.1"
 export v_TODOIST="9.29.1"
 export v_TOR_BROWSER="15.0.15"
 export v_TRANSMIT="5.11.6"
@@ -900,7 +900,7 @@ export v_TUXGUITAR="2.1.0"
 export v_UNITY_HUB="3.18.2"
 export v_USBIMAGER="1.0.10"
 export v_VAGRANT="2.4.9"
-export v_VANILLA="2.0.2,48"
+export v_VANILLA="3.0,82"
 export v_VB_CABLE="108"
 export v_VCV_RACK="2.6.6"
 export v_VERACRYPT="1.26.29"
@@ -926,9 +926,9 @@ export v_ZETTLR="4.3.1"
 export v_ZOOM="5.13.7.15481"
 export v_ZOTERO="9.0.4"
 
-# Last_Update: Fri 9/18/2026-dd3 - HoneyFishMINI - LibreWolf 156.0,1
+# Last_Update: Fri 9/18/2026-dd3 - HoneyFishMINI - LibreWolf 156.0.1,1
 # BEGINNING TRANSITION FROM HOMEBREW TO MACPORTS, NIXOS MANAGER, AND/OR NANOBREW (TESTING ALL OPTIONS). 
-# Last_Update: Tue 9/22/2026-g6- SilverSurferMBP - LibreWolf 155.0.1,1
+# Last_Update: Sat 9/26/2026-xxx- SilverSurferMBP - LibreWolf 156.0.1,1
 # Sync_Status: false
 
 # EOF
