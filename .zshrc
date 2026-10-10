@@ -203,3 +203,6 @@ export BVM_HOME="/Users/larry_green/.bvm"
 if [ -L "$BVM_HOME/current" ]; then
     export PATH="$BVM_HOME/current/bin:$PATH"
 fi
+
+# nanobrew
+export PATH="/opt/nanobrew/prefix/bin:$PATH"
