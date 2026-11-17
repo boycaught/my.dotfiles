@@ -20,7 +20,7 @@ export EDITOR="nano"
 #### OH-MY-ZSH ##############################################################
 export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="jonathan"
-plugins=(git direnv)
+plugins=(git direnv sublime)
 source $ZSH/oh-my-zsh.sh
 
 #### CUSTOMIZATIONS ##############################################################
